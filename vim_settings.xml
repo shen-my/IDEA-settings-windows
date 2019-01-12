@@ -229,6 +229,12 @@
         <mark key="^" line="74" column="21" />
         <mark key="." line="74" column="21" />
       </file>
+      <file name="D:/project/musicbible/common-spring/src/main/kotlin/com/boostfield/spring/persistence/AbstractUser.kt" timestamp="1547294520313">
+        <mark key="'" line="22" column="10" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/project/musicbible/backend-api/src/test/kotlin/com/musicbible/artist/ArtistControllerTest.kt" timestamp="1545881809271">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="9" column="6" />
@@ -864,10 +870,6 @@
         <mark key="." line="2" column="33" />
         <mark key="^" line="2" column="33" />
       </file>
-      <file name="$USER_HOME$/project/musicbible/migration/console/models/__init__.py" timestamp="1547170195228">
-        <mark key="'" line="89" column="0" />
-        <mark key="^" line="90" column="0" />
-      </file>
       <file name="$USER_HOME$/project/gatenetdoc-server/src/main/java/com/boostfield/gatenetdoc/sharecomponent/ShareCom.java" timestamp="1544186635122">
         <mark key="[" line="97" column="114" />
         <mark key="]" line="97" column="119" />
@@ -1404,6 +1406,12 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1547295066398">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="4" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/project/musicbible/common-spring/src/main/kotlin/com/boostfield/spring/util/Collection.kt" timestamp="1546414521624">
         <mark key="'" line="5" column="21" />
@@ -2007,7 +2015,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="24" filename="$USER_HOME$/project/musicbible/migration/console/models/tune.py" />
       <jump line="12" column="0" filename="$USER_HOME$/project/musicbible/migration/musicbible_server/settings/__init__.py" />
       <jump line="51" column="0" filename="$USER_HOME$/project/musicbible/migration/console/management/commands/migratedb.py" />
       <jump line="2" column="0" filename="$USER_HOME$/project/musicbible/migration/console/management/commands/migratedb.py" />
@@ -2107,10 +2114,11 @@
       <jump line="35" column="0" filename="$USER_HOME$/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" />
       <jump line="41" column="0" filename="$USER_HOME$/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" />
       <jump line="87" column="0" filename="$USER_HOME$/project/musicbible/backend-api/build.gradle" />
+      <jump line="22" column="10" filename="D:/project/musicbible/common-spring/src/main/kotlin/com/boostfield/spring/persistence/AbstractUser.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>runtimeOnly</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aWRlYS4K</text>
       </register>
       <register name="-" type="4">
         <text>runtimeOnly</text>
@@ -2122,31 +2130,31 @@
         <text encoding="base64">ICAgIGNvbXBpbGVPbmx5KCdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q6c3ByaW5nLWJvb3Qtc3RhcnRlci1zZWN1cml0eScpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGNhdGVnb3J5Lm9yZGVyKS5pc0VxdWFsVG8oMSkK</text>
+        <text encoding="base64">aWRlYS4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LnBlcnNpc3RlbmNlLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGNhdGVnb3J5Lm9yZGVyKS5pc0VxdWFsVG8oMSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHByaW50bG4oQmFzZTo6Y2xhc3Muc3RhclByb2plY3RlZFR5cGUpCi8vICAgICAgICBwcmludGxuKGNvdW50cnkhITo6Y2xhc3Muc3RhclByb2plY3RlZFR5cGUuaXNTdWJ0eXBlT2YoQmFzZTo6Y2xhc3Muc3RhclByb2plY3RlZFR5cGUpKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKGxhYmVsKQo=</text>
+        <text encoding="base64">ICAgIEAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdXNlciA9IFVzZXIoKS5hc3NpZ24oInVzZXJOYW1lIiB0byAic215IikKICAgICAgICB2YWwgbGFiZWwgPSBMYWJlbCgpLmFzc2lnbigibmFtZSIgdG8gIlNPTlkiLCAiY291bnRyeSIgdG8gY291bnRyeSkKLy8gICAgICAgIHByaW50bG4oQ291bnRyeTo6Y2xhc3Muc3RhclByb2plY3RlZFR5cGUpCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHByaW50bG4oQmFzZTo6Y2xhc3Muc3RhclByb2plY3RlZFR5cGUpCi8vICAgICAgICBwcmludGxuKGNvdW50cnkhITo6Y2xhc3Muc3RhclByb2plY3RlZFR5cGUuaXNTdWJ0eXBlT2YoQmFzZTo6Y2xhc3Muc3RhclByb2plY3RlZFR5cGUpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5ab25lZERhdGVUaW1lCmltcG9ydCBrb3RsaW4ucmVmbGVjdC5mdWxsLmlzU3VidHlwZU9mCmltcG9ydCBrb3RsaW4ucmVmbGVjdC5mdWxsLnN0YXJQcm9qZWN0ZWRUeXBlCgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKGxhYmVsKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5ib29zdGZpZWxkLnNwcmluZy5wYXlsb2FkLlBhZ2VRdWVyeQppbXBvcnQgY29tLmJvb3N0ZmllbGQuc3ByaW5nLnBlcnNpc3RlbmNlLkJhc2UKaW1wb3J0IGNvbS5nb29nbGUuZ3Nvbi5Hc29uCmltcG9ydCBjb20ubXVzaWNiaWJsZS5tb2RlbC5Db3VudHJ5Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgdXNlciA9IFVzZXIoKS5hc3NpZ24oInVzZXJOYW1lIiB0byAic215IikKICAgICAgICB2YWwgbGFiZWwgPSBMYWJlbCgpLmFzc2lnbigibmFtZSIgdG8gIlNPTlkiLCAiY291bnRyeSIgdG8gY291bnRyeSkKLy8gICAgICAgIHByaW50bG4oQ291bnRyeTo6Y2xhc3Muc3RhclByb2plY3RlZFR5cGUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>38</text>
@@ -2233,6 +2241,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

@@ -34,6 +34,9 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="3" column="3" />
       </file>
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" timestamp="1547454040106">
+        <mark key="'" line="35" column="8" />
+      </file>
       <file name="$USER_HOME$/project/musicbible/backend-api/src/test/kotlin/com/musicbible/factory/MediaFactory.kt" timestamp="1546829253174">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="12" column="51" />
@@ -918,6 +921,7 @@
         <mark key="^" line="19" column="48" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/LabelService.kt" timestamp="1547452193124" />
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Catalog.kt" timestamp="1547453880149" />
       <file name="$USER_HOME$/project/musicbible/backend-api/src/test/kotlin/com/musicbible/factory/ArtistFactory.kt" timestamp="1546400220108">
         <mark key="[" line="9" column="6" />
         <mark key="]" line="9" column="4" />
@@ -1880,6 +1884,7 @@
         <mark key="]" line="8" column="82" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" timestamp="1547454024919" />
       <file name="$USER_HOME$/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/LabelControllerTest.kt" timestamp="1547168906459">
         <mark key="'" line="47" column="0" />
         <mark key="[" line="159" column="40" />
@@ -2040,7 +2045,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/project/musicbible/migration/console/management/commands/migratedb.py" />
       <jump line="22" column="0" filename="$USER_HOME$/project/musicbible/migration/console/management/commands/migratedb.py" />
       <jump line="29" column="0" filename="$USER_HOME$/project/musicbible/migration/console/management/commands/migratedb.py" />
       <jump line="33" column="0" filename="$USER_HOME$/project/musicbible/migration/console/management/commands/migratedb.py" />
@@ -2140,6 +2144,7 @@
       <jump line="64" column="28" filename="D:/project/musicbible/backend-api/build.gradle" />
       <jump line="86" column="0" filename="D:/project/musicbible/backend-api/build.gradle" />
       <jump line="55" column="4" filename="D:/project/musicbible/backend-api/build.gradle" />
+      <jump line="35" column="8" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2149,7 +2154,7 @@
         <text>7</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxQYXNzd29yZEVuY29kZXJcPg==</text>
+        <text encoding="base64">XDx1cGRhdGVDYXRhbG9nTnVtYmVyc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbXBpbGVPbmx5KCdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q6c3ByaW5nLWJvb3Qtc3RhcnRlci1zZWN1cml0eScpCg==</text>
@@ -2186,9 +2191,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxQYXNzd29yZEVuY29kZXJcPg==</last-search>
+      <last-search encoding="base64">XDx1cGRhdGVDYXRhbG9nTnVtYmVyc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxQYXNzd29yZEVuY29kZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx1cGRhdGVDYXRhbG9nTnVtYmVyc1w+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDzop4TnqIvnuqfliKtcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -2196,7 +2201,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhcnRpc3RzXD4=</entry>
         <entry encoding="base64">XDxlbVw+</entry>
         <entry encoding="base64">XDxjcmVhdGVSb290QWRtaW5cPg==</entry>
         <entry encoding="base64">XDxjcmVhdGVBZG1pblw+</entry>
@@ -2216,6 +2220,7 @@
         <entry encoding="base64">XDxyZXBvc2l0b3J5XD4=</entry>
         <entry>redis</entry>
         <entry encoding="base64">XDxQYXNzd29yZEVuY29kZXJcPg==</entry>
+        <entry encoding="base64">XDx1cGRhdGVDYXRhbG9nTnVtYmVyc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>91</entry>

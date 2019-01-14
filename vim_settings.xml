@@ -1396,12 +1396,6 @@
         <mark key="." line="15" column="3" />
         <mark key="^" line="15" column="3" />
       </file>
-      <file name="$USER_HOME$/project/musicbible/backend-api/src/main/resources/application.yml" timestamp="1547178960304">
-        <mark key="'" line="29" column="6" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="34" column="35" />
-        <mark key="^" line="42" column="5" />
-      </file>
       <file name="$USER_HOME$/project/musicbible/common/src/main/kotlin/com/musicbible/mapper/billboard/BillboardMapper.kt" timestamp="1546669571412">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -1432,8 +1426,11 @@
         <mark key="^" line="80" column="59" />
         <mark key="." line="80" column="59" />
       </file>
-      <file name="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/auth/AuthController.kt" timestamp="1547294119265">
-        <mark key="[" line="39" column="58" />
+      <file name="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/auth/AuthController.kt" timestamp="1547435225529">
+        <mark key="[" line="26" column="22" />
+        <mark key="]" line="26" column="21" />
+        <mark key="^" line="26" column="21" />
+        <mark key="." line="26" column="21" />
       </file>
       <file name="$USER_HOME$/project/musicbible/common/src/main/kotlin/com/musicbible/model/Guide.kt" timestamp="1546781912353">
         <mark key="[" line="21" column="0" />
@@ -2247,6 +2244,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

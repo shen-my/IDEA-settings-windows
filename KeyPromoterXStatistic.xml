@@ -17,6 +17,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="File...">
+        <Item>
+          <IdeaActionID>GotoFile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+N'</ShortCut>
+          <Description>File...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Settings...">
         <Item>
           <IdeaActionID>ShowSettings</IdeaActionID>

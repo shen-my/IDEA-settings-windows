@@ -695,11 +695,11 @@
         <mark key="^" line="5" column="87" />
         <mark key="." line="5" column="87" />
       </file>
-      <file name="D:/project/musicbible/migration/console/entities/__init__.py" timestamp="1547468215197">
+      <file name="D:/project/musicbible/migration/console/entities/__init__.py" timestamp="1547518748579">
         <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="2" column="27" />
-        <mark key="." line="3" column="0" />
+        <mark key="]" line="3" column="25" />
+        <mark key="^" line="3" column="25" />
+        <mark key="." line="3" column="25" />
       </file>
       <file name="$USER_HOME$/project/musicbible/backend-api/src/main/kotlin/com/musicbible/system/AdminController.kt" timestamp="1546053351455">
         <mark key="[" line="57" column="42" />
@@ -990,6 +990,9 @@
         <mark key="." line="14" column="30" />
         <mark key="^" line="14" column="30" />
       </file>
+      <file name="/Dummy.txt" timestamp="1547518786934">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/project/musicbible/frontend-api/build.gradle" timestamp="1547267858329">
         <mark key="[" line="18" column="4" />
         <mark key="]" line="18" column="4" />
@@ -1040,11 +1043,11 @@
         <mark key="." line="14" column="47" />
         <mark key="^" line="14" column="47" />
       </file>
-      <file name="D:/project/musicbible/migration/console/entities/artist.py" timestamp="1547517749524">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="^" line="36" column="82" />
-        <mark key="." line="37" column="0" />
+      <file name="D:/project/musicbible/migration/console/entities/artist.py" timestamp="1547518954605">
+        <mark key="[" line="22" column="13" />
+        <mark key="]" line="22" column="22" />
+        <mark key="^" line="22" column="22" />
+        <mark key="." line="22" column="22" />
       </file>
       <file name="$USER_HOME$/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportCountry.kt" timestamp="1547125921987">
         <mark key="[" line="19" column="9" />
@@ -1886,12 +1889,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="D:/project/musicbible/migration/console/management/commands/migratedb.py" timestamp="1547515315615">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="^" line="41" column="0" />
-        <mark key="." line="58" column="0" />
+      <file name="D:/project/musicbible/migration/console/management/commands/migratedb.py" timestamp="1547518820857">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="57" column="37" />
+        <mark key="]" line="57" column="39" />
+        <mark key="^" line="57" column="39" />
+        <mark key="." line="57" column="39" />
       </file>
       <file name="$USER_HOME$/project/musicbible/backend-api/src/main/kotlin/com/musicbible/BackendApiApplication.kt" timestamp="1547108276454">
         <mark key="'" line="9" column="0" />
@@ -2037,6 +2040,9 @@
         <mark key="^" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/auth/fda.kts" timestamp="1547286110077">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/HelpController.kt" timestamp="1547108567223">
         <mark key="'" line="60" column="26" />
         <mark key="[" line="88" column="101" />
@@ -2107,11 +2113,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="26" filename="$USER_HOME$/project/musicbible/migration/console/management/commands/migratedb.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/project/musicbible/migration/console/management/commands/migratedb.py" />
-      <jump line="30" column="18" filename="$USER_HOME$/project/musicbible/migration/console/entities/entity.py" />
-      <jump line="7" column="0" filename="$USER_HOME$/project/musicbible/migration/console/entities/entity.py" />
-      <jump line="20" column="0" filename="$USER_HOME$/project/musicbible/migration/console/entities/entity.py" />
       <jump line="32" column="0" filename="$USER_HOME$/project/musicbible/migration/console/entities/entity.py" />
       <jump line="1" column="29" filename="$USER_HOME$/project/musicbible/migration/console/management/commands/migratedb.py" />
       <jump line="64" column="43" filename="$USER_HOME$/project/musicbible/migration/musicbible_server/settings/__init__.py" />
@@ -2201,52 +2202,57 @@
       <jump line="37" column="0" filename="D:/project/musicbible/migration/console/management/commands/migratedb.py" />
       <jump line="41" column="0" filename="D:/project/musicbible/migration/console/management/commands/migratedb.py" />
       <jump line="57" column="30" filename="D:/project/musicbible/migration/console/management/commands/migratedb.py" />
-      <jump line="9" column="33" filename="D:/project/musicbible/migration/console/management/commands/migratedb.py" />
-      <jump line="38" column="0" filename="D:/project/musicbible/migration/console/management/commands/migratedb.py" />
       <jump line="1" column="0" filename="D:/project/musicbible/migration/console/management/commands/migratedb.py" />
       <jump line="60" column="0" filename="D:/project/musicbible/migration/console/entities/entity.py" />
       <jump line="10" column="0" filename="D:/project/musicbible/migration/console/models/artist.py" />
       <jump line="19" column="21" filename="D:/project/musicbible/migration/console/entities/label.py" />
+      <jump line="9" column="34" filename="D:/project/musicbible/migration/console/management/commands/migratedb.py" />
+      <jump line="17" column="0" filename="D:/project/musicbible/migration/console/management/commands/migratedb.py" />
+      <jump line="31" column="0" filename="D:/project/musicbible/migration/console/management/commands/migratedb.py" />
+      <jump line="42" column="0" filename="D:/project/musicbible/migration/console/management/commands/migratedb.py" />
+      <jump line="38" column="0" filename="D:/project/musicbible/migration/console/management/commands/migratedb.py" />
+      <jump line="56" column="24" filename="D:/project/musicbible/migration/console/management/commands/migratedb.py" />
+      <jump line="11" column="0" filename="D:/project/musicbible/migration/console/management/commands/migratedb.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuY3JlYXRlZF9hdCwgc2VsZi5jcmVhdGVkX2J5X2lkLCBzZWxmLnN0YXR1cwo=</text>
+      <register name="&quot;" type="4">
+        <text>createdAt</text>
       </register>
       <register name="-" type="4">
-        <text>intro,</text>
+        <text>createdAt</text>
       </register>
       <register name="/" type="4">
         <text>artist_index</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBwZXJzaXN0KHNlbGYpOgogICAgICAgIHNlbGYucGsgPSBzZWxmLm5leHRfcGsoKQogICAgICAgIHNlbGYuZXhlY3V0ZSgKICAgICAgICAgICAgIiIiCiAgICAgICAgICAgIGluc2VydCBpbnRvICJsYWJlbCIoaWQsIG5hbWUsIG5hbWVfY24sIGludHJvLCBjcmVhdGVkX2F0LCBjcmVhdGVkX2J5X2lkLCBzdGF0dXMpCiAgICAgICAgICAgIHZhbHVlcyglcywgJXMsICVzLCAlcywgJXMsICVzLCAlcykKICAgICAgICAgICAgIiIiLAogICAgICAgICAgICAoCiAgICAgICAgICAgICAgICBzZWxmLnBrLCBzZWxmLm5hbWUsIHNlbGYubmFtZV9jbiwgc2VsZi5pbnRybywKICAgICAgICAgICAgICAgIHNlbGYuY3JlYXRlZF9hdCwgc2VsZi5jcmVhdGVkX2J5X2lkLCBzZWxmLnN0YXR1cwogICAgICAgICAgICApCiAgICAgICAgKQogICAgICAgIHByaW50KGYne3NlbGYudGFibGV9OntzZWxmLm9yaWdpbl9wa306e3NlbGYucGt9JykKICAgICAgICByZXR1cm4gc2VsZi5wawo=</text>
+        <text encoding="base64">ZnJvbSBjb25zb2xlLmVudGl0aWVzIGltcG9ydCBDb3VudHJ5Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuY3JlYXRlZF9hdCwgc2VsZi5jcmVhdGVkX2J5X2lkLCBzZWxmLnN0YXR1cwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbnNvbGUuZW50aXRpZXMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChhcnRpc3QpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuY3JlYXRlZF9hdCwgc2VsZi5jcmVhdGVkX2J5X2lkLCBzZWxmLnN0YXR1cwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBjb3VudHJ5ID0gbW9kZWxzLkNoYXJGaWVsZChtYXhfbGVuZ3RoPTY0KQogICAgYmlydGhkYXkgPSBtb2RlbHMuQ2hhckZpZWxkKG1heF9sZW5ndGg9MjApCiAgICBkZWF0aGRheSA9IG1vZGVscy5DaGFyRmllbGQobWF4X2xlbmd0aD0yMCkKICAgIHN0eWxlID0gbW9kZWxzLkNoYXJGaWVsZChtYXhfbGVuZ3RoPTMyKQogICAgaW1hZ2VzID0gbW9kZWxzLk1hbnlUb01hbnlGaWVsZCgnSW1hZ2UnKQogICAgaW5mb19zZWN0aW9ucyA9IG1vZGVscy5NYW55VG9NYW55RmllbGQoJ0luZm9TZWN0aW9uJykKICAgIHRheG9ub21pZXMgPSBtb2RlbHMuTWFueVRvTWFueUZpZWxkKCdUYXhvbm9teScpCiAgICB0eXBlcyA9IG1vZGVscy5UZXh0RmllbGQobnVsbD1UcnVlKQogICAgY29tcGxldGVuZXNzID0gbW9kZWxzLlBvc2l0aXZlU21hbGxJbnRlZ2VyRmllbGQoZGVmYXVsdD0wKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmltYWdlcyA9IFtpbWFnZS51cmwgZm9yIGltYWdlIGluIHB1Ymxpc2hlci5pbWFnZXMuYWxsKCldCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmludHJvID0gcHVibGlzaGVyLmRlc2MK</text>
+        <text encoding="base64">CiAgICBjb3VudHJ5ID0gbW9kZWxzLkNoYXJGaWVsZChtYXhfbGVuZ3RoPTY0KQogICAgYmlydGhkYXkgPSBtb2RlbHMuQ2hhckZpZWxkKG1heF9sZW5ndGg9MjApCiAgICBkZWF0aGRheSA9IG1vZGVscy5DaGFyRmllbGQobWF4X2xlbmd0aD0yMCkKICAgIHN0eWxlID0gbW9kZWxzLkNoYXJGaWVsZChtYXhfbGVuZ3RoPTMyKQogICAgaW1hZ2VzID0gbW9kZWxzLk1hbnlUb01hbnlGaWVsZCgnSW1hZ2UnKQogICAgaW5mb19zZWN0aW9ucyA9IG1vZGVscy5NYW55VG9NYW55RmllbGQoJ0luZm9TZWN0aW9uJykKICAgIHRheG9ub21pZXMgPSBtb2RlbHMuTWFueVRvTWFueUZpZWxkKCdUYXhvbm9teScpCiAgICB0eXBlcyA9IG1vZGVscy5UZXh0RmllbGQobnVsbD1UcnVlKQogICAgY29tcGxldGVuZXNzID0gbW9kZWxzLlBvc2l0aXZlU21hbGxJbnRlZ2VyRmllbGQoZGVmYXVsdD0wKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm5hbWVDTiA9IHB1Ymxpc2hlci50aXRsZV9jbgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmltYWdlcyA9IFtpbWFnZS51cmwgZm9yIGltYWdlIGluIHB1Ymxpc2hlci5pbWFnZXMuYWxsKCldCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm5hbWUgPSBwdWJsaXNoZXIudGl0bGVfZW4K</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmludHJvID0gcHVibGlzaGVyLmRlc2MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm5hbWVDTiA9IHB1Ymxpc2hlci50aXRsZV9jbgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

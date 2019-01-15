@@ -279,6 +279,9 @@
         <mark key="^" line="18" column="93" />
         <mark key="." line="18" column="93" />
       </file>
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Artist.kt" timestamp="1547521764001">
+        <mark key="'" line="49" column="0" />
+      </file>
       <file name="$USER_HOME$/project/musicbible/backend-api/src/main/kotlin/com/musicbible/artist/ArtistController.kt" timestamp="1546402267287">
         <mark key="'" line="14" column="0" />
         <mark key="[" line="14" column="0" />
@@ -434,6 +437,11 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
         <mark key="^" line="20" column="3" />
+      </file>
+      <file name="D:/project/musicbible/migration/console/models/tune.py" timestamp="1547521723716">
+        <mark key="'" line="40" column="46" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="55" column="0" />
       </file>
       <file name="$USER_HOME$/project/musicbible/persistence/src/main/kotlin/com/musicbible/model/RecordingArtist.kt" timestamp="1546068456048">
         <mark key="[" line="20" column="0" />
@@ -1043,9 +1051,9 @@
         <mark key="." line="14" column="47" />
         <mark key="^" line="14" column="47" />
       </file>
-      <file name="D:/project/musicbible/migration/console/entities/artist.py" timestamp="1547519967352">
-        <mark key="[" line="38" column="43" />
-        <mark key="]" line="38" column="43" />
+      <file name="D:/project/musicbible/migration/console/entities/artist.py" timestamp="1547521690411">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="13" column="57" />
         <mark key="^" line="38" column="43" />
         <mark key="." line="38" column="43" />
       </file>
@@ -1620,6 +1628,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="D:/project/musicbible/migration/console/entities/work.py" timestamp="1547522190746">
+        <mark key="'" line="10" column="7" />
+        <mark key="[" line="15" column="61" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/project/musicbible/common/build.gradle" timestamp="1547179013948">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="74" />
@@ -2113,9 +2127,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="0" filename="$USER_HOME$/project/musicbible/migration/console/entities/entity.py" />
-      <jump line="1" column="29" filename="$USER_HOME$/project/musicbible/migration/console/management/commands/migratedb.py" />
-      <jump line="64" column="43" filename="$USER_HOME$/project/musicbible/migration/musicbible_server/settings/__init__.py" />
       <jump line="8" column="20" filename="$USER_HOME$/project/musicbible/migration/.env" />
       <jump line="47" column="7" filename="$USER_HOME$/project/musicbible/migration/console/entities/entity.py" />
       <jump line="1" column="8" filename="$USER_HOME$/project/musicbible/migration/console/entities/entity.py" />
@@ -2213,46 +2224,49 @@
       <jump line="38" column="0" filename="D:/project/musicbible/migration/console/management/commands/migratedb.py" />
       <jump line="56" column="24" filename="D:/project/musicbible/migration/console/management/commands/migratedb.py" />
       <jump line="11" column="0" filename="D:/project/musicbible/migration/console/management/commands/migratedb.py" />
+      <jump line="40" column="46" filename="D:/project/musicbible/migration/console/models/tune.py" />
+      <jump line="49" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Artist.kt" />
+      <jump line="9" column="7" filename="D:/project/musicbible/migration/console/entities/work.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhcnRpc3QucGVyc2lzdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmR1cmF0aW9uID0gb3JpZ2luLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>createdAt</text>
+        <text>tune</text>
       </register>
       <register name="/" type="4">
         <text>artist_index</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBjb25zb2xlLmVudGl0aWVzIGltcG9ydCBDb3VudHJ5Cg==</text>
+        <text encoding="base64">ICAgIHRpdGxlX2NuID0gbW9kZWxzLkNoYXJGaWVsZChtYXhfbGVuZ3RoPTUxMikKICAgIHRpdGxlX2VuID0gbW9kZWxzLkNoYXJGaWVsZChtYXhfbGVuZ3RoPTUxMikKICAgIGtleV9zaWduYXR1cmVfY24gPSBtb2RlbHMuQ2hhckZpZWxkKG1heF9sZW5ndGg9MjU2KSAjINbQzsS197rFCiAgICBrZXlfc2lnbmF0dXJlX2VuID0gbW9kZWxzLkNoYXJGaWVsZChtYXhfbGVuZ3RoPTI1NikgIyDTos7Etfe6xQogICAgc3RhcnRfeWVhciA9IG1vZGVscy5TbWFsbEludGVnZXJGaWVsZChudWxsPVRydWUpCiAgICBmaW5pc2hfeWVhciA9IG1vZGVscy5TbWFsbEludGVnZXJGaWVsZChudWxsPVRydWUpCiAgICBzdHlsZSA9IG1vZGVscy5DaGFyRmllbGQobWF4X2xlbmd0aD02NCkKICAgIGludHJvX2NuID0gbW9kZWxzLlRleHRGaWVsZCgpCiAgICBpbnRyb19lbiA9IG1vZGVscy5UZXh0RmllbGQoKQogICAgZHVyYXRpb24gPSBtb2RlbHMuQ2hhckZpZWxkKG1heF9sZW5ndGg9MzIpCiAgICBzbl9oYXNoID0gbW9kZWxzLkNoYXJGaWVsZChtYXhfbGVuZ3RoPTMyLCBudWxsPVRydWUpICAjIL2ryte49iBzbiDTs8nks8m/ycXF0PLX1rbOCiAgICBhcnRpc3QgPSBtb2RlbHMuRm9yZWlnbktleSgnQXJ0aXN0Jywgb25fZGVsZXRlPW1vZGVscy5TRVRfTlVMTCwgbnVsbD1UcnVlKQogICAgYXVkaW8gPSBtb2RlbHMuRm9yZWlnbktleSgnQXVkaW8nLCBudWxsPVRydWUsIG9uX2RlbGV0ZT1tb2RlbHMuU0VUX05VTEwpCiAgICB0dW5lX2luZGV4ID0gbW9kZWxzLkZvcmVpZ25LZXkoJ1R1bmVJbmRleCcsIG9uX2RlbGV0ZT1tb2RlbHMuUFJPVEVDVCwgbnVsbD1UcnVlKQogICAgcmVjb3JkcyA9IG1vZGVscy5NYW55VG9NYW55RmllbGQoJ1JlY29yZCcsIHRocm91Z2g9J1JlY29yZFR1bmVzJykKCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhcnRpc3QucGVyc2lzdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmR1cmF0aW9uID0gb3JpZ2luLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhcnRpc3QgPSBBcnRpc3Qob3JpZ2luX2FydGlzdCwgMSkK</text>
+        <text encoding="base64">ICAgICAgICBvcmlnaW4uCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBvcmlnaW5fYXJ0aXN0ID0gbW9kZWxzLkFydGlzdC5leGlzdGluZy5maXJzdCgpCg==</text>
+        <text encoding="base64">ICAgIGludHJvX2VuID0gbW9kZWxzLlRleHRGaWVsZCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbnNvbGUuZW50aXRpZXMK</text>
+        <text encoding="base64">ICAgIGludHJvX2NuID0gbW9kZWxzLlRleHRGaWVsZCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChhcnRpc3QpCg==</text>
+        <text encoding="base64">ICAgIGZpbmlzaF95ZWFyID0gbW9kZWxzLlNtYWxsSW50ZWdlckZpZWxkKG51bGw9VHJ1ZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuY3JlYXRlZF9hdCwgc2VsZi5jcmVhdGVkX2J5X2lkLCBzZWxmLnN0YXR1cwo=</text>
+        <text encoding="base64">ICAgIHN0YXJ0X3llYXIgPSBtb2RlbHMuU21hbGxJbnRlZ2VyRmllbGQobnVsbD1UcnVlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRpdGxlX2VuID0gbW9kZWxzLkNoYXJGaWVsZChtYXhfbGVuZ3RoPTUxMikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRpdGxlX2NuID0gbW9kZWxzLkNoYXJGaWVsZChtYXhfbGVuZ3RoPTUxMikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBjb3VudHJ5ID0gbW9kZWxzLkNoYXJGaWVsZChtYXhfbGVuZ3RoPTY0KQogICAgYmlydGhkYXkgPSBtb2RlbHMuQ2hhckZpZWxkKG1heF9sZW5ndGg9MjApCiAgICBkZWF0aGRheSA9IG1vZGVscy5DaGFyRmllbGQobWF4X2xlbmd0aD0yMCkKICAgIHN0eWxlID0gbW9kZWxzLkNoYXJGaWVsZChtYXhfbGVuZ3RoPTMyKQogICAgaW1hZ2VzID0gbW9kZWxzLk1hbnlUb01hbnlGaWVsZCgnSW1hZ2UnKQogICAgaW5mb19zZWN0aW9ucyA9IG1vZGVscy5NYW55VG9NYW55RmllbGQoJ0luZm9TZWN0aW9uJykKICAgIHRheG9ub21pZXMgPSBtb2RlbHMuTWFueVRvTWFueUZpZWxkKCdUYXhvbm9teScpCiAgICB0eXBlcyA9IG1vZGVscy5UZXh0RmllbGQobnVsbD1UcnVlKQogICAgY29tcGxldGVuZXNzID0gbW9kZWxzLlBvc2l0aXZlU21hbGxJbnRlZ2VyRmllbGQoZGVmYXVsdD0wKQo=</text>
+        <text encoding="base64">ICAgIGtleV9zaWduYXR1cmVfZW4gPSBtb2RlbHMuQ2hhckZpZWxkKG1heF9sZW5ndGg9MjU2KSAjINOizsS197rFCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

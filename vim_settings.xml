@@ -328,8 +328,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/UserService.kt" timestamp="1547544867637">
-        <mark key="'" line="44" column="19" />
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/UserService.kt" timestamp="1547602125060">
+        <mark key="'" line="26" column="8" />
       </file>
       <file name="$USER_HOME$/project/musicbible/common/src/main/kotlin/com/musicbible/mapper/label/LabelMapper.kt" timestamp="1546411153694">
         <mark key="[" line="8" column="0" />
@@ -502,6 +502,9 @@
         <mark key="]" line="0" column="20" />
         <mark key="^" line="0" column="26" />
         <mark key="." line="0" column="20" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.2.71/2e8041d08283cbbb58ad131617486fc6449f6c85/kotlin-stdlib-1.2.71-sources.jar!/kotlin/io/ReadWrite.kt" timestamp="1547603206978">
+        <mark key="'" line="109" column="0" />
       </file>
       <file name="$USER_HOME$/project/musicbible/persistence/src/main/kotlin/com/musicbible/repository/MediaRepository.kt" timestamp="1546051530266">
         <mark key="[" line="21" column="35" />
@@ -1667,11 +1670,11 @@
         <mark key="^" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" timestamp="1547601744712">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="12" column="16" />
-        <mark key="." line="15" column="0" />
+      <file name="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" timestamp="1547603560656">
+        <mark key="[" line="38" column="45" />
+        <mark key="]" line="40" column="11" />
+        <mark key="." line="40" column="11" />
+        <mark key="^" line="40" column="11" />
       </file>
       <file name="$USER_HOME$/project/musicbible/backend-api/src/main/kotlin/com/musicbible/auth/AuthController.kt" timestamp="1546935313478">
         <mark key="[" line="53" column="12" />
@@ -2211,12 +2214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="6" filename="D:/project/musicbible/migration/console/models/__init__.py" />
-      <jump line="23" column="0" filename="D:/project/musicbible/migration/console/models/__init__.py" />
-      <jump line="27" column="0" filename="D:/project/musicbible/migration/console/models/__init__.py" />
-      <jump line="50" column="24" filename="D:/project/musicbible/migration/console/management/commands/migratedb.py" />
-      <jump line="67" column="55" filename="D:/project/musicbible/migration/console/models/tune.py" />
-      <jump line="11" column="0" filename="D:/project/musicbible/migration/console/models/tune.py" />
       <jump line="20" column="0" filename="D:/project/musicbible/migration/console/models/tune.py" />
       <jump line="23" column="0" filename="D:/project/musicbible/migration/console/models/tune.py" />
       <jump line="28" column="4" filename="D:/project/musicbible/migration/console/models/tune.py" />
@@ -2311,55 +2308,61 @@
       <jump line="17" column="55" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
       <jump line="6" column="21" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/CommandLine.kt" />
       <jump line="23" column="7" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportCountry.kt" />
+      <jump line="24" column="8" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/UserService.kt" />
+      <jump line="25" column="8" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/UserService.kt" />
+      <jump line="26" column="8" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/UserService.kt" />
+      <jump line="92" column="12" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.2.71/2e8041d08283cbbb58ad131617486fc6449f6c85/kotlin-stdlib-1.2.71-sources.jar!/kotlin/io/ReadWrite.kt" />
+      <jump line="96" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.2.71/2e8041d08283cbbb58ad131617486fc6449f6c85/kotlin-stdlib-1.2.71-sources.jar!/kotlin/io/ReadWrite.kt" />
+      <jump line="109" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.2.71/2e8041d08283cbbb58ad131617486fc6449f6c85/kotlin-stdlib-1.2.71-sources.jar!/kotlin/io/ReadWrite.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0uZXhpdCgwKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>debug</text>
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="/" type="4">
-        <text>active</text>
+        <text encoding="base64">XDxjcmVhdGVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBydW4odmFyYXJnIGFyZ3M6IFN0cmluZz8pIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0uZXhpdCgwKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlYWRlci5jbG9zZSgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhcmdzLmZvckVhY2goOjpwcmludGxuKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBmaW5hbGx5IHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC5hdXRvY29uZmlndXJlLmRvbWFpbi5FbnRpdHlTY2FuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC5ydW5BcHBsaWNhdGlvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC5hdXRvY29uZmlndXJlLlNwcmluZ0Jvb3RBcHBsaWNhdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbGUuY2xvCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC5Db21tYW5kTGluZVJ1bm5lcgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly9ARW50aXR5U2NhbigiY29tLm11c2ljYmlibGUubW9kZWwiKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0uZXhpdCgwKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>active</last-search>
+      <last-search encoding="base64">XDxjcmVhdGVcPg==</last-search>
       <last-offset />
-      <last-pattern>active</last-pattern>
+      <last-pattern encoding="base64">XDxjcmVhdGVcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDzop4TnqIvnuqfliKtcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -2367,7 +2370,6 @@
     </search>
     <history>
       <history-search>
-        <entry>capch</entry>
         <entry>cap</entry>
         <entry encoding="base64">XDxyZXBvc2l0b3J5XD4=</entry>
         <entry encoding="base64">XDxQYXNzd29yZEVuY29kZXJcPg==</entry>
@@ -2387,6 +2389,7 @@
         <entry>wecha</entry>
         <entry encoding="base64">XDxyZWRpc1RlbXBsYXRlXD4=</entry>
         <entry>active</entry>
+        <entry encoding="base64">XDxjcmVhdGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>105</entry>

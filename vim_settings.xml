@@ -35,11 +35,12 @@
         <mark key="." line="41" column="39" />
         <mark key="^" line="41" column="39" />
       </file>
-      <file name="D:/project/musicbible/build.gradle" timestamp="1547636251857">
+      <file name="D:/project/musicbible/build.gradle" timestamp="1547637214150">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="93" column="55" />
-        <mark key="." line="88" column="0" />
+        <mark key="[" line="93" column="8" />
+        <mark key="]" line="92" column="62" />
+        <mark key="." line="92" column="62" />
+        <mark key="^" line="92" column="62" />
       </file>
       <file name="D:/project/musicbible/backend-api/build.gradle" timestamp="1547636278745">
         <mark key="'" line="12" column="0" />
@@ -362,11 +363,11 @@
       <jump line="0" column="0" filename="D:/project/musicbible/common/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJ1bnRpbWVPbmx5KCdpby5zcHJpbmdmb3g6c3ByaW5nZm94LXN3YWdnZXItdWk6Mi45LjInKQo=</text>
+      <register name="&quot;" type="4">
+        <text>compileOnly</text>
       </register>
       <register name="-" type="4">
-        <text>implementation</text>
+        <text>compileOnly</text>
       </register>
       <register name="/" type="4">
         <text>swagg</text>

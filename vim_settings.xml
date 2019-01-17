@@ -122,7 +122,6 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="23" column="6" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-elasticsearch/3.1.3.RELEASE/beaa51e9fc36430cbcad13b217725c2584cb28a6/spring-data-elasticsearch-3.1.3.RELEASE-sources.jar!/org/springframework/data/elasticsearch/core/MappingBuilder.java" timestamp="1547714700775" />
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/es/model/EsRecording.kt" timestamp="1547708684592">
         <mark key="[" line="5" column="23" />
         <mark key="]" line="5" column="31" />
@@ -135,6 +134,13 @@
         <mark key="]" line="9" column="21" />
         <mark key="^" line="9" column="21" />
         <mark key="." line="9" column="21" />
+      </file>
+      <file name="D:/project/musicbible/bin/manage.sh" timestamp="1547721020469">
+        <mark key="'" line="9" column="34" />
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="18" />
+        <mark key="." line="0" column="18" />
+        <mark key="^" line="0" column="18" />
       </file>
       <file name="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/SaleControllerTest.kt" timestamp="1547711790231">
         <mark key="[" line="136" column="29" />
@@ -385,7 +391,7 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="26" />
       </file>
-      <file name="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" timestamp="1547697013140">
+      <file name="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" timestamp="1547721058100">
         <mark key="'" line="160" column="0" />
         <mark key="[" line="181" column="24" />
         <mark key="]" line="182" column="22" />
@@ -416,6 +422,12 @@
         <mark key="]" line="10" column="37" />
         <mark key="." line="10" column="37" />
         <mark key="^" line="10" column="37" />
+      </file>
+      <file name="D:/project/musicbible/bin/publishDockerImage.sh" timestamp="1547721018052">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/listeners/ArtistListener.kt" timestamp="1547713575768">
         <mark key="'" line="16" column="39" />
@@ -457,16 +469,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="37" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/listeners/LabelListener.kt" />
-      <jump line="93" column="0" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/LabelController.kt" />
-      <jump line="71" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/LabelService.kt" />
-      <jump line="80" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/LabelService.kt" />
-      <jump line="59" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/LabelService.kt" />
-      <jump line="48" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/LabelService.kt" />
-      <jump line="42" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/LabelService.kt" />
-      <jump line="18" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/LabelService.kt" />
-      <jump line="25" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/LabelService.kt" />
-      <jump line="63" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/LabelService.kt" />
       <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/LabelService.kt" />
       <jump line="32" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/LabelService.kt" />
       <jump line="26" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/LabelService.kt" />
@@ -557,13 +559,23 @@
       <jump line="21" column="6" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/es/model/EsWork.kt" />
       <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/es/model/EsWork.kt" />
       <jump line="23" column="6" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/es/model/EsWork.kt" />
+      <jump line="9" column="34" filename="D:/project/musicbible/bin/manage.sh" />
+      <jump line="0" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
+      <jump line="1" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
+      <jump line="29" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
+      <jump line="51" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
+      <jump line="78" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
+      <jump line="104" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
+      <jump line="122" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
+      <jump line="146" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
+      <jump line="160" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHVybDogamRiYzpwb3N0Z3Jlc3FsOi8vdGVuYm9vc3QuY29tOjU0MzIvbXVzaWNiaWJsZQo=</text>
+      <register name="&quot;" type="4">
+        <text>none</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>none</text>
       </register>
       <register name="/" type="4">
         <text>putMapping</text>

@@ -35,10 +35,10 @@
         <mark key="^" line="16" column="41" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="D:/project/musicbible/management/src/main/resources/application.yml" timestamp="1547720791834">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="55" />
+      <file name="D:/project/musicbible/management/src/main/resources/application.yml" timestamp="1547724648378">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="32" column="35" />
         <mark key="." line="33" column="0" />
       </file>
       <file name="D:/project/musicbible/migration/console/models/user.py" timestamp="1547539951245">
@@ -135,12 +135,12 @@
         <mark key="^" line="9" column="21" />
         <mark key="." line="9" column="21" />
       </file>
-      <file name="D:/project/musicbible/bin/manage.sh" timestamp="1547721020469">
+      <file name="D:/project/musicbible/bin/manage.sh" timestamp="1547725234183">
         <mark key="'" line="9" column="34" />
-        <mark key="[" line="0" column="13" />
-        <mark key="]" line="0" column="18" />
-        <mark key="." line="0" column="18" />
-        <mark key="^" line="0" column="18" />
+        <mark key="[" line="10" column="58" />
+        <mark key="]" line="10" column="58" />
+        <mark key="." line="10" column="58" />
+        <mark key="^" line="10" column="58" />
       </file>
       <file name="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/SaleControllerTest.kt" timestamp="1547711790231">
         <mark key="[" line="136" column="29" />
@@ -391,8 +391,8 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="26" />
       </file>
-      <file name="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" timestamp="1547721058100">
-        <mark key="'" line="160" column="0" />
+      <file name="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" timestamp="1547725246782">
+        <mark key="'" line="174" column="0" />
         <mark key="[" line="181" column="24" />
         <mark key="]" line="182" column="22" />
         <mark key="^" line="182" column="22" />
@@ -469,11 +469,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/LabelService.kt" />
-      <jump line="32" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/LabelService.kt" />
-      <jump line="26" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/LabelService.kt" />
-      <jump line="19" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/LabelService.kt" />
-      <jump line="1" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/LabelService.kt" />
       <jump line="72" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Release.kt" />
       <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Release.kt" />
       <jump line="1" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Release.kt" />
@@ -560,6 +555,9 @@
       <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/es/model/EsWork.kt" />
       <jump line="23" column="6" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/es/model/EsWork.kt" />
       <jump line="9" column="34" filename="D:/project/musicbible/bin/manage.sh" />
+      <jump line="27" column="0" filename="D:/project/musicbible/management/src/main/resources/application.yml" />
+      <jump line="181" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
+      <jump line="245" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
       <jump line="0" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
       <jump line="1" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
       <jump line="29" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
@@ -569,19 +567,21 @@
       <jump line="122" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
       <jump line="146" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
       <jump line="160" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
+      <jump line="167" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
+      <jump line="174" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>none</text>
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text>none</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>putMapping</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHVybDogamRiYzpwb3N0Z3Jlc3FsOi8vdGVuYm9vc3QuY29tOjU0MzIvbXVzaWNiaWJsZQo=</text>
+        <text encoding="base64">ICBkYXRhOgogICAgZWxhc3RpY3NlYXJjaDoKICAgICAgcmVwb3NpdG9yaWVzOgogICAgICAgIGVuYWJsZWQ6IHRydWUKICAgICAgY2x1c3Rlci1uYW1lOiBtdXNpY2JpYmxlCiAgICAgIGNsdXN0ZXItbm9kZXM6IDEyNy4wLjAuMTo5MzAwCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgZXNXb3JrID0gRXNXb3JrKHdvcmsuaWQsIHdvcmsudGl0bGUpCg==</text>

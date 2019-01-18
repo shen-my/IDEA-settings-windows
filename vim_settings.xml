@@ -35,12 +35,12 @@
         <mark key="^" line="16" column="41" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="D:/project/musicbible/management/src/main/resources/application.yml" timestamp="1547729455272">
+      <file name="D:/project/musicbible/management/src/main/resources/application.yml" timestamp="1547775122629">
         <mark key="'" line="27" column="0" />
-        <mark key="[" line="32" column="33" />
-        <mark key="]" line="32" column="33" />
-        <mark key="." line="32" column="33" />
-        <mark key="^" line="32" column="31" />
+        <mark key="[" line="32" column="35" />
+        <mark key="]" line="32" column="35" />
+        <mark key="." line="32" column="35" />
+        <mark key="^" line="32" column="29" />
       </file>
       <file name="D:/project/musicbible/migration/console/models/user.py" timestamp="1547539951245">
         <mark key="'" line="40" column="0" />
@@ -215,6 +215,9 @@
         <mark key="." line="14" column="12" />
         <mark key="^" line="14" column="12" />
       </file>
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Billboard.kt" timestamp="1547775303283">
+        <mark key="'" line="76" column="0" />
+      </file>
       <file name="D:/project/musicbible/migration/console/models/record.py" timestamp="1547632090575">
         <mark key="'" line="39" column="36" />
         <mark key="[" line="126" column="12" />
@@ -260,12 +263,12 @@
         <mark key="^" line="5" column="27" />
         <mark key="." line="5" column="27" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Label.kt" timestamp="1547710186346">
-        <mark key="'" line="45" column="0" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="4" />
-        <mark key="^" line="17" column="4" />
-        <mark key="." line="17" column="4" />
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Label.kt" timestamp="1547774624906">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="19" column="17" />
+        <mark key="]" line="19" column="17" />
+        <mark key="^" line="19" column="17" />
+        <mark key="." line="19" column="17" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Work.kt" timestamp="1547717000686">
         <mark key="[" line="16" column="0" />
@@ -470,10 +473,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Release.kt" />
-      <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Release.kt" />
-      <jump line="1" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Release.kt" />
-      <jump line="18" column="1" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/listeners/ArtistListener.kt" />
       <jump line="15" column="13" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/listeners/ArtistListener.kt" />
       <jump line="12" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/mapper/recording/RecordingMapper.kt" />
       <jump line="10" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/mapper/release/ReleaseMapper.kt" />
@@ -570,13 +569,17 @@
       <jump line="160" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
       <jump line="167" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
       <jump line="174" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
+      <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Label.kt" />
+      <jump line="1" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Label.kt" />
+      <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Billboard.kt" />
+      <jump line="76" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Billboard.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>9</text>
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>9</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>putMapping</text>

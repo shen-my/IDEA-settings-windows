@@ -268,9 +268,6 @@
         <mark key="." line="23" column="23" />
         <mark key="^" line="23" column="23" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/NotificationService.kt" timestamp="1547795759741">
-        <mark key="[" line="25" column="72" />
-      </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/User.kt" timestamp="1547798079277">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="15" column="36" />
@@ -435,6 +432,9 @@
         <mark key="^" line="8" column="40" />
         <mark key="." line="8" column="40" />
       </file>
+      <file name="D:/project/gatenetdoc-server/src/main/java/com/boostfield/gatenetdoc/utils/DataGenerator.java" timestamp="1547969455576">
+        <mark key="'" line="1031" column="0" />
+      </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/es/repository/ArtistEsRepository.kt" timestamp="1547708801034">
         <mark key="[" line="5" column="9" />
         <mark key="]" line="5" column="27" />
@@ -473,6 +473,13 @@
         <mark key="]" line="6" column="0" />
         <mark key="^" line="12" column="27" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="D:/project/gatenetdoc-server/src/main/resources/application.yml" timestamp="1547970047857">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="36" column="15" />
+        <mark key="]" line="36" column="15" />
+        <mark key="." line="36" column="15" />
+        <mark key="^" line="36" column="32" />
       </file>
       <file name="D:/project/musicbible/migration/console/models/artist.py" timestamp="1547618607559">
         <mark key="'" line="43" column="0" />
@@ -543,20 +550,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/LabelService.kt" />
-      <jump line="25" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/LabelService.kt" />
-      <jump line="36" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/LabelService.kt" />
-      <jump line="85" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/LabelControllerTest.kt" />
-      <jump line="93" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/LabelControllerTest.kt" />
-      <jump line="98" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/LabelControllerTest.kt" />
-      <jump line="104" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/LabelControllerTest.kt" />
-      <jump line="107" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/LabelControllerTest.kt" />
-      <jump line="110" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/LabelControllerTest.kt" />
-      <jump line="115" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/LabelControllerTest.kt" />
-      <jump line="121" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/LabelControllerTest.kt" />
-      <jump line="124" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/LabelControllerTest.kt" />
-      <jump line="135" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/LabelControllerTest.kt" />
-      <jump line="147" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/LabelControllerTest.kt" />
       <jump line="152" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/LabelControllerTest.kt" />
       <jump line="157" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/LabelControllerTest.kt" />
       <jump line="161" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/LabelControllerTest.kt" />
@@ -643,13 +636,27 @@
       <jump line="0" column="0" filename="D:/project/musicbible/backend-api/application-local-test.yml" />
       <jump line="17" column="37" filename="D:/project/musicbible/backend-api/application-local-test.yml" />
       <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Label.kt" />
+      <jump line="21" column="15" filename="D:/project/gatenetdoc-server/src/main/resources/application.yml" />
+      <jump line="33" column="4" filename="D:/project/gatenetdoc-server/src/main/resources/application.yml" />
+      <jump line="0" column="0" filename="D:/project/gatenetdoc-server/src/main/java/com/boostfield/gatenetdoc/utils/DataGenerator.java" />
+      <jump line="1031" column="0" filename="D:/project/gatenetdoc-server/src/main/java/com/boostfield/gatenetdoc/utils/DataGenerator.java" />
+      <jump line="0" column="0" filename="D:/project/gatenetdoc-server/src/main/java/com/boostfield/gatenetdoc/InitDataLoader.java" />
+      <jump line="95" column="0" filename="D:/project/gatenetdoc-server/src/main/java/com/boostfield/gatenetdoc/InitDataLoader.java" />
+      <jump line="94" column="0" filename="D:/project/gatenetdoc-server/src/main/java/com/boostfield/gatenetdoc/InitDataLoader.java" />
+      <jump line="90" column="0" filename="D:/project/gatenetdoc-server/src/main/java/com/boostfield/gatenetdoc/InitDataLoader.java" />
+      <jump line="88" column="0" filename="D:/project/gatenetdoc-server/src/main/java/com/boostfield/gatenetdoc/InitDataLoader.java" />
+      <jump line="85" column="0" filename="D:/project/gatenetdoc-server/src/main/java/com/boostfield/gatenetdoc/InitDataLoader.java" />
+      <jump line="83" column="0" filename="D:/project/gatenetdoc-server/src/main/java/com/boostfield/gatenetdoc/InitDataLoader.java" />
+      <jump line="60" column="0" filename="D:/project/gatenetdoc-server/src/main/java/com/boostfield/gatenetdoc/InitDataLoader.java" />
+      <jump line="57" column="0" filename="D:/project/gatenetdoc-server/src/main/java/com/boostfield/gatenetdoc/InitDataLoader.java" />
+      <jump line="3" column="0" filename="D:/project/gatenetdoc-server/src/main/resources/application.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>to</text>
+        <text>///Users/smy/temp/</text>
       </register>
       <register name="-" type="4">
-        <text>to</text>
+        <text>///Users/smy/temp/</text>
       </register>
       <register name="/" type="4">
         <text>createdby</text>

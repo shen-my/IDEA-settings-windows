@@ -304,10 +304,12 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/project/gatenetdoc-server/src/main/java/com/boostfield/gatenetdoc/utils/DataGenerator.java" timestamp="1547980284051">
-        <mark key="]" line="235" column="89" />
-        <mark key="^" line="235" column="89" />
-        <mark key="." line="235" column="89" />
+      <file name="$USER_HOME$/project/gatenetdoc-server/src/main/java/com/boostfield/gatenetdoc/utils/DataGenerator.java" timestamp="1547981914268">
+        <mark key="'" line="1412" column="55" />
+        <mark key="[" line="698" column="68" />
+        <mark key="]" line="698" column="95" />
+        <mark key="^" line="698" column="95" />
+        <mark key="." line="698" column="95" />
       </file>
       <file name="$USER_HOME$/project/musicbible/persistence/src/main/kotlin/com/musicbible/repository/NotificationRepository.kt" timestamp="1546051055652">
         <mark key="[" line="6" column="0" />
@@ -459,6 +461,12 @@
         <mark key="]" line="19" column="21" />
         <mark key="." line="19" column="21" />
         <mark key="^" line="19" column="21" />
+      </file>
+      <file name="$USER_HOME$/project/gatenetdoc-server/src/main/java/com/boostfield/gatenetdoc/admin/activitymanager/ActivityServiceImpl.java" timestamp="1547981357334">
+        <mark key="[" line="79" column="66" />
+        <mark key="]" line="80" column="63" />
+        <mark key="^" line="80" column="63" />
+        <mark key="." line="80" column="63" />
       </file>
       <file name="$USER_HOME$/project/musicbible/persistence/src/main/kotlin/com/musicbible/model/ReleaseType.kt" timestamp="1545873624690">
         <mark key="[" line="15" column="29" />
@@ -1919,7 +1927,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="0" filename="$USER_HOME$/project/musicbible/migration/console/management/commands/migratedb.py" />
       <jump line="34" column="0" filename="$USER_HOME$/project/musicbible/migration/console/management/commands/migratedb.py" />
       <jump line="29" column="3" filename="$USER_HOME$/project/musicbible/migration/console/entities/entity.py" />
       <jump line="48" column="26" filename="$USER_HOME$/project/musicbible/migration/console/management/commands/migratedb.py" />
@@ -2019,6 +2026,7 @@
       <jump line="1205" column="18" filename="$USER_HOME$/project/gatenetdoc-server/src/main/java/com/boostfield/gatenetdoc/utils/DataGenerator.java" />
       <jump line="1206" column="23" filename="$USER_HOME$/project/gatenetdoc-server/src/main/java/com/boostfield/gatenetdoc/utils/DataGenerator.java" />
       <jump line="37" column="4" filename="$USER_HOME$/project/gatenetdoc-server/src/main/resources/application.yml" />
+      <jump line="1412" column="55" filename="$USER_HOME$/project/gatenetdoc-server/src/main/java/com/boostfield/gatenetdoc/utils/DataGenerator.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2061,7 +2069,7 @@
         <text encoding="base64">ICBodHRwOgo=</text>
       </register>
       <register name=":" type="4">
-        <text>38</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2097,7 +2105,6 @@
         <entry encoding="base64">XDxyZXNvdXJjZVw+</entry>
       </history-search>
       <history-cmd>
-        <entry>91</entry>
         <entry>105</entry>
         <entry>94</entry>
         <entry>128</entry>
@@ -2117,6 +2124,7 @@
         <entry>60</entry>
         <entry>4</entry>
         <entry>38</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />

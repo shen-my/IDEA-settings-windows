@@ -45,12 +45,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="23" column="6" />
       </file>
-      <file name="D:/project/musicbible/backend-api/application-local-test.yml" timestamp="1548055481458">
+      <file name="D:/project/musicbible/backend-api/application-local-test.yml" timestamp="1548059668050">
         <mark key="'" line="3" column="23" />
-        <mark key="[" line="3" column="19" />
-        <mark key="]" line="3" column="19" />
-        <mark key="." line="3" column="19" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
         <mark key="^" line="2" column="32" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/mapper/release/ReleaseOutput.kt" timestamp="1548053997381">
         <mark key="'" line="26" column="0" />
@@ -161,10 +161,10 @@
         <mark key="." line="40" column="44" />
         <mark key="^" line="40" column="44" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/listeners/ArtistListener.kt" timestamp="1548055217584">
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/listeners/ArtistListener.kt" timestamp="1548057815327">
         <mark key="'" line="17" column="39" />
-        <mark key="[" line="13" column="16" />
-        <mark key="]" line="14" column="18" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="21" />
         <mark key="^" line="14" column="18" />
         <mark key="." line="14" column="18" />
       </file>
@@ -299,11 +299,11 @@
         <mark key="^" line="17" column="11" />
         <mark key="." line="17" column="11" />
       </file>
-      <file name="D:/project/musicbible/backend-api/src/test/resources/application-test.yml" timestamp="1548055445347">
-        <mark key="[" line="8" column="27" />
-        <mark key="]" line="11" column="95" />
-        <mark key="." line="11" column="95" />
-        <mark key="^" line="11" column="95" />
+      <file name="D:/project/musicbible/backend-api/src/test/resources/application-test.yml" timestamp="1548059661977">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="15" column="21" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Billboard.kt" timestamp="1547776388058">
         <mark key="'" line="65" column="0" />
@@ -394,6 +394,12 @@
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/mapper/movement/MovementOutput.kt" timestamp="1548042288388">
         <mark key="[" line="2" column="26" />
+      </file>
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/listeners/WorkListener.kt" timestamp="1548059674146">
+        <mark key="[" line="16" column="33" />
+        <mark key="]" line="19" column="17" />
+        <mark key="^" line="19" column="17" />
+        <mark key="." line="19" column="17" />
       </file>
       <file name="/fragment.java" timestamp="1547972135867">
         <mark key="[" line="0" column="0" />
@@ -503,43 +509,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">OTMwMAo=</text>
+        <text encoding="base64">IyAgICAgIGNsdXN0ZXItbm9kZXM6IDE5Mi4xNjguNTAuNjo5MzAwCg==</text>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>activeProfiles</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleHBvcnRBbGxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KCKzp8XGseC6xSIpCiAgICB2YXIgY2F0YWxvZ051bWJlcnM6IE11dGFibGVMaXN0PFN0cmluZz4gPSBtdXRhYmxlTGlzdE9mKCksCgo=</text>
+        <text encoding="base64">ICAgIEBQcm9maWxlKCIhdGVzdCIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">OTMwMAo=</text>
+        <text encoding="base64">IyAgICAgIGNsdXN0ZXItbm9kZXM6IDE5Mi4xNjguNTAuNjo5MzAwCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkYXRhOgogICAgZWxhc3RpY3NlYXJjaDoKICAgICAgcmVwb3NpdG9yaWVzOgogICAgICAgIGVuYWJsZWQ6IHRydWUKICAgICAgY2x1c3Rlci1uYW1lOiBtdXNpY2JpYmxlCiAgICAgIGNsdXN0ZXItbm9kZXM6IDEyNy4wLjAuMTo5MzAwCjkzMDAK</text>
+        <text encoding="base64">IyAgICBlbGFzdGljc2VhcmNoOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAgZGF0YToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">IyAgICAgIGNsdXN0ZXItbm9kZXM6IDEyNy4wLjAuMTo5MzAwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEAK</text>
+        <text encoding="base64">IyAgICAgIGNsdXN0ZXItbmFtZTogbXVzaWNiaWJsZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc3RlcmVvdHlwZS5Db21wb25lbnQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29udGV4dC5hbm5vdGF0aW9uLlByb2ZpbGUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Ly8gICAgQEF1dG93aXJlZChyZXF1aXJlZCA9Ci8vICAgIGZhbHNlKSBsYXRlaW5pdCB2YXIgd29ya0VzUmVwb3NpdG9yeTogV29ya0VzUmVwb3NpdG9yeQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZXNXb3JrID0gd29ya01hcHBlci50b0VzKHdvcmspCiAgICAgICAgYXBwQ29udGV4dC5nZXRCZWFuKFdvcmtFc1JlcG9zaXRvcnk6OmNsYXNzLmphdmEpCg==</text>
       </register>
       <register name=":" type="4">
         <text>72</text>

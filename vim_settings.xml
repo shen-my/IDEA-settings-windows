@@ -438,7 +438,8 @@
         <mark key="^" line="0" column="26" />
         <mark key="." line="0" column="20" />
       </file>
-      <file name="$USER_HOME$/project/musicbible/common/src/main/kotlin/com/musicbible/mapper/recording/RecordingOutput.kt" timestamp="1548076242163">
+      <file name="$USER_HOME$/project/musicbible/common/src/main/kotlin/com/musicbible/mapper/recording/RecordingOutput.kt" timestamp="1548079003719">
+        <mark key="'" line="7" column="0" />
         <mark key="[" line="3" column="20" />
         <mark key="]" line="5" column="27" />
         <mark key="^" line="5" column="27" />
@@ -1543,8 +1544,8 @@
         <mark key="^" line="5" column="54" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/project/musicbible/common/src/main/kotlin/com/musicbible/mapper/label/LabelOutput.kt" timestamp="1546411302437">
-        <mark key="'" line="19" column="0" />
+      <file name="$USER_HOME$/project/musicbible/common/src/main/kotlin/com/musicbible/mapper/label/LabelOutput.kt" timestamp="1548079066438">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="30" column="0" />
         <mark key="]" line="31" column="38" />
         <mark key="^" line="28" column="35" />
@@ -1614,12 +1615,12 @@
         <mark key="." line="21" column="70" />
         <mark key="^" line="21" column="70" />
       </file>
-      <file name="$USER_HOME$/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" timestamp="1548076551433">
-        <mark key="'" line="37" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="58" column="3" />
+      <file name="$USER_HOME$/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" timestamp="1548079037524">
+        <mark key="'" line="160" column="0" />
+        <mark key="[" line="159" column="0" />
+        <mark key="]" line="159" column="0" />
+        <mark key="." line="159" column="0" />
+        <mark key="^" line="158" column="36" />
       </file>
       <file name="$USER_HOME$/project/musicbible/backend-api/src/main/kotlin/com/musicbible/DefaultApplicationListener.kt" timestamp="1545620473306">
         <mark key="[" line="3" column="0" />
@@ -1883,20 +1884,15 @@
         <mark key="^" line="16" column="13" />
         <mark key="." line="16" column="13" />
       </file>
+      <file name="$USER_HOME$/project/musicbible/common/src/main/kotlin/com/musicbible/mapper/release/ReleaseOutput.kt" timestamp="1548079153593">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="55" column="27" />
+        <mark key="]" line="55" column="26" />
+        <mark key="^" line="52" column="19" />
+        <mark key="." line="55" column="26" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="8" filename="$USER_HOME$/project/musicbible/migration/console/entities/entity.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/project/musicbible/migration/console/entities/entity.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/project/musicbible/migration/console/entities/entity.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/project/musicbible/migration/console/entities/entity.py" />
-      <jump line="27" column="0" filename="$USER_HOME$/project/musicbible/migration/console/entities/entity.py" />
-      <jump line="33" column="0" filename="$USER_HOME$/project/musicbible/migration/console/entities/entity.py" />
-      <jump line="39" column="0" filename="$USER_HOME$/project/musicbible/migration/console/entities/entity.py" />
-      <jump line="28" column="16" filename="$USER_HOME$/project/musicbible/migration/musicbible_server/settings/__init__.py" />
-      <jump line="6" column="37" filename="$USER_HOME$/project/musicbible/migration/console/entities/entity.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/project/musicbible/migration/console/entities/entity.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/project/musicbible/migration/console/entities/entity.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/project/musicbible/migration/console/entities/entity.py" />
       <jump line="13" column="0" filename="$USER_HOME$/project/musicbible/migration/console/entities/entity.py" />
       <jump line="11" column="4" filename="$USER_HOME$/project/musicbible/common-spring/src/main/kotlin/com/boostfield/spring/persistence/Record.kt" />
       <jump line="7" column="0" filename="$USER_HOME$/project/musicbible/common-spring/src/main/kotlin/com/boostfield/spring/persistence/Model.kt" />
@@ -1985,46 +1981,58 @@
       <jump line="1" column="0" filename="$USER_HOME$/project/musicbible/common/src/main/kotlin/com/musicbible/model/Recording.kt" />
       <jump line="14" column="0" filename="$USER_HOME$/project/musicbible/common/src/main/kotlin/com/musicbible/model/Recording.kt" />
       <jump line="23" column="0" filename="$USER_HOME$/project/musicbible/common/src/main/kotlin/com/musicbible/model/Recording.kt" />
+      <jump line="7" column="0" filename="$USER_HOME$/project/musicbible/common/src/main/kotlin/com/musicbible/mapper/recording/RecordingOutput.kt" />
+      <jump line="159" column="4" filename="$USER_HOME$/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" />
+      <jump line="168" column="0" filename="$USER_HOME$/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" />
+      <jump line="160" column="0" filename="$USER_HOME$/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" />
+      <jump line="50" column="0" filename="$USER_HOME$/project/musicbible/common/src/main/kotlin/com/musicbible/mapper/release/ReleaseOutput.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/project/musicbible/common/src/main/kotlin/com/musicbible/mapper/label/LabelOutput.kt" />
+      <jump line="53" column="3" filename="$USER_HOME$/project/musicbible/common/src/main/kotlin/com/musicbible/mapper/release/ReleaseOutput.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/project/musicbible/common/src/main/kotlin/com/musicbible/mapper/release/ReleaseOutput.kt" />
+      <jump line="1" column="0" filename="$USER_HOME$/project/musicbible/common/src/main/kotlin/com/musicbible/mapper/release/ReleaseOutput.kt" />
+      <jump line="6" column="0" filename="$USER_HOME$/project/musicbible/common/src/main/kotlin/com/musicbible/mapper/release/ReleaseOutput.kt" />
+      <jump line="15" column="0" filename="$USER_HOME$/project/musicbible/common/src/main/kotlin/com/musicbible/mapper/release/ReleaseOutput.kt" />
+      <jump line="18" column="0" filename="$USER_HOME$/project/musicbible/common/src/main/kotlin/com/musicbible/mapper/release/ReleaseOutput.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgYmFzZS1wYXRoOiBhcGkK</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZGF0YSA=</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXNvdXJjZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBkYXRhOgogICAgcmVzdDoKICAgICAgYmFzZS1wYXRoOiBhcGkKICAgIGVsYXN0aWNzZWFyY2g6CiAgICAgIHJlcG9zaXRvcmllczoKICAgICAgICBlbmFibGVkOiB0cnVlCiAgICAgIGNsdXN0ZXItbmFtZTogbXVzaWNiaWJsZQogICAgICBjbHVzdGVyLW5vZGVzOiAxMjcuMC4wLjE6OTMwMAoK</text>
+        <text encoding="base64">ICAgIHZhciBpZDogTG9uZyA9IDAsCgogICAgdmFyIHRpdGxlQ046IFN0cmluZyA9ICIiLAoKICAgIHZhciB0aXRsZTE6IFN0cmluZyA9ICIiLAoKICAgIHZhciB0aXRsZTI6IFN0cmluZyA9ICIiLAoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYmFzZS1wYXRoOiBhcGkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlc3Q6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgZGF0YToKICAgIGVsYXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tdXNpY2JpYmxlLm1hcHBlci5yZWxlYXNlLkJhY2tlbmRMaXN0SW5wdXQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZWxlYXNlRXNSZXBvc2l0b3J5LnNlYXJjaCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWFyY2hRdWVyeS53aXRoUXVlcnkoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYmFzZS1wYXRoOiBhcGkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlc3Q6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBmaWxlOgo=</text>
+        <text encoding="base64">CiAgZGF0YToKICAgIGVsYXMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

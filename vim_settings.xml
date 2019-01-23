@@ -154,6 +154,9 @@
         <mark key="^" line="33" column="104" />
         <mark key="." line="33" column="104" />
       </file>
+      <file name="D:/project/musicbible/frontend-api/application-local-test.yml" timestamp="1548213823752">
+        <mark key="[" line="14" column="22" />
+      </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/mapper/recording/RecordingInput.kt" timestamp="1548065495583">
         <mark key="[" line="5" column="17" />
         <mark key="]" line="5" column="16" />
@@ -162,6 +165,9 @@
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.elasticsearch/elasticsearch/6.4.3/6525b586c8aa7d2201b46e4fe785994728b5c029/elasticsearch-6.4.3-sources.jar!/org/elasticsearch/index/query/QueryBuilder.java" timestamp="1548141534193">
         <mark key="'" line="89" column="0" />
+      </file>
+      <file name="D:/project/musicbible/frontend-api/application-local.yml" timestamp="1548213805895">
+        <mark key="[" line="9" column="22" />
       </file>
       <file name="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/LabelController.kt" timestamp="1548065026096">
         <mark key="'" line="24" column="0" />
@@ -248,12 +254,12 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="28" />
       </file>
-      <file name="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/RecordingController.kt" timestamp="1548208064415">
+      <file name="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/RecordingController.kt" timestamp="1548213130722">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="97" column="0" />
-        <mark key="^" line="95" column="55" />
-        <mark key="." line="97" column="0" />
+        <mark key="[" line="95" column="41" />
+        <mark key="]" line="95" column="58" />
+        <mark key="^" line="95" column="58" />
+        <mark key="." line="95" column="58" />
       </file>
       <file name="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" timestamp="1548207624052">
         <mark key="'" line="146" column="0" />
@@ -386,8 +392,8 @@
         <mark key="." line="22" column="33" />
         <mark key="^" line="22" column="33" />
       </file>
-      <file name="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" timestamp="1548206397808">
-        <mark key="'" line="41" column="0" />
+      <file name="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" timestamp="1548213382200">
+        <mark key="'" line="165" column="36" />
         <mark key="[" line="49" column="8" />
         <mark key="]" line="49" column="30" />
       </file>
@@ -536,11 +542,12 @@
       <file name="D:/project/gatenetdoc-server/src/main/java/com/boostfield/gatenetdoc/utils/DataGenerator.java" timestamp="1547969455576">
         <mark key="'" line="1031" column="0" />
       </file>
-      <file name="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" timestamp="1548156855464">
+      <file name="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" timestamp="1548213157260">
         <mark key="'" line="32" column="0" />
-        <mark key="[" line="168" column="0" />
-        <mark key="]" line="168" column="0" />
-        <mark key="." line="168" column="0" />
+        <mark key="[" line="160" column="37" />
+        <mark key="]" line="160" column="54" />
+        <mark key="." line="160" column="54" />
+        <mark key="^" line="160" column="54" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/mapper/recording/RecordingOutput.kt" timestamp="1548208965435">
         <mark key="[" line="31" column="0" />
@@ -570,8 +577,8 @@
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/LabelService.kt" timestamp="1548141012005">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/WorkController.kt" timestamp="1548209914224">
-        <mark key="'" line="110" column="0" />
+      <file name="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/WorkController.kt" timestamp="1548213168433">
+        <mark key="'" line="91" column="34" />
         <mark key="[" line="93" column="51" />
         <mark key="]" line="93" column="79" />
         <mark key="." line="93" column="79" />
@@ -717,8 +724,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Release.kt" />
-      <jump line="24" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Release.kt" />
       <jump line="27" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Release.kt" />
       <jump line="30" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Release.kt" />
       <jump line="33" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Release.kt" />
@@ -817,13 +822,15 @@
       <jump line="0" column="0" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/RecordingController.kt" />
       <jump line="1" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/mapper/work/WorkOutput.kt" />
       <jump line="12" column="21" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/mapper/movement/MovementOutput.kt" />
+      <jump line="91" column="34" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/WorkController.kt" />
+      <jump line="165" column="36" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">TW92ZW1lbnQg</text>
+        <text>findOrThrow</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">TW92ZW1lbnQg</text>
+        <text>findOrThrow</text>
       </register>
       <register name="/" type="4">
         <text>elast</text>

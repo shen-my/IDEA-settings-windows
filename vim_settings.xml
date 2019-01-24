@@ -293,12 +293,8 @@
         <mark key="^" line="95" column="58" />
         <mark key="." line="98" column="0" />
       </file>
-      <file name="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" timestamp="1548207624052">
-        <mark key="'" line="146" column="0" />
-        <mark key="[" line="147" column="0" />
-        <mark key="]" line="161" column="0" />
-        <mark key="." line="171" column="70" />
-        <mark key="^" line="171" column="70" />
+      <file name="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" timestamp="1548324542971">
+        <mark key="'" line="208" column="30" />
       </file>
       <file name="D:/project/musicbible/migration/console/entities/work.py" timestamp="1547535460874">
         <mark key="'" line="26" column="31" />
@@ -785,9 +781,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="0" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/LabelController.kt" />
-      <jump line="80" column="0" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/LabelController.kt" />
-      <jump line="74" column="0" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/LabelController.kt" />
       <jump line="68" column="0" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/LabelController.kt" />
       <jump line="62" column="0" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/LabelController.kt" />
       <jump line="56" column="0" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/LabelController.kt" />
@@ -885,6 +878,9 @@
       <jump line="0" column="0" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/RecordingController.kt" />
       <jump line="1" column="0" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/RecordingController.kt" />
       <jump line="18" column="0" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/RecordingController.kt" />
+      <jump line="79" column="11" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
+      <jump line="99" column="11" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
+      <jump line="208" column="30" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -894,7 +890,7 @@
         <text>artists</text>
       </register>
       <register name="/" type="4">
-        <text>credits</text>
+        <text encoding="base64">XDxXb3JrRG9jdW1lbnRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZhbCBhcnRpc3RzOiBMaXN0PEFydGlzdD4KICAgICAgICBnZXQoKSA9IGNyZWRpdHMubWFwIHsgaXQuYXJ0aXN0IH0K</text>
@@ -931,9 +927,9 @@
       </register>
     </registers>
     <search>
-      <last-search>credits</last-search>
+      <last-search encoding="base64">XDxXb3JrRG9jdW1lbnRcPg==</last-search>
       <last-offset />
-      <last-pattern>credits</last-pattern>
+      <last-pattern encoding="base64">XDxXb3JrRG9jdW1lbnRcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxleHBvcnRBbGxcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -941,7 +937,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzeXN0ZW1Qcm9wZXJ0eVw+</entry>
         <entry>updateCata</entry>
         <entry>work_detail</entry>
         <entry encoding="base64">XDx1cGRhdGVGaWVsZHNcPg==</entry>
@@ -961,6 +956,7 @@
         <entry>nameCN</entry>
         <entry>name</entry>
         <entry>credits</entry>
+        <entry encoding="base64">XDxXb3JrRG9jdW1lbnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>60</entry>

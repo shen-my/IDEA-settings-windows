@@ -23,11 +23,11 @@
         <mark key="^" line="27" column="31" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" timestamp="1548496757633">
-        <mark key="'" line="49" column="8" />
-        <mark key="[" line="171" column="56" />
-        <mark key="]" line="171" column="60" />
-        <mark key="^" line="171" column="60" />
-        <mark key="." line="171" column="60" />
+        <mark key="'" line="52" column="8" />
+        <mark key="[" line="174" column="56" />
+        <mark key="]" line="174" column="60" />
+        <mark key="^" line="174" column="60" />
+        <mark key="." line="174" column="60" />
       </file>
       <file name="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/FormController.kt" timestamp="1548397121285">
         <mark key="[" line="13" column="42" />
@@ -98,12 +98,22 @@
         <mark key="^" line="48" column="70" />
         <mark key="." line="48" column="70" />
       </file>
+      <file name="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/controller/RecordingController.kt" timestamp="1548323719663">
+        <mark key="[" line="10" column="46" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/es/model/EsWork.kt" timestamp="1548298766139">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="17" column="37" />
         <mark key="]" line="17" column="40" />
         <mark key="." line="17" column="40" />
         <mark key="^" line="17" column="40" />
+      </file>
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/security/JwtAuthenticationFilter.kt" timestamp="1548136887809">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="D:/project/musicbible/backend-api/application-local-test.yml" timestamp="1548490007135">
         <mark key="'" line="18" column="6" />
@@ -280,12 +290,10 @@
         <mark key="^" line="22" column="26" />
         <mark key="." line="22" column="26" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/RecordingService.kt" timestamp="1548493295247">
-        <mark key="'" line="32" column="8" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="50" column="137" />
-        <mark key="." line="28" column="0" />
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/RecordingService.kt" timestamp="1548497584825">
+        <mark key="[" line="200" column="0" />
+        <mark key="]" line="200" column="0" />
+        <mark key="." line="200" column="0" />
       </file>
       <file name="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/HelpController.kt" timestamp="1548397147219">
         <mark key="'" line="93" column="0" />
@@ -772,6 +780,11 @@
         <mark key="^" line="18" column="65" />
         <mark key="." line="18" column="65" />
       </file>
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/boostfield/repository/TagRepository.kt" timestamp="1548417493471">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/es/model/EsUser.kt" timestamp="1548156612482">
         <mark key="[" line="13" column="4" />
         <mark key="]" line="13" column="33" />
@@ -1095,6 +1108,11 @@
         <mark key="." line="12" column="8" />
         <mark key="^" line="11" column="14" />
       </file>
+      <file name="D:/project/musicbible/management/build.gradle" timestamp="1548208984981">
+        <mark key="[" line="11" column="4" />
+        <mark key="]" line="11" column="4" />
+        <mark key="." line="11" column="4" />
+      </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/mapper/work/WorkMapper.kt" timestamp="1547709375773">
         <mark key="[" line="9" column="56" />
         <mark key="]" line="10" column="31" />
@@ -1231,8 +1249,8 @@
       <jump line="49" column="8" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>put</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>put</text>
@@ -1247,28 +1265,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBUZXN0Cg==</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBzZWFyY2goZnV6enk6IFN0cmluZz8sIHRpdGxlOiBTdHJpbmc/LCBhcnRpc3Q6IFN0cmluZz8sIGNyZWF0b3I6IFN0cmluZz8sIGdlbnJlczogTGlzdDxMb25nPj8sIHN0eWxlczogTGlzdDxMb25nPj8sIHJlY29yZFRpbWVzOiBMaXN0PFN0cmluZz4/LCBwYWdlYWJsZTogUGFnZWFibGUpOiBQYWdlPEVzUmVjb3JkaW5nPiB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZ1bgo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tdXNpY2JpYmxlLm1vZGVsLlFHZW5yZS5nZW5yZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVjb3JkaW5nLndvcmtJZCA9IAo=</text>
+        <text encoding="base64">ICAgIGZ1biB1cGRhdGVFcyhyZWNvcmRpbmc6IFJlY29yZGluZykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnBlcnNpc3RlbmNlLlBlcnNpc3RlbmNlQ29udGV4dAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnBlcnNpc3RlbmNlLkVudGl0eU1hbmFnZXIK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>196</text>

@@ -22,8 +22,8 @@
         <mark key="." line="27" column="6" />
         <mark key="^" line="27" column="31" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" timestamp="1548493579396">
-        <mark key="'" line="178" column="0" />
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" timestamp="1548496757633">
+        <mark key="'" line="49" column="8" />
         <mark key="[" line="171" column="56" />
         <mark key="]" line="171" column="60" />
         <mark key="^" line="171" column="60" />
@@ -1009,8 +1009,8 @@
         <mark key="^" line="9" column="11" />
         <mark key="." line="9" column="11" />
       </file>
-      <file name="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" timestamp="1548494771714">
-        <mark key="'" line="169" column="0" />
+      <file name="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" timestamp="1548496739501">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="110" column="35" />
         <mark key="]" line="110" column="32" />
         <mark key="." line="110" column="32" />
@@ -1129,8 +1129,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="3" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportTaxonomies.kt" />
-      <jump line="118" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportTaxonomies.kt" />
       <jump line="125" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportTaxonomies.kt" />
       <jump line="87" column="16" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportTaxonomies.kt" />
       <jump line="86" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportTaxonomies.kt" />
@@ -1161,7 +1159,6 @@
       <jump line="65" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportTaxonomies.kt" />
       <jump line="54" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportTaxonomies.kt" />
       <jump line="51" column="33" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Release.kt" />
-      <jump line="0" column="0" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" />
       <jump line="55" column="8" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
       <jump line="125" column="45" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/WorkController.kt" />
       <jump line="0" column="0" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/WorkController.kt" />
@@ -1229,6 +1226,9 @@
       <jump line="181" column="0" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" />
       <jump line="175" column="0" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" />
       <jump line="169" column="0" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" />
+      <jump line="182" column="25" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" />
+      <jump line="0" column="0" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" />
+      <jump line="49" column="8" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1238,7 +1238,7 @@
         <text>put</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtb3ZlbWVudEZhY3RvcnlcPg==</text>
+        <text encoding="base64">XDx1cGRhdGVJbnN0cnVtZW50c1w+</text>
       </register>
       <register name="0" type="4">
         <text>t</text>
@@ -1275,9 +1275,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtb3ZlbWVudEZhY3RvcnlcPg==</last-search>
+      <last-search encoding="base64">XDx1cGRhdGVJbnN0cnVtZW50c1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtb3ZlbWVudEZhY3RvcnlcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx1cGRhdGVJbnN0cnVtZW50c1w+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxleHBvcnRBbGxcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1285,8 +1285,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1cGRhdGVDYXRhbG9nTnVtYmVyc1w+</entry>
-        <entry>cata</entry>
         <entry encoding="base64">XDxSZWxlYXNlVHlwZVNlcnZpY2VcPg==</entry>
         <entry encoding="base64">XDxSZWxlYXNlQ2F0YWxvZ091dHB1dFw+</entry>
         <entry>backendList</entry>
@@ -1305,6 +1303,8 @@
         <entry encoding="base64">XDxhZGRUcmFja0J5TW92ZW1lbnRzXD4=</entry>
         <entry encoding="base64">XDxNb3ZlbWVudEZhY3RvcnlcPg==</entry>
         <entry encoding="base64">XDxtb3ZlbWVudEZhY3RvcnlcPg==</entry>
+        <entry>instrument</entry>
+        <entry encoding="base64">XDx1cGRhdGVJbnN0cnVtZW50c1w+</entry>
       </history-search>
       <history-cmd>
         <entry>18</entry>

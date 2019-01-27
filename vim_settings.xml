@@ -894,22 +894,12 @@
       <file name="/Dummy.txt" timestamp="1548139357905">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/project/musicbible/migration/console/models/taxonomy.py" timestamp="1548558254635">
-        <mark key="[" line="18" column="0" />
-      </file>
       <file name="D:/project/gatenetdoc-server/src/main/resources/application.yml" timestamp="1547972782636">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="36" column="17" />
         <mark key="]" line="36" column="12" />
         <mark key="." line="36" column="12" />
         <mark key="^" line="36" column="12" />
-      </file>
-      <file name="D:/project/musicbible/migration/console/models/artist.py" timestamp="1548553618995">
-        <mark key="'" line="44" column="0" />
-        <mark key="[" line="37" column="38" />
-        <mark key="]" line="38" column="33" />
-        <mark key="^" line="38" column="33" />
-        <mark key="." line="38" column="33" />
       </file>
       <file name="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/AdminController.kt" timestamp="1548466971965">
         <mark key="'" line="54" column="104" />
@@ -1018,9 +1008,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/RecordingService.kt" />
-      <jump line="34" column="8" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/RecordingService.kt" />
-      <jump line="170" column="17" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/RecordingService.kt" />
       <jump line="36" column="15" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/RecordingService.kt" />
       <jump line="185" column="17" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/RecordingService.kt" />
       <jump line="35" column="8" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/RecordingService.kt" />
@@ -1118,46 +1105,49 @@
       <jump line="67" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Artist.kt" />
       <jump line="64" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Artist.kt" />
       <jump line="86" column="25" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Work.kt" />
+      <jump line="22" column="42" filename="D:/project/musicbible/migration/console/models/taxonomy.py" />
+      <jump line="2" column="27" filename="D:/project/musicbible/migration/console/models/taxonomy.py" />
+      <jump line="26" column="22" filename="D:/project/musicbible/migration/console/models/artist.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>nationality</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>repository</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>catalog</text>
       </register>
-      <register name="0" type="4">
-        <text>nationality</text>
+      <register name="0" type="2">
+        <text encoding="base64">Iy0qLSBlbmNvZGluZzogdXRmLTggLSotCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXJ0aXN0Lgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBPbmVUb01hbnkKICAgIHZhciB0cmFja3M6IE11dGFibGVMaXN0PFRyYWNrPiA9IG11dGFibGVMaXN0T2YoKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIEAK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIEBPbmVUb01hbnkKICAgIHZhciB0cmFja3M6IE11dGFibGVMaXN0PFRyYWNrPiA9IG11dGFibGVMaXN0T2YoKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>196</text>

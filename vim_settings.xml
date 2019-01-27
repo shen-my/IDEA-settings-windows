@@ -366,12 +366,12 @@
         <mark key="^" line="29" column="14" />
         <mark key="." line="29" column="14" />
       </file>
-      <file name="D:/project/musicbible/migration/console/models/tune.py" timestamp="1548574457988">
+      <file name="D:/project/musicbible/migration/console/models/tune.py" timestamp="1548574574171">
         <mark key="'" line="30" column="0" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="^" line="42" column="65" />
-        <mark key="." line="43" column="0" />
+        <mark key="[" line="42" column="77" />
+        <mark key="]" line="42" column="77" />
+        <mark key="^" line="42" column="77" />
+        <mark key="." line="42" column="77" />
       </file>
       <file name="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/InstrumentController.kt" timestamp="1548469529469">
         <mark key="'" line="0" column="0" />
@@ -497,7 +497,7 @@
         <mark key="]" line="150" column="32" />
         <mark key="." line="150" column="32" />
       </file>
-      <file name="D:/project/musicbible/migration/console/models/movement.py" timestamp="1547610251377">
+      <file name="D:/project/musicbible/migration/console/models/movement.py" timestamp="1548574734833">
         <mark key="'" line="13" column="0" />
         <mark key="[" line="21" column="56" />
         <mark key="]" line="21" column="56" />
@@ -714,12 +714,12 @@
         <mark key="." line="53" column="15" />
         <mark key="^" line="53" column="15" />
       </file>
-      <file name="D:/project/musicbible/migration/console/management/commands/migratedb.py" timestamp="1548553162189">
+      <file name="D:/project/musicbible/migration/console/management/commands/migratedb.py" timestamp="1548574932465">
         <mark key="'" line="60" column="0" />
-        <mark key="[" line="62" column="55" />
-        <mark key="]" line="63" column="11" />
-        <mark key="^" line="63" column="11" />
-        <mark key="." line="63" column="11" />
+        <mark key="[" line="68" column="61" />
+        <mark key="]" line="69" column="11" />
+        <mark key="^" line="69" column="11" />
+        <mark key="." line="69" column="11" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/CommandLine.kt" timestamp="1547601680649">
         <mark key="'" line="11" column="21" />
@@ -1123,10 +1123,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAjCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aWYg</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>catalog</text>
@@ -1135,31 +1135,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICfFrrXN0vQnLCAnxa7W0NL0JywgJ8WuuN/S9CcsICe0zsWuuN/S9CcsICfE0LXN0vQnLCAnxNDW0NL0JywgJ8TQuN/S9CcsICfWuLvTJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAjCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTm9uZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTm9uZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">J7fnx+knCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">J7fnx+knCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXJ0aXN0Lgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXJ0aXN0Lgo=</text>
       </register>
       <register name=":" type="4">
         <text>196</text>

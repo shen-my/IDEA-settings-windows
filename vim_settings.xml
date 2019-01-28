@@ -462,12 +462,12 @@
         <mark key="^" line="5" column="47" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" timestamp="1548655807642">
-        <mark key="'" line="249" column="0" />
-        <mark key="[" line="248" column="1" />
-        <mark key="]" line="249" column="0" />
-        <mark key="." line="249" column="0" />
-        <mark key="^" line="249" column="0" />
+      <file name="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" timestamp="1548656577288">
+        <mark key="'" line="378" column="27" />
+        <mark key="[" line="418" column="55" />
+        <mark key="]" line="419" column="15" />
+        <mark key="." line="419" column="15" />
+        <mark key="^" line="419" column="15" />
       </file>
       <file name="D:/project/musicbible/common/build.gradle" timestamp="1548406056050">
         <mark key="'" line="14" column="28" />
@@ -1111,7 +1111,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="179" column="0" filename="D:/project/musicbible/migration/console/models/record.py" />
       <jump line="162" column="0" filename="D:/project/musicbible/migration/console/models/record.py" />
       <jump line="152" column="0" filename="D:/project/musicbible/migration/console/models/record.py" />
       <jump line="148" column="0" filename="D:/project/musicbible/migration/console/models/record.py" />
@@ -1211,55 +1210,56 @@
       <jump line="282" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
       <jump line="215" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
       <jump line="249" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
+      <jump line="378" column="27" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
-        <text>group</text>
+        <text encoding="base64">XDxnZXRSZWZlcmVuY2VcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQgdmFsIGNvdW50cnlTZXJ2aWNlOiBDb3VudHJ5U2VydmljZQo=</text>
+      <register name="0" type="4">
+        <text>labelIdMap[labelId]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGl0Lm1hc3RlcklkICE9IHJlbGVhc2UuaWQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCB3b3JrQXJ0aXN0ID0gV29ya0FydGlzdCgKICAgICAgICAgICAgICAgICAgICBtLAogICAgICAgICAgICAgICAgICAgIGVtLmdldFJlZmVyZW5jZShBcnRpc3Q6OmNsYXNzLmphdmEsIGFydGlzdElkTWFwW2FydGlzdElkXSksCiAgICAgICAgICAgICAgICAgICAgZmluZFByb2Zlc3Npb24oItf3x/oiKSwKICAgICAgICAgICAgICAgICAgICAwLCB0cnVlCiAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICB3b3JrQXJ0aXN0UmVwb3NpdG9yeS5zYXZlKHdvcmtBcnRpc3QpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4oImZpbmQgYXJ0aXN0ICRhcnRpc3RJZDoke2FydGlzdElkTWFwW2FydGlzdElkXX0iKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbigicmVsZWFzZToke2l0LmlkfToke20uaWR9IikK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGl0Lm1hc3RlcklkICE9IHJlbGVhc2UuaWQpCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbS5nZW5yZXMgPSBpdC5nZW5yZXMubWFwKDo6ZmluZEdlbnJlKS50b1NldCgpCiAgICAgICAgICAgIGl0LmFydGlzdElkcy5mb3JFYWNoSW5kZXhlZCB7IGksIGFydGlzdElkIC0+CiAgICAgICAgICAgICAgICB2YWwgcmVsZWFzZUFydGlzdCA9IFJlbGVhc2VBcnRpc3QoCiAgICAgICAgICAgICAgICAgICAgbSwKICAgICAgICAgICAgICAgICAgICBlbS5nZXRSZWZlcmVuY2UoQXJ0aXN0OjpjbGFzcy5qYXZhLCBhcnRpc3RJZE1hcFthcnRpc3RJZF0pLAogICAgICAgICAgICAgICAgICAgIGksIHRydWUKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgIHJlbGVhc2VBcnRpc3RSZXBvc2l0b3J5LnNhdmUocmVsZWFzZUFydGlzdCkKICAgICAgICAgICAgfQoKICAgICAgICAgICAgaXQuYmlsbGJvYXJkSWRzLmZvckVhY2ggeyBiaWxsYm9hcmRJZCAtPgogICAgICAgICAgICAgICAgYmlsbGJvYXJkU2VydmljZS5hc3NvY2lhdGVSZWxlYXNlKGJpbGxib2FyZElkTWFwW2JpbGxib2FyZElkXSEhLCBtLmlkKQogICAgICAgICAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXQubGFiZWxJZD8uYWxzbyB7IGxhYmVsSWQgLT4KICAgICAgICAgICAgICAgIHZhbCBjYXRhbG9nID0gQ2F0YWxvZygKICAgICAgICAgICAgICAgICAgICBlbS5nZXRSZWZlcmVuY2UoTGFiZWw6OmNsYXNzLmphdmEsIGxhYmVsSWQpLAogICAgICAgICAgICAgICAgICAgIG0sIGl0LmNhdGFsb2dOdW1iZXIKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgIGNhdGFsb2dSZXBvc2l0b3J5LnNhdmUoY2F0YWxvZykKICAgICAgICAgICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbigicmVsZWFzZToke2l0LmlkfToke20uaWR9IikK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIG0gPSBpdC50b0VudGl0eShpbXBvcnRlcikKICAgICAgICAgICAgaXQubWFzdGVySWQ/LmFsc28geyBtYXN0ZXJJZCAtPgogICAgICAgICAgICAgICAgbS5tYXN0ZXIgPSBlbS5nZXRSZWZlcmVuY2UoUmVsZWFzZTo6Y2xhc3MuamF2YSwgbWFzdGVySWQpCiAgICAgICAgICAgIH0KICAgICAgICAgICAgbS5tZWRpYSA9IGZpbmRNZWRpYShpdC5tZWRpYSkKICAgICAgICAgICAgcmVsZWFzZVNlcnZpY2Uuc2F2ZShtKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbS5nZW5yZXMgPSBpdC5nZW5yZXMubWFwKDo6ZmluZEdlbnJlKS50b1NldCgpCiAgICAgICAgICAgIGl0LmFydGlzdElkcy5mb3JFYWNoSW5kZXhlZCB7IGksIGFydGlzdElkIC0+CiAgICAgICAgICAgICAgICB2YWwgcmVsZWFzZUFydGlzdCA9IFJlbGVhc2VBcnRpc3QoCiAgICAgICAgICAgICAgICAgICAgbSwKICAgICAgICAgICAgICAgICAgICBlbS5nZXRSZWZlcmVuY2UoQXJ0aXN0OjpjbGFzcy5qYXZhLCBhcnRpc3RJZE1hcFthcnRpc3RJZF0pLAogICAgICAgICAgICAgICAgICAgIGksIHRydWUKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgIHJlbGVhc2VBcnRpc3RSZXBvc2l0b3J5LnNhdmUocmVsZWFzZUFydGlzdCkKICAgICAgICAgICAgfQoKICAgICAgICAgICAgaXQuYmlsbGJvYXJkSWRzLmZvckVhY2ggeyBiaWxsYm9hcmRJZCAtPgogICAgICAgICAgICAgICAgYmlsbGJvYXJkU2VydmljZS5hc3NvY2lhdGVSZWxlYXNlKGJpbGxib2FyZElkTWFwW2JpbGxib2FyZElkXSEhLCBtLmlkKQogICAgICAgICAgICB9Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>378</text>
       </register>
     </registers>
     <search>
-      <last-search>group</last-search>
+      <last-search encoding="base64">XDxnZXRSZWZlcmVuY2VcPg==</last-search>
       <last-offset />
-      <last-pattern>group</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRSZWZlcmVuY2VcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxleHBvcnRBbGxcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1267,7 +1267,6 @@
     </search>
     <history>
       <history-search>
-        <entry>importArtist</entry>
         <entry>ArtistDocument</entry>
         <entry>findGenre</entry>
         <entry>valueOf</entry>
@@ -1287,6 +1286,7 @@
         <entry encoding="base64">XDxyZWNvcmRpbmdEb2N1bWVudFw+</entry>
         <entry>RecordingDocu</entry>
         <entry>group</entry>
+        <entry encoding="base64">XDxnZXRSZWZlcmVuY2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4zMzk=</entry>

@@ -776,12 +776,11 @@
         <mark key="^" line="3" column="13" />
         <mark key="." line="3" column="13" />
       </file>
-      <file name="D:/project/musicbible/migration/console/management/commands/migratedb.py" timestamp="1548582706567">
+      <file name="D:/project/musicbible/migration/console/management/commands/migratedb.py" timestamp="1548642889087">
         <mark key="'" line="0" column="11" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="50" column="11" />
-        <mark key="." line="7" column="0" />
+        <mark key="[" line="50" column="8" />
+        <mark key="]" line="50" column="8" />
+        <mark key="." line="50" column="8" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/CommandLine.kt" timestamp="1547601680649">
         <mark key="'" line="11" column="21" />
@@ -982,7 +981,7 @@
         <mark key="." line="10" column="48" />
         <mark key="^" line="10" column="48" />
       </file>
-      <file name="D:/project/musicbible/migration/console/models/taxonomy.py" timestamp="1548591807517">
+      <file name="D:/project/musicbible/migration/console/models/taxonomy.py" timestamp="1548642685149">
         <mark key="'" line="36" column="32" />
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
@@ -1221,11 +1220,11 @@
       <jump line="82" column="37" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Release.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tdXNpY2JpYmxlLm1hcHBlci5sYWJlbC5TZWFyY2hMYWJlbEFkbWluSW5wdXQK</text>
+      <register name="&quot;" type="4">
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjcmVkaXRzXD4=</text>
@@ -1234,31 +1233,31 @@
         <text>releaseArtistRepository</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tdXNpY2JpYmxlLm1hcHBlci5sYWJlbC5TZWFyY2hMYWJlbEFkbWluSW5wdXQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QEVudGl0eUxpc3RlbmVycyhBcnRpc3RMaXN0ZW5lcjo6Y2xhc3MpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChhcnRpc3QubWlncmF0ZSgpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQgdmFsIHBlcmlvZFNlcnZpY2U6IFBlcmlvZFNlcnZpY2UsCg==</text>
+        <text encoding="base64">ICAgICAgICBhcnRpc3QgPSBBcnRpc3Qub2JqZWN0cy5nZXQocGs9MTg5OSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQgdmFsIHJlbGVhc2VUeXBlU2VydmljZTogUmVsZWFzZVR5cGVTZXJ2aWNlLAo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tdXNpY2JpYmxlLm1hcHBlci5sYWJlbC5TZWFyY2hMYWJlbEFkbWluSW5wdXQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQgdmFsIGluc3RydW1lbnRTZXJ2aWNlOiBJbnN0cnVtZW50U2VydmljZSwK</text>
+        <text encoding="base64">QEVudGl0eUxpc3RlbmVycyhBcnRpc3RMaXN0ZW5lcjo6Y2xhc3MpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQgdmFsIGZvcm1TZXJ2aWNlOiBGb3JtU2VydmljZSwK</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQgdmFsIHBlcmlvZFNlcnZpY2U6IFBlcmlvZFNlcnZpY2UsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQgdmFsIHJlbGVhc2VBcnRpc3RSZXBvc2l0b3J5OiBSZWxlYXNlQXJ0aXN0UmVwb3NpdG9yeSwK</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQgdmFsIHJlbGVhc2VUeXBlU2VydmljZTogUmVsZWFzZVR5cGVTZXJ2aWNlLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaW5kUHJvZmVzc2lvbigi1/fH+iIpLAo=</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQgdmFsIGluc3RydW1lbnRTZXJ2aWNlOiBJbnN0cnVtZW50U2VydmljZSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbS5nZXRSZWZlcmVuY2UoQXJ0aXN0OjpjbGFzcy5qYXZhLCBhcnRpc3RJZE1hcFthcnRpc3RJZF0pLAo=</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQgdmFsIGZvcm1TZXJ2aWNlOiBGb3JtU2VydmljZSwK</text>
       </register>
       <register name=":" type="4">
         <text>196</text>

@@ -462,12 +462,12 @@
         <mark key="^" line="5" column="47" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" timestamp="1548657577394">
-        <mark key="'" line="307" column="8" />
-        <mark key="[" line="418" column="55" />
-        <mark key="]" line="419" column="15" />
-        <mark key="." line="419" column="15" />
-        <mark key="^" line="419" column="15" />
+      <file name="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" timestamp="1548659077614">
+        <mark key="'" line="226" column="8" />
+        <mark key="[" line="411" column="39" />
+        <mark key="]" line="411" column="44" />
+        <mark key="." line="411" column="44" />
+        <mark key="^" line="411" column="44" />
       </file>
       <file name="D:/project/musicbible/common/build.gradle" timestamp="1548406056050">
         <mark key="'" line="14" column="28" />
@@ -1117,8 +1117,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="148" column="0" filename="D:/project/musicbible/migration/console/models/record.py" />
-      <jump line="142" column="0" filename="D:/project/musicbible/migration/console/models/record.py" />
       <jump line="121" column="0" filename="D:/project/musicbible/migration/console/models/record.py" />
       <jump line="66" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Release.kt" />
       <jump line="65" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Release.kt" />
@@ -1217,6 +1215,8 @@
       <jump line="290" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
       <jump line="298" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
       <jump line="307" column="8" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
+      <jump line="411" column="26" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
+      <jump line="226" column="8" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1226,7 +1226,7 @@
         <text>update</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbXBvcnRSZWxlYXNlXD4=</text>
+        <text encoding="base64">XDxjYXRhbG9nTnVtYmVyXD4=</text>
       </register>
       <register name="0" type="4">
         <text>labelIdMap[labelId]</text>
@@ -1259,13 +1259,13 @@
         <text encoding="base64">ICAgICAgICAgICAgbS5nZW5yZXMgPSBpdC5nZW5yZXMubWFwKDo6ZmluZEdlbnJlKS50b1NldCgpCiAgICAgICAgICAgIGl0LmFydGlzdElkcy5mb3JFYWNoSW5kZXhlZCB7IGksIGFydGlzdElkIC0+CiAgICAgICAgICAgICAgICB2YWwgcmVsZWFzZUFydGlzdCA9IFJlbGVhc2VBcnRpc3QoCiAgICAgICAgICAgICAgICAgICAgbSwKICAgICAgICAgICAgICAgICAgICBlbS5nZXRSZWZlcmVuY2UoQXJ0aXN0OjpjbGFzcy5qYXZhLCBhcnRpc3RJZE1hcFthcnRpc3RJZF0pLAogICAgICAgICAgICAgICAgICAgIGksIHRydWUKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgIHJlbGVhc2VBcnRpc3RSZXBvc2l0b3J5LnNhdmUocmVsZWFzZUFydGlzdCkKICAgICAgICAgICAgfQoKICAgICAgICAgICAgaXQuYmlsbGJvYXJkSWRzLmZvckVhY2ggeyBiaWxsYm9hcmRJZCAtPgogICAgICAgICAgICAgICAgYmlsbGJvYXJkU2VydmljZS5hc3NvY2lhdGVSZWxlYXNlKGJpbGxib2FyZElkTWFwW2JpbGxib2FyZElkXSEhLCBtLmlkKQogICAgICAgICAgICB9Cgo=</text>
       </register>
       <register name=":" type="4">
-        <text>378</text>
+        <text>410</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbXBvcnRSZWxlYXNlXD4=</last-search>
+      <last-search encoding="base64">XDxjYXRhbG9nTnVtYmVyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbXBvcnRSZWxlYXNlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjYXRhbG9nTnVtYmVyXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxleHBvcnRBbGxcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1273,7 +1273,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ArtistDocument</entry>
         <entry>findGenre</entry>
         <entry>valueOf</entry>
         <entry encoding="base64">XDzH4dL0wNZcPg==</entry>
@@ -1293,10 +1292,9 @@
         <entry>group</entry>
         <entry encoding="base64">XDxnZXRSZWZlcmVuY2VcPg==</entry>
         <entry encoding="base64">XDxpbXBvcnRSZWxlYXNlXD4=</entry>
+        <entry encoding="base64">XDxjYXRhbG9nTnVtYmVyXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz4zMzk=</entry>
-        <entry>92</entry>
         <entry>72</entry>
         <entry>40</entry>
         <entry>28</entry>
@@ -1315,6 +1313,8 @@
         <entry>337</entry>
         <entry>377</entry>
         <entry>378</entry>
+        <entry>;410</entry>
+        <entry>410</entry>
       </history-cmd>
       <history-expr />
       <history-input />

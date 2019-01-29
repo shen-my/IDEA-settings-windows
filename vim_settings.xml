@@ -760,8 +760,8 @@
         <mark key="^" line="5" column="47" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" timestamp="1548725039473">
-        <mark key="'" line="78" column="0" />
+      <file name="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" timestamp="1548727364923">
+        <mark key="'" line="310" column="8" />
         <mark key="[" line="309" column="23" />
         <mark key="]" line="310" column="24" />
         <mark key="." line="310" column="24" />
@@ -1103,7 +1103,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="450" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
       <jump line="18" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Release.kt" />
       <jump line="149" column="16" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Release.kt" />
       <jump line="26" column="31" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Release.kt" />
@@ -1203,6 +1202,7 @@
       <jump line="1" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" />
       <jump line="21" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" />
       <jump line="34" column="26" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" />
+      <jump line="310" column="8" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1212,7 +1212,7 @@
         <text>create</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxSZWNvcmRpbmdBcnRpc3RSZXBvc2l0b3J5XD4=</text>
+        <text encoding="base64">XDxpbXBvcnRSZWNvcmRpbmdcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGFydGlzdDEubWVtYmVycy5jb250YWlucyhhcnRpc3QzKSkuaXNUcnVlKCkK</text>
@@ -1249,9 +1249,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxSZWNvcmRpbmdBcnRpc3RSZXBvc2l0b3J5XD4=</last-search>
+      <last-search encoding="base64">XDxpbXBvcnRSZWNvcmRpbmdcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxSZWNvcmRpbmdBcnRpc3RSZXBvc2l0b3J5XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxpbXBvcnRSZWNvcmRpbmdcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxleHBvcnRBbGxcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1259,7 +1259,6 @@
     </search>
     <history>
       <history-search>
-        <entry>billboard</entry>
         <entry encoding="base64">XDxiaWxsYm9hcmRJZE1hcFw+</entry>
         <entry>artists</entry>
         <entry encoding="base64">XDxjcmVkaXRzXD4=</entry>
@@ -1279,6 +1278,7 @@
         <entry encoding="base64">XDxtYXN0ZXJcPg==</entry>
         <entry>last</entry>
         <entry encoding="base64">XDxSZWNvcmRpbmdBcnRpc3RSZXBvc2l0b3J5XD4=</entry>
+        <entry encoding="base64">XDxpbXBvcnRSZWNvcmRpbmdcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>28</entry>

@@ -455,8 +455,8 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/User.kt" timestamp="1549881213427">
-        <mark key="'" line="53" column="0" />
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/User.kt" timestamp="1550113119599">
+        <mark key="'" line="92" column="0" />
         <mark key="[" line="45" column="15" />
         <mark key="]" line="45" column="38" />
         <mark key="." line="45" column="38" />
@@ -675,8 +675,8 @@
         <mark key="." line="52" column="70" />
         <mark key="^" line="52" column="70" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/mapper/appreciation/AppreciationOutput.kt" timestamp="1550112067190">
-        <mark key="'" line="37" column="11" />
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/mapper/appreciation/AppreciationOutput.kt" timestamp="1550113168130">
+        <mark key="'" line="45" column="19" />
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
@@ -773,6 +773,11 @@
         <mark key="]" line="10" column="45" />
         <mark key="^" line="10" column="44" />
         <mark key="." line="10" column="44" />
+      </file>
+      <file name="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" timestamp="1550113139976">
+        <mark key="[" line="138" column="52" />
+        <mark key="]" line="138" column="52" />
+        <mark key="." line="138" column="52" />
       </file>
       <file name="D:/project/musicbible/migration/console/models/taxonomy.py" timestamp="1548642685149">
         <mark key="'" line="36" column="32" />
@@ -884,9 +889,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="34" filename="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" />
-      <jump line="42" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Appreciation.kt" />
-      <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Appreciation.kt" />
       <jump line="1" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Appreciation.kt" />
       <jump line="16" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Appreciation.kt" />
       <jump line="26" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Appreciation.kt" />
@@ -984,13 +986,16 @@
       <jump line="1" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/factory/AppreciationFactory.kt" />
       <jump line="20" column="75" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/factory/AppreciationFactory.kt" />
       <jump line="37" column="11" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/mapper/appreciation/AppreciationOutput.kt" />
+      <jump line="12" column="6" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/User.kt" />
+      <jump line="92" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/User.kt" />
+      <jump line="45" column="19" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/mapper/appreciation/AppreciationOutput.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>offset</text>
+        <text>attitudeattitude</text>
       </register>
       <register name="-" type="4">
-        <text>offset</text>
+        <text>attitudeattitude</text>
       </register>
       <register name="/" type="4">
         <text>type</text>

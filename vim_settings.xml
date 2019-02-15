@@ -17,8 +17,8 @@
         <mark key="." line="28" column="32" />
         <mark key="^" line="7" column="37" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" timestamp="1550226214444">
-        <mark key="'" line="184" column="0" />
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" timestamp="1550228561285">
+        <mark key="'" line="74" column="56" />
         <mark key="[" line="563" column="17" />
         <mark key="]" line="563" column="33" />
         <mark key="." line="565" column="19" />
@@ -619,6 +619,12 @@
         <mark key="." line="79" column="8" />
         <mark key="^" line="79" column="8" />
       </file>
+      <file name="D:/project/musicbible/migration/.env" timestamp="1550228621354">
+        <mark key="[" line="4" column="59" />
+        <mark key="]" line="4" column="59" />
+        <mark key="^" line="4" column="59" />
+        <mark key="." line="4" column="59" />
+      </file>
       <file name="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" timestamp="1550221284132">
         <mark key="'" line="24" column="19" />
         <mark key="[" line="89" column="50" />
@@ -758,12 +764,12 @@
         <mark key="^" line="3" column="14" />
         <mark key="." line="3" column="14" />
       </file>
-      <file name="D:/project/musicbible/migration/console/management/commands/migratedb.py" timestamp="1548745912410">
-        <mark key="'" line="63" column="0" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-        <mark key="^" line="63" column="40" />
+      <file name="D:/project/musicbible/migration/console/management/commands/migratedb.py" timestamp="1550228595024">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="45" column="27" />
+        <mark key="]" line="45" column="19" />
+        <mark key="." line="45" column="19" />
+        <mark key="^" line="45" column="19" />
       </file>
       <file name="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/controller/CountryController.kt" timestamp="1548647268939">
         <mark key="'" line="17" column="4" />
@@ -1054,16 +1060,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="291" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" />
-      <jump line="278" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" />
-      <jump line="268" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" />
-      <jump line="258" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" />
-      <jump line="254" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" />
-      <jump line="250" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" />
-      <jump line="247" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" />
-      <jump line="237" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" />
-      <jump line="233" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" />
-      <jump line="226" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" />
       <jump line="222" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" />
       <jump line="219" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" />
       <jump line="216" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" />
@@ -1154,13 +1150,23 @@
       <jump line="165" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
       <jump line="177" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
       <jump line="184" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
+      <jump line="565" column="4" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
+      <jump line="74" column="56" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
+      <jump line="0" column="0" filename="D:/project/musicbible/migration/console/management/commands/migratedb.py" />
+      <jump line="1" column="0" filename="D:/project/musicbible/migration/console/management/commands/migratedb.py" />
+      <jump line="8" column="0" filename="D:/project/musicbible/migration/console/management/commands/migratedb.py" />
+      <jump line="14" column="0" filename="D:/project/musicbible/migration/console/management/commands/migratedb.py" />
+      <jump line="28" column="0" filename="D:/project/musicbible/migration/console/management/commands/migratedb.py" />
+      <jump line="35" column="0" filename="D:/project/musicbible/migration/console/management/commands/migratedb.py" />
+      <jump line="38" column="0" filename="D:/project/musicbible/migration/console/management/commands/migratedb.py" />
+      <jump line="43" column="0" filename="D:/project/musicbible/migration/console/management/commands/migratedb.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IDE5Mi4xNjguNTAuMjEz</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text encoding="base64">IDE5Mi4xNjguNTAuMjEz</text>
       </register>
       <register name="/" type="4">
         <text>editionCount</text>

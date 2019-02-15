@@ -154,11 +154,11 @@
         <mark key="." line="67" column="0" />
         <mark key="^" line="66" column="40" />
       </file>
-      <file name="D:/project/musicbible/backend-api/application-local-test.yml" timestamp="1548904055428">
+      <file name="D:/project/musicbible/backend-api/application-local-test.yml" timestamp="1550230001900">
         <mark key="'" line="18" column="6" />
-        <mark key="[" line="14" column="16" />
-        <mark key="]" line="14" column="16" />
-        <mark key="." line="14" column="16" />
+        <mark key="[" line="14" column="22" />
+        <mark key="]" line="14" column="21" />
+        <mark key="." line="14" column="21" />
         <mark key="^" line="14" column="21" />
       </file>
       <file name="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportTaxonomies.kt" timestamp="1548488853968">
@@ -188,6 +188,12 @@
         <mark key="]" line="138" column="25" />
         <mark key="." line="138" column="25" />
         <mark key="^" line="138" column="25" />
+      </file>
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/mapper/appreciation/AppreciationMapper.kt" timestamp="1550129949121">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/ArtistController.kt" timestamp="1548741686148">
         <mark key="'" line="21" column="0" />
@@ -314,12 +320,12 @@
         <mark key="^" line="20" column="52" />
         <mark key="." line="20" column="52" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Label.kt" timestamp="1550218898709">
-        <mark key="'" line="45" column="0" />
-        <mark key="[" line="62" column="22" />
-        <mark key="]" line="62" column="25" />
-        <mark key="^" line="62" column="25" />
-        <mark key="." line="62" column="25" />
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Label.kt" timestamp="1550230143641">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="19" column="44" />
+        <mark key="]" line="19" column="43" />
+        <mark key="^" line="19" column="43" />
+        <mark key="." line="19" column="43" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/factory/AppreciationFactory.kt" timestamp="1550110121243">
         <mark key="'" line="22" column="75" />
@@ -411,7 +417,7 @@
         <mark key="^" line="3" column="29" />
         <mark key="." line="3" column="29" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Release.kt" timestamp="1550224726956">
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Release.kt" timestamp="1550230068882">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="27" column="11" />
         <mark key="]" line="27" column="10" />
@@ -563,12 +569,11 @@
         <mark key="^" line="143" column="9" />
         <mark key="." line="143" column="9" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/User.kt" timestamp="1550221384110">
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/User.kt" timestamp="1550229878595">
         <mark key="'" line="63" column="0" />
-        <mark key="[" line="47" column="31" />
-        <mark key="]" line="48" column="3" />
-        <mark key="." line="48" column="3" />
-        <mark key="^" line="48" column="3" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="D:/project/test/Test.kt" timestamp="1548037067475">
         <mark key="'" line="0" column="1" />
@@ -937,10 +942,6 @@
         <mark key="." line="36" column="12" />
         <mark key="^" line="36" column="12" />
       </file>
-      <file name="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportCountry.kt" timestamp="1550222355536">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="7" column="47" />
-      </file>
       <file name="D:/project/musicbible/migration/console/models/artist.py" timestamp="1548646446877">
         <mark key="'" line="39" column="24" />
         <mark key="[" line="28" column="0" />
@@ -1060,7 +1061,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="222" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" />
       <jump line="219" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" />
       <jump line="216" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" />
       <jump line="0" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" />
@@ -1093,7 +1093,6 @@
       <jump line="31" column="66" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/BillboardService.kt" />
       <jump line="60" column="3" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/es/model/EsSale.kt" />
       <jump line="28" column="10" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Release.kt" />
-      <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Release.kt" />
       <jump line="14" column="49" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/CountAssociations.kt" />
       <jump line="22" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/CountAssociations.kt" />
       <jump line="26" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/CountAssociations.kt" />
@@ -1160,55 +1159,57 @@
       <jump line="35" column="0" filename="D:/project/musicbible/migration/console/management/commands/migratedb.py" />
       <jump line="38" column="0" filename="D:/project/musicbible/migration/console/management/commands/migratedb.py" />
       <jump line="43" column="0" filename="D:/project/musicbible/migration/console/management/commands/migratedb.py" />
+      <jump line="38" column="26" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Release.kt" />
+      <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Release.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IDE5Mi4xNjguNTAuMjEz</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QFRhYmxlKGluZGV4ZXMgPSBbSW5kZXgoY29sdW1uTGlzdCA9ICIiKV0pCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IDE5Mi4xNjguNTAuMjEz</text>
       </register>
       <register name="/" type="4">
-        <text>editionCount</text>
+        <text>master</text>
       </register>
       <register name="0" type="4">
         <text>freshEditionCount</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">QFRhYmxlKGluZGV4ZXMgPSBbSW5kZXgoY29sdW1uTGlzdCA9ICIiKV0pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG92ZXIK</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIG92ZXIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGNodW5rU2l6ZSA9IDAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZWxlYXNlU2VydmljZS5hbGxFeGlzdHMoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGNodW5rU2l6ZSA9IDAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB7cH0K</text>
+        <text encoding="base64">ICAgICAgICByZWxlYXNlU2VydmljZS5hbGxFeGlzdHMoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZWxlYXNlCg==</text>
+        <text encoding="base64">ICAgICAgICB7cH0K</text>
       </register>
       <register name=":" type="4">
         <text>49</text>
       </register>
     </registers>
     <search>
-      <last-search>editionCount</last-search>
+      <last-search>master</last-search>
       <last-offset />
-      <last-pattern>editionCount</last-pattern>
+      <last-pattern>master</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxleHBvcnRBbGxcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1233,9 +1234,9 @@
         <entry encoding="base64">XDxmcmVzaFJlbGVhc2VDb3VudFw+</entry>
         <entry>catalog</entry>
         <entry encoding="base64">XDxpbmRleFRvRXNcPg==</entry>
-        <entry>master</entry>
         <entry>edition</entry>
         <entry>editionCount</entry>
+        <entry>master</entry>
       </history-search>
       <history-cmd>
         <entry>;410</entry>

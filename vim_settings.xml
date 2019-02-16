@@ -715,8 +715,9 @@
         <mark key="^" line="8" column="27" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="D:/project/musicbible/bin/manage.sh" timestamp="1550127139963">
-        <mark key="[" line="21" column="36" />
+      <file name="D:/project/musicbible/bin/manage.sh" timestamp="1550277167409">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="21" column="42" />
         <mark key="]" line="21" column="41" />
         <mark key="^" line="21" column="41" />
         <mark key="." line="21" column="41" />
@@ -769,12 +770,12 @@
         <mark key="^" line="3" column="14" />
         <mark key="." line="3" column="14" />
       </file>
-      <file name="D:/project/musicbible/migration/console/management/commands/migratedb.py" timestamp="1550228595024">
+      <file name="D:/project/musicbible/migration/console/management/commands/migratedb.py" timestamp="1550277059433">
         <mark key="'" line="43" column="0" />
-        <mark key="[" line="45" column="27" />
-        <mark key="]" line="45" column="19" />
-        <mark key="." line="45" column="19" />
-        <mark key="^" line="45" column="19" />
+        <mark key="[" line="63" column="63" />
+        <mark key="]" line="64" column="26" />
+        <mark key="." line="64" column="26" />
+        <mark key="^" line="64" column="26" />
       </file>
       <file name="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/controller/CountryController.kt" timestamp="1548647268939">
         <mark key="'" line="17" column="4" />
@@ -1061,13 +1062,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="219" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" />
-      <jump line="216" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" />
-      <jump line="0" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" />
-      <jump line="24" column="19" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" />
-      <jump line="0" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
-      <jump line="1" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
-      <jump line="26" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
       <jump line="42" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
       <jump line="564" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
       <jump line="547" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
@@ -1161,6 +1155,13 @@
       <jump line="43" column="0" filename="D:/project/musicbible/migration/console/management/commands/migratedb.py" />
       <jump line="38" column="26" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Release.kt" />
       <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Release.kt" />
+      <jump line="1" column="0" filename="D:/project/musicbible/bin/manage.sh" />
+      <jump line="3" column="0" filename="D:/project/musicbible/bin/manage.sh" />
+      <jump line="8" column="0" filename="D:/project/musicbible/bin/manage.sh" />
+      <jump line="11" column="0" filename="D:/project/musicbible/bin/manage.sh" />
+      <jump line="16" column="0" filename="D:/project/musicbible/bin/manage.sh" />
+      <jump line="25" column="0" filename="D:/project/musicbible/bin/manage.sh" />
+      <jump line="33" column="0" filename="D:/project/musicbible/bin/manage.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">

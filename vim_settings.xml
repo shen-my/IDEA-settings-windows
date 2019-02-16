@@ -73,12 +73,12 @@
         <mark key="^" line="10" column="74" />
         <mark key="." line="10" column="74" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/config/SecurityConfig.kt" timestamp="1548233695600">
-        <mark key="'" line="105" column="0" />
-        <mark key="[" line="99" column="34" />
-        <mark key="]" line="99" column="35" />
-        <mark key="." line="99" column="35" />
-        <mark key="^" line="99" column="35" />
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/config/SecurityConfig.kt" timestamp="1550304785468">
+        <mark key="'" line="111" column="79" />
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="16" />
+        <mark key="." line="109" column="16" />
+        <mark key="^" line="78" column="15" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkAppreciationService.kt" timestamp="1550135506549">
         <mark key="'" line="2" column="0" />
@@ -911,10 +911,6 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/2.1.3.RELEASE/2fead3014c5e4e0cb750dd2939770d09fb2a21e4/spring-data-commons-2.1.3.RELEASE-sources.jar!/org/springframework/data/domain/PageRequest.java" timestamp="1550225267183">
         <mark key="'" line="85" column="0" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/repository/CollectRepository.kt" timestamp="1550284435457">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="30" />
-      </file>
       <file name="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/controller/AppreciationController.kt" timestamp="1550131512378">
         <mark key="[" line="30" column="12" />
         <mark key="]" line="30" column="12" />
@@ -1111,7 +1107,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="130" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Recording.kt" />
       <jump line="87" column="29" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" />
       <jump line="327" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" />
       <jump line="73" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" />
@@ -1211,6 +1206,7 @@
       <jump line="56" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" />
       <jump line="76" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" />
       <jump line="54" column="8" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" />
+      <jump line="111" column="79" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/config/SecurityConfig.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1220,7 +1216,7 @@
         <text>(</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmcmVzaENvbGxlY3RDb3VudFw+</text>
+        <text>loginPage</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">YmluL21hbmFnZS5zaCBpbXBvcnRBbGwgbWlncmF0aW9uL2R1bXBzCg==</text>
@@ -1257,9 +1253,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmcmVzaENvbGxlY3RDb3VudFw+</last-search>
+      <last-search>loginPage</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmcmVzaENvbGxlY3RDb3VudFw+</last-pattern>
+      <last-pattern>loginPage</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxleHBvcnRBbGxcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1267,7 +1263,6 @@
     </search>
     <history>
       <history-search>
-        <entry>refre</entry>
         <entry>refresh</entry>
         <entry>fresh</entry>
         <entry>updateCat</entry>
@@ -1287,6 +1282,7 @@
         <entry encoding="base64">XDx1cGRhdGVXb3JrXD4=</entry>
         <entry>publish</entry>
         <entry encoding="base64">XDxmcmVzaENvbGxlY3RDb3VudFw+</entry>
+        <entry>loginPage</entry>
       </history-search>
       <history-cmd>
         <entry>;410</entry>

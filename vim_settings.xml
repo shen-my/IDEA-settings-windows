@@ -538,12 +538,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/config/ShiroConfig.kt" timestamp="1550556840690">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="30" column="68" />
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/config/ShiroConfig.kt" timestamp="1550560783586">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="35" column="70" />
+        <mark key="]" line="35" column="68" />
+        <mark key="^" line="35" column="68" />
+        <mark key="." line="35" column="68" />
       </file>
       <file name="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/factory/CountryFactory.kt" timestamp="1547777477063">
         <mark key="'" line="6" column="0" />
@@ -1144,13 +1144,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/User.kt" />
-      <jump line="21" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/User.kt" />
-      <jump line="24" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/User.kt" />
-      <jump line="27" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/User.kt" />
-      <jump line="30" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/User.kt" />
-      <jump line="33" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/User.kt" />
-      <jump line="36" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/User.kt" />
       <jump line="39" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/User.kt" />
       <jump line="42" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/User.kt" />
       <jump line="45" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/User.kt" />
@@ -1244,46 +1237,53 @@
       <jump line="21" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/config/ShiroConfig.kt" />
       <jump line="17" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/config/ShiroConfig.kt" />
       <jump line="16" column="44" filename="D:/project/musicbible/backend-api/build.gradle" />
+      <jump line="18" column="8" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/config/ShiroConfig.kt" />
+      <jump line="22" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/config/ShiroConfig.kt" />
+      <jump line="25" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/config/ShiroConfig.kt" />
+      <jump line="28" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/config/ShiroConfig.kt" />
+      <jump line="31" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/config/ShiroConfig.kt" />
+      <jump line="65" column="43" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/config/ShiroConfig.kt" />
+      <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/config/ShiroConfig.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29udGV4dC5hbm5vdGF0aW9uLlByb2ZpbGUK</text>
+      <register name="&quot;" type="4">
+        <text>fuck</text>
       </register>
       <register name="-" type="4">
-        <text>user</text>
+        <text>fuck</text>
       </register>
       <register name="/" type="4">
         <text>es</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGVPbmx5KCdvcmcubWFwc3RydWN0Om1hcHN0cnVjdC1qZGs4OjEuMi4wLkZpbmFsJykKICAgIGthcHQoJ29yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDpzcHJpbmctYm9vdC1jb25maWd1cmF0aW9uLXByb2Nlc3NvcicpCiAgICBrYXB0KCdvcmcubWFwc3RydWN0Om1hcHN0cnVjdC1wcm9jZXNzb3I6MS4yLjAuRmluYWwnKQogICAgcnVudGltZU9ubHkoJ29yZy5wb3N0Z3Jlc3FsOnBvc3RncmVzcWwnKQogICAgcnVudGltZU9ubHkoJ2lvLmpzb253ZWJ0b2tlbjpqand0OjAuOS4xJykKICAgIHJ1bnRpbWVPbmx5KCdjb20udmxhZG1paGFsY2VhOmhpYmVybmF0ZS10eXBlcy01MjoyLjMuNScpCiAgICBydW50aW1lT25seSgnb3JnLnNwcmluZ2ZyYW1ld29yay5ib290OnNwcmluZy1ib290LXN0YXJ0ZXItZGF0YS1yZWRpcycpCiAgICBpbXBsZW1lbnRhdGlvbignb3JnLnNwcmluZ2ZyYW1ld29yay5ib290OnNwcmluZy1ib290LXN0YXJ0ZXItZGF0YS1lbGFzdGljc2VhcmNoJykKICAgIHJ1bnRpbWVPbmx5KCdpby5zcHJpbmdmb3g6c3ByaW5nZm94LXN3YWdnZXItdWk6Mi45LjInKQogICAgaW1wbGVtZW50YXRpb24oJ2NvbS5ib29zdGZpZWxkOmNhcHRjaGEtc3ByaW5nLWJvb3Qtc3RhcnRlcjowLjAuMScpCiAgICBpbXBsZW1lbnRhdGlvbignb3JnLnNwcmluZ2ZyYW1ld29yay5ib290OnNwcmluZy1ib290LXN0YXJ0ZXItZGF0YS1yZXN0JykKICAgIGltcGxlbWVudGF0aW9uKCdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q6c3ByaW5nLWJvb3Qtc3RhcnRlci1kYXRhLWpwYScpCiAgICBpbXBsZW1lbnRhdGlvbignb3JnLnNwcmluZ2ZyYW1ld29yay5ib290OnNwcmluZy1ib290LXN0YXJ0ZXItdmFsaWRhdGlvbicpCi8vICAgIGltcGxlbWVudGF0aW9uKCdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q6c3ByaW5nLWJvb3Qtc3RhcnRlci1zZWN1cml0eScpCiAgICBpbXBsZW1lbnRhdGlvbignY29tLmZhc3RlcnhtbC5qYWNrc29uLm1vZHVsZTpqYWNrc29uLW1vZHVsZS1rb3RsaW4nKQogICAgaW1wbGVtZW50YXRpb24oJ2NvbS5ib29zdGZpZWxkOmFsaW9zcy1zcHJpbmctYm9vdC1zdGFydGVyOjAuMC41JykKCiAgICB0ZXN0Q29tcGlsZSgnb3JnLnNwcmluZ2ZyYW1ld29yay5ib290OnNwcmluZy1ib290LXN0YXJ0ZXItdGVzdCcpIHsKICAgICAgICBleGNsdWRlIG1vZHVsZTogJ2p1bml0JwogICAgfQogICAgdGVzdENvbXBpbGUoImNvbS5uaGFhcm1hbjptb2NraXRvLWtvdGxpbjoxLjUuMCIpCiAgICB0ZXN0SW1wbGVtZW50YXRpb24oJ29yZy5qdW5pdC5qdXBpdGVyOmp1bml0LWp1cGl0ZXItYXBpJykKICAgIHRlc3RJbXBsZW1lbnRhdGlvbignY29tLmdvb2dsZS5jb2RlLmdzb246Z3NvbicpCiAgICB0ZXN0UnVudGltZU9ubHkoJ29yZy5qdW5pdC5qdXBpdGVyOmp1bml0LWp1cGl0ZXItZW5naW5lJykKICAgIHRlc3RSdW50aW1lT25seSgnY29tLmdpdGh1Yi5iaW5hcnl3YW5nOmphdmEtdGVzdGRhdGEtZ2VuZXJhdG9yOjEuMS4yJykKCiAgICBpbXBsZW1lbnRhdGlvbignb3JnLmFwYWNoZS5zaGlybzpzaGlyby1zcHJpbmctYm9vdC13ZWItc3RhcnRlcjoxLjQuMCcpCiAgICBpbXBsZW1lbnRhdGlvbignb3JnLmFwYWNoZS5zaGlybzpzaGlyby1jb3JlOjEuNC4wJykK</text>
+        <text encoding="base64">ICAgICAgICBjaGFpbkRlZmluaXRpb24uYWRkUGF0aERlZmluaXRpb24oIi9hcGkvdjAvYXV0aC9mdWNrIiwgImFub24iKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29udGV4dC5hbm5vdGF0aW9uLlByb2ZpbGUK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">QFByb2ZpbGUoIiF0ZXN0IikK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKCJmdXV1dXV1dXV1dXV1dXV1dXV1dXV1dXV1dXV1dXV1dXV1dXV1dXV1dWNrIikK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHByaW50bG4oInNoaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaXQiKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQoY2FwdGNoYVNlcnZpY2UucGFzc3dvcmRFbmNvZGVyLm1hdGNoZXMoIjc4OTQ1NiIsIHVzZXIucGFzc3dvcmQpKQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VjdXJpdHlNYW5hZ2VyCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBzZWN1cml0eU1hbmFnZXIuc2V0UmVhbG0obXlSZWxlbSgpKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAvLyDJ6NbDcmVhbG0uCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgc2VjdXJpdHlNYW5hZ2VyID0gRGVmYXVsdFdlYlNlY3VyaXR5TWFuYWdlcigpCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZ1biBwcml2aWxlZ2VzKEBBcGlJZ25vcmUgQEN1cnJlbnRVc2VyIHVzZXI6IFVzZXIpID0gdXNlci5hdXRob3JpdGllcy5tYXAgeyBpdC5hdXRob3JpdHkgfQo=</text>
+        <text encoding="base64">ICAgIGZ1biBzZWN1cml0eU1hbmFnZXIoKTogU2VjdXJpdHlNYW5hZ2VyIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBBcGlPcGVyYXRpb24odmFsdWUgPSAiu/HIobWxx7DTw7untcTIqM/eIikK</text>
+        <text encoding="base64">ICAgIEBCZWFuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBHZXRNYXBwaW5nKCIvbXkvcHJpdmlsZWdlIikK</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name=":" type="4">
         <text>49</text>

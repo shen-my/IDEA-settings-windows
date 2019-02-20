@@ -951,12 +951,12 @@
         <mark key="^" line="21" column="41" />
         <mark key="." line="21" column="41" />
       </file>
-      <file name="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/LabelControllerTest.kt" timestamp="1550572554837">
+      <file name="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/LabelControllerTest.kt" timestamp="1550624496339">
         <mark key="'" line="189" column="0" />
         <mark key="[" line="209" column="8" />
-        <mark key="]" line="209" column="8" />
-        <mark key="." line="209" column="8" />
-        <mark key="^" line="209" column="14" />
+        <mark key="]" line="209" column="19" />
+        <mark key="." line="209" column="19" />
+        <mark key="^" line="209" column="19" />
       </file>
       <file name="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/WorkControllerTest.kt" timestamp="1548989531362">
         <mark key="'" line="0" column="0" />
@@ -1137,12 +1137,12 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.shiro/shiro-core/1.4.0/fa55fb228087dbb9026ce97d8e2f6d968b77a9d7/shiro-core-1.4.0-sources.jar!/org/apache/shiro/realm/jdbc/JdbcRealm.java" timestamp="1550481403623">
         <mark key="'" line="342" column="0" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/factory/LabelFactory.kt" timestamp="1550140556961">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="32" />
-        <mark key="." line="20" column="30" />
-        <mark key="^" line="20" column="30" />
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/factory/LabelFactory.kt" timestamp="1550624464121">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="28" column="35" />
+        <mark key="]" line="28" column="34" />
+        <mark key="." line="28" column="34" />
+        <mark key="^" line="28" column="34" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/repository/ProfessionRepository.kt" timestamp="1548419692354">
         <mark key="'" line="17" column="65" />
@@ -1160,7 +1160,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/LabelControllerTest.kt" />
       <jump line="38" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/LabelControllerTest.kt" />
       <jump line="43" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/LabelControllerTest.kt" />
       <jump line="49" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/LabelControllerTest.kt" />
@@ -1260,10 +1259,11 @@
       <jump line="243" column="14" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/UserService.kt" />
       <jump line="13" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/UserService.kt" />
       <jump line="24" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/UserService.kt" />
+      <jump line="15" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/factory/LabelFactory.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">dmFsIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGZ1biBjcmVhdGVQdWJsaXNoZWQoKTogTGFiZWwgewogICAgICAgIHZhbCBsYWJlbCA9IExhYmVsKCkKICAgICAgICBsYWJlbC5zdGF0dXMgPSBEb2N1bWVudFN0YXR1cy5QVUJMSVNIRUQKICAgICAgICByZXR1cm4gbGFiZWxSZXBvc2l0b3J5CiAgICAgICAgICAgIC5zYXZlKGxhYmVsKQogICAgICAgICAgICAuYWxzbyB7IGVtLmZsdXNoKCkgfQogICAgfQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">dmFsIA==</text>
@@ -1272,7 +1272,7 @@
         <text>attach</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcm9sZTEgPSByb2xlU2VydmljZS5jcmVhdGUoIrOnxca0tL2o1d8iLCBsaXN0T2YoUHJpdmlsZWdlRW51bS5DUkVBVEVfTEFCRUwpKQo=</text>
+        <text encoding="base64">ICAgIGZ1biBjcmVhdGVQdWJsaXNoZWQoKTogTGFiZWwgewogICAgICAgIHZhbCBsYWJlbCA9IExhYmVsKCkKICAgICAgICBsYWJlbC5zdGF0dXMgPSBEb2N1bWVudFN0YXR1cy5QVUJMSVNIRUQKICAgICAgICByZXR1cm4gbGFiZWxSZXBvc2l0b3J5CiAgICAgICAgICAgIC5zYXZlKGxhYmVsKQogICAgICAgICAgICAuYWxzbyB7IGVtLmZsdXNoKCkgfQogICAgfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>

@@ -951,12 +951,12 @@
         <mark key="^" line="21" column="41" />
         <mark key="." line="21" column="41" />
       </file>
-      <file name="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/LabelControllerTest.kt" timestamp="1550624496339">
+      <file name="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/LabelControllerTest.kt" timestamp="1550625866628">
         <mark key="'" line="189" column="0" />
-        <mark key="[" line="209" column="8" />
-        <mark key="]" line="209" column="19" />
-        <mark key="." line="209" column="19" />
-        <mark key="^" line="209" column="19" />
+        <mark key="[" line="219" column="27" />
+        <mark key="]" line="219" column="25" />
+        <mark key="^" line="219" column="25" />
+        <mark key="." line="219" column="25" />
       </file>
       <file name="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/WorkControllerTest.kt" timestamp="1548989531362">
         <mark key="'" line="0" column="0" />
@@ -1262,44 +1262,44 @@
       <jump line="15" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/factory/LabelFactory.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZ1biBjcmVhdGVQdWJsaXNoZWQoKTogTGFiZWwgewogICAgICAgIHZhbCBsYWJlbCA9IExhYmVsKCkKICAgICAgICBsYWJlbC5zdGF0dXMgPSBEb2N1bWVudFN0YXR1cy5QVUJMSVNIRUQKICAgICAgICByZXR1cm4gbGFiZWxSZXBvc2l0b3J5CiAgICAgICAgICAgIC5zYXZlKGxhYmVsKQogICAgICAgICAgICAuYWxzbyB7IGVtLmZsdXNoKCkgfQogICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>isOk</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFsIA==</text>
+        <text>isOk</text>
       </register>
       <register name="/" type="4">
         <text>attach</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZ1biBjcmVhdGVQdWJsaXNoZWQoKTogTGFiZWwgewogICAgICAgIHZhbCBsYWJlbCA9IExhYmVsKCkKICAgICAgICBsYWJlbC5zdGF0dXMgPSBEb2N1bWVudFN0YXR1cy5QVUJMSVNIRUQKICAgICAgICByZXR1cm4gbGFiZWxSZXBvc2l0b3J5CiAgICAgICAgICAgIC5zYXZlKGxhYmVsKQogICAgICAgICAgICAuYWxzbyB7IGVtLmZsdXNoKCkgfQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBwdXQoIi9hcGkvdjAvbGFiZWwvJHtsYWJlbC5pZH0iLCBtYXBPZigKICAgICAgICAgICAgIm5hbWUiIHRvICJTT05ZIgogICAgICAgICkpLmFuZEV4cGVjdChzdGF0dXMoKS5pc09rKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tdXNpY2JpYmxlLm1vZGVsLlFVc2VyCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dpbih1c2VyMSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKHVzZXIuYXV0aG9yaXRpZXMpCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgcm9sZTEgPSByb2xlU2VydmljZS5jcmVhdGUoIrOnxca0tL2o1d8iLCBsaXN0T2YoUHJpdmlsZWdlRW51bS5DUkVBVEVfTEFCRUwpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlbS5yZWZyZXNoKHVzZXIpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlbS5mbHVzaCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbnRNYXRjaGVycygiL2FwaS92MC8qKiIpLnBlcm1pdEFsbCgpCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tdXNpY2JpYmxlLm1vZGVsLlFVc2VyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHByaXZpbGVnZVNlcnZpY2UuY3JlYXRlKFByaXZpbGVnZUVudW0uQ1JFQVRFX0xBQkVMKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKHVzZXIuYXV0aG9yaXRpZXMpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2aWxlZ2VSZXBvc2l0b3J5Lgo=</text>
+        <text encoding="base64">ICAgICAgICBlbS5yZWZyZXNoKHVzZXIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>30</text>

@@ -422,11 +422,12 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/5.1.2.RELEASE/1fb13a94ba3f4c31561212263e17af579dada23b/spring-security-config-5.1.2.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/builders/HttpSecurity.java" timestamp="1550568661644">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="D:/project/gatenetdoc-server/src/main/java/com/boostfield/gatenetdoc/manage/pointaudit/ScoreExporter.java" timestamp="1550834277459">
-        <mark key="[" line="37" column="5" />
-        <mark key="]" line="38" column="3" />
-        <mark key="." line="38" column="3" />
-        <mark key="^" line="38" column="3" />
+      <file name="D:/project/gatenetdoc-server/src/main/java/com/boostfield/gatenetdoc/manage/pointaudit/ScoreExporter.java" timestamp="1550883207725">
+        <mark key="'" line="56" column="0" />
+        <mark key="[" line="43" column="29" />
+        <mark key="]" line="43" column="29" />
+        <mark key="." line="43" column="29" />
+        <mark key="^" line="43" column="29" />
       </file>
       <file name="D:/project/musicbible/backend-api/build.gradle" timestamp="1550557506272">
         <mark key="'" line="16" column="44" />
@@ -544,10 +545,10 @@
         <mark key="^" line="185" column="54" />
         <mark key="." line="185" column="54" />
       </file>
-      <file name="D:/project/gatenetdoc-server/src/main/java/com/boostfield/gatenetdoc/profile/Exporter.java" timestamp="1550834267186">
-        <mark key="'" line="76" column="0" />
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="69" column="5" />
+      <file name="D:/project/gatenetdoc-server/src/main/java/com/boostfield/gatenetdoc/profile/Exporter.java" timestamp="1550883044981">
+        <mark key="'" line="149" column="9" />
+        <mark key="[" line="149" column="0" />
+        <mark key="]" line="160" column="0" />
       </file>
       <file name="D:/project/musicbible/migration/console/models/taxonomy.py" timestamp="1548642685149">
         <mark key="'" line="36" column="32" />
@@ -1300,12 +1301,12 @@
         <mark key="^" line="19" column="7" />
         <mark key="." line="19" column="7" />
       </file>
-      <file name="D:/project/gatenetdoc-server/src/main/java/com/boostfield/gatenetdoc/admin/activitymanager/ActivityController.java" timestamp="1550834507931">
+      <file name="D:/project/gatenetdoc-server/src/main/java/com/boostfield/gatenetdoc/admin/activitymanager/ActivityController.java" timestamp="1550882968926">
         <mark key="'" line="34" column="30" />
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="107" column="0" />
-        <mark key="^" line="106" column="23" />
-        <mark key="." line="107" column="0" />
+        <mark key="[" line="102" column="25" />
+        <mark key="]" line="102" column="24" />
+        <mark key="^" line="102" column="24" />
+        <mark key="." line="102" column="24" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/mapper/track/TrackMapper.kt" timestamp="1548503212943">
         <mark key="'" line="0" column="0" />
@@ -1370,10 +1371,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="0" filename="D:/project/gatenetdoc-server/src/main/java/com/boostfield/gatenetdoc/staff/employee/EmployeeService.java" />
-      <jump line="35" column="0" filename="D:/project/gatenetdoc-server/src/main/java/com/boostfield/gatenetdoc/staff/employee/EmployeeService.java" />
-      <jump line="37" column="0" filename="D:/project/gatenetdoc-server/src/main/java/com/boostfield/gatenetdoc/staff/employee/EmployeeService.java" />
-      <jump line="39" column="0" filename="D:/project/gatenetdoc-server/src/main/java/com/boostfield/gatenetdoc/staff/employee/EmployeeService.java" />
       <jump line="197" column="0" filename="D:/project/gatenetdoc-server/src/main/java/com/boostfield/gatenetdoc/admin/activitymanager/ActivityServiceImpl.java" />
       <jump line="18" column="0" filename="D:/project/gatenetdoc-server/src/main/java/com/boostfield/gatenetdoc/admin/activitymanager/ActivityServiceImpl.java" />
       <jump line="27" column="0" filename="D:/project/gatenetdoc-server/src/main/java/com/boostfield/gatenetdoc/admin/activitymanager/ActivityServiceImpl.java" />
@@ -1470,25 +1467,29 @@
       <jump line="21" column="0" filename="D:/project/gatenetdoc-server/src/main/java/com/boostfield/gatenetdoc/admin/activitymanager/ActivityController.java" />
       <jump line="24" column="0" filename="D:/project/gatenetdoc-server/src/main/java/com/boostfield/gatenetdoc/admin/activitymanager/ActivityController.java" />
       <jump line="32" column="30" filename="D:/project/gatenetdoc-server/src/main/java/com/boostfield/gatenetdoc/admin/activitymanager/ActivityController.java" />
+      <jump line="149" column="9" filename="D:/project/gatenetdoc-server/src/main/java/com/boostfield/gatenetdoc/profile/Exporter.java" />
+      <jump line="20" column="55" filename="D:/project/gatenetdoc-server/src/main/java/com/boostfield/gatenetdoc/manage/pointaudit/ScoreExporter.java" />
+      <jump line="27" column="0" filename="D:/project/gatenetdoc-server/src/main/java/com/boostfield/gatenetdoc/manage/pointaudit/ScoreExporter.java" />
+      <jump line="38" column="0" filename="D:/project/gatenetdoc-server/src/main/java/com/boostfield/gatenetdoc/manage/pointaudit/ScoreExporter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>export</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>exportTask</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgRXhwb3J0VGFza1JlcG9zaXRvcnkgZXhwb3J0VGFza1JlcG9zaXRvcnk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZXRIZWFkQ2VsbFN0eWxlKGNlbGwwKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZXRIZWFkQ2VsbFN0eWxlKGNlbGwwKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -1497,19 +1498,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5mdW5jdGlvbi5GdW5jdGlvbjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5mdW5jdGlvbi5GdW5jdGlvbjsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGJ1aWxkRGF0ZVJlbGF0ZWRQYXRoKFN0cmluZyBwYXRoLCBTdHJpbmcgbmFtZSwgU3RyaW5nIHN1ZmZpeCkgewogICAgICAgIHZhbCBub3cgPSBMb2NhbERhdGVUaW1lLm5vdygpOwogICAgICAgIHJldHVybiBTdHJpbmcuZm9ybWF0KAogICAgICAgICAgICAiJXMvJWQvJWQvJWQvJXMtJTAyZCUwMmQlMDJkLiVzIiwKICAgICAgICAgICAgcGF0aCwgbm93LmdldFllYXIoKSwgbm93LmdldE1vbnRoVmFsdWUoKSwgbm93LmdldERheU9mTW9udGgoKSwKICAgICAgICAgICAgbmFtZSwgbm93LmdldEhvdXIoKSwgbm93LmdldE1pbnV0ZSgpLCBub3cuZ2V0U2Vjb25kKCksIHN1ZmZpeAogICAgICAgICk7CiAgICB9Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGJ1aWxkRGF0ZVJlbGF0ZWRQYXRoKFN0cmluZyBwYXRoLCBTdHJpbmcgbmFtZSwgU3RyaW5nIHN1ZmZpeCkgewogICAgICAgIHZhbCBub3cgPSBMb2NhbERhdGVUaW1lLm5vdygpOwogICAgICAgIHJldHVybiBTdHJpbmcuZm9ybWF0KAogICAgICAgICAgICAiJXMvJWQvJWQvJWQvJXMtJTAyZCUwMmQlMDJkLiVzIiwKICAgICAgICAgICAgcGF0aCwgbm93LmdldFllYXIoKSwgbm93LmdldE1vbnRoVmFsdWUoKSwgbm93LmdldERheU9mTW9udGgoKSwKICAgICAgICAgICAgbmFtZSwgbm93LmdldEhvdXIoKSwgbm93LmdldE1pbnV0ZSgpLCBub3cuZ2V0U2Vjb25kKCksIHN1ZmZpeAogICAgICAgICk7CiAgICB9Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>119</text>

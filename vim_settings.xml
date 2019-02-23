@@ -88,13 +88,6 @@
         <mark key="^" line="65" column="23" />
         <mark key="." line="65" column="24" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/constant/ItemEnum.kt" timestamp="1550721310445">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="13" column="3" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/CountAssociations.kt" timestamp="1550742270235">
         <mark key="'" line="30" column="0" />
         <mark key="[" line="36" column="0" />
@@ -298,12 +291,12 @@
         <mark key="^" line="16" column="31" />
         <mark key="." line="16" column="31" />
       </file>
-      <file name="D:/project/gatenetdoc-server/src/main/java/com/boostfield/gatenetdoc/admin/activitymanager/ActivityServiceImpl.java" timestamp="1550886654903">
+      <file name="D:/project/gatenetdoc-server/src/main/java/com/boostfield/gatenetdoc/admin/activitymanager/ActivityServiceImpl.java" timestamp="1550888407840">
         <mark key="'" line="226" column="0" />
-        <mark key="[" line="239" column="62" />
-        <mark key="]" line="239" column="67" />
-        <mark key="." line="239" column="67" />
-        <mark key="^" line="239" column="67" />
+        <mark key="[" line="267" column="42" />
+        <mark key="]" line="267" column="48" />
+        <mark key="." line="267" column="48" />
+        <mark key="^" line="267" column="48" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-core/5.1.2.RELEASE/b1392889ba1fcb39672da9592e056d506efc6ba1/spring-security-core-5.1.2.RELEASE-sources.jar!/org/springframework/security/core/Authentication.java" timestamp="1550630575116">
         <mark key="'" line="53" column="0" />
@@ -409,13 +402,6 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="1" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/User.kt" timestamp="1550823682275">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="53" column="15" />
-        <mark key="]" line="53" column="14" />
-        <mark key="^" line="53" column="14" />
-        <mark key="." line="53" column="14" />
-      </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/mapper/artist/ArtistOutput.kt" timestamp="1549009333249">
         <mark key="'" line="42" column="0" />
         <mark key="[" line="3" column="0" />
@@ -461,12 +447,12 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/5.1.2.RELEASE/1fb13a94ba3f4c31561212263e17af579dada23b/spring-security-config-5.1.2.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/builders/HttpSecurity.java" timestamp="1550568661644">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="D:/project/gatenetdoc-server/src/main/java/com/boostfield/gatenetdoc/manage/pointaudit/ScoreExporter.java" timestamp="1550887005014">
-        <mark key="'" line="57" column="0" />
-        <mark key="[" line="54" column="10" />
-        <mark key="]" line="55" column="21" />
-        <mark key="." line="55" column="21" />
-        <mark key="^" line="55" column="21" />
+      <file name="D:/project/gatenetdoc-server/src/main/java/com/boostfield/gatenetdoc/manage/pointaudit/ScoreExporter.java" timestamp="1550888712606">
+        <mark key="'" line="61" column="0" />
+        <mark key="[" line="53" column="8" />
+        <mark key="]" line="53" column="7" />
+        <mark key="." line="53" column="7" />
+        <mark key="^" line="53" column="7" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Listing.kt" timestamp="1550650807029">
         <mark key="'" line="61" column="54" />
@@ -1634,11 +1620,11 @@
       <jump line="17" column="32" filename="D:/project/gatenetdoc-server/src/main/java/com/boostfield/gatenetdoc/profile/ProfileReportServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBMb2dnZXIuZ2V0TG9nZ2VyKCJnZXRieSIpLmluZm8oInJ1bGVwYXJ0X2lkOiIgKyBydWxlcGFydF9maWVsZEdyb3VwLmdldFJ1bGVwYXJ0KCkuZ2V0SWQoKSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>评分项</text>
       </register>
       <register name="-" type="4">
-        <text>Activity</text>
+        <text>评分项</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBcnJheVV0aWxzXD4=</text>
@@ -1647,31 +1633,31 @@
         <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBMb2dnZXIuZ2V0TG9nZ2VyKCJnZXRieSIpLmluZm8oInJ1bGVwYXJ0X2lkOiIgKyBydWxlcGFydF9maWVsZEdyb3VwLmdldFJ1bGVwYXJ0KCkuZ2V0SWQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2NvcmUuaWZQcmVzZW50KCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBMb2dnZXIuZ2V0TG9nZ2VyKCJnZXRieSIpLmluZm8oInJ1bGVwYXJ0X2lkOiIgKyBydWxlcGFydF9maWVsZEdyb3VwLmdldFJ1bGVwYXJ0KCkuZ2V0SWQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBleHBvcnRlci5hcHBlbmQobmFtZSwgbnVtYmVyLCBpdGVtLCBzY29yZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5sYW5nMy5BcnJheVV0aWxzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5mdW5jdGlvbi5GdW5jdGlvbjsK</text>
+        <text encoding="base64">ICAgICAgICBMb2dnZXIuZ2V0TG9nZ2VyKCJnZXRieSIpLmluZm8oInJ1bGVwYXJ0X2lkOiIgKyBydWxlcGFydF9maWVsZEdyb3VwLmdldFJ1bGVwYXJ0KCkuZ2V0SWQoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRIZWFkQ2VsbFN0eWxlKGNlbGwwKTsK</text>
+        <text encoding="base64">ICAgICAgICBMb2dnZXIuZ2V0TG9nZ2VyKCJnZXRieSIpLmluZm8oInJ1bGVwYXJ0X2lkOiIgKyBydWxlcGFydF9maWVsZEdyb3VwLmdldFJ1bGVwYXJ0KCkuZ2V0SWQoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5sYW5nMy5BcnJheVV0aWxzOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5mdW5jdGlvbi5GdW5jdGlvbjsK</text>
       </register>
       <register name=":" type="4">
         <text>117</text>

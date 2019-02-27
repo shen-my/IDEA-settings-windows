@@ -23,8 +23,8 @@
         <mark key="." line="14" column="19" />
         <mark key="^" line="14" column="19" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" timestamp="1551083537242">
-        <mark key="'" line="54" column="8" />
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" timestamp="1551249408260">
+        <mark key="'" line="59" column="8" />
         <mark key="[" line="208" column="25" />
         <mark key="]" line="208" column="24" />
         <mark key="^" line="208" column="24" />
@@ -1446,7 +1446,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="178" column="0" filename="D:/project/musicbible/migration/console/models/record.py" />
       <jump line="161" column="0" filename="D:/project/musicbible/migration/console/models/record.py" />
       <jump line="151" column="0" filename="D:/project/musicbible/migration/console/models/record.py" />
       <jump line="147" column="0" filename="D:/project/musicbible/migration/console/models/record.py" />
@@ -1546,6 +1545,7 @@
       <jump line="28" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Recording.kt" />
       <jump line="31" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Recording.kt" />
       <jump line="35" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Recording.kt" />
+      <jump line="59" column="8" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1555,7 +1555,7 @@
         <text>importer</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxVc2VyRG9jdW1lbnRcPg==</text>
+        <text encoding="base64">XDxhZGRUcmFja0J5TW92ZW1lbnRzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbS5jcmVhdGVkQnkgPSBnZXRDcmVhdG9yKGl0LmNyZWF0b3JJZCkK</text>
@@ -1592,9 +1592,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxVc2VyRG9jdW1lbnRcPg==</last-search>
+      <last-search encoding="base64">XDxhZGRUcmFja0J5TW92ZW1lbnRzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxVc2VyRG9jdW1lbnRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxhZGRUcmFja0J5TW92ZW1lbnRzXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxleHBvcnRBbGxcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1602,7 +1602,6 @@
     </search>
     <history>
       <history-search>
-        <entry>exportTask</entry>
         <entry>cata</entry>
         <entry encoding="base64">XDxGdW5jdGlvblw+</entry>
         <entry encoding="base64">XDxBcnJheVV0aWxzXD4=</entry>
@@ -1622,6 +1621,7 @@
         <entry>getRef</entry>
         <entry>UserDocument</entry>
         <entry encoding="base64">XDxVc2VyRG9jdW1lbnRcPg==</entry>
+        <entry encoding="base64">XDxhZGRUcmFja0J5TW92ZW1lbnRzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>50</entry>

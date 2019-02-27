@@ -1055,12 +1055,12 @@
         <mark key="." line="87" column="46" />
         <mark key="^" line="95" column="47" />
       </file>
-      <file name="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" timestamp="1551246944995">
-        <mark key="'" line="554" column="0" />
-        <mark key="[" line="559" column="0" />
-        <mark key="]" line="559" column="0" />
-        <mark key="." line="559" column="0" />
-        <mark key="^" line="122" column="16" />
+      <file name="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" timestamp="1551262209873">
+        <mark key="'" line="556" column="0" />
+        <mark key="[" line="522" column="58" />
+        <mark key="]" line="523" column="19" />
+        <mark key="." line="523" column="19" />
+        <mark key="^" line="523" column="19" />
       </file>
       <file name="D:/project/musicbible/migration/console/entities/work.py" timestamp="1547535460874">
         <mark key="'" line="26" column="31" />
@@ -1548,11 +1548,11 @@
       <jump line="173" column="25" filename="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>x</text>
       </register>
       <register name="-" type="4">
-        <text>importer</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhZGRUcmFja0J5TW92ZW1lbnRzXD4=</text>
@@ -1588,7 +1588,7 @@
         <text encoding="base64">ICAgICAgICBjcmVhdG9ySWQgPSBzZWxmLmNyZWF0b3JfaWQsCg==</text>
       </register>
       <register name=":" type="4">
-        <text>117</text>
+        <text>522</text>
       </register>
     </registers>
     <search>
@@ -1624,7 +1624,6 @@
         <entry encoding="base64">XDxhZGRUcmFja0J5TW92ZW1lbnRzXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>50</entry>
         <entry>474</entry>
         <entry>161</entry>
         <entry>81</entry>
@@ -1644,6 +1643,7 @@
         <entry>384</entry>
         <entry>379</entry>
         <entry>117</entry>
+        <entry>522</entry>
       </history-cmd>
       <history-expr />
       <history-input />

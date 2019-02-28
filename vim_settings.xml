@@ -23,12 +23,12 @@
         <mark key="." line="14" column="19" />
         <mark key="^" line="14" column="19" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" timestamp="1551336285705">
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" timestamp="1551343605753">
         <mark key="'" line="633" column="0" />
-        <mark key="[" line="638" column="0" />
-        <mark key="]" line="638" column="0" />
+        <mark key="[" line="666" column="8" />
+        <mark key="]" line="668" column="9" />
         <mark key="^" line="665" column="7" />
-        <mark key="." line="638" column="0" />
+        <mark key="." line="666" column="0" />
       </file>
       <file name="D:/project/musicbible/migration/console/models/user.py" timestamp="1551235461973">
         <mark key="'" line="81" column="0" />
@@ -1548,7 +1548,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaW5wdXQuc3RhdHVzLmlzTm90RW1wdHkoKSkgewogICAgICAgICAgICBxdWVyeUJ1aWxkZXIuZmlsdGVyKFF1ZXJ5QnVpbGRlcnMudGVybXNRdWVyeSgic3RhdHVzIiwgaW5wdXQuc3RhdHVzLm1hcCB7IGl0Lm5hbWUgfSkpCiAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
         <text>e</text>
@@ -1556,11 +1556,11 @@
       <register name="/" type="4">
         <text encoding="base64">XDxDdXJyZW50VXNlclw+</text>
       </register>
-      <register name="0" type="4">
-        <text>FrontendMyContributionInput</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoaW5wdXQuc3RhdHVzLmlzTm90RW1wdHkoKSkgewogICAgICAgICAgICBxdWVyeUJ1aWxkZXIuZmlsdGVyKFF1ZXJ5QnVpbGRlcnMudGVybXNRdWVyeSgic3RhdHVzIiwgaW5wdXQuc3RhdHVzLm1hcCB7IGl0Lm5hbWUgfSkpCiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -1572,10 +1572,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
@@ -1584,7 +1584,7 @@
         <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>522</text>

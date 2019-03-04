@@ -23,8 +23,8 @@
         <mark key="." line="14" column="19" />
         <mark key="^" line="14" column="19" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" timestamp="1551671841253">
-        <mark key="'" line="0" column="0" />
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" timestamp="1551685162430">
+        <mark key="'" line="135" column="12" />
         <mark key="[" line="561" column="95" />
         <mark key="]" line="562" column="15" />
         <mark key="^" line="562" column="15" />
@@ -575,12 +575,12 @@
         <mark key="." line="10" column="18" />
         <mark key="^" line="10" column="18" />
       </file>
-      <file name="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" timestamp="1551671804524">
-        <mark key="'" line="72" column="0" />
-        <mark key="[" line="58" column="37" />
-        <mark key="]" line="58" column="54" />
-        <mark key="." line="58" column="54" />
-        <mark key="^" line="58" column="54" />
+      <file name="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" timestamp="1551685255041">
+        <mark key="'" line="73" column="0" />
+        <mark key="[" line="76" column="40" />
+        <mark key="]" line="76" column="14" />
+        <mark key="." line="76" column="14" />
+        <mark key="^" line="76" column="14" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/CountryService.kt" timestamp="1550914677181">
         <mark key="[" line="10" column="20" />
@@ -773,11 +773,11 @@
         <mark key="." line="14" column="3" />
         <mark key="^" line="14" column="3" />
       </file>
-      <file name="D:/project/musicbible/common-spring/src/main/kotlin/com/boostfield/spring/persistence/Document.kt" timestamp="1551679277266">
-        <mark key="[" line="12" column="17" />
-        <mark key="]" line="12" column="19" />
-        <mark key="^" line="12" column="19" />
-        <mark key="." line="12" column="19" />
+      <file name="D:/project/musicbible/common-spring/src/main/kotlin/com/boostfield/spring/persistence/Document.kt" timestamp="1551684967340">
+        <mark key="'" line="47" column="0" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseListingService.kt" timestamp="1550914364754">
         <mark key="[" line="3" column="0" />
@@ -1447,14 +1447,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="0" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" />
-      <jump line="35" column="0" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" />
-      <jump line="43" column="0" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" />
-      <jump line="80" column="0" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" />
-      <jump line="216" column="0" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" />
-      <jump line="208" column="0" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" />
-      <jump line="200" column="0" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" />
-      <jump line="189" column="0" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" />
       <jump line="178" column="0" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" />
       <jump line="167" column="0" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" />
       <jump line="159" column="0" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" />
@@ -1547,55 +1539,63 @@
       <jump line="639" column="20" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
       <jump line="530" column="51" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
       <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
+      <jump line="37" column="3" filename="D:/project/musicbible/common-spring/src/main/kotlin/com/boostfield/spring/persistence/Document.kt" />
+      <jump line="0" column="0" filename="D:/project/musicbible/common-spring/src/main/kotlin/com/boostfield/spring/persistence/Document.kt" />
+      <jump line="1" column="0" filename="D:/project/musicbible/common-spring/src/main/kotlin/com/boostfield/spring/persistence/Document.kt" />
+      <jump line="7" column="0" filename="D:/project/musicbible/common-spring/src/main/kotlin/com/boostfield/spring/persistence/Document.kt" />
+      <jump line="14" column="0" filename="D:/project/musicbible/common-spring/src/main/kotlin/com/boostfield/spring/persistence/Document.kt" />
+      <jump line="28" column="0" filename="D:/project/musicbible/common-spring/src/main/kotlin/com/boostfield/spring/persistence/Document.kt" />
+      <jump line="40" column="0" filename="D:/project/musicbible/common-spring/src/main/kotlin/com/boostfield/spring/persistence/Document.kt" />
+      <jump line="135" column="12" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>findUnarchivedById</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgcmVsZWFzZSA9IHJlbGVhc2VTZXJ2aWNlLmZpbmRFeGlzdHNPclRocm93KGlkKQogICAgICAgIHJlbGVhc2UubXVzdEJlRHJhZnQoKQo=</text>
       </register>
       <register name="-" type="4">
         <text>findUnarchivedById</text>
       </register>
       <register name="/" type="4">
-        <text>softDe</text>
+        <text>updateRegion</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaW5wdXQuc3RhdHVzLmlzTm90RW1wdHkoKSkgewogICAgICAgICAgICBxdWVyeUJ1aWxkZXIuZmlsdGVyKFF1ZXJ5QnVpbGRlcnMudGVybXNRdWVyeSgic3RhdHVzIiwgaW5wdXQuc3RhdHVzLm1hcCB7IGl0Lm5hbWUgfSkpCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgcmVsZWFzZSA9IHJlbGVhc2VTZXJ2aWNlLmZpbmRFeGlzdHNPclRocm93KGlkKQogICAgICAgIHJlbGVhc2UubXVzdEJlRHJhZnQoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICByZWxlYXNlLnN1YlN0YXR1cwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGluaXQgewo=</text>
+        <text encoding="base64">ICAgIERSQUZUX0FETUlOX1NFVCwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhciBvcmRlcjogSW50ID0gMAo=</text>
+        <text encoding="base64">ICAgIGZ1biBtdXN0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQgdmFsIHN0eWxlU2VydmljZTogU3R5bGVTZXJ2aWNlLAo=</text>
+        <text encoding="base64">ICAgICAqIGNoZWNraW5nIL/Jyb6z/aOszazKsdDeuMQgb3JpZ2luINe0zKwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBzdHlsZXMgPSBzdHlsZVNlcnZpY2UuZmluZEFsbCgpCg==</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4oKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIC8qKiAqLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogCiAgICAgKi8K</text>
+        <text encoding="base64">ICAgIGluaXQgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBBcGlPcGVyYXRpb24oIs7St6KyvLXEIikKICAgIEBQdXRNYXBwaW5nKCIvY29udHJpYnV0aW9uIikKICAgIGZ1biBteUNvbnRyaWJ1dGlvbihAQ3VycmVudFVzZXIgdXNlcjogVXNlciwgaW5wdXQ6IEZyb250ZW5kTXlDb250cmlidXRpb25JbnB1dCkgewoKICAgIH0K</text>
+        <text encoding="base64">ICAgIHZhciBvcmRlcjogSW50ID0gMAo=</text>
       </register>
       <register name=":" type="4">
         <text>522</text>
       </register>
     </registers>
     <search>
-      <last-search>softDe</last-search>
+      <last-search>updateRegion</last-search>
       <last-offset />
-      <last-pattern>softDe</last-pattern>
+      <last-pattern>updateRegion</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxleHBvcnRBbGxcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1603,7 +1603,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjYXRhbG9nTnVtYmVyXD4=</entry>
         <entry encoding="base64">XDxjcmVhdGVcPg==</entry>
         <entry encoding="base64">XDxwYXNzd29yZEVuY29kZXJcPg==</entry>
         <entry encoding="base64">XDxQYXNzd29yZEVuY29kZXJcPg==</entry>
@@ -1623,6 +1622,7 @@
         <entry encoding="base64">XDxtdXN0XD4=</entry>
         <entry encoding="base64">XDxnc29uXD4=</entry>
         <entry>softDe</entry>
+        <entry>updateRegion</entry>
       </history-search>
       <history-cmd>
         <entry>474</entry>

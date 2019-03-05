@@ -134,11 +134,6 @@
         <mark key="]" line="5" column="66" />
         <mark key="." line="5" column="66" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/AgreementService.kt" timestamp="1551751702790">
-        <mark key="[" line="27" column="42" />
-        <mark key="]" line="27" column="42" />
-        <mark key="." line="27" column="42" />
-      </file>
       <file name="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/controller/RecordingController.kt" timestamp="1550665366507">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="68" column="64" />
@@ -529,7 +524,8 @@
         <mark key="^" line="19" column="11" />
         <mark key="." line="19" column="11" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" timestamp="1551758384161">
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" timestamp="1551772105284">
+        <mark key="'" line="334" column="0" />
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
@@ -1202,9 +1198,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.20/60070a2fbed969e9b73f214cb41072eabedf299a/kotlin-stdlib-common-1.3.20-sources.jar!/kotlin/util/Standard.kt" />
-      <jump line="90" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.20/60070a2fbed969e9b73f214cb41072eabedf299a/kotlin-stdlib-common-1.3.20-sources.jar!/kotlin/util/Standard.kt" />
-      <jump line="101" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.20/60070a2fbed969e9b73f214cb41072eabedf299a/kotlin-stdlib-common-1.3.20-sources.jar!/kotlin/util/Standard.kt" />
       <jump line="113" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.20/60070a2fbed969e9b73f214cb41072eabedf299a/kotlin-stdlib-common-1.3.20-sources.jar!/kotlin/util/Standard.kt" />
       <jump line="125" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.20/60070a2fbed969e9b73f214cb41072eabedf299a/kotlin-stdlib-common-1.3.20-sources.jar!/kotlin/util/Standard.kt" />
       <jump line="136" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.20/60070a2fbed969e9b73f214cb41072eabedf299a/kotlin-stdlib-common-1.3.20-sources.jar!/kotlin/util/Standard.kt" />
@@ -1302,6 +1295,9 @@
       <jump line="14" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/security/JwtAuthenticationFilter.kt" />
       <jump line="19" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/security/JwtAuthenticationFilter.kt" />
       <jump line="28" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/security/JwtAuthenticationFilter.kt" />
+      <jump line="332" column="14" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" />
+      <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" />
+      <jump line="334" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1311,7 +1307,7 @@
         <text>io.jsonwebtoken.ExpiredJwtException) {</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvd25SZWxlYXNlXD4=</text>
+        <text>sim</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBNYW55VG9NYW55KGZldGNoID0gRmV0Y2hUeXBlLkVBR0VSKQo=</text>
@@ -1348,9 +1344,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvd25SZWxlYXNlXD4=</last-search>
+      <last-search>sim</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvd25SZWxlYXNlXD4=</last-pattern>
+      <last-pattern>sim</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxleHBvcnRBbGxcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1358,7 +1354,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdGF0dXNcPg==</entry>
         <entry encoding="base64">XDxtdXN0XD4=</entry>
         <entry encoding="base64">XDxnc29uXD4=</entry>
         <entry>softDe</entry>
@@ -1378,6 +1373,7 @@
         <entry>ownRelease</entry>
         <entry encoding="base64">XDx3aXNoUmVsZWFzZVw+</entry>
         <entry encoding="base64">XDxvd25SZWxlYXNlXD4=</entry>
+        <entry>sim</entry>
       </history-search>
       <history-cmd>
         <entry>16</entry>

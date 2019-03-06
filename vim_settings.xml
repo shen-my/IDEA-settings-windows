@@ -119,9 +119,9 @@
         <mark key="^" line="19" column="17" />
         <mark key="." line="19" column="17" />
       </file>
-      <file name="D:/project/musicbible/common-spring/src/main/kotlin/com/boostfield/spring/persistence/SoftDeletableRepository.kt" timestamp="1551842892199">
-        <mark key="[" line="12" column="27" />
-        <mark key="]" line="12" column="30" />
+      <file name="D:/project/musicbible/common-spring/src/main/kotlin/com/boostfield/spring/persistence/SoftDeletableRepository.kt" timestamp="1551845122752">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="81" />
         <mark key="^" line="12" column="30" />
         <mark key="." line="12" column="30" />
       </file>
@@ -655,12 +655,16 @@
         <mark key="." line="105" column="26" />
         <mark key="^" line="105" column="26" />
       </file>
-      <file name="D:/project/musicbible/common-spring/src/main/kotlin/com/boostfield/spring/persistence/Document.kt" timestamp="1551840194432">
-        <mark key="'" line="44" column="0" />
-        <mark key="[" line="52" column="16" />
-        <mark key="]" line="52" column="16" />
-        <mark key="." line="52" column="16" />
-        <mark key="^" line="52" column="16" />
+      <file name="D:/project/musicbible/common-spring/src/main/kotlin/com/boostfield/spring/persistence/DocumentRepository.kt" timestamp="1551845262647">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="D:/project/musicbible/common-spring/src/main/kotlin/com/boostfield/spring/persistence/Document.kt" timestamp="1551845284399">
+        <mark key="[" line="41" column="18" />
+        <mark key="]" line="58" column="30" />
+        <mark key="^" line="58" column="30" />
+        <mark key="." line="58" column="30" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/repository/CommendationRepository.kt" timestamp="1551688248209">
         <mark key="[" line="5" column="66" />
@@ -942,6 +946,12 @@
         <mark key="]" line="13" column="44" />
         <mark key="." line="21" column="82" />
         <mark key="^" line="21" column="82" />
+      </file>
+      <file name="D:/project/musicbible/common-spring/src/main/kotlin/com/boostfield/spring/persistence/DraftableRepository.kt" timestamp="1551845223749">
+        <mark key="[" line="6" column="51" />
+        <mark key="]" line="6" column="58" />
+        <mark key="." line="6" column="58" />
+        <mark key="^" line="6" column="58" />
       </file>
       <file name="D:/project/gatenetdoc-server/src/main/java/com/boostfield/gatenetdoc/admin/activitymanager/ActivityService.java" timestamp="1550886599113">
         <mark key="'" line="11" column="17" />
@@ -1235,6 +1245,12 @@
         <mark key="^" line="10" column="44" />
         <mark key="." line="10" column="44" />
       </file>
+      <file name="D:/project/musicbible/common-spring/src/main/kotlin/com/boostfield/spring/persistence/Draftable.kt" timestamp="1551845044416">
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="12" column="8" />
+        <mark key="." line="12" column="8" />
+        <mark key="^" line="12" column="8" />
+      </file>
       <file name="D:/project/musicbible/migration/console/models/artist.py" timestamp="1551238861066">
         <mark key="'" line="39" column="24" />
         <mark key="[" line="40" column="0" />
@@ -1293,15 +1309,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="192" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
-      <jump line="186" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
-      <jump line="180" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
-      <jump line="173" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
-      <jump line="167" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
-      <jump line="160" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
-      <jump line="153" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
-      <jump line="149" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
-      <jump line="144" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
       <jump line="137" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
       <jump line="124" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
       <jump line="119" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
@@ -1393,46 +1400,55 @@
       <jump line="276" column="28" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Release.kt" />
       <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Release.kt" />
       <jump line="54" column="59" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/CommentAttitudeService.kt" />
+      <jump line="98" column="0" filename="D:/project/musicbible/common-spring/src/main/kotlin/com/boostfield/spring/persistence/Document.kt" />
+      <jump line="97" column="0" filename="D:/project/musicbible/common-spring/src/main/kotlin/com/boostfield/spring/persistence/Document.kt" />
+      <jump line="94" column="0" filename="D:/project/musicbible/common-spring/src/main/kotlin/com/boostfield/spring/persistence/Document.kt" />
+      <jump line="89" column="0" filename="D:/project/musicbible/common-spring/src/main/kotlin/com/boostfield/spring/persistence/Document.kt" />
+      <jump line="84" column="0" filename="D:/project/musicbible/common-spring/src/main/kotlin/com/boostfield/spring/persistence/Document.kt" />
+      <jump line="79" column="0" filename="D:/project/musicbible/common-spring/src/main/kotlin/com/boostfield/spring/persistence/Document.kt" />
+      <jump line="71" column="0" filename="D:/project/musicbible/common-spring/src/main/kotlin/com/boostfield/spring/persistence/Document.kt" />
+      <jump line="66" column="0" filename="D:/project/musicbible/common-spring/src/main/kotlin/com/boostfield/spring/persistence/Document.kt" />
+      <jump line="23" column="22" filename="D:/project/musicbible/common-spring/src/main/kotlin/com/boostfield/spring/persistence/Draftable.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>findByDeletedFalseAndIdOrThrow</text>
+        <text encoding="base64">ID0gZmluZEJ5U3RhdHVzKERvY3VtZW50U3RhdHVzLlBVQkxJU0hFRCwgcGFnZWFibGUp</text>
       </register>
       <register name="/" type="4">
         <text>origin</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">PExhYmVsPg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW50ZXJmYWNlIFNvZnREZWxldGFibGVSZXBvc2l0b3J5PFQgOiBTb2Z0RGVsZXRhYmxlPiA6IFRpbWVLZWVwaW5nUmVwb3NpdG9yeTxUPiB7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5kQnlEZWxldGVkRmFsc2VBbmRJZChpZCkgPzogdGhyb3cgQXBwRXJyb3Iubm90Rm91bmQobXNnID0gItXSsru1vSBJRCDOqiAkaWQgtcQkbW9kZWxOYW1lIikK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGZ1biBmaW5kQnlEZWxldGVkRmFsc2VBbmRJZE9yVGhyb3coaWQ6IExvbmcpOiBUID0K</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGZ1biBmaW5kQnlQdWJsaXNoZWQocGFnZWFibGU6IFBhZ2VhYmxlKSA9IGZpbmRCeVN0YXR1cyhEb2N1bWVudFN0YXR1cy5QVUJMSVNIRUQsIHBhZ2VhYmxlKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHB1Ymxpc2hlZEF0ID0gWm9uZWREYXRlVGltZS5ub3coKQo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCB0aW1lS2VlcGluZzogTG9uZyA9IDAK</text>
+        <text encoding="base64">ICAgIGZ1biBtdXN0QmVEcmFmdCgpIHsKICAgICAgICBpZiAocHVibGlzaGVkKQogICAgICAgICAgICB0aHJvdyBBcHBFcnJvci5kCiAgICB9Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhciB0aW1la2VlcGVyOiBMb25nID0gMAo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBzdGF0dXMgPSBEb2N1bWVudFN0YXR1cy5EUkFGVAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFRpbWVhYgo=</text>
+        <text encoding="base64">ICAgIC8vILO3z/q3orK8CiAgICBmdW4gc3VwcHJlc3MoKSB7CiAgICAgICAgc3RhdHVzID0gRG9jdW1lbnRTdGF0dXMuRFJBRlQKICAgICAgICBwdWJsaXNoZWRBdCA9IG51bGwKICAgIH0KCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>595</text>

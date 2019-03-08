@@ -368,12 +368,12 @@
         <mark key="^" line="12" column="21" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="D:/project/musicbible/build.gradle" timestamp="1550548925626">
-        <mark key="'" line="42" column="50" />
-        <mark key="[" line="79" column="8" />
-        <mark key="]" line="79" column="8" />
-        <mark key="." line="79" column="8" />
-        <mark key="^" line="79" column="8" />
+      <file name="D:/project/musicbible/build.gradle" timestamp="1552036938317">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="63" column="39" />
+        <mark key="]" line="63" column="45" />
+        <mark key="." line="63" column="45" />
+        <mark key="^" line="63" column="45" />
       </file>
       <file name="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" timestamp="1552030265720">
         <mark key="'" line="108" column="0" />
@@ -402,8 +402,8 @@
         <mark key="^" line="16" column="36" />
         <mark key="." line="16" column="35" />
       </file>
-      <file name="D:/project/musicbible/backend-api/build.gradle" timestamp="1551754687922">
-        <mark key="'" line="0" column="0" />
+      <file name="D:/project/musicbible/backend-api/build.gradle" timestamp="1552035652975">
+        <mark key="'" line="15" column="34" />
         <mark key="[" line="27" column="70" />
         <mark key="]" line="27" column="67" />
         <mark key="^" line="27" column="67" />
@@ -742,12 +742,12 @@
         <mark key="^" line="20" column="33" />
         <mark key="." line="20" column="33" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Label.kt" timestamp="1552033930525">
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Label.kt" timestamp="1552035555234">
         <mark key="'" line="31" column="11" />
-        <mark key="[" line="32" column="4" />
-        <mark key="]" line="32" column="12" />
-        <mark key="^" line="32" column="12" />
-        <mark key="." line="32" column="12" />
+        <mark key="[" line="32" column="24" />
+        <mark key="]" line="32" column="31" />
+        <mark key="^" line="32" column="31" />
+        <mark key="." line="32" column="31" />
       </file>
       <file name="D:/project/musicbible/common-spring/src/main/kotlin/com/boostfield/spring/exception/AppError.kt" timestamp="1551960606508">
         <mark key="'" line="109" column="0" />
@@ -1226,15 +1226,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="274" column="0" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" />
-      <jump line="264" column="0" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" />
-      <jump line="256" column="0" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" />
-      <jump line="248" column="0" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" />
-      <jump line="240" column="0" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" />
-      <jump line="232" column="0" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" />
-      <jump line="224" column="0" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" />
-      <jump line="216" column="0" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" />
-      <jump line="208" column="0" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" />
       <jump line="200" column="0" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" />
       <jump line="29" column="46" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
       <jump line="97" column="8" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
@@ -1326,55 +1317,64 @@
       <jump line="72" column="23" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Label.kt" />
       <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Label.kt" />
       <jump line="31" column="11" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Label.kt" />
+      <jump line="0" column="0" filename="D:/project/musicbible/backend-api/build.gradle" />
+      <jump line="15" column="34" filename="D:/project/musicbible/backend-api/build.gradle" />
+      <jump line="86" column="47" filename="D:/project/musicbible/build.gradle" />
+      <jump line="17" column="61" filename="D:/project/musicbible/build.gradle" />
+      <jump line="58" column="0" filename="D:/project/musicbible/build.gradle" />
+      <jump line="46" column="0" filename="D:/project/musicbible/build.gradle" />
+      <jump line="37" column="0" filename="D:/project/musicbible/build.gradle" />
+      <jump line="23" column="0" filename="D:/project/musicbible/build.gradle" />
+      <jump line="19" column="0" filename="D:/project/musicbible/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ID0gbnVsbA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgaGliZXJuYXRlIHsKLy8gICAgICAgIGVuaGFuY2UgewovLyAgICAgICAgICAgIGVuYWJsZUxhenlJbml0aWFsaXphdGlvbgovLyAgICAgICAgICAgIGVuYWJsZURpcnR5VHJhY2tpbmcKLy8gICAgICAgICAgICBlbmFibGVBc3NvY2lhdGlvbk1hbmFnZW1lbnQKLy8gICAgICAgIH0KLy8gICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0gbnVsbA==</text>
+        <text>hibernateVersion</text>
       </register>
       <register name="/" type="4">
-        <text>created</text>
+        <text>hiber</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKCI9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PSIpCg==</text>
+      <register name="0" type="4">
+        <text>hibernateVersion</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBvcmcuc3ByaW5nZnJhbWV3b3JrLmRhdGEuYW5ub3RhdGlvbi5BY2Nlc3NUeXBlKG9yZy5zcHJpbmdmcmFtZXdvcmsuZGF0YS5hbm5vdGF0aW9uLkFjY2Vzc1R5cGUuVHlwZS5QUk9QRVJUWSkK</text>
+        <text encoding="base64">Ly8gICAgaGliZXJuYXRlIHsKLy8gICAgICAgIGVuaGFuY2UgewovLyAgICAgICAgICAgIGVuYWJsZUxhenlJbml0aWFsaXphdGlvbgovLyAgICAgICAgICAgIGVuYWJsZURpcnR5VHJhY2tpbmcKLy8gICAgICAgICAgICBlbmFibGVBc3NvY2lhdGlvbk1hbmFnZW1lbnQKLy8gICAgICAgIH0KLy8gICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKCI9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09IikK</text>
+        <text encoding="base64">Ly8gICAgaGliZXJuYXRlIHsKLy8gICAgICAgIGVuaGFuY2UgewovLyAgICAgICAgICAgIGVuYWJsZUxhenlJbml0aWFsaXphdGlvbgovLyAgICAgICAgICAgIGVuYWJsZURpcnR5VHJhY2tpbmcKLy8gICAgICAgICAgICBlbmFibGVBc3NvY2lhdGlvbk1hbmFnZW1lbnQKLy8gICAgICAgIH0KLy8gICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKCI9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09IikK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGhpYmVyCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGhpYmVybmF0ZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBoaWJlcm5hdGVWZXJzaW9uID0gJzUuMy43Jwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZ1biB0ZXN0X3VwZGF0ZV9wZXJpb2QoKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW5hYmxlRAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBUZXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gYW55IGNvbmZpZ3VyYXRpb24gZ29lcyBoZXJlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNob3ctc3FsOiB0cnVlCg==</text>
+        <text encoding="base64">ICAgICAgICBkZXBlbmRlbmNpZXMgCg==</text>
       </register>
       <register name=":" type="4">
         <text>56</text>
       </register>
     </registers>
     <search>
-      <last-search>created</last-search>
+      <last-search>hiber</last-search>
       <last-offset />
-      <last-pattern>created</last-pattern>
+      <last-pattern>hiber</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxleHBvcnRBbGxcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1382,7 +1382,6 @@
     </search>
     <history>
       <history-search>
-        <entry>nota</entry>
         <entry>nati</entry>
         <entry>createdBy</entry>
         <entry>genres</entry>
@@ -1402,6 +1401,7 @@
         <entry encoding="base64">XDxjb3VudHJ5XD4=</entry>
         <entry>country</entry>
         <entry>created</entry>
+        <entry>hiber</entry>
       </history-search>
       <history-cmd>
         <entry>522</entry>

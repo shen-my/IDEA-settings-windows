@@ -368,8 +368,8 @@
         <mark key="^" line="12" column="21" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="D:/project/musicbible/build.gradle" timestamp="1552036938317">
-        <mark key="'" line="19" column="0" />
+      <file name="D:/project/musicbible/build.gradle" timestamp="1552040565327">
+        <mark key="'" line="59" column="14" />
         <mark key="[" line="63" column="39" />
         <mark key="]" line="63" column="45" />
         <mark key="." line="63" column="45" />
@@ -658,12 +658,11 @@
         <mark key="^" line="141" column="34" />
         <mark key="." line="146" column="0" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/mapper/release/ReleaseOutput.kt" timestamp="1551959573176">
-        <mark key="'" line="62" column="17" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="87" column="27" />
-        <mark key="." line="2" column="0" />
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/mapper/release/ReleaseOutput.kt" timestamp="1552041140219">
+        <mark key="'" line="151" column="11" />
+        <mark key="[" line="164" column="0" />
+        <mark key="]" line="164" column="0" />
+        <mark key="." line="164" column="0" />
       </file>
       <file name="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/CommendationController.kt" timestamp="1551856730752">
         <mark key="'" line="0" column="0" />
@@ -1074,8 +1073,8 @@
         <mark key="^" line="40" column="25" />
         <mark key="." line="33" column="37" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/mapper/release/ReleaseMapper.kt" timestamp="1551959538331">
-        <mark key="'" line="0" column="0" />
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/mapper/release/ReleaseMapper.kt" timestamp="1552040703814">
+        <mark key="'" line="20" column="48" />
       </file>
       <file name="D:/project/musicbible/frontend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" timestamp="1550731589118">
         <mark key="'" line="99" column="65" />
@@ -1226,11 +1225,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="200" column="0" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" />
-      <jump line="29" column="46" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
-      <jump line="97" column="8" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
-      <jump line="741" column="17" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
-      <jump line="98" column="8" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
       <jump line="116" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/mapper/release/ReleaseInput.kt" />
       <jump line="694" column="1" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
       <jump line="210" column="25" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" />
@@ -1326,55 +1320,60 @@
       <jump line="37" column="0" filename="D:/project/musicbible/build.gradle" />
       <jump line="23" column="0" filename="D:/project/musicbible/build.gradle" />
       <jump line="19" column="0" filename="D:/project/musicbible/build.gradle" />
+      <jump line="59" column="14" filename="D:/project/musicbible/build.gradle" />
+      <jump line="48" column="36" filename="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/controller/BillboardController.kt" />
+      <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/mapper/release/ReleaseMapper.kt" />
+      <jump line="151" column="11" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/mapper/release/ReleaseOutput.kt" />
+      <jump line="16" column="48" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/mapper/release/ReleaseMapper.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgaGliZXJuYXRlIHsKLy8gICAgICAgIGVuaGFuY2UgewovLyAgICAgICAgICAgIGVuYWJsZUxhenlJbml0aWFsaXphdGlvbgovLyAgICAgICAgICAgIGVuYWJsZURpcnR5VHJhY2tpbmcKLy8gICAgICAgICAgICBlbmFibGVBc3NvY2lhdGlvbk1hbmFnZW1lbnQKLy8gICAgICAgIH0KLy8gICAgfQo=</text>
+        <text encoding="base64">ICAgIHZhciBjYXRhbG9nTnVtYmVyczogTXV0YWJsZUxpc3Q8U3RyaW5nPiA9IG11dGFibGVMaXN0T2YoKSwK</text>
       </register>
       <register name="-" type="4">
         <text>hibernateVersion</text>
       </register>
       <register name="/" type="4">
-        <text>hiber</text>
+        <text encoding="base64">XDxSZWxlYXNlQmFzaWNPdXRwdXRcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>hibernateVersion</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KCKzp8XGseC6xSIpCiAgICB2YXIgY2F0YWxvZ3M6IExpc3Q8UmVsZWFzZUNhdGFsb2dPdXRwdXQ+ID0gZW1wdHlMaXN0KCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgaGliZXJuYXRlIHsKLy8gICAgICAgIGVuaGFuY2UgewovLyAgICAgICAgICAgIGVuYWJsZUxhenlJbml0aWFsaXphdGlvbgovLyAgICAgICAgICAgIGVuYWJsZURpcnR5VHJhY2tpbmcKLy8gICAgICAgICAgICBlbmFibGVBc3NvY2lhdGlvbk1hbmFnZW1lbnQKLy8gICAgICAgIH0KLy8gICAgfQo=</text>
+        <text encoding="base64">ICAgIHZhciBjYXRhbG9nTnVtYmVyczogTXV0YWJsZUxpc3Q8U3RyaW5nPiA9IG11dGFibGVMaXN0T2YoKSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgaGliZXJuYXRlIHsKLy8gICAgICAgIGVuaGFuY2UgewovLyAgICAgICAgICAgIGVuYWJsZUxhenlJbml0aWFsaXphdGlvbgovLyAgICAgICAgICAgIGVuYWJsZURpcnR5VHJhY2tpbmcKLy8gICAgICAgICAgICBlbmFibGVBc3NvY2lhdGlvbk1hbmFnZW1lbnQKLy8gICAgICAgIH0KLy8gICAgfQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBkZXYK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGhpYmVyCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGhpYmVybmF0ZQo=</text>
+        <text encoding="base64">ICAgIHZhciB0aXRsZTI6IFN0cmluZyA9ICIiLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBoaWJlcm5hdGVWZXJzaW9uID0gJzUuMy43Jwo=</text>
+        <text encoding="base64">Ly8gICAgaGliZXJuYXRlIHsKLy8gICAgICAgIGVuaGFuY2UgewovLyAgICAgICAgICAgIGVuYWJsZUxhenlJbml0aWFsaXphdGlvbgovLyAgICAgICAgICAgIGVuYWJsZURpcnR5VHJhY2tpbmcKLy8gICAgICAgICAgICBlbmFibGVBc3NvY2lhdGlvbk1hbmFnZW1lbnQKLy8gICAgICAgIH0KLy8gICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW5hYmxlRAo=</text>
+        <text encoding="base64">Ly8gICAgaGliZXJuYXRlIHsKLy8gICAgICAgIGVuaGFuY2UgewovLyAgICAgICAgICAgIGVuYWJsZUxhenlJbml0aWFsaXphdGlvbgovLyAgICAgICAgICAgIGVuYWJsZURpcnR5VHJhY2tpbmcKLy8gICAgICAgICAgICBlbmFibGVBc3NvY2lhdGlvbk1hbmFnZW1lbnQKLy8gICAgICAgIH0KLy8gICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gYW55IGNvbmZpZ3VyYXRpb24gZ29lcyBoZXJlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZXBlbmRlbmNpZXMgCg==</text>
+        <text encoding="base64">ICAgIGhpYmVyCg==</text>
       </register>
       <register name=":" type="4">
         <text>56</text>
       </register>
     </registers>
     <search>
-      <last-search>hiber</last-search>
+      <last-search encoding="base64">XDxSZWxlYXNlQmFzaWNPdXRwdXRcPg==</last-search>
       <last-offset />
-      <last-pattern>hiber</last-pattern>
+      <last-pattern encoding="base64">XDxSZWxlYXNlQmFzaWNPdXRwdXRcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxleHBvcnRBbGxcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1382,8 +1381,6 @@
     </search>
     <history>
       <history-search>
-        <entry>nati</entry>
-        <entry>createdBy</entry>
         <entry>genres</entry>
         <entry>author</entry>
         <entry>getAu</entry>
@@ -1402,6 +1399,8 @@
         <entry>country</entry>
         <entry>created</entry>
         <entry>hiber</entry>
+        <entry encoding="base64">XDx0b1JlbGVhc2VCYXNpY091dHB1dFw+</entry>
+        <entry encoding="base64">XDxSZWxlYXNlQmFzaWNPdXRwdXRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>522</entry>

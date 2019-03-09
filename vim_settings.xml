@@ -830,8 +830,8 @@
         <mark key="." line="46" column="48" />
         <mark key="^" line="46" column="48" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Label.kt" timestamp="1552112487484">
-        <mark key="'" line="57" column="0" />
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Label.kt" timestamp="1552116912535">
+        <mark key="'" line="12" column="0" />
         <mark key="[" line="32" column="24" />
         <mark key="]" line="32" column="31" />
         <mark key="^" line="32" column="31" />
@@ -925,8 +925,8 @@
         <mark key="^" line="18" column="65" />
         <mark key="." line="18" column="65" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Release.kt" timestamp="1552114344862">
-        <mark key="'" line="24" column="0" />
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Release.kt" timestamp="1552116739266">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="78" column="0" />
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
@@ -1374,8 +1374,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="0" filename="D:/project/musicbible/build.gradle" />
-      <jump line="58" column="0" filename="D:/project/musicbible/build.gradle" />
       <jump line="90" column="18" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.persistence/javax.persistence-api/2.2/462dff65f6f8bde02ee9d8afe07fe9d50268199c/javax.persistence-api-2.2-sources.jar!/javax/persistence/OneToMany.java" />
       <jump line="91" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.persistence/javax.persistence-api/2.2/462dff65f6f8bde02ee9d8afe07fe9d50268199c/javax.persistence-api-2.2-sources.jar!/javax/persistence/OneToMany.java" />
       <jump line="102" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.persistence/javax.persistence-api/2.2/462dff65f6f8bde02ee9d8afe07fe9d50268199c/javax.persistence-api-2.2-sources.jar!/javax/persistence/OneToMany.java" />
@@ -1469,11 +1467,13 @@
       <jump line="92" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/mapper/release/ReleaseOutput.kt" />
       <jump line="98" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/mapper/release/ReleaseOutput.kt" />
       <jump line="87" column="11" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Release.kt" />
-      <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Release.kt" />
       <jump line="1" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Release.kt" />
       <jump line="12" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Release.kt" />
       <jump line="21" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Release.kt" />
       <jump line="24" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Release.kt" />
+      <jump line="278" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Release.kt" />
+      <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Release.kt" />
+      <jump line="12" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Label.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1483,7 +1483,7 @@
         <text>有</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjYXRhbG9nc1w+</text>
+        <text>country</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KCKzp8XGseC6xSIpCiAgICB2YXIgY2F0YWxvZ3M6IExpc3Q8UmVsZWFzZUNhdGFsb2dEZXRhaWxPdXRwdXQ+ID0gZW1wdHlMaXN0KCksCg==</text>
@@ -1520,9 +1520,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjYXRhbG9nc1w+</last-search>
+      <last-search>country</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjYXRhbG9nc1w+</last-pattern>
+      <last-pattern>country</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxleHBvcnRBbGxcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1530,7 +1530,6 @@
     </search>
     <history>
       <history-search>
-        <entry>lastApply</entry>
         <entry encoding="base64">XDxsYXN0Q2hlY2tpbmdcPg==</entry>
         <entry>my</entry>
         <entry>edit</entry>
@@ -1541,7 +1540,6 @@
         <entry>nation</entry>
         <entry encoding="base64">XDxsYXN0TmFtZVw+</entry>
         <entry encoding="base64">XDxjb3VudHJ5XD4=</entry>
-        <entry>country</entry>
         <entry>created</entry>
         <entry>hiber</entry>
         <entry encoding="base64">XDx0b1JlbGVhc2VCYXNpY091dHB1dFw+</entry>
@@ -1550,6 +1548,8 @@
         <entry encoding="base64">XDxjYXRhbG9nTnVtYmVyc1w+</entry>
         <entry>catalogs</entry>
         <entry encoding="base64">XDxjYXRhbG9nc1w+</entry>
+        <entry>catalogNu</entry>
+        <entry>country</entry>
       </history-search>
       <history-cmd>
         <entry>522</entry>

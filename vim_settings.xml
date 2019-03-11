@@ -1241,12 +1241,12 @@
         <mark key="^" line="72" column="3" />
         <mark key="." line="117" column="0" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Comment.kt" timestamp="1550731953291">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="14" column="37" />
-        <mark key="]" line="14" column="55" />
-        <mark key="^" line="52" column="12" />
-        <mark key="." line="14" column="37" />
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Comment.kt" timestamp="1552266601048">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="110" column="0" />
+        <mark key="]" line="110" column="4" />
+        <mark key="^" line="110" column="4" />
+        <mark key="." line="110" column="4" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/mock/MockModel.kt" timestamp="1552122980882">
         <mark key="'" line="78" column="0" />
@@ -1288,6 +1288,12 @@
         <mark key="]" line="10" column="45" />
         <mark key="^" line="10" column="44" />
         <mark key="." line="10" column="44" />
+      </file>
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/CommentAttitude.kt" timestamp="1552266623308">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="61" column="4" />
+        <mark key="^" line="61" column="4" />
+        <mark key="." line="61" column="4" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/DocumentChecking.kt" timestamp="1551951166392">
         <mark key="'" line="40" column="0" />
@@ -1373,8 +1379,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="37" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Artist.kt" />
-      <jump line="82" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Release.kt" />
       <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Release.kt" />
       <jump line="50" column="41" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/mock/MockModel.kt" />
       <jump line="79" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/mock/MockModel.kt" />
@@ -1473,6 +1477,8 @@
       <jump line="146" column="8" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Release.kt" />
       <jump line="7" column="6" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/ArtistCollect.kt" />
       <jump line="29" column="20" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Collect.kt" />
+      <jump line="56" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Comment.kt" />
+      <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Comment.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1494,13 +1500,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QEVudGl0eQpvcGVuIGNsYXNzIEFydGlzdENvbGxlY3Q6IENvbGxlY3Q8QXJ0aXN0PigpewogICAgQE1hbnlUb09uZQogICAgQE1hcHNJZCgiY29sbGVjdElkIikKICAgIG92ZXJyaWRlIHZhciBjb2xsZWN0OiBBcnRpc3Q/ID0gbnVsbAp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBDb2x1bW4KICAgIHZhciByZWxlYXNlQ291bnQ6IExvbmcgPSAwCgo=</text>
+        <text encoding="base64">QEVudGl0eQpvcGVuIGNsYXNzIEFydGlzdENvbGxlY3Q6IENvbGxlY3Q8QXJ0aXN0PigpewogICAgQE1hbnlUb09uZQogICAgQE1hcHNJZCgiY29sbGVjdElkIikKICAgIG92ZXJyaWRlIHZhciBjb2xsZWN0OiBBcnRpc3Q/ID0gbnVsbAp9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4KICAgIHZhciByZWxlYXNlQ291bnQ6IExvbmcgPSAwCgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>

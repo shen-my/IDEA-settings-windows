@@ -633,6 +633,12 @@
         <mark key="." line="33" column="8" />
         <mark key="^" line="33" column="8" />
       </file>
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/repository/CommendationRepository.kt" timestamp="1552277432766">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="5" column="51" />
+      </file>
       <file name="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/AuthController.kt" timestamp="1551952049718">
         <mark key="'" line="42" column="0" />
         <mark key="[" line="9" column="22" />
@@ -752,12 +758,11 @@
         <mark key="^" line="20" column="33" />
         <mark key="." line="20" column="33" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/spring/CustomRequestLoggingFilter.kt" timestamp="1552370003506">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="46" column="48" />
-        <mark key="]" line="46" column="48" />
-        <mark key="." line="46" column="48" />
-        <mark key="^" line="46" column="48" />
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/spring/CustomRequestLoggingFilter.kt" timestamp="1552380144749">
+        <mark key="[" line="19" column="31" />
+        <mark key="]" line="19" column="31" />
+        <mark key="." line="19" column="31" />
+        <mark key="^" line="19" column="31" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Label.kt" timestamp="1552272647157">
         <mark key="'" line="30" column="0" />
@@ -852,6 +857,12 @@
       </file>
       <file name="D:/project/gatenetdoc-server/src/test/java/com/boostfield/gatenetdoc/profile/ProfileControllerMockTest.java" timestamp="1552289386929">
         <mark key="'" line="86" column="37" />
+      </file>
+      <file name="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" timestamp="1552293494006">
+        <mark key="[" line="376" column="26" />
+        <mark key="]" line="376" column="27" />
+        <mark key="^" line="376" column="27" />
+        <mark key="." line="376" column="27" />
       </file>
       <file name="D:/project/musicbible/migration/console/entities/work.py" timestamp="1547535460874">
         <mark key="'" line="26" column="31" />
@@ -1243,9 +1254,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="151" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/UserService.kt" />
-      <jump line="146" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/UserService.kt" />
-      <jump line="141" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/UserService.kt" />
       <jump line="132" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/UserService.kt" />
       <jump line="130" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/UserService.kt" />
       <jump line="126" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/UserService.kt" />
@@ -1327,7 +1335,6 @@
       <jump line="6" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/spring/CustomRequestLoggingFilter.kt" />
       <jump line="8" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/spring/CustomRequestLoggingFilter.kt" />
       <jump line="23" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/spring/CustomRequestLoggingFilter.kt" />
-      <jump line="27" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/spring/CustomRequestLoggingFilter.kt" />
       <jump line="40" column="4" filename="D:/project/musicbible/backend-api/src/main/resources/application.yml" />
       <jump line="0" column="0" filename="D:/project/musicbible/frontend-api/src/main/resources/application.yml" />
       <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/security/JwtAuthenticationFilter.kt" />
@@ -1343,13 +1350,17 @@
       <jump line="87" column="31" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Release.kt" />
       <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Release.kt" />
       <jump line="60" column="8" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/mapper/release/ReleaseOutput.kt" />
+      <jump line="27" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/spring/CustomRequestLoggingFilter.kt" />
+      <jump line="32" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/spring/CustomRequestLoggingFilter.kt" />
+      <jump line="37" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/spring/CustomRequestLoggingFilter.kt" />
+      <jump line="42" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/spring/CustomRequestLoggingFilter.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhciByZWdpb25JZDogTG9uZz8gPSBudWxsCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>isNullOrEmpty</text>
+        <text>else {</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc3N1ZVRpbWVcPg==</text>
@@ -1358,31 +1369,31 @@
         <text encoding="base64">ICAgIHZhciByZWdpb25JZDogTG9uZz8gPSBudWxsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIMbVzajTw7unCiAgICAgKi8KICAgIHByaXZhdGUgZnVuIGJ1aWxkVXNlck1lc3NhZ2UodXNlcjogVXNlcikgPSAiVXNlcigke3VzZXIuaWR9KSIKCiAgICAvKioKICAgICAqILncwO3UsQogICAgICovCiAgICBwcml2YXRlIGZ1biBidWlsZEFkbWluTWVzc2FnZSh1c2VyOiBVc2VyKSA9ICJBZG1pbigke3VzZXIuaWR9KSIKCiAgICAvKioKICAgICAqILOsvLa53MDt1LEKICAgICAqLwogICAgcHJpdmF0ZSBmdW4gYnVpbGRSb290TWVzc2FnZSh1c2VyOiBVc2VyKSA9ICJSb290KCR7dXNlci5pZH0pIgoKICAgIHByaXZhdGUgZnVuIGNyb3Aob3JpZ2luOiBTdHJpbmc/LCBsZW5ndGg6IEludCk6IFN0cmluZyB7CiAgICAgICAgdmFsIGJsYW5rID0gIiAiCiAgICAgICAgdmFyIG1zZyA9ICIiCiAgICAgICAgaWYgKG9yaWdpbiA9PSBudWxsKSB7CiAgICAgICAgICAgIGZvciAoaSBpbiAwIHVudGlsIGxlbmd0aCkgewogICAgICAgICAgICAgICAgbXNnICs9IGJsYW5rCiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmV0dXJuIG1zZwogICAgICAgIH0KICAgICAgICB2YWwgb3JpZ2luTGVuZ3RoID0gb3JpZ2luLmxlbmd0aAogICAgICAgIGlmIChvcmlnaW5MZW5ndGggPD0gbGVuZ3RoKSB7CiAgICAgICAgICAgIHZhbCBsZXNzID0gbGVuZ3RoIC0gb3JpZ2luTGVuZ3RoCiAgICAgICAgICAgIGZvciAoaSBpbiAwIHVudGlsIGxlc3MpIHsKICAgICAgICAgICAgICAgIG1zZyArPSBibGFuawogICAgICAgICAgICB9CiAgICAgICAgICAgIG1zZyArPSBvcmlnaW4KICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBtc2cgPSBvcmlnaW4uc3Vic3RyaW5nKDAsIGxlbmd0aCAtIDIpICsgIi4uIgogICAgICAgIH0KICAgICAgICByZXR1cm4gbXNnCiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5JbGxlZ2FsU3RhdGVFeGNlcHRpb24K</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5ib29zdGZpZWxkLnNwcmluZy5leGNlcHRpb24uQXBwRXJyb3IK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG1heC1oaXN0b3J5OiAzMAo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1heC1oaXN0b3J5OiAzMAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5JbGxlZ2FsU3RhdGVFeGNlcHRpb24K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5ib29zdGZpZWxkLnNwcmluZy5leGNlcHRpb24uQXBwRXJyb3IK</text>
       </register>
       <register name=":" type="4">
         <text>47</text>

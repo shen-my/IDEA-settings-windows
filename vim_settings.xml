@@ -940,7 +940,8 @@
       <file name="D:/project/gatenetdoc-server/src/test/java/com/boostfield/gatenetdoc/profile/ProfileControllerMockTest.java" timestamp="1552289386929">
         <mark key="'" line="86" column="37" />
       </file>
-      <file name="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" timestamp="1552535397307">
+      <file name="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" timestamp="1552536721417">
+        <mark key="'" line="328" column="8" />
         <mark key="[" line="604" column="16" />
         <mark key="]" line="604" column="27" />
         <mark key="^" line="604" column="27" />
@@ -1413,10 +1414,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/LabelControllerTest.kt" />
-      <jump line="21" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/LabelControllerTest.kt" />
-      <jump line="32" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/LabelControllerTest.kt" />
-      <jump line="38" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/LabelControllerTest.kt" />
       <jump line="42" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/LabelControllerTest.kt" />
       <jump line="46" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/LabelControllerTest.kt" />
       <jump line="51" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/LabelControllerTest.kt" />
@@ -1454,7 +1451,6 @@
       <jump line="206" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/LabelControllerTest.kt" />
       <jump line="210" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/LabelControllerTest.kt" />
       <jump line="220" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/LabelControllerTest.kt" />
-      <jump line="0" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
       <jump line="663" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
       <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/extension/ZonedDateTimeExtension.kt" />
       <jump line="93" column="28" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Label.kt" />
@@ -1513,6 +1509,11 @@
       <jump line="261" column="0" filename="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" />
       <jump line="0" column="0" filename="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" />
       <jump line="0" column="0" filename="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/controller/WorkController.kt" />
+      <jump line="78" column="34" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
+      <jump line="0" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
+      <jump line="329" column="8" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
+      <jump line="467" column="16" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
+      <jump line="328" column="8" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1522,7 +1523,7 @@
         <text>update</text>
       </register>
       <register name="/" type="4">
-        <text>list</text>
+        <text encoding="base64">XDxjcmVhdGVTcGVjaWFsQXJ0aXN0XD4=</text>
       </register>
       <register name="0" type="4">
         <text>findByDeletedAtIsNull</text>
@@ -1559,9 +1560,9 @@
       </register>
     </registers>
     <search>
-      <last-search>list</last-search>
+      <last-search encoding="base64">XDxjcmVhdGVTcGVjaWFsQXJ0aXN0XD4=</last-search>
       <last-offset />
-      <last-pattern>list</last-pattern>
+      <last-pattern encoding="base64">XDxjcmVhdGVTcGVjaWFsQXJ0aXN0XD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxleHBvcnRBbGxcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1569,9 +1570,6 @@
     </search>
     <history>
       <history-search>
-        <entry>catalog</entry>
-        <entry encoding="base64">XDxhZGRSZWNvcmRpbmdzQXJ0aXN0XD4=</entry>
-        <entry encoding="base64">XDxVcGRhdGVSZWNvcmRpbmdzQXJ0aXN0SW5wdXRcPg==</entry>
         <entry encoding="base64">XDxVcGRhdGVSZWNvcmRpbmdBcnRpc3RJbnB1dFw+</entry>
         <entry encoding="base64">XDxoYXNoXD4=</entry>
         <entry>issue</entry>
@@ -1589,6 +1587,9 @@
         <entry encoding="base64">XDxiaWJsZUxpc3RTZXJ2aWNlXD4=</entry>
         <entry>test_dup</entry>
         <entry>list</entry>
+        <entry>importArtist</entry>
+        <entry encoding="base64">XDxpbXBvcnRBcnRpc3RcPg==</entry>
+        <entry encoding="base64">XDxjcmVhdGVTcGVjaWFsQXJ0aXN0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>123</entry>

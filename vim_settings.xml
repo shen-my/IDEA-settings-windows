@@ -159,12 +159,12 @@
         <mark key="." line="67" column="0" />
         <mark key="^" line="67" column="0" />
       </file>
-      <file name="D:/project/musicbible/common-spring/src/main/kotlin/com/boostfield/spring/persistence/Base.kt" timestamp="1552120235875">
-        <mark key="'" line="47" column="0" />
-        <mark key="[" line="46" column="4" />
-        <mark key="]" line="46" column="8" />
-        <mark key="." line="46" column="8" />
-        <mark key="^" line="46" column="8" />
+      <file name="D:/project/musicbible/common-spring/src/main/kotlin/com/boostfield/spring/persistence/Base.kt" timestamp="1552543637381">
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="37" column="28" />
+        <mark key="]" line="37" column="35" />
+        <mark key="." line="37" column="35" />
+        <mark key="^" line="37" column="35" />
       </file>
       <file name="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/controller/VerifyCodeController.kt" timestamp="1552456752267">
         <mark key="[" line="26" column="12" />
@@ -940,8 +940,8 @@
       <file name="D:/project/gatenetdoc-server/src/test/java/com/boostfield/gatenetdoc/profile/ProfileControllerMockTest.java" timestamp="1552289386929">
         <mark key="'" line="86" column="37" />
       </file>
-      <file name="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" timestamp="1552536721417">
-        <mark key="'" line="328" column="8" />
+      <file name="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" timestamp="1552543597990">
+        <mark key="'" line="344" column="0" />
         <mark key="[" line="604" column="16" />
         <mark key="]" line="604" column="27" />
         <mark key="^" line="604" column="27" />
@@ -1414,14 +1414,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/LabelControllerTest.kt" />
-      <jump line="46" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/LabelControllerTest.kt" />
-      <jump line="51" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/LabelControllerTest.kt" />
-      <jump line="64" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/LabelControllerTest.kt" />
-      <jump line="57" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/LabelControllerTest.kt" />
-      <jump line="37" column="19" filename="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/controller/WorkController.kt" />
-      <jump line="74" column="15" filename="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/controller/WorkController.kt" />
-      <jump line="82" column="8" filename="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/controller/WorkController.kt" />
       <jump line="88" column="8" filename="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/controller/WorkController.kt" />
       <jump line="94" column="15" filename="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/controller/WorkController.kt" />
       <jump line="102" column="12" filename="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/controller/WorkController.kt" />
@@ -1514,13 +1506,21 @@
       <jump line="329" column="8" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
       <jump line="467" column="16" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
       <jump line="328" column="8" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
+      <jump line="344" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
+      <jump line="0" column="0" filename="D:/project/musicbible/common-spring/src/main/kotlin/com/boostfield/spring/persistence/Base.kt" />
+      <jump line="1" column="0" filename="D:/project/musicbible/common-spring/src/main/kotlin/com/boostfield/spring/persistence/Base.kt" />
+      <jump line="20" column="0" filename="D:/project/musicbible/common-spring/src/main/kotlin/com/boostfield/spring/persistence/Base.kt" />
+      <jump line="36" column="0" filename="D:/project/musicbible/common-spring/src/main/kotlin/com/boostfield/spring/persistence/Base.kt" />
+      <jump line="59" column="0" filename="D:/project/musicbible/common-spring/src/main/kotlin/com/boostfield/spring/persistence/Base.kt" />
+      <jump line="55" column="0" filename="D:/project/musicbible/common-spring/src/main/kotlin/com/boostfield/spring/persistence/Base.kt" />
+      <jump line="43" column="0" filename="D:/project/musicbible/common-spring/src/main/kotlin/com/boostfield/spring/persistence/Base.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>update</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>update</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjcmVhdGVTcGVjaWFsQXJ0aXN0XD4=</text>

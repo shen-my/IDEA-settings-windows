@@ -160,12 +160,6 @@
         <mark key="." line="67" column="0" />
         <mark key="^" line="67" column="0" />
       </file>
-      <file name="D:/project/musicbible/common-spring/src/main/kotlin/com/boostfield/spring/persistence/Base.kt" timestamp="1552544761663">
-        <mark key="'" line="43" column="0" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-      </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/repository/PeriodRepository.kt" timestamp="1548419031108">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="3" column="0" />
@@ -338,12 +332,6 @@
         <mark key="^" line="8" column="25" />
         <mark key="." line="8" column="25" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/repository/ReleaseAppreciationRepository.kt" timestamp="1552621275910">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/config/ShiroConfig.kt" timestamp="1550560783586">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="35" column="70" />
@@ -465,10 +453,10 @@
         <mark key="^" line="25" column="6" />
         <mark key="." line="25" column="6" />
       </file>
-      <file name="D:/project/musicbible/backend-api/build.gradle" timestamp="1552306459054">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="26" column="4" />
-        <mark key="]" line="26" column="17" />
+      <file name="D:/project/musicbible/backend-api/build.gradle" timestamp="1552644078268">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="74" />
         <mark key="^" line="26" column="17" />
         <mark key="." line="26" column="17" />
       </file>
@@ -529,12 +517,6 @@
         <mark key="]" line="7" column="0" />
         <mark key="^" line="61" column="34" />
         <mark key="." line="7" column="0" />
-      </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/repository/ArtistAppreciationAttitudeRepository.kt" timestamp="1552629238089">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/controller/AppreciationController.kt" timestamp="1552614897175">
         <mark key="'" line="23" column="0" />
@@ -788,11 +770,12 @@
         <mark key="]" line="211" column="0" />
         <mark key="." line="211" column="0" />
       </file>
-      <file name="D:/project/musicbible/event-process/build.gradle" timestamp="1552634270052">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="D:/project/musicbible/event-process/build.gradle" timestamp="1552644145882">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="14" column="50" />
+        <mark key="]" line="14" column="36" />
+        <mark key="." line="14" column="36" />
+        <mark key="^" line="14" column="36" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ProfessionService.kt" timestamp="1550914484472">
         <mark key="'" line="10" column="55" />
@@ -1237,12 +1220,6 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="29" column="28" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Work.kt" timestamp="1552617067705">
-        <mark key="'" line="121" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/mock/MockModel.kt" timestamp="1552291866106">
         <mark key="'" line="80" column="0" />
         <mark key="[" line="41" column="90" />
@@ -1395,7 +1372,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="255" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
       <jump line="294" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
       <jump line="301" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
       <jump line="309" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
@@ -1495,55 +1471,56 @@
       <jump line="323" column="87" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" />
       <jump line="390" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" />
       <jump line="14" column="0" filename="D:/project/musicbible/event-process/build.gradle" />
+      <jump line="0" column="0" filename="D:/project/musicbible/backend-api/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBDaHVua0l0ZXJhdG9yKHJlbGVhc2VTZXJ2aWNlOjpmaW5kRXhpc3RzLCAxMDApLmZvckVhY2ggewogICAgICAgICAgICBpdC5jYWxjQ29tcGxldGVuZXNzKCkKICAgICAgICAgICAgcmVsZWFzZVNlcnZpY2Uuc2F2ZShpdCkKICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>ReCalcCompleteness</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>toString</text>
+        <text>kafka</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW5jbHVkZSAnbWFuYWdlbWVudCcK</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uKCdvcmcuc3ByaW5nZnJhbWV3b3JrLmthZmthOnNwcmluZy1rYWZrYToyLjIuNC5SRUxFQVNFJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBDaHVua0l0ZXJhdG9yKHJlbGVhc2VTZXJ2aWNlOjpmaW5kRXhpc3RzLCAxMDApLmZvckVhY2ggewogICAgICAgICAgICBpdC5jYWxjQ29tcGxldGVuZXNzKCkKICAgICAgICAgICAgcmVsZWFzZVNlcnZpY2Uuc2F2ZShpdCkKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uKCdjb20uZ29vZ2xlLmNvZGUuZ3Nvbjpnc29uJykK</text>
+        <text encoding="base64">ICAgICAgICBDaHVua0l0ZXJhdG9yKHJlbGVhc2VTZXJ2aWNlOjpmaW5kRXhpc3RzLCAxMDApLmZvckVhY2ggewogICAgICAgICAgICBpdC5jYWxjQ29tcGxldGVuZXNzKCkKICAgICAgICAgICAgcmVsZWFzZVNlcnZpY2Uuc2F2ZShpdCkKICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uKCdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q6c3ByaW5nLWJvb3Qtc3RhcnRlci1zZWN1cml0eScpCg==</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uKCdjb20uZ29vZ2xlLmNvZGUuZ3Nvbjpnc29uJykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uKCdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q6c3ByaW5nLWJvb3Qtc3RhcnRlci1kYXRhLXJlc3QnKQo=</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uKCdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q6c3ByaW5nLWJvb3Qtc3RhcnRlci1zZWN1cml0eScpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhcnRpc3QuYWJicgo=</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uKCdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q6c3ByaW5nLWJvb3Qtc3RhcnRlci1kYXRhLXJlc3QnKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBhcnRpc3QuYWJicgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmZpbHRlciB7IGl0ICE9IG51bGwgfS5tYXAgeyBpdCEhIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnRpb25zLmFzc2VydFRydWUoZ3VpZGVDYXRlZ29yeS5pZC5pc051bGxPckJsYW5rKCkubm90KCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmZpbHRlciB7IGl0ICE9IG51bGwgfS5tYXAgeyBpdCEhIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0aW9ucy5hc3NlcnRUcnVlKGl0LmlkLmlzTnVsbE9yQmxhbmsoKS5ub3QoKSkK</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnRpb25zLmFzc2VydFRydWUoZ3VpZGVDYXRlZ29yeS5pZC5pc051bGxPckJsYW5rKCkubm90KCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>8</text>
       </register>
     </registers>
     <search>
-      <last-search>toString</last-search>
+      <last-search>kafka</last-search>
       <last-offset />
-      <last-pattern>toString</last-pattern>
+      <last-pattern>kafka</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxleHBvcnRBbGxcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1551,7 +1528,6 @@
     </search>
     <history>
       <history-search>
-        <entry>AppError</entry>
         <entry encoding="base64">XDxBcHBFcnJvclw+</entry>
         <entry encoding="base64">XDxDb25zdHJhaW50VmlvbGF0aW9uRXhjZXB0aW9uXD4=</entry>
         <entry>BindException</entry>
@@ -1571,6 +1547,7 @@
         <entry>IllegalAr</entry>
         <entry>workIds</entry>
         <entry>toString</entry>
+        <entry>kafka</entry>
       </history-search>
       <history-cmd>
         <entry>594</entry>

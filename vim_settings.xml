@@ -209,6 +209,11 @@
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/mapper/recording/RecordingInput.kt" timestamp="1552295617211">
         <mark key="'" line="8" column="11" />
       </file>
+      <file name="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/LabelController.kt" timestamp="1552711377825">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
       <file name="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/controller/UserFeedBackController.kt" timestamp="1552456737979">
         <mark key="[" line="22" column="87" />
         <mark key="]" line="23" column="7" />
@@ -525,8 +530,8 @@
         <mark key="." line="99" column="39" />
         <mark key="^" line="99" column="39" />
       </file>
-      <file name="D:/project/musicbible/backend-api/src/main/resources/application.yml" timestamp="1552652010133">
-        <mark key="'" line="44" column="4" />
+      <file name="D:/project/musicbible/backend-api/src/main/resources/application.yml" timestamp="1552711242460">
+        <mark key="'" line="39" column="20" />
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="83" />
         <mark key="." line="42" column="28" />
@@ -989,7 +994,6 @@
       <file name="D:/project/gatenetdoc-server/src/test/java/com/boostfield/gatenetdoc/profile/ProfileControllerMockTest.java" timestamp="1552289386929">
         <mark key="'" line="86" column="37" />
       </file>
-      <file name="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" timestamp="1552632553444" />
       <file name="D:/project/musicbible/migration/console/entities/work.py" timestamp="1547535460874">
         <mark key="'" line="26" column="31" />
         <mark key="[" line="20" column="0" />
@@ -1479,7 +1483,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="0" filename="D:/project/musicbible/common-spring/src/main/kotlin/com/boostfield/spring/ExceptionHandler.kt" />
       <jump line="28" column="0" filename="D:/project/musicbible/common-spring/src/main/kotlin/com/boostfield/spring/ExceptionHandler.kt" />
       <jump line="22" column="0" filename="D:/project/musicbible/common-spring/src/main/kotlin/com/boostfield/spring/ExceptionHandler.kt" />
       <jump line="60" column="108" filename="D:/project/musicbible/common-spring/src/main/kotlin/com/boostfield/spring/ExceptionHandler.kt" />
@@ -1579,10 +1582,11 @@
       <jump line="26" column="40" filename="D:/project/musicbible/backend-api/build.gradle" />
       <jump line="118" column="36" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Work.kt" />
       <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Work.kt" />
+      <jump line="39" column="20" filename="D:/project/musicbible/backend-api/src/main/resources/application.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBsYWJlbC5pZCA9IAo=</text>
       </register>
       <register name="-" type="4">
         <text>'</text>
@@ -1594,34 +1598,34 @@
         <text encoding="base64">ICAgICAgdmFsdWUtc2VyaWFsaXplcjogb3JnLnNwcmluZ2ZyYW1ld29yay5rYWZrYS5zdXBwb3J0LnNlcmlhbGl6ZXIuSnNvblNlcmlhbGl6ZXIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKExvbmcuTUFYX1ZBTFVFIC8gMTAwMCAvIDM2MDAgLyAyNCAvIDM2NSkK</text>
+        <text encoding="base64">ICAgICAgICBsYWJlbC5pZCA9IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LkNvdW50RG93bkxhdGNoCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKExvbmcuTUFYX1ZBTFVFIC8gMTAwMCAvIDM2MDAgLyAyNCAvIDM2NSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUua2Fma2EuY2xpZW50cy5hZG1pbi5BZG1pbkNsaWVudENvbmZpZwo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LkNvdW50RG93bkxhdGNoCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbGF0Y2ggPSBDb3VudERvd25MYXRjaCgwKQo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUua2Fma2EuY2xpZW50cy5hZG1pbi5BZG1pbkNsaWVudENvbmZpZwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBUaHJlYWQuc2wK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbGF0Y2ggPSBDb3VudERvd25MYXRjaCgwKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBrYWZrYVN0cmVhbXMuCg==</text>
+        <text encoding="base64">ICAgICAgICBUaHJlYWQuc2wK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsYXRjaC5hd2FpdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBrYWZrYVN0cmVhbXMuCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBsYXRjaC5hd2FpdCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBrYWZrYVN0cmVhbXMuCg==</text>
+        <text encoding="base64">ICAgICAgICBsYXRjaC5hd2FpdCgpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>8</text>
+        <text>34</text>
       </register>
     </registers>
     <search>
@@ -1657,7 +1661,6 @@
         <entry>recording</entry>
       </history-search>
       <history-cmd>
-        <entry>594</entry>
         <entry>595</entry>
         <entry>39</entry>
         <entry>31</entry>
@@ -1677,6 +1680,7 @@
         <entry>803</entry>
         <entry>10</entry>
         <entry>8</entry>
+        <entry>34</entry>
       </history-cmd>
       <history-expr />
       <history-input />

@@ -906,12 +906,12 @@
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Label.kt" timestamp="1552551313096">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="D:/project/musicbible/event-process/src/main/kotlin/com/musicbible/command/ReCalcCompleteness.kt" timestamp="1552715250094">
-        <mark key="'" line="38" column="0" />
-        <mark key="[" line="31" column="38" />
-        <mark key="]" line="32" column="7" />
-        <mark key="^" line="32" column="7" />
-        <mark key="." line="32" column="7" />
+      <file name="D:/project/musicbible/event-process/src/main/kotlin/com/musicbible/command/ReCalcCompleteness.kt" timestamp="1552716968960">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="31" column="62" />
+        <mark key="]" line="34" column="36" />
+        <mark key="." line="34" column="36" />
+        <mark key="^" line="34" column="36" />
       </file>
       <file name="D:/project/musicbible/frontend-api/src/test/kotlin/com/musicbible/controller/ListingControllerTest.kt" timestamp="1550731496306">
         <mark key="'" line="31" column="3" />
@@ -1595,7 +1595,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnByaW50KFByaW50ZWQudG9TeXNPdXQoKSkK</text>
       </register>
       <register name="-" type="4">
         <text>isEmpty</text>
@@ -1607,31 +1607,31 @@
         <text encoding="base64">ICAgICAgdmFsdWUtc2VyaWFsaXplcjogb3JnLnNwcmluZ2ZyYW1ld29yay5rYWZrYS5zdXBwb3J0LnNlcmlhbGl6ZXIuSnNvblNlcmlhbGl6ZXIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnByaW50KFByaW50ZWQudG9TeXNPdXQoKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbih2YWx1ZSkK</text>
+        <text encoding="base64">ICAgICAgICBUaW1lV2luZG93cy5vZihEdXJhdGlvbi5vZlNlY29uZHMoNSkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihrZXkpCg==</text>
+        <text encoding="base64">ICAgICAgICBUaW1lV2luZG93cy5vZihEdXJhdGlvbi5vZlNlY29uZHMoNSkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnN0cmVhbS5mb3JlYWNoIHsga2V5LCB2YWx1ZSAtPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmNvdW50KCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFzc2VydGlvbnMuYXNzZXJ0VHJ1ZShpZC5pc051bGxPckJsYW5rKCkubm90KCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnRvU3RyZWFtKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnRpb25zLmFzc2VydFRydWUoYmlsbGJvYXJkLmlkLmlzTnVsbE9yQmxhbmsoKS5ub3QoKSkK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnRpb25zLmFzc2VydFRydWUoYmlsbGJvYXJkLmlkLmlzTnVsbE9yQmxhbmsoKS5ub3QoKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbih2YWx1ZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnRpb25zLmFzc2VydFRydWUoYmlsbGJvYXJkLmlkLmlzTnVsbE9yQmxhbmsoKS5ub3QoKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihrZXkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsYWJlbC5pZCA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnN0cmVhbS5mb3JlYWNoIHsga2V5LCB2YWx1ZSAtPgo=</text>
       </register>
       <register name=":" type="4">
         <text>34</text>

@@ -30,11 +30,6 @@
         <mark key="." line="9" column="25" />
         <mark key="^" line="9" column="25" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" timestamp="1552633578077">
-        <mark key="]" line="2" column="11" />
-        <mark key="." line="2" column="11" />
-        <mark key="^" line="2" column="11" />
-      </file>
       <file name="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/FormController.kt" timestamp="1552457787151">
         <mark key="[" line="22" column="12" />
         <mark key="]" line="22" column="18" />
@@ -906,12 +901,12 @@
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Label.kt" timestamp="1552551313096">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="D:/project/musicbible/event-process/src/main/kotlin/com/musicbible/command/ReCalcCompleteness.kt" timestamp="1552724824519">
-        <mark key="'" line="45" column="0" />
-        <mark key="[" line="35" column="49" />
-        <mark key="]" line="35" column="47" />
-        <mark key="." line="35" column="47" />
-        <mark key="^" line="35" column="47" />
+      <file name="D:/project/musicbible/event-process/src/main/kotlin/com/musicbible/command/ReCalcCompleteness.kt" timestamp="1552725305086">
+        <mark key="'" line="47" column="0" />
+        <mark key="[" line="36" column="62" />
+        <mark key="]" line="36" column="62" />
+        <mark key="." line="36" column="62" />
+        <mark key="^" line="36" column="62" />
       </file>
       <file name="D:/project/musicbible/frontend-api/src/test/kotlin/com/musicbible/controller/ListingControllerTest.kt" timestamp="1550731496306">
         <mark key="'" line="31" column="3" />
@@ -991,7 +986,8 @@
         <mark key="^" line="19" column="11" />
         <mark key="." line="19" column="11" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" timestamp="1552633836348">
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" timestamp="1552725282288">
+        <mark key="'" line="60" column="8" />
         <mark key="]" line="2" column="11" />
         <mark key="^" line="2" column="11" />
         <mark key="." line="2" column="11" />
@@ -1492,7 +1488,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="27" filename="D:/project/musicbible/test/Test.kt" />
       <jump line="7" column="0" filename="D:/project/musicbible/test/Test.kt" />
       <jump line="10" column="0" filename="D:/project/musicbible/test/Test.kt" />
       <jump line="16" column="0" filename="D:/project/musicbible/test/Test.kt" />
@@ -1532,7 +1527,6 @@
       <jump line="380" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
       <jump line="390" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
       <jump line="118" column="22" filename="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" />
-      <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" />
       <jump line="1" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" />
       <jump line="200" column="76" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" />
       <jump line="204" column="76" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" />
@@ -1592,55 +1586,57 @@
       <jump line="45" column="0" filename="D:/project/musicbible/event-process/src/main/kotlin/com/musicbible/command/ReCalcCompleteness.kt" />
       <jump line="38" column="0" filename="D:/project/musicbible/event-process/src/main/kotlin/com/musicbible/command/ReCalcCompleteness.kt" />
       <jump line="35" column="0" filename="D:/project/musicbible/event-process/src/main/kotlin/com/musicbible/command/ReCalcCompleteness.kt" />
+      <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" />
+      <jump line="60" column="8" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>DocumentEvent</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>recording</text>
+        <text encoding="base64">XDxpbmRleFRvRXNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRlc3RJbXBsZW1lbnRhdGlvbignY29tLmdvb2dsZS5jb2RlLmdzb246Z3NvbicpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuIChldmVudC5kb21haW4pIHsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIkxhYmVsIiAtPiAK</text>
+        <text encoding="base64">ICAgICAgICB3aGVuIChldmVudC5kb21haW4pIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZ3NvbiA9IEdzb24oKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIkxhYmVsIiAtPiAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAud2luZG93ZWRCeShUaW1lV2luZG93cy5vZihEdXJhdGlvbi5vZlNlY29uZHMoNSkpKQovLyAgICAgICAgICAgIC5jb3VudCgpCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZ3NvbiA9IEdzb24oKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAud2luZG93ZWRCeShUaW1lV2luZG93cy5vZihEdXJhdGlvbi5vZlNlY29uZHMoNSkpKQovLyAgICAgICAgICAgIC5jb3VudCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4oZXZlbnQuZG9tYWluKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4oaWQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4oZXZlbnQuZG9tYWluKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4oaWQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
       </register>
     </registers>
     <search>
-      <last-search>recording</last-search>
+      <last-search encoding="base64">XDxpbmRleFRvRXNcPg==</last-search>
       <last-offset />
-      <last-pattern>recording</last-pattern>
+      <last-pattern encoding="base64">XDxpbmRleFRvRXNcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxleHBvcnRBbGxcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1648,8 +1644,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxCaW5kRXhjZXB0aW9uXD4=</entry>
-        <entry encoding="base64">XDx3b3JrQXBwcmVjaWF0aW9uU2VydmljZVw+</entry>
         <entry>checks</entry>
         <entry>update_members</entry>
         <entry>updateMe</entry>
@@ -1668,6 +1662,8 @@
         <entry>topic</entry>
         <entry>init</entry>
         <entry>recording</entry>
+        <entry>indexTo</entry>
+        <entry encoding="base64">XDxpbmRleFRvRXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>595</entry>

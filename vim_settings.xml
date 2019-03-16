@@ -906,12 +906,12 @@
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Label.kt" timestamp="1552551313096">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="D:/project/musicbible/event-process/src/main/kotlin/com/musicbible/command/ReCalcCompleteness.kt" timestamp="1552716968960">
-        <mark key="'" line="41" column="0" />
-        <mark key="[" line="31" column="62" />
-        <mark key="]" line="34" column="36" />
-        <mark key="." line="34" column="36" />
-        <mark key="^" line="34" column="36" />
+      <file name="D:/project/musicbible/event-process/src/main/kotlin/com/musicbible/command/ReCalcCompleteness.kt" timestamp="1552718619921">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="39" column="26" />
+        <mark key="]" line="39" column="31" />
+        <mark key="." line="39" column="31" />
+        <mark key="^" line="39" column="31" />
       </file>
       <file name="D:/project/musicbible/frontend-api/src/test/kotlin/com/musicbible/controller/ListingControllerTest.kt" timestamp="1550731496306">
         <mark key="'" line="31" column="3" />
@@ -1594,44 +1594,44 @@
       <jump line="39" column="20" filename="D:/project/musicbible/backend-api/src/main/resources/application.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnByaW50KFByaW50ZWQudG9TeXNPdXQoKSkK</text>
+      <register name="&quot;" type="4">
+        <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>isEmpty</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>recording</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdmFsdWUtc2VyaWFsaXplcjogb3JnLnNwcmluZ2ZyYW1ld29yay5rYWZrYS5zdXBwb3J0LnNlcmlhbGl6ZXIuSnNvblNlcmlhbGl6ZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4oIj09PT09PT09PT09PT09PT09PT0iKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnByaW50KFByaW50ZWQudG9TeXNPdXQoKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmFnZwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBUaW1lV2luZG93cy5vZihEdXJhdGlvbi5vZlNlY29uZHMoNSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4oaykKICAgICAgICAgICAgICAgIHByaW50bG4odikKICAgICAgICAgICAgICAgIHByaW50bG4odmEpCiAgICAgICAgICAgICAgICBwcmludGxuKCI9PT09PT09PT09PT09PT09PT09IikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBUaW1lV2luZG93cy5vZihEdXJhdGlvbi5vZlNlY29uZHMoNSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmNvdW50KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2UK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnRvU3RyZWFtKCkK</text>
+        <text encoding="base64">ICAgICAgICAudG9TdHJlYW0oKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuZGF0YS51dGlsLk9wdGlvbmFscy50b1N0cmVhbQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbih2YWx1ZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihrZXkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnN0cmVhbS5mb3JlYWNoIHsga2V5LCB2YWx1ZSAtPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnByaW50KFByaW50ZWQudG9TeXNPdXQoKSkK</text>
       </register>
       <register name=":" type="4">
         <text>34</text>

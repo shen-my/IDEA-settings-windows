@@ -106,8 +106,8 @@
         <mark key="." line="67" column="0" />
         <mark key="^" line="67" column="0" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Artist.kt" timestamp="1552730038238">
-        <mark key="'" line="13" column="0" />
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Artist.kt" timestamp="1552896046981">
+        <mark key="'" line="25" column="0" />
         <mark key="[" line="11" column="23" />
         <mark key="]" line="11" column="29" />
         <mark key="." line="11" column="29" />
@@ -1245,7 +1245,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" />
       <jump line="43" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" />
       <jump line="49" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" />
       <jump line="61" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" />
@@ -1345,6 +1344,7 @@
       <jump line="302" column="43" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/RecordingService.kt" />
       <jump line="318" column="18" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/RecordingService.kt" />
       <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Work.kt" />
+      <jump line="25" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Artist.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1354,7 +1354,7 @@
         <text encoding="base64">U2VhcmNoU2VydmljZTxFc1JlY29yZGluZz4sIENvbXBsZXRpb25TdWdnZXN0U2VydmljZSB7</text>
       </register>
       <register name="/" type="4">
-        <text>artistIds</text>
+        <text>instrument</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBEZXByZWNhdGVkKG1lc3NhZ2UgPSAiwODQzbK7sLLIqyIpCg==</text>
@@ -1391,9 +1391,9 @@
       </register>
     </registers>
     <search>
-      <last-search>artistIds</last-search>
+      <last-search>instrument</last-search>
       <last-offset />
-      <last-pattern>artistIds</last-pattern>
+      <last-pattern>instrument</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxleHBvcnRBbGxcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1401,7 +1401,6 @@
     </search>
     <history>
       <history-search>
-        <entry>toString</entry>
         <entry>kafka</entry>
         <entry>topic</entry>
         <entry>init</entry>
@@ -1421,6 +1420,7 @@
         <entry>work.kt</entry>
         <entry>test_detail</entry>
         <entry>artistIds</entry>
+        <entry>instrument</entry>
       </history-search>
       <history-cmd>
         <entry>43</entry>

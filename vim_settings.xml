@@ -30,12 +30,12 @@
         <mark key="." line="9" column="25" />
         <mark key="^" line="9" column="25" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" timestamp="1552989126296">
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" timestamp="1552995936211">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="278" column="12" />
-        <mark key="]" line="278" column="7" />
-        <mark key="." line="278" column="7" />
-        <mark key="^" line="278" column="7" />
+        <mark key="[" line="218" column="49" />
+        <mark key="]" line="219" column="55" />
+        <mark key="." line="219" column="55" />
+        <mark key="^" line="219" column="55" />
       </file>
       <file name="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/FormController.kt" timestamp="1552457787151">
         <mark key="[" line="22" column="12" />
@@ -537,12 +537,12 @@
         <mark key="." line="63" column="31" />
         <mark key="^" line="63" column="31" />
       </file>
-      <file name="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" timestamp="1552989454475">
+      <file name="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" timestamp="1552995797269">
         <mark key="'" line="7" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="53" column="40" />
-        <mark key="." line="7" column="0" />
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="57" />
+        <mark key="^" line="74" column="54" />
+        <mark key="." line="77" column="0" />
       </file>
       <file name="D:/project/gatenetdoc-server/src/main/java/com/boostfield/gatenetdoc/manage/pointaudit/ScoreExporter.java" timestamp="1550889521179">
         <mark key="'" line="77" column="0" />
@@ -1754,7 +1754,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB3b3JrLmNyZWF0aW9uRmluaXNoVGltZSA9IAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKCI9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PSIpCg==</text>
       </register>
       <register name="-" type="4">
         <text>(creationBeginYear ?: 0).let { if (it == 0) &quot;&quot; else it.toString() }</text>
@@ -1763,34 +1763,34 @@
         <text encoding="base64">XDxtYWlsU2VydmljZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBDb2x1bW4oY29sdW1uRGVmaW5pdGlvbiA9ICJ0ZXh0IikK</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKCI9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB3b3JrLmNyZWF0aW9uRmluaXNoVGltZSA9IAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKCI9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PSIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB3b3JrLmNyZWF0aW9uQmVnaW5UaW1lID0gCg==</text>
+        <text encoding="base64">ICAgICAgICB3b3JrLmNyZWF0aW9uRmluaXNoVGltZSA9IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBDb2x1bW4oY29sdW1uRGVmaW5pdGlvbiA9ICJpbnQyIikK</text>
+        <text encoding="base64">ICAgICAgICB3b3JrLmNyZWF0aW9uQmVnaW5UaW1lID0gCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIEBDb2x1bW4oY29sdW1uRGVmaW5pdGlvbiA9ICJpbnQyIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKCI9PT09PT09PT09PT09PT09PT09PT09PT09PT09PSIpCg==</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4oY29sdW1uRGVmaW5pdGlvbiA9ICJpbnQyIikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKHdvcmsuYXJ0aXN0cykK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBwcmludGxuKCI9PT09PT09PT09PT09PT09PT09PT09PT09PT09PSIpCg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBwcmludGxuKHdvcmsuYXJ0aXN0cykK</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludGxuKCI9PT09PT09PT09PT09PT09PT09PT09PT09PT09PSIpCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKHdvcmsuY3JlZGl0cykK</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKHdvcmsuYXJ0aXN0cykK</text>
       </register>
       <register name=":" type="4">
         <text>119</text>

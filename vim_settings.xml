@@ -678,9 +678,6 @@
         <mark key="^" line="47" column="17" />
         <mark key="." line="47" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552982800754">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/project/musicbible/migration/console/models/taxonomy.py" timestamp="1551090215442">
         <mark key="'" line="36" column="32" />
         <mark key="[" line="72" column="42" />
@@ -1308,9 +1305,6 @@
         <mark key="." line="29" column="18" />
         <mark key="^" line="29" column="18" />
       </file>
-      <file name="/fragment.kt" timestamp="1552985811585">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/mapper/artist/ArtistInput.kt" timestamp="1551959664397">
         <mark key="'" line="32" column="0" />
         <mark key="[" line="3" column="0" />
@@ -1332,12 +1326,12 @@
         <mark key="." line="51" column="24" />
         <mark key="^" line="51" column="24" />
       </file>
-      <file name="D:/project/musicbible/common-spring/src/main/kotlin/com/boostfield/spring/http/RestResponse.kt" timestamp="1550541360798">
-        <mark key="'" line="50" column="0" />
-        <mark key="[" line="58" column="53" />
-        <mark key="]" line="59" column="49" />
-        <mark key="." line="59" column="49" />
-        <mark key="^" line="59" column="49" />
+      <file name="D:/project/musicbible/common-spring/src/main/kotlin/com/boostfield/spring/http/RestResponse.kt" timestamp="1553051742083">
+        <mark key="'" line="54" column="0" />
+        <mark key="[" line="27" column="5" />
+        <mark key="]" line="26" column="7" />
+        <mark key="." line="26" column="7" />
+        <mark key="^" line="26" column="7" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/repository/MediaFeatureRepository.kt" timestamp="1548486426538">
         <mark key="'" line="11" column="48" />
@@ -1565,6 +1559,12 @@
         <mark key="^" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/security/JwtAuthenticationEntryPoint.kt" timestamp="1553051723235">
+        <mark key="[" line="24" column="39" />
+        <mark key="]" line="24" column="48" />
+        <mark key="^" line="24" column="48" />
+        <mark key="." line="24" column="48" />
+      </file>
       <file name="D:/project/musicbible/migration/console/models/artist.py" timestamp="1551238861066">
         <mark key="'" line="39" column="24" />
         <mark key="[" line="40" column="0" />
@@ -1762,10 +1762,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CkBFbnRpdHkKb3BlbiBjbGFzcyBDbGllbnRUeXBlIDogQmFzZSgpIHsKICAgIC8qKgogICAgICog1tW2y8P7s8YKICAgICAqIDEgSU9TCiAgICAgKiAyIEFORFJPSUQKICAgICAqIGRlZmF1bHQgSU9TCiAgICAgKi8KICAgIEBDb2x1bW4oY29sdW1uRGVmaW5pdGlvbiA9ICJ0ZXh0IikKICAgIG9wZW4gdmFyIGNsaWVudDogU3RyaW5nID0gIklPUyIKCiAgICBAT25lVG9NYW55CiAgICBvcGVuIHZhciBjbGllbnRWZXJzaW9uczogTXV0YWJsZUxpc3Q8Q2xpZW50VmVyc2lvbj4gID0gbXV0YWJsZUxpc3RPZigpCn0K</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5lbGFzdGljc2VhcmNoLnJlc3QuUmVzdFJlc3BvbnNlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Base</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>gender</text>
@@ -1774,28 +1774,28 @@
         <text encoding="base64">ICAgICAgICBwcmludGxuKCI9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CkBFbnRpdHkKb3BlbiBjbGFzcyBDbGllbnRUeXBlIDogQmFzZSgpIHsKICAgIC8qKgogICAgICog1tW2y8P7s8YKICAgICAqIDEgSU9TCiAgICAgKiAyIEFORFJPSUQKICAgICAqIGRlZmF1bHQgSU9TCiAgICAgKi8KICAgIEBDb2x1bW4oY29sdW1uRGVmaW5pdGlvbiA9ICJ0ZXh0IikKICAgIG9wZW4gdmFyIGNsaWVudDogU3RyaW5nID0gIklPUyIKCiAgICBAT25lVG9NYW55CiAgICBvcGVuIHZhciBjbGllbnRWZXJzaW9uczogTXV0YWJsZUxpc3Q8Q2xpZW50VmVyc2lvbj4gID0gbXV0YWJsZUxpc3RPZigpCn0K</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5lbGFzdGljc2VhcmNoLnJlc3QuUmVzdFJlc3BvbnNlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CkBFbnRpdHkKb3BlbiBjbGFzcyBDbGllbnRUeXBlIDogQmFzZSgpIHsKICAgIC8qKgogICAgICog1tW2y8P7s8YKICAgICAqIDEgSU9TCiAgICAgKiAyIEFORFJPSUQKICAgICAqIGRlZmF1bHQgSU9TCiAgICAgKi8KICAgIEBDb2x1bW4oY29sdW1uRGVmaW5pdGlvbiA9ICJ0ZXh0IikKICAgIG9wZW4gdmFyIGNsaWVudDogU3RyaW5nID0gIklPUyIKCiAgICBAT25lVG9NYW55CiAgICBvcGVuIHZhciBjbGllbnRWZXJzaW9uczogTXV0YWJsZUxpc3Q8Q2xpZW50VmVyc2lvbj4gID0gbXV0YWJsZUxpc3RPZigpCn0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogtLS9qC+4/NDCyrG85AogICAgICovCiAgICBAQ29sdW1uKGNvbHVtbkRlZmluaXRpb24gPSAidGltZXN0YW1wIikKICAgIG9wZW4gdmFyIHVwZGF0ZWRfYXQ6IERhdGUgPSBEYXRlKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog0+vWrrbU06a1xLf+zvG2y7Dmsb4KICAgICAqLwogICAgQENvbHVtbihjb2x1bW5EZWZpbml0aW9uID0gInRleHQiKQogICAgb3BlbiB2YXIgc2VydmVyTGFzdFN1cHBvcnRWZXJzaW9uOiBTdHJpbmcgPSAiIgo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogtLS9qC+4/NDCyrG85AogICAgICovCiAgICBAQ29sdW1uKGNvbHVtbkRlZmluaXRpb24gPSAidGltZXN0YW1wIikKICAgIG9wZW4gdmFyIHVwZGF0ZWRfYXQ6IERhdGUgPSBEYXRlKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICog0+vWrrbU06a1xLf+zvG2y7Dmsb4KICAgICAqLwogICAgQENvbHVtbihjb2x1bW5EZWZpbml0aW9uID0gInRleHQiKQogICAgb3BlbiB2YXIgc2VydmVyTGFzdFN1cHBvcnRWZXJzaW9uOiBTdHJpbmcgPSAiIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqINfuuvPSu7j2ytzWp7PWtcTW1bbLsOaxvgo=</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
+        <text encoding="base64">ICAgICAqINfuuvPSu7j2ytzWp7PWtcTW1bbLsOaxvgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKCI9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PSIpCg==</text>
+        <text encoding="base64">ICAgIC8qKgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBwcmludGxuKCI9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PSIpCg==</text>

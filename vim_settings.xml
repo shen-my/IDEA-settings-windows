@@ -399,12 +399,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="21" column="30" />
       </file>
-      <file name="D:/project/musicbible/docker-compose.yml" timestamp="1553504931046">
-        <mark key="'" line="129" column="0" />
-        <mark key="[" line="96" column="29" />
-        <mark key="]" line="96" column="44" />
-        <mark key="." line="96" column="44" />
-        <mark key="^" line="96" column="44" />
+      <file name="D:/project/musicbible/docker-compose.yml" timestamp="1553506357699">
+        <mark key="'" line="51" column="24" />
+        <mark key="[" line="61" column="8" />
+        <mark key="]" line="61" column="9" />
+        <mark key="." line="61" column="9" />
+        <mark key="^" line="61" column="9" />
       </file>
       <file name="D:/project/musicbible/common/build.gradle" timestamp="1552306441014">
         <mark key="'" line="0" column="0" />
@@ -1742,9 +1742,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="392" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" />
-      <jump line="398" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" />
-      <jump line="432" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" />
       <jump line="444" column="52" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" />
       <jump line="417" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" />
       <jump line="408" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" />
@@ -1815,7 +1812,6 @@
       <jump line="130" column="8" filename="D:/project/musicbible/docker-compose.yml" />
       <jump line="1" column="0" filename="D:/project/musicbible/docker-compose.yml" />
       <jump line="57" column="32" filename="D:/project/musicbible/docker-compose.yml" />
-      <jump line="51" column="0" filename="D:/project/musicbible/docker-compose.yml" />
       <jump line="47" column="0" filename="D:/project/musicbible/docker-compose.yml" />
       <jump line="42" column="0" filename="D:/project/musicbible/docker-compose.yml" />
       <jump line="6" column="4" filename="D:/project/musicbible/docker-compose.yml" />
@@ -1842,16 +1838,20 @@
       <jump line="131" column="0" filename="D:/project/musicbible/docker-compose.yml" />
       <jump line="99" column="0" filename="D:/project/musicbible/docker-compose.yml" />
       <jump line="129" column="0" filename="D:/project/musicbible/docker-compose.yml" />
+      <jump line="50" column="3" filename="D:/project/musicbible/docker-compose.yml" />
+      <jump line="58" column="32" filename="D:/project/musicbible/docker-compose.yml" />
+      <jump line="61" column="9" filename="D:/project/musicbible/docker-compose.yml" />
+      <jump line="51" column="24" filename="D:/project/musicbible/docker-compose.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>debug</text>
+        <text>zookeeper</text>
       </register>
       <register name="-" type="4">
-        <text>debug</text>
+        <text>zookeeper</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxEQl9QT1JUXD4=</text>
+        <text>zookeeper</text>
       </register>
       <register name="0" type="4">
         <text>MB_DB_DATA_PATH</text>
@@ -1888,9 +1888,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxEQl9QT1JUXD4=</last-search>
+      <last-search>zookeeper</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxEQl9QT1JUXD4=</last-pattern>
+      <last-pattern>zookeeper</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxleHBvcnRBbGxcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1898,7 +1898,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkdXJhdGlvblw+</entry>
         <entry encoding="base64">XDxjcmVkaXRzXD4=</entry>
         <entry encoding="base64">XDxtb3ZlbWVudFw+</entry>
         <entry encoding="base64">XDxGb3JtYXR0ZWRUcmFja091dHB1dFw+</entry>
@@ -1918,6 +1917,7 @@
         <entry encoding="base64">XDx2b2x1bWVzXD4=</entry>
         <entry encoding="base64">XDxNQl9EQl9EQVRBX1BBVEhcPg==</entry>
         <entry encoding="base64">XDxEQl9QT1JUXD4=</entry>
+        <entry>zookeeper</entry>
       </history-search>
       <history-cmd>
         <entry>47</entry>

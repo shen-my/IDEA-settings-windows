@@ -399,12 +399,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="21" column="30" />
       </file>
-      <file name="D:/project/musicbible/docker-compose.yml" timestamp="1553510692785">
-        <mark key="'" line="99" column="12" />
-        <mark key="[" line="130" column="29" />
-        <mark key="]" line="130" column="44" />
-        <mark key="." line="130" column="44" />
-        <mark key="^" line="130" column="44" />
+      <file name="D:/project/musicbible/docker-compose.yml" timestamp="1553512029369">
+        <mark key="'" line="131" column="6" />
+        <mark key="[" line="28" column="10" />
+        <mark key="]" line="28" column="21" />
+        <mark key="." line="28" column="22" />
+        <mark key="^" line="28" column="22" />
       </file>
       <file name="D:/project/musicbible/common/build.gradle" timestamp="1552306441014">
         <mark key="'" line="0" column="0" />
@@ -628,11 +628,11 @@
         <mark key="^" line="12" column="27" />
         <mark key="." line="12" column="19" />
       </file>
-      <file name="D:/project/musicbible/.env" timestamp="1553503385939">
-        <mark key="[" line="3" column="25" />
-        <mark key="]" line="4" column="21" />
-        <mark key="^" line="4" column="21" />
-        <mark key="." line="4" column="21" />
+      <file name="D:/project/musicbible/.env" timestamp="1553512384162">
+        <mark key="[" line="6" column="12" />
+        <mark key="]" line="6" column="16" />
+        <mark key="^" line="6" column="16" />
+        <mark key="." line="6" column="16" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/event/DocumentEvent.kt" timestamp="1552723908597">
         <mark key="'" line="8" column="19" />
@@ -1742,7 +1742,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="444" column="52" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" />
       <jump line="417" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" />
       <jump line="408" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" />
       <jump line="403" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" />
@@ -1832,29 +1831,30 @@
       <jump line="53" column="0" filename="D:/project/musicbible/docker-compose.yml" />
       <jump line="62" column="0" filename="D:/project/musicbible/docker-compose.yml" />
       <jump line="85" column="44" filename="D:/project/musicbible/docker-compose.yml" />
-      <jump line="0" column="0" filename="D:/project/musicbible/docker-compose.yml" />
       <jump line="98" column="0" filename="D:/project/musicbible/docker-compose.yml" />
       <jump line="19" column="29" filename="D:/project/musicbible/docker-compose.yml" />
-      <jump line="131" column="0" filename="D:/project/musicbible/docker-compose.yml" />
       <jump line="129" column="0" filename="D:/project/musicbible/docker-compose.yml" />
       <jump line="50" column="3" filename="D:/project/musicbible/docker-compose.yml" />
       <jump line="58" column="32" filename="D:/project/musicbible/docker-compose.yml" />
       <jump line="61" column="9" filename="D:/project/musicbible/docker-compose.yml" />
       <jump line="51" column="24" filename="D:/project/musicbible/docker-compose.yml" />
       <jump line="99" column="12" filename="D:/project/musicbible/docker-compose.yml" />
+      <jump line="28" column="10" filename="D:/project/musicbible/docker-compose.yml" />
+      <jump line="0" column="0" filename="D:/project/musicbible/docker-compose.yml" />
+      <jump line="131" column="6" filename="D:/project/musicbible/docker-compose.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>debug</text>
+        <text>ES_DATA_PORT</text>
       </register>
       <register name="-" type="4">
-        <text>debug</text>
+        <text>9300</text>
       </register>
       <register name="/" type="4">
         <text>zookeeper</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLURzcHJpbmcuZGF0YXNvdXJjZS5wYXNzd29yZD0ke0RCX1BBU1NXT1JEfSBcCg==</text>
+      <register name="0" type="4">
+        <text>ES_DATA_PORT</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgLURzcHJpbmcuZGF0YXNvdXJjZS5wYXNzd29yZD0gXAo=</text>

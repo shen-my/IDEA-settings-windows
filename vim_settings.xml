@@ -399,12 +399,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="21" column="30" />
       </file>
-      <file name="D:/project/musicbible/docker-compose.yml" timestamp="1553506357699">
-        <mark key="'" line="51" column="24" />
-        <mark key="[" line="61" column="8" />
-        <mark key="]" line="61" column="9" />
-        <mark key="." line="61" column="9" />
-        <mark key="^" line="61" column="9" />
+      <file name="D:/project/musicbible/docker-compose.yml" timestamp="1553510692785">
+        <mark key="'" line="99" column="12" />
+        <mark key="[" line="130" column="29" />
+        <mark key="]" line="130" column="44" />
+        <mark key="." line="130" column="44" />
+        <mark key="^" line="130" column="44" />
       </file>
       <file name="D:/project/musicbible/common/build.gradle" timestamp="1552306441014">
         <mark key="'" line="0" column="0" />
@@ -1836,52 +1836,52 @@
       <jump line="98" column="0" filename="D:/project/musicbible/docker-compose.yml" />
       <jump line="19" column="29" filename="D:/project/musicbible/docker-compose.yml" />
       <jump line="131" column="0" filename="D:/project/musicbible/docker-compose.yml" />
-      <jump line="99" column="0" filename="D:/project/musicbible/docker-compose.yml" />
       <jump line="129" column="0" filename="D:/project/musicbible/docker-compose.yml" />
       <jump line="50" column="3" filename="D:/project/musicbible/docker-compose.yml" />
       <jump line="58" column="32" filename="D:/project/musicbible/docker-compose.yml" />
       <jump line="61" column="9" filename="D:/project/musicbible/docker-compose.yml" />
       <jump line="51" column="24" filename="D:/project/musicbible/docker-compose.yml" />
+      <jump line="99" column="12" filename="D:/project/musicbible/docker-compose.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>zookeeper</text>
+        <text>debug</text>
       </register>
       <register name="-" type="4">
-        <text>zookeeper</text>
+        <text>debug</text>
       </register>
       <register name="/" type="4">
         <text>zookeeper</text>
       </register>
-      <register name="0" type="4">
-        <text>MB_DB_DATA_PATH</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgLURzcHJpbmcuZGF0YXNvdXJjZS5wYXNzd29yZD0ke0RCX1BBU1NXT1JEfSBcCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">L3Zhci9saWIvcG9zdGdyZXNxbC9kYXRhCg==</text>
+        <text encoding="base64">ICAgICAgLURzcHJpbmcuZGF0YXNvdXJjZS5wYXNzd29yZD0gXAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGltYWdlOiBtdXNpY2JpYmxlLWVzOmxhdGVzdAo=</text>
+        <text encoding="base64">L3Zhci9saWIvcG9zdGdyZXNxbC9kYXRhCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgS0FGS0FfQURWRVJUSVNFRF9IT1NUX05BTUU6IDE5Mi4xNjguOTkuMTAwCg==</text>
+        <text encoding="base64">ICAgIGltYWdlOiBtdXNpY2JpYmxlLWVzOmxhdGVzdAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgS0FGS0FfQURWRVJUSVNFRF9IT1NUX05BTUU6IDE5Mi4xNjguOTkuMTAwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLSAvdmFyL3J1bi9kb2NrZXIuc29jazovdmFyL3J1bi9kb2NrZXIuc29jawo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZvbHVtZXM6Cg==</text>
+        <text encoding="base64">ICAgICAgLSAvdmFyL3J1bi9kb2NrZXIuc29jazovdmFyL3J1bi9kb2NrZXIuc29jawo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZGVwZW5kc19vbjoKICAgICAgICAtIGRiCiAgICAgICAgLSBlczEKICAgICAgICAtIGJhY2tlbmQtYXBpCiAgICAgICAgLSByZWRpcwo=</text>
+        <text encoding="base64">ICAgIHZvbHVtZXM6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcG9ydHM6CiAgICAgICAgLSAiOTA5MiIK</text>
+        <text encoding="base64">ICAgICAgZGVwZW5kc19vbjoKICAgICAgICAtIGRiCiAgICAgICAgLSBlczEKICAgICAgICAtIGJhY2tlbmQtYXBpCiAgICAgICAgLSByZWRpcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcG9ydHM6CiAgICAgICAgLSAiMjE4MToyMTgxIgo=</text>
+        <text encoding="base64">ICAgICAgcG9ydHM6CiAgICAgICAgLSAiOTA5MiIK</text>
       </register>
       <register name=":" type="4">
         <text>31</text>

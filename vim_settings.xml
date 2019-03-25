@@ -399,12 +399,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="21" column="30" />
       </file>
-      <file name="D:/project/musicbible/docker-compose.yml" timestamp="1553495039477">
-        <mark key="'" line="67" column="4" />
-        <mark key="[" line="9" column="23" />
-        <mark key="]" line="9" column="36" />
-        <mark key="." line="9" column="37" />
-        <mark key="^" line="9" column="37" />
+      <file name="D:/project/musicbible/docker-compose.yml" timestamp="1553496508111">
+        <mark key="'" line="42" column="0" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="14" column="74" />
       </file>
       <file name="D:/project/musicbible/common/build.gradle" timestamp="1552306441014">
         <mark key="'" line="0" column="0" />
@@ -1768,7 +1768,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/mapper/release/ReleaseInput.kt" />
       <jump line="344" column="8" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
       <jump line="2" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
       <jump line="48" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
@@ -1845,7 +1844,6 @@
       <jump line="12" column="0" filename="D:/project/musicbible/docker-compose.yml" />
       <jump line="14" column="4" filename="D:/project/musicbible/docker-compose.yml" />
       <jump line="59" column="0" filename="D:/project/musicbible/docker-compose.yml" />
-      <jump line="47" column="0" filename="D:/project/musicbible/docker-compose.yml" />
       <jump line="52" column="8" filename="D:/project/musicbible/docker-compose.yml" />
       <jump line="80" column="47" filename="D:/project/musicbible/docker-compose.yml" />
       <jump line="93" column="0" filename="D:/project/musicbible/docker-compose.yml" />
@@ -1853,7 +1851,6 @@
       <jump line="108" column="11" filename="D:/project/musicbible/docker-compose.yml" />
       <jump line="15" column="35" filename="D:/project/musicbible/docker-compose.yml" />
       <jump line="27" column="0" filename="D:/project/musicbible/docker-compose.yml" />
-      <jump line="42" column="0" filename="D:/project/musicbible/docker-compose.yml" />
       <jump line="46" column="0" filename="D:/project/musicbible/docker-compose.yml" />
       <jump line="75" column="8" filename="D:/project/musicbible/docker-compose.yml" />
       <jump line="95" column="0" filename="D:/project/musicbible/docker-compose.yml" />
@@ -1866,48 +1863,51 @@
       <jump line="9" column="21" filename="D:/project/musicbible/docker-compose.yml" />
       <jump line="130" column="8" filename="D:/project/musicbible/docker-compose.yml" />
       <jump line="1" column="0" filename="D:/project/musicbible/docker-compose.yml" />
-      <jump line="57" column="6" filename="D:/project/musicbible/docker-compose.yml" />
       <jump line="68" column="4" filename="D:/project/musicbible/docker-compose.yml" />
+      <jump line="57" column="32" filename="D:/project/musicbible/docker-compose.yml" />
+      <jump line="51" column="0" filename="D:/project/musicbible/docker-compose.yml" />
+      <jump line="47" column="0" filename="D:/project/musicbible/docker-compose.yml" />
+      <jump line="42" column="0" filename="D:/project/musicbible/docker-compose.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>MB_DB_PASSWORD</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGltYWdlOiBtdXNpY2JpYmxlLWVzOmxhdGVzdAo=</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">IG11c2ljYmlibGUtZXM6bGF0ZXN0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2b2x1bWVzXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>MB_DB_PASSWORD</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGltYWdlOiBzd3IuY24tbm9ydGgtMS5teWh1YXdlaWNsb3VkLmNvbS9tdXNpY2JpYmxlL2VsYXN0aWNzZWFyY2g6bGF0ZXN0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgS0FGS0FfQURWRVJUSVNFRF9IT1NUX05BTUU6IDE5Mi4xNjguOTkuMTAwCg==</text>
+        <text encoding="base64">ICAgIGltYWdlOiBtdXNpY2JpYmxlLWVzOmxhdGVzdAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgS0FGS0FfQURWRVJUSVNFRF9IT1NUX05BTUU6IDE5Mi4xNjguOTkuMTAwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLSAvdmFyL3J1bi9kb2NrZXIuc29jazovdmFyL3J1bi9kb2NrZXIuc29jawo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZvbHVtZXM6Cg==</text>
+        <text encoding="base64">ICAgICAgLSAvdmFyL3J1bi9kb2NrZXIuc29jazovdmFyL3J1bi9kb2NrZXIuc29jawo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZGVwZW5kc19vbjoKICAgICAgICAtIGRiCiAgICAgICAgLSBlczEKICAgICAgICAtIGJhY2tlbmQtYXBpCiAgICAgICAgLSByZWRpcwo=</text>
+        <text encoding="base64">ICAgIHZvbHVtZXM6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcG9ydHM6CiAgICAgICAgLSAiOTA5MiIK</text>
+        <text encoding="base64">ICAgICAgZGVwZW5kc19vbjoKICAgICAgICAtIGRiCiAgICAgICAgLSBlczEKICAgICAgICAtIGJhY2tlbmQtYXBpCiAgICAgICAgLSByZWRpcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcG9ydHM6CiAgICAgICAgLSAiMjE4MToyMTgxIgo=</text>
+        <text encoding="base64">ICAgICAgcG9ydHM6CiAgICAgICAgLSAiOTA5MiIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29udGFpbmVyX25hbWU6IG11c2ljYmlibGVfZXMxCg==</text>
+        <text encoding="base64">ICAgICAgcG9ydHM6CiAgICAgICAgLSAiMjE4MToyMTgxIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAtRGxvZ2dpbmcubGV2ZWwub3JnLnNwcmluZ2ZyYW1ld29yay5kYXRhPWRlYnVnICBcCg==</text>
+        <text encoding="base64">ICAgICAgY29udGFpbmVyX25hbWU6IG11c2ljYmlibGVfZXMxCg==</text>
       </register>
       <register name=":" type="4">
         <text>31</text>

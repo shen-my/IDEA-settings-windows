@@ -379,12 +379,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="21" column="30" />
       </file>
-      <file name="D:/project/musicbible/docker-compose.yml" timestamp="1553579728044">
-        <mark key="'" line="82" column="0" />
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
-        <mark key="^" line="68" column="9" />
+      <file name="D:/project/musicbible/docker-compose.yml" timestamp="1553582655625">
+        <mark key="'" line="75" column="18" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="81" column="18" />
+        <mark key="." line="80" column="0" />
+        <mark key="^" line="9" column="5" />
       </file>
       <file name="D:/project/musicbible/common/build.gradle" timestamp="1552306441014">
         <mark key="'" line="0" column="0" />
@@ -1662,10 +1662,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="401" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
-      <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
-      <jump line="1" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
-      <jump line="49" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
       <jump line="54" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
       <jump line="57" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
       <jump line="83" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
@@ -1729,7 +1725,6 @@
       <jump line="51" column="24" filename="D:/project/musicbible/docker-compose.yml" />
       <jump line="99" column="12" filename="D:/project/musicbible/docker-compose.yml" />
       <jump line="28" column="10" filename="D:/project/musicbible/docker-compose.yml" />
-      <jump line="0" column="0" filename="D:/project/musicbible/docker-compose.yml" />
       <jump line="131" column="6" filename="D:/project/musicbible/docker-compose.yml" />
       <jump line="0" column="0" filename="D:/project/musicbible/migration/console/management/commands/migratedb.py" />
       <jump line="1" column="0" filename="D:/project/musicbible/migration/console/management/commands/migratedb.py" />
@@ -1762,10 +1757,15 @@
       <jump line="61" column="48" filename="D:/project/musicbible/docker-compose.yml" />
       <jump line="78" column="8" filename="D:/project/musicbible/docker-compose.yml" />
       <jump line="82" column="0" filename="D:/project/musicbible/docker-compose.yml" />
+      <jump line="17" column="4" filename="D:/project/musicbible/docker-compose.yml" />
+      <jump line="100" column="5" filename="D:/project/musicbible/docker-compose.yml" />
+      <jump line="0" column="0" filename="D:/project/musicbible/docker-compose.yml" />
+      <jump line="71" column="0" filename="D:/project/musicbible/docker-compose.yml" />
+      <jump line="66" column="18" filename="D:/project/musicbible/docker-compose.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLSBlczEK</text>
+        <text encoding="base64">ICAgIG5ldHdvcmtzOgogICAgICAtIG11c2ljYmlibGUK</text>
       </register>
       <register name="-" type="4">
         <text>9</text>
@@ -1773,35 +1773,35 @@
       <register name="/" type="4">
         <text encoding="base64">XDxlczFcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>ES_DATA_PORT</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIG5ldHdvcmtzOgogICAgICAtIG11c2ljYmlibGUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLSBlczEK</text>
+        <text encoding="base64">ICAgIHJlc3RhcnQ6IGFsd2F5cwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLSBlczEK</text>
+        <text encoding="base64">ICAgIGxpbmtzOgogICAgICAtIGRiCiAgICAgIC0gZXMxCiAgICAgIC0gcmVkaXMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">RVNfQVBJX1BPUlQ9ODIwMAo=</text>
+        <text encoding="base64">ICAgIGxpbmtzOgogICAgICAtIGRiCiAgICAgIC0gZXMxCiAgICAgIC0gcmVkaXMKICAgICAgLSBrYWZrYQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBlczE6CiAgICBpbWFnZTogc3dyLmNuLW5vcnRoLTEubXlodWF3ZWljbG91ZC5jb20vbXVzaWNiaWJsZS9lbGFzdGljc2VhcmNoOmxhdGVzdAogICAgY29udGFpbmVyX25hbWU6IG11c2ljYmlibGVfZXMxCiAgICBlbnZpcm9ubWVudDoKICAgICAgY2x1c3Rlci5uYW1lOiBtdXNpY2JpYmxlCiAgICAgIGJvb3RzdHJhcC5tZW1vcnlfbG9jazogJ3RydWUnCiAgICAgIEVTX0pBVkFfT1BUUzogJy1YbXM1MTJtIC1YbXg1MTJtJwogICAgdWxpbWl0czoKICAgICAgbWVtbG9jazoKICAgICAgICBzb2Z0OiAtMQogICAgICAgIGhhcmQ6IC0xCiAgICBwb3J0czoKICAgICAgLSAke0VTX0FQSV9QT1JUfTo5MjAwCiAgICAgIC0gJHtFU19EQVRBX1BPUlR9OjkzMDAKCiAgZXMyOgogICAgaW1hZ2U6IHN3ci5jbi1ub3J0aC0xLm15aHVhd2VpY2xvdWQuY29tL211c2ljYmlibGUvZWxhc3RpY3NlYXJjaDpsYXRlc3QKICAgIGNvbnRhaW5lcl9uYW1lOiBtdXNpY2JpYmxlX2VzMgogICAgZW52aXJvbm1lbnQ6CiAgICAgIGNsdXN0ZXIubmFtZTogbXVzaWNiaWJsZQogICAgICBib290c3RyYXAubWVtb3J5X2xvY2s6ICd0cnVlJwogICAgICBFU19KQVZBX09QVFM6ICctWG1zNTEybSAtWG14NTEybScKICAgICAgZGlzY292ZXJ5Lnplbi5waW5nLnVuaWNhc3QuaG9zdHM6IGVzMQogICAgdWxpbWl0czoKICAgICAgbWVtbG9jazoKICAgICAgICBzb2Z0OiAtMQogICAgICAgIGhhcmQ6IC0xCiAgICBkZXBlbmRzX29uOgogICAgICAtIGVzMQoK</text>
+        <text encoding="base64">ICAgICAgLSBlczEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQodXNlcikK</text>
+        <text encoding="base64">ICAgICAgLSBlczEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJycnJycnCg==</text>
+        <text encoding="base64">RVNfQVBJX1BPUlQ9ODIwMAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLURzcHJpbmcuZGF0YXNvdXJjZS5wYXNzd29yZD0gXAo=</text>
+        <text encoding="base64">ICBlczE6CiAgICBpbWFnZTogc3dyLmNuLW5vcnRoLTEubXlodWF3ZWljbG91ZC5jb20vbXVzaWNiaWJsZS9lbGFzdGljc2VhcmNoOmxhdGVzdAogICAgY29udGFpbmVyX25hbWU6IG11c2ljYmlibGVfZXMxCiAgICBlbnZpcm9ubWVudDoKICAgICAgY2x1c3Rlci5uYW1lOiBtdXNpY2JpYmxlCiAgICAgIGJvb3RzdHJhcC5tZW1vcnlfbG9jazogJ3RydWUnCiAgICAgIEVTX0pBVkFfT1BUUzogJy1YbXM1MTJtIC1YbXg1MTJtJwogICAgdWxpbWl0czoKICAgICAgbWVtbG9jazoKICAgICAgICBzb2Z0OiAtMQogICAgICAgIGhhcmQ6IC0xCiAgICBwb3J0czoKICAgICAgLSAke0VTX0FQSV9QT1JUfTo5MjAwCiAgICAgIC0gJHtFU19EQVRBX1BPUlR9OjkzMDAKCiAgZXMyOgogICAgaW1hZ2U6IHN3ci5jbi1ub3J0aC0xLm15aHVhd2VpY2xvdWQuY29tL211c2ljYmlibGUvZWxhc3RpY3NlYXJjaDpsYXRlc3QKICAgIGNvbnRhaW5lcl9uYW1lOiBtdXNpY2JpYmxlX2VzMgogICAgZW52aXJvbm1lbnQ6CiAgICAgIGNsdXN0ZXIubmFtZTogbXVzaWNiaWJsZQogICAgICBib290c3RyYXAubWVtb3J5X2xvY2s6ICd0cnVlJwogICAgICBFU19KQVZBX09QVFM6ICctWG1zNTEybSAtWG14NTEybScKICAgICAgZGlzY292ZXJ5Lnplbi5waW5nLnVuaWNhc3QuaG9zdHM6IGVzMQogICAgdWxpbWl0czoKICAgICAgbWVtbG9jazoKICAgICAgICBzb2Z0OiAtMQogICAgICAgIGhhcmQ6IC0xCiAgICBkZXBlbmRzX29uOgogICAgICAtIGVzMQoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">L3Zhci9saWIvcG9zdGdyZXNxbC9kYXRhCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQodXNlcikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGltYWdlOiBtdXNpY2JpYmxlLWVzOmxhdGVzdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJycnJycnCg==</text>
       </register>
       <register name=":" type="4">
         <text>31</text>

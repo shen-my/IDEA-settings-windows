@@ -385,8 +385,8 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="21" column="30" />
       </file>
-      <file name="D:/project/musicbible/docker-compose.yml" timestamp="1553677382394">
-        <mark key="'" line="76" column="51" />
+      <file name="D:/project/musicbible/docker-compose.yml" timestamp="1553678511517">
+        <mark key="'" line="87" column="0" />
         <mark key="[" line="113" column="0" />
         <mark key="]" line="113" column="0" />
         <mark key="^" line="80" column="54" />
@@ -1784,20 +1784,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
-      <jump line="101" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
-      <jump line="106" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
-      <jump line="111" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
-      <jump line="116" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
-      <jump line="69" column="35" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/LabelService.kt" />
-      <jump line="290" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/LabelService.kt" />
-      <jump line="279" column="50" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/LabelService.kt" />
-      <jump line="256" column="43" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/LabelService.kt" />
-      <jump line="259" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/LabelService.kt" />
-      <jump line="267" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/LabelService.kt" />
-      <jump line="154" column="11" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
-      <jump line="1014" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
-      <jump line="160" column="54" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
       <jump line="835" column="17" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
       <jump line="158" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
       <jump line="830" column="17" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
@@ -1884,6 +1870,20 @@
       <jump line="15" column="13" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/listeners/WorkListener.kt" />
       <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/listeners/WorkListener.kt" />
       <jump line="76" column="51" filename="D:/project/musicbible/docker-compose.yml" />
+      <jump line="59" column="12" filename="D:/project/musicbible/docker-compose.yml" />
+      <jump line="28" column="0" filename="D:/project/musicbible/docker-compose.yml" />
+      <jump line="70" column="0" filename="D:/project/musicbible/docker-compose.yml" />
+      <jump line="21" column="0" filename="D:/project/musicbible/docker-compose.yml" />
+      <jump line="24" column="22" filename="D:/project/musicbible/docker-compose.yml" />
+      <jump line="4" column="0" filename="D:/project/musicbible/docker-compose.yml" />
+      <jump line="22" column="0" filename="D:/project/musicbible/docker-compose.yml" />
+      <jump line="30" column="0" filename="D:/project/musicbible/docker-compose.yml" />
+      <jump line="40" column="0" filename="D:/project/musicbible/docker-compose.yml" />
+      <jump line="55" column="0" filename="D:/project/musicbible/docker-compose.yml" />
+      <jump line="0" column="0" filename="D:/project/musicbible/docker-compose.yml" />
+      <jump line="17" column="12" filename="D:/project/musicbible/docker-compose.yml" />
+      <jump line="119" column="0" filename="D:/project/musicbible/docker-compose.yml" />
+      <jump line="87" column="0" filename="D:/project/musicbible/docker-compose.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1893,7 +1893,7 @@
         <text>nextUInt()</text>
       </register>
       <register name="/" type="4">
-        <text>label</text>
+        <text>ES_</text>
       </register>
       <register name="0" type="4">
         <text>, DEVELOPMENT</text>
@@ -1930,20 +1930,16 @@
       </register>
     </registers>
     <search>
-      <last-search>label</last-search>
+      <last-search>ES_</last-search>
       <last-offset />
-      <last-pattern>label</last-pattern>
+      <last-pattern>ES_</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxleHBvcnRBbGxcPg==</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>save</entry>
-        <entry encoding="base64">XDxmcmVzaENoaWxkQ291bnRcPg==</entry>
-        <entry>env</entry>
-        <entry>IndexTo</entry>
         <entry>softDe</entry>
         <entry>document</entry>
         <entry encoding="base64">XDxmcmVzaE1vdmVtZW50Q291bnRcPg==</entry>
@@ -1960,6 +1956,10 @@
         <entry>logger</entry>
         <entry>indexTo</entry>
         <entry>label</entry>
+        <entry>USER_ID</entry>
+        <entry>DB_PORT</entry>
+        <entry>ES_DATA</entry>
+        <entry>ES_</entry>
       </history-search>
       <history-cmd>
         <entry>47</entry>

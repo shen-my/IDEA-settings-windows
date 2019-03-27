@@ -385,8 +385,8 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="21" column="30" />
       </file>
-      <file name="D:/project/musicbible/docker-compose.yml" timestamp="1553654771802">
-        <mark key="'" line="87" column="0" />
+      <file name="D:/project/musicbible/docker-compose.yml" timestamp="1553677382394">
+        <mark key="'" line="76" column="51" />
         <mark key="[" line="113" column="0" />
         <mark key="]" line="113" column="0" />
         <mark key="^" line="80" column="54" />
@@ -630,13 +630,6 @@
         <mark key="^" line="12" column="27" />
         <mark key="." line="12" column="19" />
       </file>
-      <file name="D:/project/musicbible/.env" timestamp="1553667415936">
-        <mark key="'" line="3" column="17" />
-        <mark key="[" line="2" column="18" />
-        <mark key="]" line="2" column="22" />
-        <mark key="^" line="2" column="22" />
-        <mark key="." line="2" column="22" />
-      </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/event/DocumentEvent.kt" timestamp="1552723908597">
         <mark key="'" line="8" column="19" />
         <mark key="[" line="2" column="0" />
@@ -821,7 +814,8 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="16" column="115" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/listeners/WorkListener.kt" timestamp="1553675646248">
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/listeners/WorkListener.kt" timestamp="1553677378154">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="2" column="41" />
         <mark key="]" line="2" column="54" />
         <mark key="." line="2" column="41" />
@@ -1790,9 +1784,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="0" filename="D:/project/musicbible/event-process/src/main/kotlin/com/musicbible/command/ProcessDocumentEvent.kt" />
-      <jump line="65" column="0" filename="D:/project/musicbible/event-process/src/main/kotlin/com/musicbible/command/ProcessDocumentEvent.kt" />
-      <jump line="285" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/LabelService.kt" />
       <jump line="2" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
       <jump line="101" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
       <jump line="106" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
@@ -1890,6 +1881,9 @@
       <jump line="37" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/WorkControllerTest.kt" />
       <jump line="17" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/WorkControllerTest.kt" />
       <jump line="18" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/WorkControllerTest.kt" />
+      <jump line="15" column="13" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/listeners/WorkListener.kt" />
+      <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/listeners/WorkListener.kt" />
+      <jump line="76" column="51" filename="D:/project/musicbible/docker-compose.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">

@@ -26,10 +26,10 @@
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" timestamp="1553734888245">
         <mark key="'" line="15" column="37" />
-        <mark key="[" line="1008" column="8" />
-        <mark key="]" line="1008" column="9" />
-        <mark key="^" line="1008" column="9" />
-        <mark key="." line="1008" column="9" />
+        <mark key="[" line="1015" column="8" />
+        <mark key="]" line="1015" column="9" />
+        <mark key="^" line="1015" column="9" />
+        <mark key="." line="1015" column="9" />
       </file>
       <file name="D:/project/musicbible/migration/console/models/user.py" timestamp="1553517405409">
         <mark key="'" line="0" column="0" />
@@ -70,6 +70,12 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="D:/project/musicbible/README.md" timestamp="1553745774669">
+        <mark key="'" line="8" column="14" />
+        <mark key="]" line="24" column="2" />
+        <mark key="^" line="24" column="2" />
+        <mark key="." line="24" column="2" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/security/JwtAuthenticationFilter.kt" timestamp="1553656172233">
         <mark key="'" line="2" column="34" />
@@ -470,11 +476,6 @@
         <mark key="]" line="84" column="96" />
         <mark key="." line="84" column="96" />
         <mark key="^" line="84" column="96" />
-      </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/listeners/LabelListener.kt" timestamp="1553675734614">
-        <mark key="[" line="2" column="41" />
-        <mark key="]" line="2" column="54" />
-        <mark key="." line="2" column="41" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/listeners/DocumentListener.kt" timestamp="1553659987435">
         <mark key="'" line="11" column="0" />
@@ -985,11 +986,11 @@
         <mark key="." line="11" column="68" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" timestamp="1553734749461">
-        <mark key="'" line="553" column="0" />
-        <mark key="[" line="548" column="0" />
-        <mark key="]" line="551" column="29" />
-        <mark key="." line="551" column="11" />
-        <mark key="^" line="551" column="11" />
+        <mark key="'" line="557" column="0" />
+        <mark key="[" line="552" column="0" />
+        <mark key="]" line="555" column="29" />
+        <mark key="." line="555" column="11" />
+        <mark key="^" line="555" column="11" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/DocumentEventNotifier.kt" timestamp="1553689373510">
         <mark key="'" line="17" column="30" />
@@ -1419,7 +1420,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/listeners/ReleaseListener.kt" />
       <jump line="21" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/listeners/ReleaseListener.kt" />
       <jump line="19" column="3" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/listeners/ReleaseListener.kt" />
       <jump line="0" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" />
@@ -1519,10 +1519,11 @@
       <jump line="446" column="17" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" />
       <jump line="460" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" />
       <jump line="450" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" />
+      <jump line="8" column="14" filename="D:/project/musicbible/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>i</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">YGBgCg==</text>
       </register>
       <register name="-" type="4">
         <text>i</text>
@@ -1534,31 +1535,31 @@
         <text encoding="base64">JFBST0pFQ1RfSE9NRS9ncmFkbGV3IGZyb250ZW5kLWFwaTpwdXNoRG9ja2VySW1hZ2UgLWkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzYXZlKGVudGl0eSkK</text>
+        <text encoding="base64">YGBgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlbnRpdHkuY2FsY0NvbXBsZXRlbmVzcygpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoIkFydGlzdFske2VudGl0eS5pZH1dIG1vZGlmaWVkIikKICAgICAgICBpbmRleFRvRXMoZW50aXR5KQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoIkFydGlzdFske2VudGl0eS5pZH1dIGRlbGV0ZWQiKQogICAgICAgIGFydGlzdEVzUmVwb3NpdG9yeS5kZWxldGVCeUlkKGVudGl0eS5pZCkKICAgICAgICBsb2dnZXIuZGVidWcoIlJlbW92ZSBBcnRpc3RbJHtlbnRpdHkuaWR9XSBmcm9tIGVsYXN0aWNzZWFyY2giKQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">YGBgJHhzbHQK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBzYXZlKGVudGl0eSkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBlbnRpdHkuY2FsY0NvbXBsZXRlbmVzcygpCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvbkNyZWF0ZShlbnRpdHk6IEFydGlzdCkgewogICAgICAgIGxvZ2dlci5kZWJ1ZygiQXJ0aXN0WyR7ZW50aXR5LmlkfV0gZGVsZXRlZCIpCiAgICAgICAgYXJ0aXN0RXNSZXBvc2l0b3J5LmRlbGV0ZUJ5SWQoZW50aXR5LmlkKQogICAgICAgIGxvZ2dlci5kZWJ1ZygiUmVtb3ZlIEFydGlzdFske2VudGl0eS5pZH1dIGZyb20gZWxhc3RpY3NlYXJjaCIpCiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoIkFydGlzdFske2VudGl0eS5pZH1dIG1vZGlmaWVkIikKICAgICAgICBpbmRleFRvRXMoZW50aXR5KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbmRleFRvRXMoZW50aXR5KQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoIkFydGlzdFske2VudGl0eS5pZH1dIGRlbGV0ZWQiKQogICAgICAgIGFydGlzdEVzUmVwb3NpdG9yeS5kZWxldGVCeUlkKGVudGl0eS5pZCkKICAgICAgICBsb2dnZXIuZGVidWcoIlJlbW92ZSBBcnRpc3RbJHtlbnRpdHkuaWR9XSBmcm9tIGVsYXN0aWNzZWFyY2giKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBhZG1pbjoKICAgIHVzZXJuYW1lOiByb290CiAgICBwYXNzd29yZDogYm9vc3RmaWVsZAo=</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvbkNyZWF0ZShlbnRpdHk6IEFydGlzdCkgewogICAgICAgIGxvZ2dlci5kZWJ1ZygiQXJ0aXN0WyR7ZW50aXR5LmlkfV0gZGVsZXRlZCIpCiAgICAgICAgYXJ0aXN0RXNSZXBvc2l0b3J5LmRlbGV0ZUJ5SWQoZW50aXR5LmlkKQogICAgICAgIGxvZ2dlci5kZWJ1ZygiUmVtb3ZlIEFydGlzdFske2VudGl0eS5pZH1dIGZyb20gZWxhc3RpY3NlYXJjaCIpCiAgICB9Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>

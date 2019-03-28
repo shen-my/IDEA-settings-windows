@@ -24,8 +24,8 @@
         <mark key="^" line="32" column="16" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" timestamp="1553734888245">
-        <mark key="'" line="15" column="37" />
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" timestamp="1553754662573">
+        <mark key="'" line="153" column="0" />
         <mark key="[" line="1015" column="8" />
         <mark key="]" line="1015" column="9" />
         <mark key="^" line="1015" column="9" />
@@ -1420,19 +1420,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/listeners/ReleaseListener.kt" />
-      <jump line="19" column="3" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/listeners/ReleaseListener.kt" />
-      <jump line="0" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" />
-      <jump line="1" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" />
-      <jump line="23" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" />
-      <jump line="47" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" />
-      <jump line="37" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/WorkControllerTest.kt" />
-      <jump line="17" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/WorkControllerTest.kt" />
-      <jump line="18" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/WorkControllerTest.kt" />
-      <jump line="15" column="13" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/listeners/WorkListener.kt" />
-      <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/listeners/WorkListener.kt" />
-      <jump line="76" column="51" filename="D:/project/musicbible/docker-compose.yml" />
-      <jump line="59" column="12" filename="D:/project/musicbible/docker-compose.yml" />
       <jump line="28" column="0" filename="D:/project/musicbible/docker-compose.yml" />
       <jump line="70" column="0" filename="D:/project/musicbible/docker-compose.yml" />
       <jump line="21" column="0" filename="D:/project/musicbible/docker-compose.yml" />
@@ -1520,6 +1507,19 @@
       <jump line="460" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" />
       <jump line="450" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" />
       <jump line="8" column="14" filename="D:/project/musicbible/README.md" />
+      <jump line="1015" column="9" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
+      <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
+      <jump line="2" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
+      <jump line="47" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
+      <jump line="52" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
+      <jump line="78" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
+      <jump line="99" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
+      <jump line="104" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
+      <jump line="109" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
+      <jump line="115" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
+      <jump line="149" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
+      <jump line="151" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
+      <jump line="153" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1529,7 +1529,7 @@
         <text>i</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxERVZFTE9QTUVOVFw+</text>
+        <text>formatted</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">JFBST0pFQ1RfSE9NRS9ncmFkbGV3IGZyb250ZW5kLWFwaTpwdXNoRG9ja2VySW1hZ2UgLWkK</text>
@@ -1566,9 +1566,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxERVZFTE9QTUVOVFw+</last-search>
+      <last-search>formatted</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxERVZFTE9QTUVOVFw+</last-pattern>
+      <last-pattern>formatted</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxleHBvcnRBbGxcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1576,7 +1576,6 @@
     </search>
     <history>
       <history-search>
-        <entry>debug</entry>
         <entry encoding="base64">XDxhY3RpdmF0ZWRcPg==</entry>
         <entry>UID</entry>
         <entry>kafka</entry>
@@ -1596,6 +1595,7 @@
         <entry encoding="base64">XDxjb3B5RW50cnlwb2ludFw+</entry>
         <entry>show</entry>
         <entry encoding="base64">XDxERVZFTE9QTUVOVFw+</entry>
+        <entry>formatted</entry>
       </history-search>
       <history-cmd>
         <entry>6</entry>

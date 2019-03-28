@@ -143,12 +143,12 @@
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/UserService.kt" timestamp="1552373041519">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/repository/RecordingRepository.kt" timestamp="1553768035484">
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/repository/RecordingRepository.kt" timestamp="1553771036900">
         <mark key="'" line="12" column="0" />
-        <mark key="[" line="40" column="30" />
-        <mark key="]" line="40" column="30" />
-        <mark key="." line="40" column="30" />
-        <mark key="^" line="40" column="30" />
+        <mark key="[" line="54" column="13" />
+        <mark key="]" line="54" column="14" />
+        <mark key="." line="54" column="14" />
+        <mark key="^" line="54" column="14" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/mapper/recording/RecordingInput.kt" timestamp="1552295617211">
         <mark key="'" line="8" column="11" />
@@ -414,12 +414,12 @@
         <mark key="." line="63" column="31" />
         <mark key="^" line="63" column="31" />
       </file>
-      <file name="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" timestamp="1553766360966">
-        <mark key="'" line="31" column="19" />
-        <mark key="[" line="406" column="47" />
-        <mark key="]" line="406" column="47" />
-        <mark key="^" line="406" column="47" />
-        <mark key="." line="406" column="47" />
+      <file name="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" timestamp="1553769880598">
+        <mark key="'" line="32" column="19" />
+        <mark key="[" line="409" column="69" />
+        <mark key="]" line="410" column="17" />
+        <mark key="^" line="410" column="17" />
+        <mark key="." line="410" column="17" />
       </file>
       <file name="D:/project/gatenetdoc-server/src/main/java/com/boostfield/gatenetdoc/manage/pointaudit/ScoreExporter.java" timestamp="1550889521179">
         <mark key="'" line="77" column="0" />
@@ -898,10 +898,10 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="385" column="11" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Recording.kt" timestamp="1553762338232">
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Recording.kt" timestamp="1553768931633">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="130" column="45" />
-        <mark key="]" line="130" column="54" />
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="68" />
         <mark key="." line="130" column="54" />
         <mark key="^" line="130" column="54" />
       </file>
@@ -1588,53 +1588,53 @@
       <jump line="13" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/repository/RecordingRepository.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBDb2x1bW4K</text>
+      <register name="&quot;" type="4">
+        <text>String</text>
       </register>
       <register name="-" type="4">
-        <text>UUID</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
-        <text>images</text>
+        <text>credits</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBUeXBlKHR5cGUgPSAianNvbmIiKQo=</text>
+        <text encoding="base64">ICAgIG9wZW4gdmFyIGNyZWRpdHM6IE11dGFibGVMaXN0PFJlY29yZGluZ0FydGlzdD4gPSBtdXRhYmxlTGlzdE9mKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBDb2x1bW4K</text>
+        <text encoding="base64">ICAgIHZhbCBjcmVkaXRzOiBNdXRhYmxlTGlzdDxSZWNvcmRpbmdBcnRpc3REVE8+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZWNvcmRpbmcxMS5jCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBUeXBlKHR5cGUgPSAicGctdXVpZCIpCg==</text>
+        <text encoding="base64">ICAgIGludGVyZmFjZSBSZWNvcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBUeXBlKHR5cGUgPSAicGctdXVpZCIpCg==</text>
+        <text encoding="base64">ICAgIHZhbCBjcmUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBUeXBlKHR5cGUgPSAicGctdXVpZCIpCg==</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBUeXBlKHR5cGUgPSAicGctdXVpZCIpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIEBUeXBlKHR5cGUgPSAicGctdXVpZCIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBUeXBlKHR5cGU9InBnLXV1aWQiKQo=</text>
+        <text encoding="base64">ICAgIEBUeXBlKHR5cGUgPSAicGctdXVpZCIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ISoqL2xvZ3MvZnJvbnRlbmQvLmtlZXAK</text>
+        <text encoding="base64">ICAgIEBUeXBlKHR5cGUgPSAicGctdXVpZCIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>242</text>
       </register>
     </registers>
     <search>
-      <last-search>images</last-search>
+      <last-search>credits</last-search>
       <last-offset />
-      <last-pattern>images</last-pattern>
+      <last-pattern>credits</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxleHBvcnRBbGxcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1658,10 +1658,10 @@
         <entry encoding="base64">XDxERVZFTE9QTUVOVFw+</entry>
         <entry encoding="base64">XDxyZWNvcmRpbmdTZXJ2aWNlXD4=</entry>
         <entry>kafka</entry>
-        <entry>credits</entry>
         <entry>formatted</entry>
         <entry encoding="base64">XDxmb3JtYXR0ZWRUcmFja3NcPg==</entry>
         <entry>images</entry>
+        <entry>credits</entry>
       </history-search>
       <history-cmd>
         <entry>34</entry>

@@ -36,12 +36,12 @@
         <mark key="." line="9" column="25" />
         <mark key="^" line="9" column="25" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" timestamp="1553821507329">
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" timestamp="1553823111406">
         <mark key="'" line="72" column="8" />
-        <mark key="[" line="356" column="41" />
-        <mark key="]" line="357" column="11" />
-        <mark key="." line="357" column="11" />
-        <mark key="^" line="357" column="11" />
+        <mark key="[" line="370" column="12" />
+        <mark key="]" line="370" column="12" />
+        <mark key="." line="370" column="12" />
+        <mark key="^" line="370" column="12" />
       </file>
       <file name="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/FormController.kt" timestamp="1552457787151">
         <mark key="[" line="22" column="12" />
@@ -1966,10 +1966,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZWNvcmRpbmcud29ya0lkID0gd29ya0lkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0LnJlY29yZGluZy53b3JrSWQK</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>[</text>
       </register>
       <register name="/" type="4">
         <text>credits</text>
@@ -1978,31 +1978,31 @@
         <text encoding="base64">ICAgICAgICByZWNvcmRpbmcuYXBwbHkoYW5kRG8pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZWNvcmRpbmcud29ya0lkID0gd29ya0lkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0LnJlY29yZGluZy53b3JrSWQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmdW4gdG9SZWNvcmRpCg==</text>
+        <text encoding="base64">ICAgICAgICByZWNvcmRpbmcud29ya0lkID0gd29ya0lkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW50ZXJmYWNlIFJlY29yZGluZ0FydGlzdERUTyB7CiAgICB2YWwgcHJvZmVzc2lvbklkOiBVVUlECn0KCg==</text>
+        <text encoding="base64">ICAgICAgICBmdW4gdG9SZWNvcmRpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJlY29yZGluZ1NlcnZpY2UuZmluZEFsbEJ5SWRXaXRoQ3JlZGl0cyhsaXN0T2YocmVjb3JkaW5nMTEuaWQsIHJlY29yZGluZzEyLmlkLCByZWNvcmRpbmcyMS5pZCkpCg==</text>
+        <text encoding="base64">aW50ZXJmYWNlIFJlY29yZGluZ0FydGlzdERUTyB7CiAgICB2YWwgcHJvZmVzc2lvbklkOiBVVUlECn0KCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHJlY29yZGluZ1NlcnZpY2UuZmluZEFsbEJ5SWRXaXRoQ3JlZGl0cyhsaXN0T2YocmVjb3JkaW5nMTEuaWQsIHJlY29yZGluZzEyLmlkLCByZWNvcmRpbmcyMS5pZCkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">YWJzdHJhY3QgY2xhc3MgUmVjb3JkaW5nRFRPTGlzdCA6IExpc3Q8UmVjb3JkaW5nRFRPPiB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBRdWVyeSgKICAgICAgICAic2VsZWN0IHIgZnJvbSBSZWNvcmRpbmcgciBsZWZ0IGpvaW4gUmVjb3JkaW5nQXJ0aXN0IHJhIG9uIHJhLnJlY29yZGluZyA9IHIgbGVmdCBqb2luIEFydGlzdCBhIG9uIHJhLmFydGlzdCA9IGEgd2hlcmUgci5pZCBpbiA/MSIKICAgICkKICAgIGZ1biBmaW5kQWxsQnlJZFdpdGhDcmVkaXRzMShpZHM6IEl0ZXJhYmxlPFVVSUQ+KTogTGlzdDxSZWNvcmRpbmc+Cgo=</text>
+        <text encoding="base64">YWJzdHJhY3QgY2xhc3MgUmVjb3JkaW5nRFRPTGlzdCA6IExpc3Q8UmVjb3JkaW5nRFRPPiB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>242</text>

@@ -432,12 +432,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="21" column="30" />
       </file>
-      <file name="D:/project/musicbible/docker-compose.yml" timestamp="1553760372835">
-        <mark key="'" line="67" column="9" />
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
-        <mark key="^" line="110" column="45" />
+      <file name="D:/project/musicbible/docker-compose.yml" timestamp="1554196872050">
+        <mark key="'" line="83" column="0" />
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="113" column="44" />
+        <mark key="." line="112" column="0" />
       </file>
       <file name="D:/project/musicbible/bin/flyway.sh" timestamp="1554104006597">
         <mark key="[" line="10" column="4" />
@@ -1063,7 +1062,6 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.persistence/javax.persistence-api/2.2/462dff65f6f8bde02ee9d8afe07fe9d50268199c/javax.persistence-api-2.2-sources.jar!/javax/persistence/OneToMany.java" timestamp="1553758823310">
         <mark key="'" line="127" column="0" />
       </file>
-      <file name="D:/project/musicbible/importAll.sh" timestamp="1554105322159" />
       <file name="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportTaxonomies.kt" timestamp="1548488853968">
         <mark key="'" line="55" column="0" />
         <mark key="[" line="163" column="0" />
@@ -1400,7 +1398,6 @@
         <mark key="." line="11" column="68" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" timestamp="1554112201831">
-        <mark key="'" line="128" column="41" />
         <mark key="[" line="124" column="38" />
         <mark key="]" line="124" column="39" />
         <mark key="." line="124" column="39" />
@@ -1605,9 +1602,9 @@
       </file>
       <file name="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/LabelControllerTest.kt" timestamp="1554111483727">
         <mark key="'" line="37" column="0" />
-        <mark key="[" line="260" column="0" />
-        <mark key="]" line="260" column="0" />
-        <mark key="." line="260" column="0" />
+        <mark key="[" line="259" column="0" />
+        <mark key="]" line="259" column="0" />
+        <mark key="." line="259" column="0" />
         <mark key="^" line="259" column="17" />
       </file>
       <file name="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/AbstractTest.kt" timestamp="1553235139479">
@@ -1946,7 +1943,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1049" column="43" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
       <jump line="172" column="35" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
       <jump line="67" column="37" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/LabelService.kt" />
       <jump line="61" column="19" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/LabelService.kt" />
@@ -2046,46 +2042,47 @@
       <jump line="123" column="46" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/RecordingService.kt" />
       <jump line="129" column="41" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" />
       <jump line="31" column="8" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/UserService.kt" />
+      <jump line="83" column="0" filename="D:/project/musicbible/docker-compose.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>release</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLURody5zbXMuYXBwLWtleT0ke0hXX1NNU19LRVl9IFwKICAgICAgLURody5zbXMuYXBwLXNlY3JldD0ke0hXX1NNU19TRUNSRVR9IFwK</text>
       </register>
       <register name="-" type="4">
-        <text>release</text>
+        <text>key</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRBdXRob3JpdGllc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIGxhdGVpbml0IHZhciBlbnY6IEVudmlyb25tZW50Cg==</text>
+        <text encoding="base64">ICAgICAgLURody5zbXMuYXBwLWtleT0ke0hXX1NNU19LRVl9IFwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlbS5yZWZyZXNoKHVzZXIyKQo=</text>
+        <text encoding="base64">ICAgICAgLURody5zbXMuYXBwLWtleT0ke0hXX1NNU19LRVl9IFwKICAgICAgLURody5zbXMuYXBwLXNlY3JldD0ke0hXX1NNU19TRUNSRVR9IFwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnZhbGlkYXRpb24uY29uc3RyYWludHMuUGF0dGVybgo=</text>
+        <text encoding="base64">ICAgICAgICBlbS5yZWZyZXNoKHVzZXIyKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5ib29zdGZpZWxkLnNwcmluZy5wZXJzaXN0ZW5jZS5UaW1lS2VlcGluZwo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LnZhbGlkYXRpb24uY29uc3RyYWludHMuUGF0dGVybgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29udGV4dC5hbm5vdGF0aW9uLlByb2ZpbGUK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5ib29zdGZpZWxkLnNwcmluZy5wZXJzaXN0ZW5jZS5UaW1lS2VlcGluZwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QFByb2ZpbGUoUFJPRFVDVElPTiwgU1RBR0lORywgREVWRUxPUE1FTlQpCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29udGV4dC5hbm5vdGF0aW9uLlByb2ZpbGUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCBxUmVsZWFzZTogUVJlbGVhc2UgPSBRUmVsZWFzZS5yZWxlYXNlCgogICAgcHJpdmF0ZSB2YWwgbG9nZ2VyID0gTG9nZ2VyRmFjdG9yeS5nZXRMb2dnZXIoUmVsZWFzZVNlcnZpY2U6OmNsYXNzLmphdmEpCgo=</text>
+        <text encoding="base64">QFByb2ZpbGUoUFJPRFVDVElPTiwgU1RBR0lORywgREVWRUxPUE1FTlQpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgIHZhbCBxUmVsZWFzZTogUVJlbGVhc2UgPSBRUmVsZWFzZS5yZWxlYXNlCgogICAgcHJpdmF0ZSB2YWwgbG9nZ2VyID0gTG9nZ2VyRmFjdG9yeS5nZXRMb2dnZXIoUmVsZWFzZVNlcnZpY2U6OmNsYXNzLmphdmEpCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LmFubm90YXRpb24uUG9zdENvbnN0cnVjdAo=</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGthZmthVGVtcGxhdGUuc2VuZERlZmF1bHQoaWQudG9TdHJpbmcoKSwgZXZlbnQpCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LmFubm90YXRpb24uUG9zdENvbnN0cnVjdAo=</text>
       </register>
       <register name=":" type="4">
         <text>79</text>

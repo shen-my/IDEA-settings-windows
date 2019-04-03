@@ -126,11 +126,11 @@
         <mark key="^" line="36" column="8" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="D:/project/musicbible/flyway/sql/V2__add_index_to_user.sql" timestamp="1554285212628">
-        <mark key="[" line="5" column="45" />
-        <mark key="]" line="5" column="48" />
-        <mark key="^" line="5" column="67" />
-        <mark key="." line="5" column="48" />
+      <file name="D:/project/musicbible/flyway/sql/V2__add_index_to_user.sql" timestamp="1554286813159">
+        <mark key="[" line="7" column="71" />
+        <mark key="]" line="7" column="77" />
+        <mark key="^" line="7" column="101" />
+        <mark key="." line="7" column="77" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/SettingService.kt" timestamp="1553078189559">
         <mark key="[" line="23" column="8" />
@@ -186,11 +186,11 @@
         <mark key="^" line="31" column="34" />
         <mark key="." line="31" column="34" />
       </file>
-      <file name="D:/project/musicbible/backend-api/application-local.yml" timestamp="1554285852729">
-        <mark key="[" line="9" column="52" />
-        <mark key="]" line="15" column="23" />
-        <mark key="^" line="15" column="23" />
-        <mark key="." line="15" column="23" />
+      <file name="D:/project/musicbible/backend-api/application-local.yml" timestamp="1554287271003">
+        <mark key="[" line="15" column="24" />
+        <mark key="]" line="9" column="56" />
+        <mark key="^" line="9" column="56" />
+        <mark key="." line="9" column="56" />
       </file>
       <file name="D:/project/musicbible/common-spring/src/main/kotlin/com/boostfield/spring/persistence/AbstractUser.kt" timestamp="1554285154460">
         <mark key="[" line="13" column="0" />
@@ -592,12 +592,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="1" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/User.kt" timestamp="1554285311387">
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/User.kt" timestamp="1554287259829">
         <mark key="'" line="55" column="0" />
-        <mark key="[" line="57" column="21" />
-        <mark key="]" line="57" column="28" />
-        <mark key="." line="57" column="28" />
-        <mark key="^" line="57" column="28" />
+        <mark key="[" line="10" column="26" />
+        <mark key="]" line="8" column="17" />
+        <mark key="." line="8" column="17" />
+        <mark key="^" line="8" column="17" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/mapper/artist/ArtistOutput.kt" timestamp="1553765346243">
         <mark key="'" line="10" column="0" />
@@ -2098,10 +2098,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.isNotEmpty()</text>
+        <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>.isNotEmpty()</text>
+        <text>u</text>
       </register>
       <register name="/" type="4">
         <text>importUser</text>

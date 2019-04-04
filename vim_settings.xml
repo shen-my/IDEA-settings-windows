@@ -42,10 +42,11 @@
         <mark key="." line="9" column="25" />
         <mark key="^" line="9" column="25" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" timestamp="1554112236821">
-        <mark key="[" line="171" column="34" />
-        <mark key="]" line="171" column="39" />
-        <mark key="." line="171" column="39" />
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" timestamp="1554349576719">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="178" column="0" />
+        <mark key="]" line="178" column="0" />
+        <mark key="." line="178" column="0" />
         <mark key="^" line="171" column="39" />
       </file>
       <file name="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/FormController.kt" timestamp="1552457787151">
@@ -453,12 +454,6 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="21" column="30" />
       </file>
-      <file name="D:/project/musicbible/docker-compose.yml" timestamp="1554196872050">
-        <mark key="'" line="83" column="0" />
-        <mark key="[" line="112" column="0" />
-        <mark key="]" line="113" column="44" />
-        <mark key="." line="112" column="0" />
-      </file>
       <file name="D:/project/musicbible/bin/flyway.sh" timestamp="1554104006597">
         <mark key="[" line="10" column="4" />
         <mark key="]" line="10" column="31" />
@@ -472,11 +467,11 @@
         <mark key="." line="16" column="70" />
         <mark key="^" line="16" column="70" />
       </file>
-      <file name="D:/project/musicbible/frontend-api/build.gradle" timestamp="1554100765103">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="8" column="36" />
-        <mark key="." line="85" column="0" />
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/listeners/BaseListener.kt" timestamp="1554348132965">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="8" column="38" />
+        <mark key="." line="8" column="38" />
+        <mark key="^" line="8" column="38" />
       </file>
       <file name="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/AppVersionControllerTest.kt" timestamp="1554261998181">
         <mark key="'" line="135" column="8" />
@@ -592,6 +587,13 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="1" />
       </file>
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/User.kt" timestamp="1554347539215">
+        <mark key="'" line="8" column="2" />
+        <mark key="[" line="24" column="38" />
+        <mark key="]" line="24" column="37" />
+        <mark key="." line="24" column="37" />
+        <mark key="^" line="24" column="37" />
+      </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/mapper/artist/ArtistOutput.kt" timestamp="1553765346243">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="14" column="0" />
@@ -656,6 +658,11 @@
         <mark key="." line="56" column="62" />
         <mark key="^" line="56" column="62" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/5.1.3.RELEASE/e3bee7f6495e53debfec0bf17ab7d10594b59fd7/spring-tx-5.1.3.RELEASE-sources.jar!/org/springframework/transaction/support/TransactionSynchronization.java" timestamp="1554349259820">
+        <mark key="'" line="37" column="52" />
+        <mark key="[" line="43" column="8" />
+        <mark key="]" line="43" column="26" />
+      </file>
       <file name="D:/project/musicbible/resources/countries.txt" timestamp="1553586507057">
         <mark key="'" line="236" column="0" />
         <mark key="[" line="0" column="18" />
@@ -669,12 +676,6 @@
         <mark key="]" line="100" column="55" />
         <mark key="^" line="86" column="50" />
         <mark key="." line="100" column="0" />
-      </file>
-      <file name="D:/project/musicbible/backend-api/build.gradle" timestamp="1554100171423">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="44" />
-        <mark key="." line="73" column="0" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/mapper/movement/MovementInput.kt" timestamp="1548148803836">
         <mark key="'" line="4" column="9" />
@@ -758,12 +759,24 @@
         <mark key="^" line="10" column="8" />
         <mark key="." line="10" column="4" />
       </file>
-      <file name="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ArtistControllerTest.kt" timestamp="1552888917290">
-        <mark key="'" line="74" column="25" />
-        <mark key="[" line="83" column="30" />
-        <mark key="]" line="84" column="96" />
-        <mark key="." line="84" column="96" />
-        <mark key="^" line="84" column="96" />
+      <file name="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ArtistControllerTest.kt" timestamp="1554349606164">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+      </file>
+      <file name="D:/project/musicbible/common-spring/src/main/kotlin/com/boostfield/spring/db/TransactionPerception.kt" timestamp="1554349464063">
+        <mark key="'" line="22" column="30" />
+        <mark key="[" line="21" column="50" />
+        <mark key="]" line="22" column="30" />
+        <mark key="." line="22" column="30" />
+        <mark key="^" line="22" column="30" />
+      </file>
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/listeners/LabelListener.kt" timestamp="1554349413848">
+        <mark key="[" line="42" column="45" />
+        <mark key="]" line="43" column="8" />
+        <mark key="." line="43" column="8" />
+        <mark key="^" line="43" column="8" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/listeners/DocumentListener.kt" timestamp="1553659987435">
         <mark key="'" line="11" column="0" />
@@ -778,11 +791,11 @@
         <mark key="." line="11" column="33" />
         <mark key="^" line="11" column="33" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/LabelService.kt" timestamp="1554112064589">
-        <mark key="'" line="97" column="8" />
-        <mark key="[" line="84" column="34" />
-        <mark key="]" line="84" column="39" />
-        <mark key="." line="84" column="39" />
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/LabelService.kt" timestamp="1554349537507">
+        <mark key="'" line="96" column="8" />
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
         <mark key="^" line="84" column="39" />
       </file>
       <file name="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/WorkController.kt" timestamp="1553933297045">
@@ -930,6 +943,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="16" column="115" />
       </file>
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/listeners/WorkListener.kt" timestamp="1554349446507">
+        <mark key="[" line="42" column="45" />
+        <mark key="]" line="43" column="8" />
+        <mark key="." line="43" column="8" />
+        <mark key="^" line="43" column="8" />
+      </file>
       <file name="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/controller/MediaController.kt" timestamp="1552450419134">
         <mark key="[" line="19" column="18" />
         <mark key="]" line="19" column="16" />
@@ -966,6 +985,12 @@
         <mark key="]" line="2" column="12" />
         <mark key="." line="11" column="7" />
         <mark key="^" line="11" column="7" />
+      </file>
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/listeners/ReleaseListener.kt" timestamp="1554349431531">
+        <mark key="[" line="42" column="45" />
+        <mark key="]" line="43" column="8" />
+        <mark key="." line="43" column="8" />
+        <mark key="^" line="43" column="8" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/mapper/appreciation/AppreciationInput.kt" timestamp="1548986891813">
         <mark key="'" line="6" column="0" />
@@ -1363,11 +1388,11 @@
         <mark key="^" line="19" column="11" />
         <mark key="." line="19" column="11" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" timestamp="1554112216149">
-        <mark key="'" line="72" column="0" />
-        <mark key="[" line="110" column="34" />
-        <mark key="]" line="110" column="39" />
-        <mark key="." line="110" column="39" />
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" timestamp="1554349523942">
+        <mark key="'" line="450" column="51" />
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="114" column="0" />
+        <mark key="." line="114" column="0" />
         <mark key="^" line="110" column="39" />
       </file>
       <file name="D:/project/gatenetdoc-server/src/test/java/com/boostfield/gatenetdoc/profile/ProfileControllerMockTest.java" timestamp="1552289386929">
@@ -1404,22 +1429,17 @@
         <mark key="^" line="12" column="17" />
         <mark key="." line="12" column="17" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/config/Swagger2Config.kt" timestamp="1554259918041">
-        <mark key="'" line="19" column="20" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/repository/ArtistRepository.kt" timestamp="1552738345170">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/listeners/ArtistListener.kt" timestamp="1554108131712">
-        <mark key="'" line="2" column="8" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="19" column="33" />
-        <mark key="." line="2" column="41" />
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/listeners/ArtistListener.kt" timestamp="1554349461593">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="15" column="20" />
+        <mark key="]" line="15" column="20" />
+        <mark key="." line="15" column="20" />
+        <mark key="^" line="43" column="8" />
       </file>
       <file name="D:/project/musicbible/common-spring/src/main/kotlin/com/boostfield/spring/persistence/DraftableRepository.kt" timestamp="1552620833524">
         <mark key="'" line="7" column="0" />
@@ -1442,10 +1462,10 @@
         <mark key="^" line="11" column="68" />
         <mark key="." line="11" column="68" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" timestamp="1554112201831">
-        <mark key="[" line="124" column="38" />
-        <mark key="]" line="124" column="39" />
-        <mark key="." line="124" column="39" />
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" timestamp="1554349543706">
+        <mark key="[" line="128" column="0" />
+        <mark key="]" line="128" column="0" />
+        <mark key="." line="128" column="0" />
         <mark key="^" line="124" column="39" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/DocumentEventNotifier.kt" timestamp="1554109075231">
@@ -1765,12 +1785,6 @@
         <mark key="^" line="14" column="7" />
         <mark key="." line="14" column="7" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Comment.kt" timestamp="1553843924976">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="12" column="24" />
-        <mark key="]" line="12" column="24" />
-        <mark key="." line="12" column="24" />
-      </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/mock/MockModel.kt" timestamp="1553138557020">
         <mark key="'" line="47" column="16" />
         <mark key="[" line="170" column="41" />
@@ -1934,12 +1948,6 @@
         <mark key="^" line="10" column="26" />
         <mark key="." line="10" column="26" />
       </file>
-      <file name="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/BuildToken.kt" timestamp="1553657855994">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="D:/project/musicbible/common-spring/src/main/kotlin/com/boostfield/spring/service/DraftableService.kt" timestamp="1552620910431">
         <mark key="'" line="17" column="3" />
         <mark key="[" line="15" column="60" />
@@ -1988,36 +1996,10 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="354" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
-      <jump line="351" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
-      <jump line="347" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
-      <jump line="343" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
-      <jump line="339" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
-      <jump line="334" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
-      <jump line="330" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
-      <jump line="326" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
-      <jump line="332" column="9" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
-      <jump line="335" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
-      <jump line="340" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
-      <jump line="344" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
-      <jump line="348" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" />
-      <jump line="64" column="37" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/LabelService.kt" />
-      <jump line="96" column="8" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/LabelService.kt" />
-      <jump line="43" column="24" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" />
-      <jump line="47" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" />
-      <jump line="72" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" />
-      <jump line="243" column="44" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" />
-      <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" />
-      <jump line="1" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" />
-      <jump line="44" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" />
-      <jump line="48" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" />
-      <jump line="134" column="8" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/RecordingService.kt" />
-      <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/RecordingService.kt" />
       <jump line="1" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/RecordingService.kt" />
       <jump line="45" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/RecordingService.kt" />
       <jump line="50" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/RecordingService.kt" />
       <jump line="315" column="47" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
-      <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
       <jump line="1" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
       <jump line="45" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
       <jump line="50" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
@@ -2088,55 +2070,81 @@
       <jump line="1" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Label.kt" />
       <jump line="11" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Label.kt" />
       <jump line="55" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/User.kt" />
+      <jump line="9" column="2" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/User.kt" />
+      <jump line="451" column="51" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" />
+      <jump line="88" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ArtistControllerTest.kt" />
+      <jump line="78" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ArtistControllerTest.kt" />
+      <jump line="68" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ArtistControllerTest.kt" />
+      <jump line="62" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ArtistControllerTest.kt" />
+      <jump line="59" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ArtistControllerTest.kt" />
+      <jump line="56" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ArtistControllerTest.kt" />
+      <jump line="49" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ArtistControllerTest.kt" />
+      <jump line="44" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ArtistControllerTest.kt" />
+      <jump line="41" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ArtistControllerTest.kt" />
+      <jump line="38" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ArtistControllerTest.kt" />
+      <jump line="34" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ArtistControllerTest.kt" />
+      <jump line="0" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ArtistControllerTest.kt" />
+      <jump line="1" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ArtistControllerTest.kt" />
+      <jump line="15" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ArtistControllerTest.kt" />
+      <jump line="23" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ArtistControllerTest.kt" />
+      <jump line="29" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ArtistControllerTest.kt" />
+      <jump line="36" column="9" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ArtistControllerTest.kt" />
+      <jump line="39" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ArtistControllerTest.kt" />
+      <jump line="42" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ArtistControllerTest.kt" />
+      <jump line="22" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/listeners/ArtistListener.kt" />
+      <jump line="37" column="52" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/5.1.3.RELEASE/e3bee7f6495e53debfec0bf17ab7d10594b59fd7/spring-tx-5.1.3.RELEASE-sources.jar!/org/springframework/transaction/support/TransactionSynchronization.java" />
+      <jump line="22" column="30" filename="D:/project/musicbible/common-spring/src/main/kotlin/com/boostfield/spring/db/TransactionPerception.kt" />
+      <jump line="192" column="39" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
+      <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>u</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAqLwo=</text>
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>importUser</text>
+        <text>softDelete</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">YXV0aGVudGljYXRpb24uYXV0aG9yaXRpZXMsIA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBUcmFuc2FjdGlvbkNhbGxiYWNrUmVnaXN0ZXIuYWZ0ZXJDb21taXQgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAqLwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tdXNpY2JpYmxlLmNvbnN0YW50LlByaXZpbGVnZUVudW0K</text>
+        <text encoding="base64">ICAgICAgICAvKgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tdXNpY2JpYmxlLmNvbnN0YW50LlByaXZpbGVnZUVudW0K</text>
+        <text encoding="base64">ICAgICAgICByZWxlYXNlRXNSZXBvc2l0b3J5LmRlbGV0ZUJ5SWQoZW50aXR5LmlkKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3b3JrRXNSZXBvc2l0b3J5LmRlbGV0ZUJ5SWQoZW50aXR5LmlkKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBwcml2aWxlZ2VzOiBMaXN0PFByaXZpbGVnZT4KICAgICAgICBnZXQoKSA9IHJvbGVzLmZsYXRNYXAoUm9sZTo6cHJpdmlsZWdlcykKCiAgICBmdW4gaGFzUGVybWlzc2lvbih0YXJnZXQ6IEFueSwgcGVybWlzc2lvbjogU3RyaW5nKTogQm9vbGVhbiB7CiAgICAgICAgaWYgKGlzUm9vdCkgcmV0dXJuIHRydWUKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICBsYWJlbEVzUmVwb3NpdG9yeS5kZWxldGVCeUlkKGVudGl0eS5pZCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2UK</text>
+        <text encoding="base64">ICAgICAgICBhcnRpc3RFc1JlcG9zaXRvcnkuZGVsZXRlQnlJZChlbnRpdHkuaWQpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cnVlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2UK</text>
+        <text encoding="base64">ICAgICAgICBkb2N1bWVudEV2ZW50Tm90aWZpZXIuc2VuZENyZWF0ZShkb2MpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cnVlCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKCIhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>importUser</last-search>
+      <last-search>softDelete</last-search>
       <last-offset />
-      <last-pattern>importUser</last-pattern>
+      <last-pattern>softDelete</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxleHBvcnRBbGxcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -2145,7 +2153,6 @@
     <history>
       <history-search>
         <entry encoding="base64">XDx1cGRhdGVHZW5yZXNcPg==</entry>
-        <entry>softDelete</entry>
         <entry encoding="base64">XDxsYWJlbFJlcG9zaXRvcnlcPg==</entry>
         <entry>cataLog</entry>
         <entry>cata</entry>
@@ -2164,6 +2171,7 @@
         <entry encoding="base64">XDx0ZXN0X2dldF9sYXN0U3VwcG9ydFw+</entry>
         <entry>importuser</entry>
         <entry>importUser</entry>
+        <entry>softDelete</entry>
       </history-search>
       <history-cmd>
         <entry>73</entry>

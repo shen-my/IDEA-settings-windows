@@ -534,7 +534,8 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="1" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/User.kt" timestamp="1554796503972">
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/User.kt" timestamp="1554805902538">
+        <mark key="'" line="23" column="33" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
@@ -1279,7 +1280,7 @@
         <mark key="." line="18" column="65" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Release.kt" timestamp="1554779400796">
-        <mark key="'" line="327" column="0" />
+        <mark key="'" line="326" column="0" />
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
@@ -1911,7 +1912,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="33" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
       <jump line="102" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" />
       <jump line="105" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" />
       <jump line="117" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" />
@@ -2011,6 +2011,7 @@
       <jump line="65" column="8" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" />
       <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Work.kt" />
       <jump line="168" column="37" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" />
+      <jump line="23" column="33" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/User.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2020,7 +2021,7 @@
         <text>save</text>
       </register>
       <register name="/" type="4">
-        <text>maxMove</text>
+        <text>phone</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBQcmVBdXRob3JpemUoImhhc1Blcm1pc3Npb24oI3dvcmssICdVUERBVEUnKSIpCg==</text>
@@ -2057,9 +2058,9 @@
       </register>
     </registers>
     <search>
-      <last-search>maxMove</last-search>
+      <last-search>phone</last-search>
       <last-offset />
-      <last-pattern>maxMove</last-pattern>
+      <last-pattern>phone</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxleHBvcnRBbGxcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -2067,7 +2068,6 @@
     </search>
     <history>
       <history-search>
-        <entry>em</entry>
         <entry>after</entry>
         <entry encoding="base64">XDxkb2N1bWVudEV2ZW50Tm90aWZpZXJcPg==</entry>
         <entry>comp</entry>
@@ -2087,6 +2087,7 @@
         <entry>appendMo</entry>
         <entry>append</entry>
         <entry>maxMove</entry>
+        <entry>phone</entry>
       </history-search>
       <history-cmd>
         <entry>129</entry>

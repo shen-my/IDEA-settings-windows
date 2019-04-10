@@ -741,8 +741,8 @@
         <mark key="^" line="39" column="93" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/WorkController.kt" timestamp="1554799017008">
-        <mark key="'" line="100" column="54" />
+      <file name="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/WorkController.kt" timestamp="1554881009538">
+        <mark key="'" line="162" column="5" />
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="^" line="33" column="41" />
@@ -1279,7 +1279,7 @@
         <mark key="." line="18" column="65" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Release.kt" timestamp="1554865559882">
-        <mark key="'" line="326" column="0" />
+        <mark key="'" line="327" column="0" />
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
@@ -1905,17 +1905,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="0" filename="D:/project/musicbible/common-mvc/src/main/kotlin/com/musicbible/common/mail/MailService.kt" />
-      <jump line="59" column="0" filename="D:/project/musicbible/common-mvc/src/main/kotlin/com/musicbible/common/mail/MailService.kt" />
-      <jump line="75" column="0" filename="D:/project/musicbible/common-mvc/src/main/kotlin/com/musicbible/common/mail/MailService.kt" />
-      <jump line="93" column="12" filename="D:/project/musicbible/common-mvc/src/main/kotlin/com/musicbible/common/mail/MailService.kt" />
-      <jump line="89" column="12" filename="D:/project/musicbible/common-mvc/src/main/kotlin/com/musicbible/common/mail/MailService.kt" />
-      <jump line="41" column="51" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/SecurityConfig.kt" />
-      <jump line="116" column="0" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/SecurityConfig.kt" />
-      <jump line="34" column="27" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/SecurityConfig.kt" />
-      <jump line="119" column="16" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/SecurityConfig.kt" />
-      <jump line="28" column="7" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/SecurityConfig.kt" />
-      <jump line="125" column="0" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/SecurityConfig.kt" />
       <jump line="1" column="0" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/SecurityConfig.kt" />
       <jump line="47" column="37" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/SecurityConfig.kt" />
       <jump line="38" column="68" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/SecurityConfig.kt" />
@@ -2005,6 +1994,17 @@
       <jump line="23" column="0" filename="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/SecurityConfig.kt" />
       <jump line="33" column="0" filename="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/SecurityConfig.kt" />
       <jump line="33" column="27" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/SecurityConfig.kt" />
+      <jump line="31" column="0" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/WorkController.kt" />
+      <jump line="74" column="5" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/WorkController.kt" />
+      <jump line="82" column="5" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/WorkController.kt" />
+      <jump line="98" column="5" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/WorkController.kt" />
+      <jump line="106" column="5" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/WorkController.kt" />
+      <jump line="114" column="5" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/WorkController.kt" />
+      <jump line="122" column="5" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/WorkController.kt" />
+      <jump line="130" column="5" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/WorkController.kt" />
+      <jump line="138" column="5" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/WorkController.kt" />
+      <jump line="146" column="5" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/WorkController.kt" />
+      <jump line="162" column="5" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/WorkController.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2014,7 +2014,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx3ZWJDb3JzUHJvcGVydGllc1w+</text>
+        <text>PutMapp</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBBdXRvd2lyZWQgcHJpdmF0ZSB2YWwgd2ViQ29yc1Byb3BlcnRpZXM6IFdlYkNvcnNQcm9wZXJ0aWVzCg==</text>
@@ -2051,9 +2051,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx3ZWJDb3JzUHJvcGVydGllc1w+</last-search>
+      <last-search>PutMapp</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx3ZWJDb3JzUHJvcGVydGllc1w+</last-pattern>
+      <last-pattern>PutMapp</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxleHBvcnRBbGxcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -2061,7 +2061,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbmRleFRvRXNcPg==</entry>
         <entry>indexToEs</entry>
         <entry encoding="base64">XDxwcm9wZXJ0aWVzXD4=</entry>
         <entry>kaf</entry>
@@ -2081,6 +2080,7 @@
         <entry encoding="base64">XDxjb3B5XD4=</entry>
         <entry>RestRe</entry>
         <entry encoding="base64">XDx3ZWJDb3JzUHJvcGVydGllc1w+</entry>
+        <entry>PutMapp</entry>
       </history-search>
       <history-cmd>
         <entry>129</entry>

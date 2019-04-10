@@ -1366,8 +1366,8 @@
         <mark key="^" line="11" column="68" />
         <mark key="." line="11" column="68" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" timestamp="1554886872682">
-        <mark key="'" line="257" column="7" />
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" timestamp="1554887754061">
+        <mark key="'" line="89" column="47" />
         <mark key="[" line="258" column="77" />
         <mark key="]" line="259" column="7" />
         <mark key="." line="259" column="7" />
@@ -1464,11 +1464,10 @@
         <mark key="^" line="13" column="54" />
         <mark key="." line="13" column="54" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/EsIndexService.kt" timestamp="1554884440511">
-        <mark key="[" line="28" column="27" />
-        <mark key="]" line="29" column="17" />
-        <mark key="^" line="29" column="17" />
-        <mark key="." line="29" column="17" />
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/EsIndexService.kt" timestamp="1554887781181">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Appreciation.kt" timestamp="1553841865813">
         <mark key="'" line="72" column="0" />
@@ -1907,7 +1906,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="27" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/SecurityConfig.kt" />
       <jump line="8" column="5" filename="D:/project/musicbible/backend-api/src/main/resources/application-production.yml" />
       <jump line="88" column="8" filename="D:/project/musicbible/backend-api/src/main/resources/application.yml" />
       <jump line="97" column="3" filename="D:/project/musicbible/frontend-api/src/main/resources/application.yml" />
@@ -2007,63 +2005,63 @@
       <jump line="122" column="0" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/SecurityConfig.kt" />
       <jump line="73" column="1" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" />
       <jump line="257" column="7" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" />
+      <jump line="89" column="47" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHZpZGVvTWFwcGVyLCB2aWRlb0VzUmVwb3NpdG9yeSk=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsudHJhbnNhY3Rpb24uYW5ub3RhdGlvbi5UcmFuc2FjdGlvbmFsCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IHZpZGVvTWFwcGVyLCB2aWRlb0VzUmVwb3NpdG9yeSk=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxUcmFuc2FjdGlvbmFsXD4=</text>
+        <text>indexTo</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoIkluZGV4IEFydGlzdFske2FydGlzdC5pZH1dIHRvIGVsYXN0aWNzZWFyY2giKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQgdmFsIGVudjogRW52aXJvbm1lbnQsCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsudHJhbnNhY3Rpb24uYW5ub3RhdGlvbi5UcmFuc2FjdGlvbmFsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tdXNpY2JpYmxlLm1vZGVsLlFSZWxlYXNlLnJlbGVhc2UK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc2NoZWR1bGluZy5hbm5vdGF0aW9uLkFzeW5jCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tdXNpY2JpYmxlLm1vZGVsLlFSZWNvcmRpbmdBcnRpc3QucmVjb3JkaW5nQXJ0aXN0Cg==</text>
+        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgIEBBc3luYygiYXN5bmNFeGVjdXRvciIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZXNJbmRleFNlcnZpY2UuaW5kZXhUb0VzKGxpc3RPZihhcnRpc3QuaWQpLCBhcnRpc3RNYXBwZXIsIGFydGlzdEVzUmVwb3NpdG9yeSkK</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQgdmFsIGVudjogRW52aXJvbm1lbnQsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tdXNpY2JpYmxlLm1vZGVsLlFSZWxlYXNlLnJlbGVhc2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tdXNpY2JpYmxlLm1vZGVsLlFSZWNvcmRpbmdBcnRpc3QucmVjb3JkaW5nQXJ0aXN0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQgcHJpdmF0ZSB2YWwgd2ViQ29yc1Byb3BlcnRpZXM6IFdlYkNvcnNQcm9wZXJ0aWVzCg==</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25maWd1cmF0aW9uLmFsbG93ZWRPcmlnaW5zID0gQXJyYXlzLmFzTGlzdCgiKiIpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZXNJbmRleFNlcnZpY2UuaW5kZXhUb0VzKGxpc3RPZihhcnRpc3QuaWQpLCBhcnRpc3RNYXBwZXIsIGFydGlzdEVzUmVwb3NpdG9yeSkK</text>
       </register>
       <register name=":" type="4">
         <text>85</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxUcmFuc2FjdGlvbmFsXD4=</last-search>
+      <last-search>indexTo</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxUcmFuc2FjdGlvbmFsXD4=</last-pattern>
+      <last-pattern>indexTo</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxleHBvcnRBbGxcPg==</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>kaf</entry>
         <entry>kafka</entry>
         <entry>swap</entry>
         <entry>softDe</entry>
@@ -2083,6 +2081,7 @@
         <entry>PutMapp</entry>
         <entry encoding="base64">XDxpbmRleFRvRXNcPg==</entry>
         <entry encoding="base64">XDxUcmFuc2FjdGlvbmFsXD4=</entry>
+        <entry>indexTo</entry>
       </history-search>
       <history-cmd>
         <entry>52</entry>

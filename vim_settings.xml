@@ -1429,12 +1429,12 @@
         <mark key="." line="53" column="24" />
         <mark key="^" line="53" column="24" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/constant/PrivilegeEnum.kt" timestamp="1551929407279">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="54" column="17" />
-        <mark key="]" line="55" column="14" />
-        <mark key="." line="55" column="14" />
-        <mark key="^" line="55" column="14" />
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/constant/PrivilegeEnum.kt" timestamp="1554863658136">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="17" column="27" />
+        <mark key="]" line="19" column="28" />
+        <mark key="." line="19" column="28" />
+        <mark key="^" line="19" column="28" />
       </file>
       <file name="D:/project/musicbible/bin/upgrade.sh" timestamp="1553681022832">
         <mark key="[" line="7" column="0" />
@@ -1912,12 +1912,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" />
-      <jump line="105" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" />
-      <jump line="117" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" />
-      <jump line="124" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" />
-      <jump line="148" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
-      <jump line="200" column="24" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
       <jump line="202" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
       <jump line="208" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
       <jump line="214" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
@@ -2012,6 +2006,12 @@
       <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Work.kt" />
       <jump line="168" column="37" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" />
       <jump line="23" column="33" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/User.kt" />
+      <jump line="43" column="24" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/constant/PrivilegeEnum.kt" />
+      <jump line="174" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/constant/PrivilegeEnum.kt" />
+      <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/constant/PrivilegeEnum.kt" />
+      <jump line="1" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/constant/PrivilegeEnum.kt" />
+      <jump line="20" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/constant/PrivilegeEnum.kt" />
+      <jump line="33" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/constant/PrivilegeEnum.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2021,7 +2021,7 @@
         <text>save</text>
       </register>
       <register name="/" type="4">
-        <text>phone</text>
+        <text>fly</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBQcmVBdXRob3JpemUoImhhc1Blcm1pc3Npb24oI3dvcmssICdVUERBVEUnKSIpCg==</text>
@@ -2058,9 +2058,9 @@
       </register>
     </registers>
     <search>
-      <last-search>phone</last-search>
+      <last-search>fly</last-search>
       <last-offset />
-      <last-pattern>phone</last-pattern>
+      <last-pattern>fly</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxleHBvcnRBbGxcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -2068,8 +2068,6 @@
     </search>
     <history>
       <history-search>
-        <entry>after</entry>
-        <entry encoding="base64">XDxkb2N1bWVudEV2ZW50Tm90aWZpZXJcPg==</entry>
         <entry>comp</entry>
         <entry>labelService</entry>
         <entry>onModify</entry>
@@ -2088,6 +2086,8 @@
         <entry>append</entry>
         <entry>maxMove</entry>
         <entry>phone</entry>
+        <entry>flyway</entry>
+        <entry>fly</entry>
       </history-search>
       <history-cmd>
         <entry>129</entry>

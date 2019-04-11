@@ -942,8 +942,8 @@
         <mark key="^" line="18" column="65" />
         <mark key="." line="18" column="65" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Release.kt" timestamp="1554963255677">
-        <mark key="'" line="326" column="0" />
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Release.kt" timestamp="1554971773930">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
@@ -1536,11 +1536,11 @@
       <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
       <jump line="51" column="8" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
       <jump line="50" column="23" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Release.kt" />
-      <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Release.kt" />
       <jump line="326" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Release.kt" />
       <jump line="53" column="16" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
       <jump line="77" column="8" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
       <jump line="98" column="4" filename="D:/project/musicbible/common-mvc/src/main/kotlin/com/musicbible/common/ExceptionHandler.kt" />
+      <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Release.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1550,7 +1550,7 @@
         <text>localhost:9300</text>
       </register>
       <register name="/" type="4">
-        <text>DataIn</text>
+        <text>credi</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBtYWlsOgogICAgaG9zdDogc210cC5teGhpY2hpbmEuY29tCiAgICBwb3J0OiA0NjUKICAgIHVzZXJuYW1lOiBkZXZlbG9wZXJAYm9vc3RmaWVsZC5jb20KICAgIHBhc3N3b3JkOgogICAgcHJvcGVydGllczoKICAgICAgbWFpbC5zbXRwLnNzbC5lbmFibGU6IHRydWUK</text>
@@ -1587,9 +1587,9 @@
       </register>
     </registers>
     <search>
-      <last-search>DataIn</last-search>
+      <last-search>credi</last-search>
       <last-offset />
-      <last-pattern>DataIn</last-pattern>
+      <last-pattern>credi</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxleHBvcnRBbGxcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1597,7 +1597,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx3ZWJDb3JzUHJvcGVydGllc1w+</entry>
         <entry>PutMapp</entry>
         <entry encoding="base64">XDxpbmRleFRvRXNcPg==</entry>
         <entry encoding="base64">XDxUcmFuc2FjdGlvbmFsXD4=</entry>
@@ -1617,6 +1616,7 @@
         <entry>region</entry>
         <entry encoding="base64">XDx1cGRhdGVSZWdpb25cPg==</entry>
         <entry>DataIn</entry>
+        <entry>credi</entry>
       </history-search>
       <history-cmd>
         <entry>52</entry>

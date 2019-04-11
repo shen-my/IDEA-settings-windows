@@ -24,8 +24,8 @@
         <mark key="^" line="32" column="16" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" timestamp="1554884377152">
-        <mark key="'" line="113" column="8" />
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" timestamp="1554962333417">
+        <mark key="'" line="51" column="8" />
         <mark key="[" line="878" column="25" />
         <mark key="]" line="878" column="31" />
         <mark key="^" line="878" column="31" />
@@ -939,8 +939,8 @@
         <mark key="^" line="18" column="65" />
         <mark key="." line="18" column="65" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Release.kt" timestamp="1554865559882">
-        <mark key="'" line="326" column="0" />
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Release.kt" timestamp="1554962453659">
+        <mark key="'" line="50" column="23" />
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
@@ -1438,8 +1438,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="20" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/User.kt" />
-      <jump line="100" column="54" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/WorkController.kt" />
       <jump line="199" column="40" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" />
       <jump line="91" column="35" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" />
       <jump line="15" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
@@ -1456,7 +1454,6 @@
       <jump line="20" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/constant/PrivilegeEnum.kt" />
       <jump line="33" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/constant/PrivilegeEnum.kt" />
       <jump line="202" column="4" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
-      <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
       <jump line="275" column="27" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
       <jump line="1046" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
       <jump line="62" column="30" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
@@ -1538,6 +1535,9 @@
       <jump line="45" column="0" filename="D:/project/musicbible/frontend-api/src/main/resources/application.yml" />
       <jump line="8" column="0" filename="D:/project/musicbible/.env" />
       <jump line="0" column="0" filename="D:/project/musicbible/docker-compose.yml" />
+      <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
+      <jump line="51" column="8" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
+      <jump line="50" column="23" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Release.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1547,7 +1547,7 @@
         <text>localhost:9300</text>
       </register>
       <register name="/" type="4">
-        <text>fly</text>
+        <text>published</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBtYWlsOgogICAgaG9zdDogc210cC5teGhpY2hpbmEuY29tCiAgICBwb3J0OiA0NjUKICAgIHVzZXJuYW1lOiBkZXZlbG9wZXJAYm9vc3RmaWVsZC5jb20KICAgIHBhc3N3b3JkOgogICAgcHJvcGVydGllczoKICAgICAgbWFpbC5zbXRwLnNzbC5lbmFibGU6IHRydWUK</text>
@@ -1584,9 +1584,9 @@
       </register>
     </registers>
     <search>
-      <last-search>fly</last-search>
+      <last-search>published</last-search>
       <last-offset />
-      <last-pattern>fly</last-pattern>
+      <last-pattern>published</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxleHBvcnRBbGxcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1594,9 +1594,6 @@
     </search>
     <history>
       <history-search>
-        <entry>append</entry>
-        <entry>maxMove</entry>
-        <entry>flyway</entry>
         <entry>dup</entry>
         <entry>copy</entry>
         <entry encoding="base64">XDxjb3B5QXNTYW1lRWRpdGlvblw+</entry>
@@ -1614,6 +1611,9 @@
         <entry encoding="base64">XDxwcm9wZXJ0aWVzXD4=</entry>
         <entry>swagger</entry>
         <entry>fly</entry>
+        <entry>publish</entry>
+        <entry encoding="base64">XDxwdWJsaXNoXD4=</entry>
+        <entry>published</entry>
       </history-search>
       <history-cmd>
         <entry>52</entry>

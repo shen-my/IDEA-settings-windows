@@ -24,8 +24,8 @@
         <mark key="^" line="32" column="16" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" timestamp="1554962333417">
-        <mark key="'" line="51" column="8" />
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" timestamp="1554965552966">
+        <mark key="'" line="77" column="8" />
         <mark key="[" line="878" column="25" />
         <mark key="]" line="878" column="31" />
         <mark key="^" line="878" column="31" />
@@ -1438,8 +1438,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
-      <jump line="128" column="22" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" />
       <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" />
       <jump line="65" column="8" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" />
       <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Work.kt" />
@@ -1538,6 +1536,8 @@
       <jump line="50" column="23" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Release.kt" />
       <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Release.kt" />
       <jump line="326" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Release.kt" />
+      <jump line="53" column="16" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
+      <jump line="77" column="8" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1547,7 +1547,7 @@
         <text>localhost:9300</text>
       </register>
       <register name="/" type="4">
-        <text>suppress</text>
+        <text encoding="base64">XDx1cGRhdGVSZWdpb25cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBtYWlsOgogICAgaG9zdDogc210cC5teGhpY2hpbmEuY29tCiAgICBwb3J0OiA0NjUKICAgIHVzZXJuYW1lOiBkZXZlbG9wZXJAYm9vc3RmaWVsZC5jb20KICAgIHBhc3N3b3JkOgogICAgcHJvcGVydGllczoKICAgICAgbWFpbC5zbXRwLnNzbC5lbmFibGU6IHRydWUK</text>
@@ -1584,9 +1584,9 @@
       </register>
     </registers>
     <search>
-      <last-search>suppress</last-search>
+      <last-search encoding="base64">XDx1cGRhdGVSZWdpb25cPg==</last-search>
       <last-offset />
-      <last-pattern>suppress</last-pattern>
+      <last-pattern encoding="base64">XDx1cGRhdGVSZWdpb25cPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxleHBvcnRBbGxcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1594,8 +1594,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb3B5QXNTYW1lRWRpdGlvblw+</entry>
-        <entry encoding="base64">XDxjb3B5XD4=</entry>
         <entry>RestRe</entry>
         <entry encoding="base64">XDx3ZWJDb3JzUHJvcGVydGllc1w+</entry>
         <entry>PutMapp</entry>
@@ -1614,6 +1612,8 @@
         <entry>published</entry>
         <entry>supp</entry>
         <entry>suppress</entry>
+        <entry>region</entry>
+        <entry encoding="base64">XDx1cGRhdGVSZWdpb25cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>52</entry>

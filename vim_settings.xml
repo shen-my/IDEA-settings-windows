@@ -1104,12 +1104,12 @@
       <file name="D:/project/musicbible/common/src/main/resources/db/migration/V3__add video.sql" timestamp="1554790676387">
         <mark key="'" line="145" column="0" />
       </file>
-      <file name="D:/project/musicbible/frontend-api/src/test/kotlin/com/musicbible/controller/AppreciationControllerTest.kt" timestamp="1550731564635">
+      <file name="D:/project/musicbible/frontend-api/src/test/kotlin/com/musicbible/controller/AppreciationControllerTest.kt" timestamp="1555378231768">
         <mark key="'" line="31" column="0" />
-        <mark key="[" line="34" column="53" />
-        <mark key="]" line="34" column="65" />
-        <mark key="^" line="34" column="65" />
-        <mark key="." line="34" column="65" />
+        <mark key="[" line="47" column="74" />
+        <mark key="]" line="47" column="74" />
+        <mark key="^" line="45" column="84" />
+        <mark key="." line="47" column="74" />
       </file>
       <file name="D:/project/musicbible/event-process/build.gradle" timestamp="1553915936551">
         <mark key="'" line="0" column="0" />
@@ -2027,10 +2027,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>NOT</text>
+        <text>id</text>
       </register>
       <register name="-" type="4">
-        <text>NOT</text>
+        <text>id</text>
       </register>
       <register name="/" type="4">
         <text>update</text>

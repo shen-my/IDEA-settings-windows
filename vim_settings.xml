@@ -16,10 +16,10 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="4" column="25" />
       </file>
-      <file name="D:/project/musicbible/management/src/main/resources/application.yml" timestamp="1555039021603">
+      <file name="D:/project/musicbible/management/src/main/resources/application.yml" timestamp="1555399525973">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="30" column="35" />
         <mark key="^" line="33" column="12" />
         <mark key="." line="31" column="0" />
       </file>
@@ -86,6 +86,12 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.20/60070a2fbed969e9b73f214cb41072eabedf299a/kotlin-stdlib-common-1.3.20-sources.jar!/generated/_Collections.kt" timestamp="1553168884721">
         <mark key="'" line="1254" column="75" />
       </file>
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/config/WxMaConfig.kt" timestamp="1555398704256">
+        <mark key="[" line="18" column="53" />
+        <mark key="]" line="19" column="18" />
+        <mark key="^" line="19" column="18" />
+        <mark key="." line="19" column="18" />
+      </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/mapper/recording/RecordingMapper.kt" timestamp="1548137827756">
         <mark key="'" line="11" column="0" />
         <mark key="[" line="10" column="47" />
@@ -145,6 +151,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="^" line="24" column="31" />
         <mark key="." line="11" column="0" />
+      </file>
+      <file name="D:/project/musicbible/management/src/application-local.yml" timestamp="1555398105182">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="15" column="21" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/CountAssociations.kt" timestamp="1554893621522">
         <mark key="'" line="51" column="36" />
@@ -230,6 +242,12 @@
         <mark key="]" line="2" column="45" />
         <mark key="^" line="15" column="50" />
         <mark key="." line="15" column="50" />
+      </file>
+      <file name="D:/project/musicbible/management/application-local.yml" timestamp="1555398326533">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="17" column="35" />
+        <mark key="^" line="15" column="20" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/repository/PeriodRepository.kt" timestamp="1548419031108">
         <mark key="'" line="3" column="0" />
@@ -637,7 +655,8 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="7" column="14" />
       </file>
-      <file name="D:/project/musicbible/backend-api/build.gradle" timestamp="1555121295109">
+      <file name="D:/project/musicbible/backend-api/build.gradle" timestamp="1555398181801">
+        <mark key="'" line="56" column="50" />
         <mark key="[" line="27" column="4" />
         <mark key="]" line="27" column="4" />
         <mark key="." line="27" column="4" />
@@ -980,6 +999,11 @@
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/es/model/EsBillboard.kt" timestamp="1554261488029">
         <mark key="'" line="14" column="0" />
+      </file>
+      <file name="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/CreateSitemap.kt" timestamp="1555399481346">
+        <mark key="[" line="5" column="6" />
+        <mark key="]" line="5" column="6" />
+        <mark key="." line="5" column="6" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/BillboardReleaseService.kt" timestamp="1550216538759">
         <mark key="'" line="15" column="8" />
@@ -1598,12 +1622,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="25" column="25" />
       </file>
-      <file name="D:/project/musicbible/bin/manage.sh" timestamp="1554952344229">
-        <mark key="'" line="9" column="5" />
-        <mark key="[" line="23" column="4" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="24" column="0" />
+      <file name="D:/project/musicbible/bin/manage.sh" timestamp="1555399120398">
+        <mark key="'" line="19" column="33" />
+        <mark key="[" line="19" column="35" />
+        <mark key="]" line="19" column="33" />
+        <mark key="." line="19" column="33" />
+        <mark key="^" line="19" column="33" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.kafka/spring-kafka/2.2.4.RELEASE/87ada833aa490529715343ce2eb0681b18ab5700/spring-kafka-2.2.4.RELEASE-sources.jar!/org/springframework/kafka/support/serializer/JsonSerializer.java" timestamp="1552557276118">
         <mark key="'" line="179" column="42" />
@@ -1763,6 +1787,10 @@
         <mark key="^" line="19" column="7" />
         <mark key="." line="19" column="7" />
       </file>
+      <file name="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/SpringShellDemo.kt" timestamp="1555399459566">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="8" column="39" />
+      </file>
       <file name="D:/project/gatenetdoc-server/src/main/java/com/boostfield/gatenetdoc/admin/activitymanager/ActivityController.java" timestamp="1550886575303">
         <mark key="'" line="34" column="30" />
         <mark key="[" line="121" column="55" />
@@ -1883,7 +1911,8 @@
         <mark key="." line="15" column="64" />
         <mark key="^" line="15" column="64" />
       </file>
-      <file name="D:/project/musicbible/management/build.gradle" timestamp="1553656296657">
+      <file name="D:/project/musicbible/management/build.gradle" timestamp="1555398173401">
+        <mark key="'" line="85" column="0" />
         <mark key="[" line="16" column="4" />
         <mark key="]" line="16" column="17" />
         <mark key="." line="16" column="17" />
@@ -1924,11 +1953,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="2" filename="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/SecurityConfig.kt" />
-      <jump line="115" column="39" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/SecurityConfig.kt" />
-      <jump line="108" column="0" filename="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/SecurityConfig.kt" />
-      <jump line="1" column="0" filename="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/SecurityConfig.kt" />
-      <jump line="23" column="0" filename="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/SecurityConfig.kt" />
       <jump line="33" column="0" filename="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/SecurityConfig.kt" />
       <jump line="33" column="27" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/SecurityConfig.kt" />
       <jump line="31" column="0" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/WorkController.kt" />
@@ -2024,55 +2048,60 @@
       <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/resources/settings/index-settings.json" />
       <jump line="18" column="15" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/EmbeddedEs.kt" />
       <jump line="22" column="11" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/mapper/release/ReleaseInput.kt" />
+      <jump line="12" column="50" filename="D:/project/musicbible/management/build.gradle" />
+      <jump line="85" column="0" filename="D:/project/musicbible/management/build.gradle" />
+      <jump line="33" column="4" filename="D:/project/musicbible/backend-api/build.gradle" />
+      <jump line="56" column="50" filename="D:/project/musicbible/backend-api/build.gradle" />
+      <jump line="19" column="33" filename="D:/project/musicbible/bin/manage.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>id</text>
+        <text>SpringShellDemo : CommandLine() {</text>
       </register>
       <register name="-" type="4">
-        <text>id</text>
+        <text>SpringShellDemo : CommandLine() {</text>
       </register>
       <register name="/" type="4">
-        <text>update</text>
+        <text>local</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLndpdGhTZXR0aW5nKFBvcHVsYXJQcm9wZXJ0aWVzLlRSQU5TUE9SVF9UQ1BfUE9SVCwgOTMwMCkK</text>
+        <text encoding="base64">QFNoZWxsQ29tcG9uZW50CmNsYXNzIFNwcmluZ1NoZWxsRGVtbyA6IENvbW1hbmRMaW5lKCkgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tdXNpY2JpYmxlLmNvbnN0YW50LlVVSURDb25zdAo=</text>
+        <text encoding="base64">ICAgICAgY2x1c3Rlci1ub2RlczogbG9jYWxob3N0OjkzMDAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY2x1c3Rlci1uYW1lOiBtdXNpY2JpYmxlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKCIhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEiKQo=</text>
+        <text encoding="base64">ICBtYWlsOgogICAgaG9zdDogc210cC5teGhpY2hpbmEuY29tCiAgICBwb3J0OiA0NjUKICAgIHVzZXJuYW1lOiBkZXZlbG9wZXJAYm9vc3RmaWVsZC5jb20KICAgIHBhc3N3b3JkOgogICAgcHJvcGVydGllczoKICAgICAgbWFpbC5zbXRwLnNzbC5lbmFibGU6IHRydWUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByb3BlcnRpZXM6CiAgICAgIGhpYmVybmF0ZToKICAgICAgICBlbmFibGVfbGF6eV9sb2FkX25vX3RyYW5zOiB0cnVlCiAgICAgICAgZGlhbGVjdDogb3JnLmhpYmVybmF0ZS5kaWFsZWN0LlBvc3RncmVTUUxEaWFsZWN0CiAgICAgICAgYXV0b19xdW90ZV9rZXl3b3JkOiB0cnVlCiAgICAgICAgdGVtcDoKICAgICAgICAgIHVzZV9qZGJjX21ldGFkYXRhX2RlZmF1bHRzOiBmYWxzZQogICAgICBqZGJjOgogICAgICAgIGxvYjoKICAgICAgICAgIG5vbl9jb250ZXh0dWFsX2NyZWF0aW9uOiB0cnVlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLndpdGhTZXR0aW5nKFBvcHVsYXJQcm9wZXJ0aWVzLkhUVFBfUE9SVCwgOTIwMCkK</text>
+        <text encoding="base64">ICBmbHl3YXk6CiAgICBlbmFibGVkOiBmYWxzZQogIG91dHB1dC5hbnNpLmVuYWJsZWQ6IERFVEVDVAogIG1haW4ud2ViLWFwcGxpY2F0aW9uLXR5cGU6IE5PTkUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLndpdGhQbHVnaW4oImFuYWx5c2lzLXN0ZW1wZWwiKQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tdXNpY2JpYmxlLmNvbnN0YW50LlVVSURDb25zdAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBQb3B1bGFyUHJvcGVydGllcy4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUHUK</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKCIhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBCZWFuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>85</text>
       </register>
     </registers>
     <search>
-      <last-search>update</last-search>
+      <last-search>local</last-search>
       <last-offset />
-      <last-pattern>update</last-pattern>
+      <last-pattern>local</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxleHBvcnRBbGxcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -2080,7 +2109,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxUcmFuc2FjdGlvbmFsXD4=</entry>
         <entry>phone</entry>
         <entry encoding="base64">XDxwaG9uZVw+</entry>
         <entry>video</entry>
@@ -2100,6 +2128,7 @@
         <entry encoding="base64">XDxQcmVBdXRob3JpemVcPg==</entry>
         <entry>fly</entry>
         <entry>update</entry>
+        <entry>local</entry>
       </history-search>
       <history-cmd>
         <entry>52</entry>

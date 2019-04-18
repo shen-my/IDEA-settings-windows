@@ -182,7 +182,15 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>41</Count>
+          <Count>42</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show Blame Details">
+        <Item>
+          <IdeaActionID>GitToolBox.BlameDetails</IdeaActionID>
+          <ShortCut>'Alt+Shift+B'</ShortCut>
+          <Description>Show Blame Details</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff">

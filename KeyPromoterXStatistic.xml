@@ -182,7 +182,15 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>39</Count>
+          <Count>41</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show Diff">
+        <Item>
+          <IdeaActionID>Diff.ShowDiff</IdeaActionID>
+          <ShortCut>'Ctrl+D'</ShortCut>
+          <Description>Show Diff</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Into">

@@ -93,6 +93,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="D:/project/musicbible/README.md" timestamp="1555906302704">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/controller/AuthController.kt" timestamp="1555644611730">
         <mark key="'" line="2" column="36" />
         <mark key="[" line="42" column="22" />
@@ -498,8 +503,8 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="7" column="14" />
       </file>
-      <file name="D:/project/musicbible/backend-api/build.gradle" timestamp="1555582929161">
-        <mark key="'" line="18" column="4" />
+      <file name="D:/project/musicbible/backend-api/build.gradle" timestamp="1555906280584">
+        <mark key="'" line="29" column="24" />
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="56" />
         <mark key="." line="10" column="17" />
@@ -1046,10 +1051,11 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-jpa/2.1.3.RELEASE/559abf7fa28e06c6ec55deac38cecbcbef2be376/spring-data-jpa-2.1.3.RELEASE-sources.jar!/org/springframework/data/jpa/repository/Query.java" timestamp="1553766712217">
         <mark key="'" line="41" column="0" />
       </file>
-      <file name="D:/project/musicbible/common-mvc/build.gradle" timestamp="1555583090566">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="53" />
-        <mark key="." line="2" column="0" />
+      <file name="D:/project/musicbible/common-mvc/build.gradle" timestamp="1555906399160">
+        <mark key="[" line="5" column="4" />
+        <mark key="]" line="5" column="14" />
+        <mark key="." line="5" column="14" />
+        <mark key="^" line="5" column="14" />
       </file>
       <file name="D:/project/common-spring/src/main/kotlin/com/boostfield/spring/test/ControllerTest.kt" timestamp="1555581611363">
         <mark key="'" line="0" column="0" />
@@ -1507,10 +1513,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="135" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/CreateSitemap.kt" />
-      <jump line="153" column="45" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/CreateSitemap.kt" />
-      <jump line="67" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/CreateSitemap.kt" />
-      <jump line="0" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/CreateSitemap.kt" />
       <jump line="1" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/CreateSitemap.kt" />
       <jump line="12" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/CreateSitemap.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-elasticsearch/3.1.3.RELEASE/beaa51e9fc36430cbcad13b217725c2584cb28a6/spring-data-elasticsearch-3.1.3.RELEASE-sources.jar!/org/springframework/data/elasticsearch/repository/support/AbstractElasticsearchRepository.java" />
@@ -1607,55 +1609,59 @@
       <jump line="58" column="14" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Release.kt" />
       <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Release.kt" />
       <jump line="211" column="33" filename="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" />
+      <jump line="0" column="0" filename="D:/project/musicbible/backend-api/build.gradle" />
+      <jump line="13" column="24" filename="D:/project/musicbible/backend-api/build.gradle" />
+      <jump line="23" column="24" filename="D:/project/musicbible/backend-api/build.gradle" />
+      <jump line="29" column="24" filename="D:/project/musicbible/backend-api/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kTG9hZGVyLmxvYWQoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>implementation</text>
       </register>
       <register name="-" type="4">
-        <text>me</text>
+        <text>implementation</text>
       </register>
       <register name="/" type="4">
-        <text>artists</text>
+        <text encoding="base64">XDxib29zdGZpZWxkXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiaWQiIHRvIGl0LnRhcmdldC5pZCwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kTG9hZGVyLmxvYWQoKQo=</text>
+        <text encoding="base64">ICAgIGthcHQoJ29yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDpzcHJpbmctYm9vdC1jb25maWd1cmF0aW9uLXByb2Nlc3NvcicpCiAgICBrYXB0KCdvcmcubWFwc3RydWN0Om1hcHN0cnVjdC1wcm9jZXNzb3I6MS4yLjAuRmluYWwnKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQgdmFsIGJhY2tncm91bmRMb2FkZXI6IEJhY2tncm91bmRMb2FkZXIsCg==</text>
+        <text encoding="base64">KiBjb21tb24tc3ByaW5nIKGqoaogc3ByaW5nIL/yvNzP4LnYuavTw7T6wuujrL/Jzt7Q6NDeuMS12NPD1NrG5Mv8z+7Evwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kTG9hZGVyLmxvYWQoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QENvbXBvbmVudApjbGFzcyBCYWNrZ3JvdW5kTG9hZGVyKAogICAgQEF1dG93aXJlZCB2YWwgYmFja2dyb3VuZFNlcnZpY2U6IEJhY2tncm91bmRTZXJ2aWNlCikgOiBMb2FkZXIgewoKICAgIG92ZXJyaWRlIGZ1biBsb2FkKCkgewogICAgICAgIGJhY2tncm91bmRTZXJ2aWNlLmNyZWF0ZSgi0vTA1sqlvq2w8SIsIGVtcHR5QXJyYXkoKSkKICAgICAgICBiYWNrZ3JvdW5kU2VydmljZS5jcmVhdGUoItfu0MLS9MDWIiwgZW1wdHlBcnJheSgpKQogICAgfQoKICAgIG92ZXJyaWRlIGZ1biBpc0xvYWQoKTogQm9vbGVhbiB7CiAgICAgICAgcmV0dXJuIGJhY2tncm91bmRTZXJ2aWNlLmNvdW50KCkgPT0gMkwKICAgIH0KfQo=</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQgdmFsIGJhY2tncm91bmRMb2FkZXI6IEJhY2tncm91bmRMb2FkZXIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tdXNpY2JpYmxlLnNlcnZpY2UuQmFja2dyb3VuZFNlcnZpY2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBEZWxldGVNYXBwaW5nKCIve2l0ZW19L3tpZH0iKQo=</text>
+        <text encoding="base64">QENvbXBvbmVudApjbGFzcyBCYWNrZ3JvdW5kTG9hZGVyKAogICAgQEF1dG93aXJlZCB2YWwgYmFja2dyb3VuZFNlcnZpY2U6IEJhY2tncm91bmRTZXJ2aWNlCikgOiBMb2FkZXIgewoKICAgIG92ZXJyaWRlIGZ1biBsb2FkKCkgewogICAgICAgIGJhY2tncm91bmRTZXJ2aWNlLmNyZWF0ZSgi0vTA1sqlvq2w8SIsIGVtcHR5QXJyYXkoKSkKICAgICAgICBiYWNrZ3JvdW5kU2VydmljZS5jcmVhdGUoItfu0MLS9MDWIiwgZW1wdHlBcnJheSgpKQogICAgfQoKICAgIG92ZXJyaWRlIGZ1biBpc0xvYWQoKTogQm9vbGVhbiB7CiAgICAgICAgcmV0dXJuIGJhY2tncm91bmRTZXJ2aWNlLmNvdW50KCkgPT0gMkwKICAgIH0KfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBQb3N0TWFwcGluZygiL3tpdGVtfSIpCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tdXNpY2JpYmxlLnNlcnZpY2UuQmFja2dyb3VuZFNlcnZpY2UK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5ib29zdGZpZWxkLnNwcmluZy5leGNlcHRpb24uQXBwRXJyb3IK</text>
+        <text encoding="base64">ICAgIEBEZWxldGVNYXBwaW5nKCIve2l0ZW19L3tpZH0iKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmJpbmQuYW5ub3RhdGlvbi5SZXF1ZXN0UGFyYW0K</text>
+        <text encoding="base64">ICAgIEBQb3N0TWFwcGluZygiL3tpdGVtfSIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>72</text>
       </register>
     </registers>
     <search>
-      <last-search>artists</last-search>
+      <last-search encoding="base64">XDxib29zdGZpZWxkXD4=</last-search>
       <last-offset />
-      <last-pattern>artists</last-pattern>
+      <last-pattern encoding="base64">XDxib29zdGZpZWxkXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxleHBvcnRBbGxcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1663,10 +1669,6 @@
     </search>
     <history>
       <history-search>
-        <entry>index</entry>
-        <entry encoding="base64">XDxpbmRleFRvRXNcPg==</entry>
-        <entry>test_update_work</entry>
-        <entry>test_save_find</entry>
         <entry>patch</entry>
         <entry>fly</entry>
         <entry>failed</entry>
@@ -1683,6 +1685,10 @@
         <entry>common</entry>
         <entry encoding="base64">XDxyZWNvcmRpbmdfYXBwcmVjaWF0aW9u1tB0YXJnZXTT0HRpdGxlXD4=</entry>
         <entry>artists</entry>
+        <entry>lastLo</entry>
+        <entry>lastLogin</entry>
+        <entry>boostfield</entry>
+        <entry encoding="base64">XDxib29zdGZpZWxkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>70</entry>

@@ -1192,6 +1192,9 @@
         <mark key="^" line="48" column="52" />
         <mark key="." line="48" column="52" />
       </file>
+      <file name="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/VideoController.kt" timestamp="1555979809533">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Appreciation.kt" timestamp="1555567418537">
         <mark key="'" line="72" column="0" />
         <mark key="[" line="18" column="30" />
@@ -1511,15 +1514,11 @@
         <mark key="^" line="10" column="14" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/controller/CollectController.kt" timestamp="1555979825413">
+        <mark key="'" line="55" column="88" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/CreateSitemap.kt" />
-      <jump line="12" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/CreateSitemap.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-elasticsearch/3.1.3.RELEASE/beaa51e9fc36430cbcad13b217725c2584cb28a6/spring-data-elasticsearch-3.1.3.RELEASE-sources.jar!/org/springframework/data/elasticsearch/repository/support/AbstractElasticsearchRepository.java" />
-      <jump line="131" column="8" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/RecordingService.kt" />
-      <jump line="121" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/RecordingService.kt" />
-      <jump line="127" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/RecordingService.kt" />
-      <jump line="123" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/RecordingService.kt" />
       <jump line="181" column="15" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/RecordingService.kt" />
       <jump line="185" column="62" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/RecordingService.kt" />
       <jump line="78" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/RecordingService.kt" />
@@ -1613,6 +1612,13 @@
       <jump line="13" column="24" filename="D:/project/musicbible/backend-api/build.gradle" />
       <jump line="23" column="24" filename="D:/project/musicbible/backend-api/build.gradle" />
       <jump line="29" column="24" filename="D:/project/musicbible/backend-api/build.gradle" />
+      <jump line="0" column="0" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/VideoController.kt" />
+      <jump line="0" column="0" filename="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/controller/CollectController.kt" />
+      <jump line="13" column="29" filename="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/controller/CollectController.kt" />
+      <jump line="31" column="19" filename="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/controller/CollectController.kt" />
+      <jump line="32" column="19" filename="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/controller/CollectController.kt" />
+      <jump line="33" column="19" filename="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/controller/CollectController.kt" />
+      <jump line="55" column="88" filename="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/controller/CollectController.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1622,7 +1628,7 @@
         <text>implementation</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxib29zdGZpZWxkXD4=</text>
+        <text>video</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiaWQiIHRvIGl0LnRhcmdldC5pZCwK</text>
@@ -1659,9 +1665,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxib29zdGZpZWxkXD4=</last-search>
+      <last-search>video</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxib29zdGZpZWxkXD4=</last-pattern>
+      <last-pattern>video</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxleHBvcnRBbGxcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1669,8 +1675,6 @@
     </search>
     <history>
       <history-search>
-        <entry>patch</entry>
-        <entry>fly</entry>
         <entry>failed</entry>
         <entry encoding="base64">XDxyZWNvcmRpbmdFc1JlcG9zaXRvcnlcPg==</entry>
         <entry encoding="base64">XDxFc1JlY29yZGluZ1w+</entry>
@@ -1689,6 +1693,8 @@
         <entry>lastLogin</entry>
         <entry>boostfield</entry>
         <entry encoding="base64">XDxib29zdGZpZWxkXD4=</entry>
+        <entry>collect</entry>
+        <entry>video</entry>
       </history-search>
       <history-cmd>
         <entry>70</entry>

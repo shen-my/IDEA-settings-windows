@@ -118,12 +118,12 @@
         <mark key="." line="42" column="22" />
         <mark key="^" line="42" column="22" />
       </file>
-      <file name="D:/project/musicbible/backend-api/application-local-test.yml" timestamp="1555485088493">
-        <mark key="'" line="3" column="33" />
-        <mark key="[" line="18" column="22" />
-        <mark key="]" line="18" column="23" />
-        <mark key="^" line="18" column="23" />
-        <mark key="." line="18" column="23" />
+      <file name="D:/project/musicbible/backend-api/application-local-test.yml" timestamp="1556022112167">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="11" column="14" />
+        <mark key="]" line="11" column="20" />
+        <mark key="." line="11" column="20" />
+        <mark key="^" line="11" column="20" />
       </file>
       <file name="D:/project/musicbible/backend-api/application-local.yml" timestamp="1555415938611">
         <mark key="'" line="4" column="22" />
@@ -188,8 +188,8 @@
         <mark key="^" line="33" column="104" />
         <mark key="." line="53" column="44" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/UserService.kt" timestamp="1555999602626">
-        <mark key="'" line="67" column="19" />
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/UserService.kt" timestamp="1556022144292">
+        <mark key="'" line="31" column="0" />
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="56" />
         <mark key="." line="68" column="49" />
@@ -361,6 +361,9 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="21" column="30" />
       </file>
+      <file name="D:/project/musicbible/docker-compose.yml" timestamp="1556022025134">
+        <mark key="'" line="84" column="15" />
+      </file>
       <file name="D:/project/musicbible/common/build.gradle" timestamp="1555583153385">
         <mark key="'" line="10" column="54" />
         <mark key="[" line="20" column="0" />
@@ -417,6 +420,12 @@
         <mark key="]" line="35" column="8" />
         <mark key="." line="35" column="8" />
         <mark key="^" line="35" column="8" />
+      </file>
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/TagCacheService.kt" timestamp="1556022465677">
+        <mark key="[" line="31" column="99" />
+        <mark key="]" line="31" column="100" />
+        <mark key="^" line="31" column="100" />
+        <mark key="." line="31" column="100" />
       </file>
       <file name="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/BillboardControllerTest.kt" timestamp="1553135159970">
         <mark key="'" line="94" column="0" />
@@ -673,9 +682,6 @@
         <mark key="]" line="40" column="61" />
         <mark key="^" line="206" column="19" />
         <mark key="." line="40" column="61" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1555723357255">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/project/musicbible/migration/console/models/taxonomy.py" timestamp="1553133451584">
         <mark key="'" line="38" column="0" />
@@ -980,6 +986,11 @@
         <mark key="^" line="34" column="10" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="D:/project/common-spring/src/main/kotlin/com/boostfield/spring/payload/PageQuery.kt" timestamp="1556020378868">
+        <mark key="[" line="8" column="24" />
+        <mark key="]" line="8" column="24" />
+        <mark key="." line="8" column="24" />
+      </file>
       <file name="D:/project/musicbible/frontend-api/application-local.yml" timestamp="1555039415513">
         <mark key="'" line="6" column="22" />
         <mark key="[" line="3" column="24" />
@@ -1233,6 +1244,12 @@
         <mark key="]" line="7" column="47" />
         <mark key="." line="15" column="47" />
         <mark key="^" line="15" column="47" />
+      </file>
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/AppVersionService.kt" timestamp="1556020720707">
+        <mark key="[" line="98" column="67" />
+        <mark key="]" line="98" column="66" />
+        <mark key="^" line="98" column="66" />
+        <mark key="." line="98" column="66" />
       </file>
       <file name="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/SayingControllerTest.kt" timestamp="1550717818791">
         <mark key="'" line="34" column="0" />
@@ -1550,22 +1567,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="286" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/RecordingService.kt" />
-      <jump line="28" column="25" filename="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/controller/RecordingController.kt" />
-      <jump line="0" column="0" filename="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/controller/CommentController.kt" />
-      <jump line="48" column="8" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/AppreciationService.kt" />
-      <jump line="247" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/AppreciationService.kt" />
-      <jump line="90" column="22" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/AppreciationService.kt" />
-      <jump line="120" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/AppreciationService.kt" />
-      <jump line="125" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/AppreciationService.kt" />
-      <jump line="38" column="47" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/mapper/appreciation/AppreciationOutput.kt" />
-      <jump line="122" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/AppreciationService.kt" />
-      <jump line="88" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/AppreciationService.kt" />
-      <jump line="78" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/AppreciationService.kt" />
-      <jump line="79" column="19" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/AppreciationService.kt" />
-      <jump line="136" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/AppreciationService.kt" />
-      <jump line="105" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/AppreciationService.kt" />
-      <jump line="91" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/AppreciationService.kt" />
       <jump line="102" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/AppreciationService.kt" />
       <jump line="107" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/AppreciationService.kt" />
       <jump line="11" column="0" filename="D:/project/musicbible/frontend-api/src/test/kotlin/com/musicbible/controller/AppreciationControllerTest.kt" />
@@ -1636,7 +1637,6 @@
       <jump line="12" column="0" filename="D:/project/musicbible/bin/manage.sh" />
       <jump line="37" column="0" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/GenreController.kt" />
       <jump line="12" column="48" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/TaxonomyCacheService.kt" />
-      <jump line="67" column="19" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/UserService.kt" />
       <jump line="19" column="49" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/TaxonomyCacheService.kt" />
       <jump line="22" column="31" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/GenreController.kt" />
       <jump line="24" column="0" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/GenreController.kt" />
@@ -1650,55 +1650,72 @@
       <jump line="83" column="34" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/AbstractTest.kt" />
       <jump line="21" column="41" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/SettingService.kt" />
       <jump line="14" column="7" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/filter/TagCacheFilter.kt" />
+      <jump line="19" column="43" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/UserService.kt" />
+      <jump line="67" column="19" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/UserService.kt" />
+      <jump line="8" column="0" filename="D:/project/musicbible/backend-api/application-local-test.yml" />
+      <jump line="52" column="50" filename="D:/project/musicbible/docker-compose.yml" />
+      <jump line="23" column="2" filename="D:/project/musicbible/docker-compose.yml" />
+      <jump line="24" column="11" filename="D:/project/musicbible/docker-compose.yml" />
+      <jump line="25" column="31" filename="D:/project/musicbible/docker-compose.yml" />
+      <jump line="29" column="12" filename="D:/project/musicbible/docker-compose.yml" />
+      <jump line="43" column="8" filename="D:/project/musicbible/docker-compose.yml" />
+      <jump line="53" column="26" filename="D:/project/musicbible/docker-compose.yml" />
+      <jump line="74" column="8" filename="D:/project/musicbible/docker-compose.yml" />
+      <jump line="84" column="15" filename="D:/project/musicbible/docker-compose.yml" />
+      <jump line="233" column="16" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/UserService.kt" />
+      <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/UserService.kt" />
+      <jump line="1" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/UserService.kt" />
+      <jump line="27" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/UserService.kt" />
+      <jump line="31" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/UserService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnNlcnZsZXQuU2VydmxldFJlc3BvbnNlCg==</text>
+      <register name="&quot;" type="4">
+        <text>localhost</text>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>localhost</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZWRpc1RlbXBsYXRlXD4=</text>
+        <text>userSe</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgZm9ybSA9IGZvcm1TZXJ2aWNlLmNyZWF0ZSgiuOi+5yIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnNlcnZsZXQuU2VydmxldFJlc3BvbnNlCg==</text>
+        <text encoding="base64">ICByZWRpcy5wYXNzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnNlcnZsZXQuU2VydmxldFJlcXVlc3QK</text>
+        <text encoding="base64">ICAgIHJlZGlzOgogICAgICByZXBvc2l0b3JpZXM6CiAgICAgICAgZW5hYmxlZD10cnVlOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgb3ZlcnJpZGUgZnVuIGRvRmlsdGVyKHJlcXVlc3Q6IFNlcnZsZXRSZXF1ZXN0LCByZXNwb25zZTogU2VydmxldFJlc3BvbnNlLCBjaGFpbjogRmlsdGVyQ2hhaW4pIHsKLy8KLy8gICAgfQo=</text>
+        <text encoding="base64">ICBkYXRhOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb25zZS4K</text>
+        <text encoding="base64">ICBzcHJpbmc6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGNoYWluLmRvRmlsdGVyKHJlcXVlc3QsIHJlc3BvbnNlKQovLyAgICAgICAgcmVzcG9uc2UuCi8vICAgICAgICB0YWdDYWNoZVNlcnZpY2UuZ2V0VXBkYXRlVGltZXN0YW1wKCkK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5kb0ZpbHRlcihyZXF1ZXN0LCByZXNwb25zZSwgY2hhaW4pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG92ZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCIke2FwcFZlcnNpb25TZXR0aW5nfcnQzrSz9cq8u68iKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnNlcnZsZXQuRmlsdGVyCg==</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChlOiBBcHBFcnJvcikgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ5IHsK</text>
       </register>
       <register name=":" type="4">
         <text>72</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZWRpc1RlbXBsYXRlXD4=</last-search>
+      <last-search>userSe</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZWRpc1RlbXBsYXRlXD4=</last-pattern>
+      <last-pattern>userSe</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxleHBvcnRBbGxcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1706,8 +1723,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxFc1JlY29yZGluZ1w+</entry>
-        <entry>authCon</entry>
         <entry encoding="base64">XDxXeE1hU2VydmljZVw+</entry>
         <entry>kapt</entry>
         <entry>mock</entry>
@@ -1726,6 +1741,8 @@
         <entry>video</entry>
         <entry encoding="base64">XDxSZWRpc1RlbXBsYXRlXD4=</entry>
         <entry encoding="base64">XDxyZWRpc1RlbXBsYXRlXD4=</entry>
+        <entry>redis</entry>
+        <entry>userSe</entry>
       </history-search>
       <history-cmd>
         <entry>70</entry>

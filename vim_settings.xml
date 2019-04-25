@@ -493,6 +493,13 @@
         <mark key="." line="63" column="31" />
         <mark key="^" line="63" column="31" />
       </file>
+      <file name="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" timestamp="1556172897138">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="255" column="0" />
+        <mark key="]" line="255" column="0" />
+        <mark key="." line="255" column="0" />
+        <mark key="^" line="254" column="71" />
+      </file>
       <file name="D:/project/gatenetdoc-server/src/main/java/com/boostfield/gatenetdoc/manage/pointaudit/ScoreExporter.java" timestamp="1550889521179">
         <mark key="'" line="77" column="0" />
         <mark key="[" line="56" column="58" />
@@ -1581,7 +1588,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="22" filename="D:/project/musicbible/bin/manage.sh" />
       <jump line="12" column="0" filename="D:/project/musicbible/bin/manage.sh" />
       <jump line="37" column="0" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/GenreController.kt" />
       <jump line="12" column="48" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/TaxonomyCacheService.kt" />
@@ -1681,55 +1687,56 @@
       <jump line="8" column="31" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Release.kt" />
       <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/RecordingService.kt" />
       <jump line="1" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/RecordingService.kt" />
+      <jump line="12" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>recording</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZWNvcmRpbmcyLmlkCg==</text>
       </register>
       <register name="-" type="4">
         <text>recording</text>
       </register>
       <register name="/" type="4">
-        <text>hasTrack</text>
+        <text>delete</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjYXRlZ29yeUNhY2hlU2VydmljZS5yZWZyZXNoKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFja1NlcnZpY2UuZGVsZXRlQnlJZCh0cmFja0lkKQo=</text>
+        <text encoding="base64">ICAgICAgICByZWNvcmRpbmcyLmlkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnJlY29yZGluZwo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5oaWJlcm5hdGUuY2FjaGUuc3BpLkFic3RyYWN0UmVnaW9uRmFjdG9yeQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIXJlbGVhc2UuaGFzVHJhY2sodHJhY2tJZCkpCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tdXNpY2JpYmxlLm1hcHBlci5sYWJlbC5VcGRhdGVDb3VudHJ5Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cmFja1NlcnZpY2UuZGVsZXRlQnlJZCh0cmFja0lkKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnJlY29yZGluZwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBSZXN0UmVzcG9uc2UuY3JlYXRlZChyZWxlYXNlVHlwZVNlcnZpY2Uuc2F2ZShSZWxlYXNlVHlwZShyZXEubmFtZUNOLCByZXEubmFtZUVOKSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIXJlbGVhc2UuaGFzVHJhY2sodHJhY2tJZCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBSZXN0UmVzcG9uc2UuY3JlYXRlZChwcm9mZXNzaW9uU2VydmljZS5hZGQocmVxKSkK</text>
+        <text encoding="base64">ICAgICAgICBSZXN0UmVzcG9uc2UuY3JlYXRlZChyZWxlYXNlVHlwZVNlcnZpY2Uuc2F2ZShSZWxlYXNlVHlwZShyZXEubmFtZUNOLCByZXEubmFtZUVOKSkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>72</text>
       </register>
     </registers>
     <search>
-      <last-search>hasTrack</last-search>
+      <last-search>delete</last-search>
       <last-offset />
-      <last-pattern>hasTrack</last-pattern>
+      <last-pattern>delete</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxleHBvcnRBbGxcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1737,7 +1744,6 @@
     </search>
     <history>
       <history-search>
-        <entry>boostfield</entry>
         <entry encoding="base64">XDxib29zdGZpZWxkXD4=</entry>
         <entry>collect</entry>
         <entry>video</entry>
@@ -1757,6 +1763,7 @@
         <entry>track</entry>
         <entry>hastrack</entry>
         <entry>hasTrack</entry>
+        <entry>delete</entry>
       </history-search>
       <history-cmd>
         <entry>70</entry>

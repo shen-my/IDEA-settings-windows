@@ -210,6 +210,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="24" column="42" />
       </file>
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/CollectService.kt" timestamp="1556242008521">
+        <mark key="[" line="40" column="38" />
+        <mark key="]" line="40" column="58" />
+        <mark key="." line="40" column="58" />
+        <mark key="^" line="40" column="58" />
+      </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/security/PermissionEvaluator.kt" timestamp="1554278345502">
         <mark key="'" line="30" column="60" />
         <mark key="[" line="2" column="0" />
@@ -1710,11 +1716,11 @@
       <jump line="115" column="6" filename="D:/project/musicbible/docker-compose.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>redis</text>

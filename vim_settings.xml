@@ -352,8 +352,8 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="21" column="30" />
       </file>
-      <file name="D:/project/musicbible/docker-compose.yml" timestamp="1556240032584">
-        <mark key="'" line="117" column="6" />
+      <file name="D:/project/musicbible/docker-compose.yml" timestamp="1556250200524">
+        <mark key="'" line="117" column="0" />
         <mark key="[" line="32" column="69" />
         <mark key="]" line="101" column="65" />
         <mark key="^" line="101" column="65" />
@@ -743,6 +743,11 @@
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/mapper/banner/BannerOutput.kt" timestamp="1555658508544">
         <mark key="'" line="21" column="6" />
+      </file>
+      <file name="D:/project/musicbible/bin/publish-web-server.sh" timestamp="1556250181471">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseAppreciationService.kt" timestamp="1550914401919">
         <mark key="'" line="18" column="7" />
@@ -1145,11 +1150,12 @@
         <mark key="." line="40" column="45" />
         <mark key="^" line="40" column="45" />
       </file>
-      <file name="D:/project/musicbible/bin/upgrade-web-server.sh" timestamp="1556241269406">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
+      <file name="D:/project/musicbible/bin/upgrade-web-server.sh" timestamp="1556250193360">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
         <mark key="^" line="6" column="0" />
-        <mark key="." line="12" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="D:/project/musicbible/common-spring/src/main/kotlin/com/boostfield/spring/persistence/DraftableRepository.kt" timestamp="1552620833524">
         <mark key="'" line="7" column="0" />
@@ -1637,11 +1643,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/filter/TagCacheFilter.kt" />
-      <jump line="19" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/filter/TagCacheFilter.kt" />
-      <jump line="283" column="42" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Release.kt" />
-      <jump line="227" column="19" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Release.kt" />
-      <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Release.kt" />
       <jump line="286" column="36" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Release.kt" />
       <jump line="5" column="46" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/filter/TagCacheFilter.kt" />
       <jump line="16" column="4" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/config/properties/RedisConfig.kt" />
@@ -1737,10 +1738,15 @@
       <jump line="97" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/PushService.kt" />
       <jump line="86" column="31" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/PushService.kt" />
       <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Appreciation.kt" />
+      <jump line="21" column="0" filename="D:/project/musicbible/bin/upgrade-web-server.sh" />
+      <jump line="24" column="22" filename="D:/project/musicbible/docker-compose.yml" />
+      <jump line="61" column="0" filename="D:/project/musicbible/docker-compose.yml" />
+      <jump line="99" column="0" filename="D:/project/musicbible/docker-compose.yml" />
+      <jump line="117" column="0" filename="D:/project/musicbible/docker-compose.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwdXNoU2VydmljZS50ZXN0cHVzaCgpCg==</text>
+        <text encoding="base64">ZG9ja2VyLWNvbXBvc2Ugcm0gLXNmIGluZGV4MmVzCg==</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -1752,28 +1758,28 @@
         <text encoding="base64">ZWNobyAkPwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwdXNoU2VydmljZS50ZXN0cHVzaCgpCg==</text>
+        <text encoding="base64">ZG9ja2VyLWNvbXBvc2Ugcm0gLXNmIGluZGV4MmVzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uKCdjb21tb25zLWNsaTpjb21tb25zLWNsaToxLjQnKQo=</text>
+        <text encoding="base64">JFBST0pFQ1RfSE9NRS9ncmFkbGV3IG1hbmFnZW1lbnQ6cHVzaERvY2tlckltYWdlIC1pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJ1bnRpbWVPbmx5KCdjb20uYm9vc3RmaWVsZDpjYXB0Y2hhLXNwcmluZy1ib290LXN0YXJ0ZXI6MC4wLjEnKQo=</text>
+        <text encoding="base64">ICAgICAgICBwdXNoU2VydmljZS50ZXN0cHVzaCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIHByb2plY3QoJzpjb21tb24tc3ByaW5nJykK</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uKCdjb21tb25zLWNsaTpjb21tb25zLWNsaToxLjQnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJ1bnRpbWVPbmx5KCdjb20uYm9vc3RmaWVsZDpjYXB0Y2hhLXNwcmluZy1ib290LXN0YXJ0ZXI6MC4wLjEnKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZWNobyAkcmVzdWx0Cg==</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIHByb2plY3QoJzpjb21tb24tc3ByaW5nJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZWNobyAkPwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZWNobyAkPwo=</text>
+        <text encoding="base64">ZWNobyAkcmVzdWx0Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ZWNobyAkPwo=</text>

@@ -357,10 +357,10 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="21" column="30" />
       </file>
-      <file name="D:/project/musicbible/docker-compose.yml" timestamp="1556269075054">
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="0" />
-        <mark key="." line="99" column="0" />
+      <file name="D:/project/musicbible/docker-compose.yml" timestamp="1556275445198">
+        <mark key="[" line="32" column="68" />
+        <mark key="]" line="32" column="68" />
+        <mark key="." line="32" column="68" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/CategoryCacheService.kt" timestamp="1556185129543">
         <mark key="[" line="28" column="54" />
@@ -375,8 +375,8 @@
         <mark key="." line="20" column="14" />
         <mark key="^" line="20" column="14" />
       </file>
-      <file name="D:/project/musicbible/frontend-api/build.gradle" timestamp="1556260683097">
-        <mark key="[" line="16" column="53" />
+      <file name="D:/project/musicbible/frontend-api/build.gradle" timestamp="1556275459411">
+        <mark key="[" line="7" column="13" />
         <mark key="]" line="16" column="53" />
         <mark key="." line="16" column="53" />
         <mark key="^" line="7" column="12" />
@@ -548,9 +548,9 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="7" column="14" />
       </file>
-      <file name="D:/project/musicbible/backend-api/build.gradle" timestamp="1556260673910">
+      <file name="D:/project/musicbible/backend-api/build.gradle" timestamp="1556275431094">
         <mark key="'" line="11" column="29" />
-        <mark key="[" line="13" column="54" />
+        <mark key="[" line="7" column="13" />
         <mark key="]" line="30" column="57" />
         <mark key="." line="30" column="57" />
         <mark key="^" line="30" column="57" />
@@ -1011,7 +1011,7 @@
         <mark key="^" line="34" column="10" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="D:/project/musicbible/bin/manage-shell.sh" timestamp="1556075016873">
+      <file name="D:/project/musicbible/bin/manage-shell.sh" timestamp="1556275440588">
         <mark key="[" line="21" column="60" />
         <mark key="]" line="21" column="59" />
         <mark key="." line="21" column="59" />
@@ -1380,7 +1380,7 @@
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/PushService.kt" timestamp="1556246987480">
         <mark key="'" line="86" column="31" />
       </file>
-      <file name="D:/project/musicbible/bin/manage.sh" timestamp="1556075053271">
+      <file name="D:/project/musicbible/bin/manage.sh" timestamp="1556275470203">
         <mark key="'" line="12" column="0" />
         <mark key="[" line="28" column="60" />
         <mark key="]" line="28" column="59" />
@@ -1627,9 +1627,9 @@
         <mark key="." line="15" column="64" />
         <mark key="^" line="15" column="64" />
       </file>
-      <file name="D:/project/musicbible/management/build.gradle" timestamp="1556260687258">
+      <file name="D:/project/musicbible/management/build.gradle" timestamp="1556275463932">
         <mark key="'" line="5" column="0" />
-        <mark key="[" line="11" column="53" />
+        <mark key="[" line="4" column="13" />
         <mark key="]" line="11" column="53" />
         <mark key="^" line="4" column="12" />
         <mark key="." line="11" column="53" />
@@ -1765,11 +1765,11 @@
       <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHJlY29yZGluZ1NlcnZpY2UuZXhpc3RzQnlJZChyZWNvcmRpbmcyLmlkKSkuaXNGYWxzZSgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>FALSE</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>deleteTrack</text>

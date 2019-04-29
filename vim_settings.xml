@@ -236,12 +236,6 @@
         <mark key="." line="59" column="0" />
         <mark key="^" line="29" column="36" />
       </file>
-      <file name="D:/project/discogs-data/build.gradle" timestamp="1556245170680">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="D:/project/musicbible/common/src/main/resources/db/migration/V1__init.sql" timestamp="1554790661899">
         <mark key="'" line="1680" column="0" />
       </file>
@@ -615,12 +609,12 @@
         <mark key="^" line="10" column="8" />
         <mark key="." line="10" column="4" />
       </file>
-      <file name="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ArtistControllerTest.kt" timestamp="1556510177573">
+      <file name="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ArtistControllerTest.kt" timestamp="1556521442717">
         <mark key="'" line="36" column="0" />
-        <mark key="[" line="44" column="35" />
-        <mark key="]" line="45" column="30" />
-        <mark key="^" line="45" column="30" />
-        <mark key="." line="45" column="30" />
+        <mark key="[" line="65" column="76" />
+        <mark key="]" line="64" column="7" />
+        <mark key="^" line="64" column="7" />
+        <mark key="." line="64" column="7" />
       </file>
       <file name="D:/project/musicbible/common-spring/src/main/kotlin/com/boostfield/spring/db/TransactionPerception.kt" timestamp="1554368364008">
         <mark key="'" line="22" column="30" />
@@ -1103,11 +1097,12 @@
         <mark key="^" line="19" column="11" />
         <mark key="." line="19" column="11" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" timestamp="1556510056111">
-        <mark key="'" line="370" column="105" />
-        <mark key="[" line="165" column="0" />
-        <mark key="]" line="165" column="0" />
-        <mark key="." line="165" column="0" />
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" timestamp="1556521123465">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="164" column="61" />
+        <mark key="]" line="165" column="17" />
+        <mark key="." line="165" column="17" />
+        <mark key="^" line="165" column="17" />
       </file>
       <file name="D:/project/gatenetdoc-server/src/test/java/com/boostfield/gatenetdoc/profile/ProfileControllerMockTest.java" timestamp="1552289386929">
         <mark key="'" line="86" column="37" />
@@ -1251,12 +1246,11 @@
         <mark key="." line="7" column="8" />
         <mark key="^" line="7" column="8" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/EsIndexService.kt" timestamp="1556511031092">
-        <mark key="'" line="19" column="10" />
-        <mark key="[" line="40" column="18" />
-        <mark key="]" line="40" column="56" />
-        <mark key="." line="40" column="56" />
-        <mark key="^" line="40" column="56" />
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/EsIndexService.kt" timestamp="1556521179419">
+        <mark key="'" line="20" column="10" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="71" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/VideoController.kt" timestamp="1555979809533">
         <mark key="'" line="0" column="0" />
@@ -1632,8 +1626,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="93" filename="D:/project/musicbible/common-mvc/src/main/kotlin/com/musicbible/common/ExceptionHandler.kt" />
-      <jump line="137" column="0" filename="D:/project/common-spring/build.gradle" />
       <jump line="122" column="0" filename="D:/project/common-spring/build.gradle" />
       <jump line="104" column="0" filename="D:/project/common-spring/build.gradle" />
       <jump line="98" column="0" filename="D:/project/common-spring/build.gradle" />
@@ -1732,55 +1724,57 @@
       <jump line="24" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ArtistControllerTest.kt" />
       <jump line="36" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ArtistControllerTest.kt" />
       <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/es/model/EsArtist.kt" />
+      <jump line="428" column="78" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" />
+      <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKGVudCkK</text>
+        <text encoding="base64">ICAgICAgICBwdXQoIi9hcGkvdjAvYXJ0aXN0LyR7YXJ0aXN0LmlkfS9wcm9mZXNzaW9ucyIsIGxpc3RPZihwcm9mZXNzaW9uMS5pZCkpCiAgICAgICAgICAgIC5hbmRFeHBlY3Qoc3RhdHVzKCkuaXNPaykK</text>
       </register>
       <register name="-" type="4">
-        <text>.set = professions.map(Profession::id)</text>
+        <text>(isolation = Isolation.READ_UNCOMMITTED)</text>
       </register>
       <register name="/" type="4">
-        <text>professionIds</text>
+        <text>updateProfession</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGxvZ2dlciA9IExvZ2dlckZhY3RvcnkuZ2V0TG9nZ2VyKFdvcmtTZXJ2aWNlOjpjbGFzcy5qYXZhKQo=</text>
+        <text encoding="base64">ICAgICAgICBwdXQoIi9hcGkvdjAvYXJ0aXN0LyR7YXJ0aXN0LmlkfS9wcm9mZXNzaW9ucyIsIGxpc3RPZihwcm9mZXNzaW9uMS5pZCkpCiAgICAgICAgICAgIC5hbmRFeHBlY3Qoc3RhdHVzKCkuaXNPaykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKGVudCkK</text>
+        <text encoding="base64">ICAgICAgICBlbS5mbHVzaCgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhcnRpc3QucHJvZmVzc2lvbklkcy5hZGRBbGwocHJvZmVzc2lvbnMubWFwKFByb2Zlc3Npb246OmlkKSkK</text>
+        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsKHByb3BhZ2F0aW9uID0gUHJvcGFnYXRpb24uUkVRVUlSRVNfTkVXKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhcnRpc3QucHJvZmVzc2lvbklkcy5jbGVhcigpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKGVudCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhcnRpc3QucHJvZmVzc2lvbklkcwo=</text>
+        <text encoding="base64">ICAgICAgICBhcnRpc3QucHJvZmVzc2lvbklkcy5hZGRBbGwocHJvZmVzc2lvbnMubWFwKFByb2Zlc3Npb246OmlkKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzYXZlKGFydGlzdCkK</text>
+        <text encoding="base64">ICAgICAgICBhcnRpc3QucHJvZmVzc2lvbklkcy5jbGVhcigpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbmRleFRvRXMoYXJ0aXN0KQo=</text>
+        <text encoding="base64">ICAgICAgICBhcnRpc3QucHJvZmVzc2lvbklkcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZWxlYXNlLmNhdGFsb2dzLmZvckVhY2ggeyBwcmludGxuKGl0Lm51bWJlcikgfQo=</text>
+        <text encoding="base64">ICAgICAgICBzYXZlKGFydGlzdCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHJlbGVhc2UuY2F0YWxvZ3NbMF0ubnVtYmVyKS5pc0VxdWFsVG8oIlJYMiIpCiAgICAgICAgYXNzZXJ0VGhhdChyZWxlYXNlLmNhdGFsb2dzWzFdLm51bWJlcikuaXNFcXVhbFRvKCJRVDMiKQogICAgICAgIGFzc2VydFRoYXQocmVsZWFzZS5jYXRhbG9nc1syXS5udW1iZXIpLmlzRXF1YWxUbygiUVQ0IikK</text>
+        <text encoding="base64">ICAgICAgICBpbmRleFRvRXMoYXJ0aXN0KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHJlbGVhc2UuY2F0YWxvZ3NbMF0ucHJlZml4KS5pc0VxdWFsVG8oIlNYTCIpCg==</text>
+        <text encoding="base64">ICAgICAgICByZWxlYXNlLmNhdGFsb2dzLmZvckVhY2ggeyBwcmludGxuKGl0Lm51bWJlcikgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>16</text>
       </register>
     </registers>
     <search>
-      <last-search>professionIds</last-search>
+      <last-search>updateProfession</last-search>
       <last-offset />
-      <last-pattern>professionIds</last-pattern>
+      <last-pattern>updateProfession</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxleHBvcnRBbGxcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1788,7 +1782,6 @@
     </search>
     <history>
       <history-search>
-        <entry>indexToSe</entry>
         <entry>indexTo</entry>
         <entry encoding="base64">XDxlbGFzdGljc2VhcmNoVGVtcGxhdGVcPg==</entry>
         <entry encoding="base64">XDxpbmRleFRvRXNcPg==</entry>
@@ -1808,6 +1801,7 @@
         <entry>updateIn</entry>
         <entry>professions</entry>
         <entry>professionIds</entry>
+        <entry>updateProfession</entry>
       </history-search>
       <history-cmd>
         <entry>322</entry>

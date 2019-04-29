@@ -1097,11 +1097,11 @@
         <mark key="^" line="19" column="11" />
         <mark key="." line="19" column="11" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" timestamp="1556529313383">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="165" column="0" />
-        <mark key="]" line="165" column="0" />
-        <mark key="." line="165" column="0" />
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" timestamp="1556529582406">
+        <mark key="'" line="171" column="4" />
+        <mark key="[" line="189" column="0" />
+        <mark key="]" line="189" column="53" />
+        <mark key="." line="189" column="0" />
       </file>
       <file name="D:/project/gatenetdoc-server/src/test/java/com/boostfield/gatenetdoc/profile/ProfileControllerMockTest.java" timestamp="1552289386929">
         <mark key="'" line="86" column="37" />
@@ -1625,7 +1625,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="122" column="0" filename="D:/project/common-spring/build.gradle" />
       <jump line="104" column="0" filename="D:/project/common-spring/build.gradle" />
       <jump line="98" column="0" filename="D:/project/common-spring/build.gradle" />
       <jump line="91" column="0" filename="D:/project/common-spring/build.gradle" />
@@ -1725,10 +1724,11 @@
       <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/es/model/EsArtist.kt" />
       <jump line="428" column="78" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" />
       <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" />
+      <jump line="171" column="4" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBlbS5mbHVzaCgpCg==</text>
+        <text encoding="base64">ICAgIEBQcmVBdXRob3JpemUoImhhc1Blcm1pc3Npb24oI2FydGlzdCwgJ1VQREFURScpIikK</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -1737,34 +1737,34 @@
         <text>updateProfession</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKCItLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSIpCg==</text>
+        <text encoding="base64">ICAgIEBQcmVBdXRob3JpemUoImhhc1Blcm1pc3Npb24oI2FydGlzdCwgJ1VQREFURScpIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlbS5mbHVzaCgpCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGVtLmZsdXNoKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKCItLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSIpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKGFydGlzdC5wcm9mZXNzaW9uSWRzKQo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBlbS5mbHVzaCgpCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhcnRpc3QucHJvZmVzc2lvbnMuYWRkKHByb2Zlc3Npb24yKQo=</text>
-      </register>
-      <register name="6" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBwcmludGxuKCItLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSIpCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBwcmludGxuKGFydGlzdC5wcm9mZXNzaW9uSWRzKQo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBlbS5mbHVzaCgpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBhcnRpc3QucHJvZmVzc2lvbnMuYWRkKHByb2Zlc3Npb24yKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludGxuKCItLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSIpCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhcgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKGFydGlzdC5wcm9mZXNzaW9uSWRzKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBhcgo=</text>
       </register>
       <register name=":" type="4">
         <text>16</text>

@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="temp" type="PLAIN_TEXT" />
+      <mapping pattern="CommandApplication.kt" type="PLAIN_TEXT" />
       <mapping pattern="runcmd" type="PLAIN_TEXT" />
       <mapping pattern="flyway" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />

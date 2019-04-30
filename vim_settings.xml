@@ -67,6 +67,12 @@
         <mark key="." line="47" column="48" />
         <mark key="^" line="47" column="48" />
       </file>
+      <file name="D:/project/musicbible/.gitignore" timestamp="1556603488915">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/es/model/EsRelease.kt" timestamp="1556586655359">
         <mark key="'" line="22" column="29" />
         <mark key="[" line="2" column="0" />
@@ -1202,6 +1208,7 @@
         <mark key="^" line="29" column="19" />
         <mark key="." line="29" column="19" />
       </file>
+      <file name="D:/project/musicbible/bin/dump-db.sh" timestamp="1556603959452" />
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/format.yml" timestamp="1553493999952">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="11" column="5" />
@@ -1633,7 +1640,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="188" column="25" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" />
       <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" />
       <jump line="1" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" />
       <jump line="43" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" />
@@ -1733,55 +1739,56 @@
       <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
       <jump line="7" column="50" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
       <jump line="3" column="5" filename="D:/project/discogs-data/build.gradle" />
+      <jump line="0" column="0" filename="D:/project/musicbible/.gitignore" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>r</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c3ByaW5nLXNoZWxsLmxvZwoK</text>
       </register>
       <register name="-" type="4">
         <text>r</text>
       </register>
       <register name="/" type="4">
-        <text>Colle</text>
+        <text>dump</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBlbS5mbHVzaCgpCiAgICAgICAgZW0ucmVmcmVzaChyZWxlYXNlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGVPbmx5KCJjb20uYm9vc3RmaWVsZDpjb21tb24tc3ByaW5nOiR7Y29tbW9uU3ByaW5nVmVyc2lvbn0iKQo=</text>
+        <text encoding="base64">c3ByaW5nLXNoZWxsLmxvZwoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGthcHQoJ29yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDpzcHJpbmctYm9vdC1jb25maWd1cmF0aW9uLXByb2Nlc3NvcicpCg==</text>
+        <text encoding="base64">KmR1bXAqCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29udGV4dC5hbm5vdGF0aW9uLkZpbHRlclR5cGUK</text>
+        <text encoding="base64">ICAgIGNvbXBpbGVPbmx5KCJjb20uYm9vc3RmaWVsZDpjb21tb24tc3ByaW5nOiR7Y29tbW9uU3ByaW5nVmVyc2lvbn0iKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29udGV4dC5hbm5vdGF0aW9uLkNvbXBvbmVudFNjYW4K</text>
+        <text encoding="base64">ICAgIGthcHQoJ29yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDpzcHJpbmctYm9vdC1jb25maWd1cmF0aW9uLXByb2Nlc3NvcicpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QENvbXBvbmVudFNjYW4oZXhjbHVkZUZpbHRlcnMgPSBbCiAgICBDb21wb25lbnRTY2FuLkZpbHRlcigKICAgICAgICB0eXBlID0gRmlsdGVyVHlwZS5BU1NJR05BQkxFX1RZUEUsCiAgICAgICAgdmFsdWUgPSBbCiAgICAgICAgICAgIFdlY2hhdE9wZW5Db25maWc6OmNsYXNzLAogICAgICAgICAgICBTd2FnZ2VyMkNvbmZpZzo6Y2xhc3MsCiAgICAgICAgICAgIENhcHRjaGFDb25maWc6OmNsYXNzCiAgICAgICAgXQogICAgKQpdKQo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29udGV4dC5hbm5vdGF0aW9uLkZpbHRlclR5cGUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGVPbmx5KCdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q6c3ByaW5nLWJvb3Qtc3RhcnRlci1zZWN1cml0eScpCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29udGV4dC5hbm5vdGF0aW9uLkNvbXBvbmVudFNjYW4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGVPbmx5KCdjb20uYWxpeXVuOmFsaXl1bi1qYXZhLXNkay12b2Q6Mi4xNS4yJykKICAgIGNvbXBpbGVPbmx5KCdjb20uYWxpeXVuOmFsaXl1bi1qYXZhLXNkay1jb3JlOjQuMy4zJykKICAgIGNvbXBpbGVPbmx5KCdjb20uYWxpeXVuLm9zczphbGl5dW4tc2RrLW9zczozLjEuMCcpCg==</text>
+        <text encoding="base64">QENvbXBvbmVudFNjYW4oZXhjbHVkZUZpbHRlcnMgPSBbCiAgICBDb21wb25lbnRTY2FuLkZpbHRlcigKICAgICAgICB0eXBlID0gRmlsdGVyVHlwZS5BU1NJR05BQkxFX1RZUEUsCiAgICAgICAgdmFsdWUgPSBbCiAgICAgICAgICAgIFdlY2hhdE9wZW5Db25maWc6OmNsYXNzLAogICAgICAgICAgICBTd2FnZ2VyMkNvbmZpZzo6Y2xhc3MsCiAgICAgICAgICAgIENhcHRjaGFDb25maWc6OmNsYXNzCiAgICAgICAgXQogICAgKQpdKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uKCdjb21tb25zLWlvOmNvbW1vbnMtaW86Mi4yJykK</text>
+        <text encoding="base64">ICAgIGNvbXBpbGVPbmx5KCdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q6c3ByaW5nLWJvb3Qtc3RhcnRlci1zZWN1cml0eScpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uKCdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q6c3ByaW5nLWJvb3Qtc3RhcnRlci1kYXRhLWVsYXN0aWNzZWFyY2gnKQo=</text>
+        <text encoding="base64">ICAgIGNvbXBpbGVPbmx5KCdjb20uYWxpeXVuOmFsaXl1bi1qYXZhLXNkay12b2Q6Mi4xNS4yJykKICAgIGNvbXBpbGVPbmx5KCdjb20uYWxpeXVuOmFsaXl1bi1qYXZhLXNkay1jb3JlOjQuMy4zJykKICAgIGNvbXBpbGVPbmx5KCdjb20uYWxpeXVuLm9zczphbGl5dW4tc2RrLW9zczozLjEuMCcpCg==</text>
       </register>
       <register name=":" type="4">
         <text>262</text>
       </register>
     </registers>
     <search>
-      <last-search>Colle</last-search>
+      <last-search>dump</last-search>
       <last-offset />
-      <last-pattern>Colle</last-pattern>
+      <last-pattern>dump</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxleHBvcnRBbGxcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1789,7 +1796,6 @@
     </search>
     <history>
       <history-search>
-        <entry>to_list</entry>
         <entry>update_catalog</entry>
         <entry>updateCata</entry>
         <entry>catalogs</entry>
@@ -1809,6 +1815,7 @@
         <entry encoding="base64">XDxpbmRleFRvRXNcPg==</entry>
         <entry>indexToEs</entry>
         <entry>Colle</entry>
+        <entry>dump</entry>
       </history-search>
       <history-cmd>
         <entry>334</entry>

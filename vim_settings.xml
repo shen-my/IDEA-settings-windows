@@ -328,8 +328,11 @@
         <mark key="." line="8" column="21" />
         <mark key="^" line="8" column="21" />
       </file>
-      <file name="D:/vm-shared/project/discogs-data/command/application-local.yml" timestamp="1556785562255">
+      <file name="D:/vm-shared/project/discogs-data/command/application-local.yml" timestamp="1556786243058">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="15" column="22" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/es/ElasticSearchApplicationListener.kt" timestamp="1553847382541">
         <mark key="'" line="13" column="0" />
@@ -894,6 +897,12 @@
         <mark key="]" line="32" column="20" />
         <mark key="^" line="32" column="20" />
         <mark key="." line="32" column="20" />
+      </file>
+      <file name="D:/vm-shared/project/discogs-data/bin/icommand.sh" timestamp="1556786281807">
+        <mark key="[" line="17" column="36" />
+        <mark key="]" line="17" column="41" />
+        <mark key="." line="17" column="41" />
+        <mark key="^" line="17" column="41" />
       </file>
       <file name="D:/project/musicbible/frontend-api/src/test/kotlin/com/musicbible/controller/MockModel.kt" timestamp="1548323441912">
         <mark key="'" line="1" column="0" />
@@ -1737,43 +1746,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>discogs_20190201_masters</text>
+        <text>validate</text>
       </register>
       <register name="-" type="4">
-        <text>discogs_20190201_masters</text>
+        <text>validate</text>
       </register>
       <register name="/" type="4">
         <text>Colle</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBlbS5mbHVzaCgpCiAgICAgICAgZW0ucmVmcmVzaChyZWxlYXNlKQo=</text>
+        <text encoding="base64">ICBqcGE6CiAgICBzaG93LXNxbDogdHJ1ZQogICAgaGliZXJuYXRlOgogICAgICBkZGwtYXV0bzogY3JlYXRlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsudHJhbnNhY3Rpb24uYW5ub3RhdGlvbi5Jc29sYXRpb24KaW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsudHJhbnNhY3Rpb24uYW5ub3RhdGlvbi5Qcm9wYWdhdGlvbgppbXBvcnQgb3JnLnNwcmluZ2ZyYW1ld29yay50cmFuc2FjdGlvbi5hbm5vdGF0aW9uLlRyYW5zYWN0aW9uYWwK</text>
+        <text encoding="base64">CS1Ec3ByaW5nLmpwYS5oaWJlcm5hdGUuZGRsLWF1dG89Y3JlYXRlIFwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tdXNpY2JpYmxlLm1vZGVsLkFydGlzdAo=</text>
+        <text encoding="base64">ICAgIHNob3ctc3FsOiB0cnVlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5ib29zdGZpZWxkLnNwcmluZy51dGlsLkNvbGxlY3Rpb24K</text>
+        <text encoding="base64">ICBqcGE6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlbS5mbHVzaCgpCiAgICAgICAgZW0ucmVmcmVzaChhcnRpc3QpCg==</text>
+        <text encoding="base64">ICBkYXRhOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlbS5mbHVzaCgpCiAgICAgICAgZW0ucmVmcmVzaChhcnRpc3QpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKCI9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09IikK</text>
+        <text encoding="base64">ICAgIGRkbC1hdXRvOiBjcmVhdGUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKGFydGlzdC5wcm9mZXNzaW9uSWRzKQo=</text>
+        <text encoding="base64">ICAgICAgZWxhc3RpY3NlYXJjaAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKCI9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09IikK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsudHJhbnNhY3Rpb24uYW5ub3RhdGlvbi5Jc29sYXRpb24KaW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsudHJhbnNhY3Rpb24uYW5ub3RhdGlvbi5Qcm9wYWdhdGlvbgppbXBvcnQgb3JnLnNwcmluZ2ZyYW1ld29yay50cmFuc2FjdGlvbi5hbm5vdGF0aW9uLlRyYW5zYWN0aW9uYWwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGVtLmZsdXNoKCkK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tdXNpY2JpYmxlLm1vZGVsLkFydGlzdAo=</text>
       </register>
       <register name=":" type="4">
         <text>262</text>
@@ -1868,6 +1877,9 @@
         <text>ctrl pressed OPEN_BRACKET</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed F</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
@@ -1884,6 +1896,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed R</text>

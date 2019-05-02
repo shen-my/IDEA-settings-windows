@@ -328,6 +328,9 @@
         <mark key="." line="8" column="21" />
         <mark key="^" line="8" column="21" />
       </file>
+      <file name="D:/vm-shared/project/discogs-data/command/application-local.yml" timestamp="1556785562255">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/es/ElasticSearchApplicationListener.kt" timestamp="1553847382541">
         <mark key="'" line="13" column="0" />
         <mark key="[" line="16" column="19" />
@@ -1015,6 +1018,9 @@
         <mark key="^" line="27" column="25" />
         <mark key="." line="27" column="25" />
       </file>
+      <file name="D:/vm-shared/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/CommandApplication.kt" timestamp="1556785169273">
+        <mark key="[" line="6" column="6" />
+      </file>
       <file name="D:/project/musicbible/frontend-api/src/test/kotlin/com/musicbible/controller/ListingControllerTest.kt" timestamp="1550731496306">
         <mark key="'" line="31" column="3" />
         <mark key="[" line="30" column="5" />
@@ -1628,9 +1634,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="17" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/SaleService.kt" />
-      <jump line="188" column="25" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" />
-      <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" />
       <jump line="1" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" />
       <jump line="43" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" />
       <jump line="47" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" />
@@ -1728,6 +1731,9 @@
       <jump line="404" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
       <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
       <jump line="7" column="50" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
+      <jump line="19" column="8" filename="D:/vm-shared/project/discogs-data/command/application-local.yml" />
+      <jump line="5" column="0" filename="D:/vm-shared/project/discogs-data/command/application-local.yml" />
+      <jump line="0" column="0" filename="D:/vm-shared/project/discogs-data/command/application-local.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1852,7 +1858,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed B</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed I</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
@@ -1862,15 +1868,12 @@
         <text>ctrl pressed OPEN_BRACKET</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed W</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
         <text>ctrl pressed F</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed C</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed S</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -1879,13 +1882,10 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed A</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed X</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed D</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>

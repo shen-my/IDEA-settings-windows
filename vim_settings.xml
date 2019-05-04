@@ -355,6 +355,9 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="21" column="30" />
       </file>
+      <file name="D:/vm-shared/project/musicbible/backend-api/build.gradle" timestamp="1556962839974">
+        <mark key="'" line="101" column="0" />
+      </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/CategoryCacheService.kt" timestamp="1556185129543">
         <mark key="[" line="28" column="54" />
         <mark key="]" line="28" column="54" />
@@ -812,6 +815,11 @@
         <mark key="." line="17" column="18" />
         <mark key="^" line="17" column="18" />
       </file>
+      <file name="D:/vm-shared/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" timestamp="1556962881326">
+        <mark key="[" line="149" column="0" />
+        <mark key="]" line="149" column="0" />
+        <mark key="." line="149" column="0" />
+      </file>
       <file name="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/SecurityConfig.kt" timestamp="1555050530394">
         <mark key="'" line="97" column="28" />
         <mark key="[" line="110" column="0" />
@@ -1005,6 +1013,11 @@
         <mark key="]" line="21" column="59" />
         <mark key="." line="21" column="59" />
         <mark key="^" line="21" column="59" />
+      </file>
+      <file name="D:/vm-shared/project/musicbible/build.gradle" timestamp="1556963385954">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="D:/project/musicbible/frontend-api/application-local.yml" timestamp="1555039415513">
         <mark key="'" line="6" column="22" />
@@ -1643,9 +1656,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" />
-      <jump line="43" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" />
-      <jump line="47" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" />
       <jump line="79" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" />
       <jump line="97" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" />
       <jump line="65" column="19" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/SaleService.kt" />
@@ -1743,13 +1753,16 @@
       <jump line="19" column="8" filename="D:/vm-shared/project/discogs-data/command/application-local.yml" />
       <jump line="5" column="0" filename="D:/vm-shared/project/discogs-data/command/application-local.yml" />
       <jump line="0" column="0" filename="D:/vm-shared/project/discogs-data/command/application-local.yml" />
+      <jump line="0" column="0" filename="D:/vm-shared/project/musicbible/backend-api/build.gradle" />
+      <jump line="101" column="0" filename="D:/vm-shared/project/musicbible/backend-api/build.gradle" />
+      <jump line="73" column="9" filename="D:/vm-shared/project/musicbible/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>validate</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGthcHQgewogICAgICAgIGtvdGxpbk9wdGlvbnMgewogICAgICAgICAgICBqdm1UYXJnZXQgPSAiMTAiCiAgICAgICAgfQogICAgfQoK</text>
       </register>
       <register name="-" type="4">
-        <text>validate</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text>Colle</text>
@@ -1758,31 +1771,31 @@
         <text encoding="base64">ICBqcGE6CiAgICBzaG93LXNxbDogdHJ1ZQogICAgaGliZXJuYXRlOgogICAgICBkZGwtYXV0bzogY3JlYXRlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CS1Ec3ByaW5nLmpwYS5oaWJlcm5hdGUuZGRsLWF1dG89Y3JlYXRlIFwK</text>
+        <text encoding="base64">ICAgIGthcHQgewogICAgICAgIGtvdGxpbk9wdGlvbnMgewogICAgICAgICAgICBqdm1UYXJnZXQgPSAiMTAiCiAgICAgICAgfQogICAgfQoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNob3ctc3FsOiB0cnVlCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBqcGE6Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBkYXRhOgo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB0YXJnZXRDb21wYXRpYmlsaXR5ID0gSmF2YVZlcnNpb24uVkVSU0lPTl8xXzgK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBzb3VyY2VDb21wYXRpYmlsaXR5ID0gSmF2YVZlcnNpb24uVkVSU0lPTl8xXzgK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBKYXZhVmVyc2lvbi4K</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRkbC1hdXRvOiBjcmVhdGUK</text>
+        <text encoding="base64">ICAgICAgICBwdXQocHJpbnRsbigpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZWxhc3RpY3NlYXJjaAo=</text>
+        <text encoding="base64">CS1Ec3ByaW5nLmpwYS5oaWJlcm5hdGUuZGRsLWF1dG89Y3JlYXRlIFwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsudHJhbnNhY3Rpb24uYW5ub3RhdGlvbi5Jc29sYXRpb24KaW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsudHJhbnNhY3Rpb24uYW5ub3RhdGlvbi5Qcm9wYWdhdGlvbgppbXBvcnQgb3JnLnNwcmluZ2ZyYW1ld29yay50cmFuc2FjdGlvbi5hbm5vdGF0aW9uLlRyYW5zYWN0aW9uYWwK</text>
+        <text encoding="base64">ICAgIHNob3ctc3FsOiB0cnVlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tdXNpY2JpYmxlLm1vZGVsLkFydGlzdAo=</text>
+        <text encoding="base64">ICBqcGE6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>262</text>

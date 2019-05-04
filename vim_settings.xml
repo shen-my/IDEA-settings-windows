@@ -296,11 +296,11 @@
         <mark key="." line="139" column="33" />
         <mark key="^" line="139" column="33" />
       </file>
-      <file name="D:/vm-shared/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleasesXmlReader.kt" timestamp="1556969773990">
-        <mark key="[" line="32" column="34" />
-        <mark key="]" line="32" column="34" />
-        <mark key="." line="32" column="34" />
-        <mark key="^" line="32" column="40" />
+      <file name="D:/vm-shared/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleasesXmlReader.kt" timestamp="1556973177174">
+        <mark key="[" line="48" column="43" />
+        <mark key="]" line="48" column="44" />
+        <mark key="." line="48" column="44" />
+        <mark key="^" line="48" column="44" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/es/model/EsLabel.kt" timestamp="1554777747240">
         <mark key="'" line="27" column="0" />
@@ -566,6 +566,9 @@
         <mark key="]" line="29" column="66" />
         <mark key="." line="29" column="66" />
         <mark key="^" line="29" column="66" />
+      </file>
+      <file name="C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/util/LinkedList.java" timestamp="1556973128544">
+        <mark key="'" line="82" column="13" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/GenreService.kt" timestamp="1550914651366">
         <mark key="'" line="24" column="0" />
@@ -1133,10 +1136,6 @@
         <mark key="^" line="19" column="11" />
         <mark key="." line="19" column="11" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" timestamp="1556531634855">
-        <mark key="[" line="123" column="0" />
-        <mark key="." line="123" column="0" />
-      </file>
       <file name="D:/project/gatenetdoc-server/src/test/java/com/boostfield/gatenetdoc/profile/ProfileControllerMockTest.java" timestamp="1552289386929">
         <mark key="'" line="86" column="37" />
       </file>
@@ -1668,7 +1667,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="353" column="30" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
       <jump line="85" column="45" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" />
       <jump line="119" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
       <jump line="380" column="73" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" />
@@ -1768,13 +1766,14 @@
       <jump line="24" column="0" filename="D:/vm-shared/project/musicbible/build.gradle" />
       <jump line="38" column="0" filename="D:/vm-shared/project/musicbible/build.gradle" />
       <jump line="94" column="7" filename="D:/vm-shared/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleasesXmlReader.kt" />
+      <jump line="82" column="13" filename="C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/util/LinkedList.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2147483647</text>
+        <text>LinkedList</text>
       </register>
       <register name="-" type="4">
-        <text>releasbe</text>
+        <text>LinkedList</text>
       </register>
       <register name="/" type="4">
         <text>Colle</text>

@@ -296,6 +296,12 @@
         <mark key="." line="139" column="33" />
         <mark key="^" line="139" column="33" />
       </file>
+      <file name="D:/vm-shared/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleasesXmlReader.kt" timestamp="1556969773990">
+        <mark key="[" line="32" column="34" />
+        <mark key="]" line="32" column="34" />
+        <mark key="." line="32" column="34" />
+        <mark key="^" line="32" column="40" />
+      </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/es/model/EsLabel.kt" timestamp="1554777747240">
         <mark key="'" line="27" column="0" />
         <mark key="[" line="2" column="0" />
@@ -506,11 +512,11 @@
         <mark key="^" line="33" column="16" />
         <mark key="." line="33" column="16" />
       </file>
-      <file name="D:/vm-shared/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ImportRelease.kt" timestamp="1556769892399">
-        <mark key="[" line="25" column="35" />
-        <mark key="]" line="25" column="41" />
-        <mark key="^" line="25" column="41" />
-        <mark key="." line="25" column="41" />
+      <file name="D:/vm-shared/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ImportRelease.kt" timestamp="1556970163796">
+        <mark key="[" line="26" column="28" />
+        <mark key="]" line="26" column="38" />
+        <mark key="^" line="26" column="27" />
+        <mark key="." line="26" column="28" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/DocumentCheckingService.kt" timestamp="1551951054820">
         <mark key="'" line="66" column="0" />
@@ -1662,7 +1668,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="28" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Work.kt" />
       <jump line="353" column="30" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
       <jump line="85" column="45" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" />
       <jump line="119" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
@@ -1762,46 +1767,47 @@
       <jump line="22" column="4" filename="D:/vm-shared/project/musicbible/build.gradle" />
       <jump line="24" column="0" filename="D:/vm-shared/project/musicbible/build.gradle" />
       <jump line="38" column="0" filename="D:/vm-shared/project/musicbible/build.gradle" />
+      <jump line="94" column="7" filename="D:/vm-shared/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleasesXmlReader.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>l</text>
+        <text>2147483647</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>releasbe</text>
       </register>
       <register name="/" type="4">
         <text>Colle</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBqcGE6CiAgICBzaG93LXNxbDogdHJ1ZQogICAgaGliZXJuYXRlOgogICAgICBkZGwtYXV0bzogY3JlYXRlCg==</text>
+      <register name="0" type="4">
+        <text>2147483647</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBrYXB0LmluY3JlbWVudGFsLmFwdD10cnVlCg==</text>
+        <text encoding="base64">Y2xhc3MgUmVsZWFzZXNYbWxGaWx0ZXIgOiBFdmVudEZpbHRlciB7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBrYXB0IHsK</text>
+        <text encoding="base64">ICAgICAgICBrYXB0LmluY3JlbWVudGFsLmFwdD10cnVlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBrYXB0IHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBsdWdpbnMgewogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZCAib3JnLmpldGJyYWlucy5rb3RsaW4ua2FwdCIgdmVyc2lvbiAiMS4zLjMxIgo=</text>
+        <text encoding="base64">ICAgIHBsdWdpbnMgewogICAgfQoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFwcGx5IHBsdWdpbjogJ2tvdGxpbi1rYXB0Jwo=</text>
+        <text encoding="base64">ICAgICAgICBpZCAib3JnLmpldGJyYWlucy5rb3RsaW4ua2FwdCIgdmVyc2lvbiAiMS4zLjMxIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGthcHQgewogICAgICAgIGtvdGxpbk9wdGlvbnMgewogICAgICAgICAgICBqdm1UYXJnZXQgPSAiMTAiCiAgICAgICAgfQogICAgfQoK</text>
+        <text encoding="base64">ICAgIGFwcGx5IHBsdWdpbjogJ2tvdGxpbi1rYXB0Jwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGthcHQgewogICAgICAgIGtvdGxpbk9wdGlvbnMgewogICAgICAgICAgICBqdm1UYXJnZXQgPSAiMTAiCiAgICAgICAgfQogICAgfQoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0YXJnZXRDb21wYXRpYmlsaXR5ID0gSmF2YVZlcnNpb24uVkVSU0lPTl8xXzgK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>262</text>
@@ -1921,6 +1927,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

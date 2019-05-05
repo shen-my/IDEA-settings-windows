@@ -366,7 +366,7 @@
         <mark key="^" line="21" column="30" />
       </file>
       <file name="D:/vm-shared/project/musicbible/backend-api/build.gradle" timestamp="1556962839974">
-        <mark key="'" line="101" column="0" />
+        <mark key="'" line="106" column="0" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/CategoryCacheService.kt" timestamp="1556185129543">
         <mark key="[" line="28" column="54" />
@@ -829,11 +829,6 @@
         <mark key="." line="17" column="18" />
         <mark key="^" line="17" column="18" />
       </file>
-      <file name="D:/vm-shared/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" timestamp="1556962881326">
-        <mark key="[" line="149" column="0" />
-        <mark key="]" line="149" column="0" />
-        <mark key="." line="149" column="0" />
-      </file>
       <file name="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/SecurityConfig.kt" timestamp="1555050530394">
         <mark key="'" line="97" column="28" />
         <mark key="[" line="110" column="0" />
@@ -1027,12 +1022,6 @@
         <mark key="]" line="21" column="59" />
         <mark key="." line="21" column="59" />
         <mark key="^" line="21" column="59" />
-      </file>
-      <file name="D:/vm-shared/project/musicbible/build.gradle" timestamp="1556968175761">
-        <mark key="'" line="37" column="0" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
       </file>
       <file name="D:/project/musicbible/frontend-api/application-local.yml" timestamp="1555039415513">
         <mark key="'" line="6" column="22" />
@@ -1464,6 +1453,12 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.kafka/spring-kafka/2.2.4.RELEASE/87ada833aa490529715343ce2eb0681b18ab5700/spring-kafka-2.2.4.RELEASE-sources.jar!/org/springframework/kafka/annotation/KafkaListener.java" timestamp="1553916322815">
         <mark key="'" line="221" column="0" />
       </file>
+      <file name="D:/vm-shared/project/musicbible/docker-compose.yml" timestamp="1557062266906">
+        <mark key="[" line="100" column="26" />
+        <mark key="]" line="100" column="33" />
+        <mark key="." line="100" column="33" />
+        <mark key="^" line="100" column="33" />
+      </file>
       <file name="D:/project/musicbible/frontend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" timestamp="1556246879630">
         <mark key="'" line="205" column="0" />
         <mark key="[" line="59" column="64" />
@@ -1769,11 +1764,11 @@
       <jump line="65" column="0" filename="D:/vm-shared/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleasesXmlReader.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>P</text>
       </register>
       <register name="-" type="4">
-        <text>(&quot;Can't read more!&quot;)</text>
+        <text>P</text>
       </register>
       <register name="/" type="4">
         <text>Colle</text>

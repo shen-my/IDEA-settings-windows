@@ -1,6 +1,14 @@
 <application>
   <component name="KeyPromoterXStatistic">
     <option name="statistics">
+      <Statistic Action="Back">
+        <Item>
+          <IdeaActionID>Back</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+向左箭头'</ShortCut>
+          <Description>Back</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Change Signature...">
         <Item>
           <IdeaActionID>ChangeSignature</IdeaActionID>
@@ -22,7 +30,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug...">
@@ -89,6 +97,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Last Edit Location">
+        <Item>
+          <IdeaActionID>JumpToLastChange</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+Backspace'</ShortCut>
+          <Description>Last Edit Location</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="New Watch...">
         <Item>
           <IdeaActionID>XDebugger.NewWatch</IdeaActionID>
@@ -118,7 +134,7 @@
           <IdeaActionID>$Paste</IdeaActionID>
           <ShortCut>'Ctrl+V' or 'Shift+Insert'</ShortCut>
           <Description>Paste</Description>
-          <Count>3</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Redo Vim Delete Character Right">
@@ -150,7 +166,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>80</Count>
+          <Count>85</Count>
         </Item>
       </Statistic>
       <Statistic Action="Replace in Path...">
@@ -190,7 +206,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>42</Count>
+          <Count>49</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Blame Details">

@@ -1096,11 +1096,11 @@
         <mark key="^" line="132" column="65" />
         <mark key="." line="124" column="0" />
       </file>
-      <file name="D:/project/discogs-data/common/src/main/kotlin/com/musicbible/discogsdata/model/Release.kt" timestamp="1557023964601">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="8" column="6" />
-        <mark key="." line="8" column="0" />
+      <file name="D:/project/discogs-data/common/src/main/kotlin/com/musicbible/discogsdata/model/Release.kt" timestamp="1557024595994">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="20" column="11" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/es/model/EsSale.kt" timestamp="1551959785914">
         <mark key="'" line="43" column="0" />
@@ -1206,12 +1206,11 @@
         <mark key="^" line="16" column="33" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleaseXmlParser.kt" timestamp="1557024079001">
-        <mark key="'" line="153" column="0" />
-        <mark key="[" line="32" column="84" />
-        <mark key="]" line="32" column="87" />
-        <mark key="^" line="32" column="87" />
-        <mark key="." line="32" column="87" />
+      <file name="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleaseXmlParser.kt" timestamp="1557025100079">
+        <mark key="'" line="101" column="52" />
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="0" />
+        <mark key="." line="116" column="0" />
       </file>
       <file name="D:/project/musicbible/migration/console/models/publisher.py" timestamp="1551238825411">
         <mark key="'" line="21" column="45" />
@@ -1762,6 +1761,13 @@
       <file name="D:/project/musicbible/management/build.gradle" timestamp="1556614446430">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleaseBuilder.kt" timestamp="1557025163827">
+        <mark key="'" line="47" column="0" />
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
+        <mark key="^" line="74" column="32" />
+      </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/repository/ProfessionRepository.kt" timestamp="1548419692354">
         <mark key="'" line="17" column="65" />
         <mark key="[" line="17" column="68" />
@@ -1791,44 +1797,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="D:/project/discogs-data/src/main/kotlin/com/musicbible/discogsdata/model/Release.kt" />
-      <jump line="10" column="0" filename="D:/project/discogs-data/src/main/kotlin/com/musicbible/discogsdata/model/Release.kt" />
-      <jump line="13" column="0" filename="D:/project/discogs-data/src/main/kotlin/com/musicbible/discogsdata/model/Release.kt" />
-      <jump line="16" column="0" filename="D:/project/discogs-data/src/main/kotlin/com/musicbible/discogsdata/model/Release.kt" />
-      <jump line="19" column="0" filename="D:/project/discogs-data/src/main/kotlin/com/musicbible/discogsdata/model/Release.kt" />
-      <jump line="22" column="0" filename="D:/project/discogs-data/src/main/kotlin/com/musicbible/discogsdata/model/Release.kt" />
-      <jump line="25" column="0" filename="D:/project/discogs-data/src/main/kotlin/com/musicbible/discogsdata/model/Release.kt" />
-      <jump line="28" column="0" filename="D:/project/discogs-data/src/main/kotlin/com/musicbible/discogsdata/model/Release.kt" />
-      <jump line="32" column="0" filename="D:/project/discogs-data/src/main/kotlin/com/musicbible/discogsdata/model/Release.kt" />
-      <jump line="35" column="0" filename="D:/project/discogs-data/src/main/kotlin/com/musicbible/discogsdata/model/Release.kt" />
-      <jump line="38" column="0" filename="D:/project/discogs-data/src/main/kotlin/com/musicbible/discogsdata/model/Release.kt" />
-      <jump line="41" column="0" filename="D:/project/discogs-data/src/main/kotlin/com/musicbible/discogsdata/model/Release.kt" />
-      <jump line="44" column="0" filename="D:/project/discogs-data/src/main/kotlin/com/musicbible/discogsdata/model/Release.kt" />
-      <jump line="47" column="0" filename="D:/project/discogs-data/src/main/kotlin/com/musicbible/discogsdata/model/Release.kt" />
-      <jump line="33" column="10" filename="D:/project/discogs-data/src/main/kotlin/com/musicbible/discogsdata/model/Release.kt" />
-      <jump line="8" column="31" filename="D:/project/discogs-data/src/main/kotlin/com/musicbible/discogsdata/model/Release.kt" />
-      <jump line="329" column="35" filename="D:/project/discogs-data/src/main/kotlin/com/musicbible/discogsdata/command/ReleaseXmlParser.kt" />
-      <jump line="16" column="13" filename="D:/project/discogs-data/src/main/kotlin/com/musicbible/discogsdata/service/DiscogsService.kt" />
-      <jump line="18" column="19" filename="D:/project/discogs-data/src/main/kotlin/com/musicbible/discogsdata/service/ReleaseService.kt" />
-      <jump line="35" column="0" filename="D:/project/discogs-data/src/main/kotlin/com/musicbible/discogsdata/service/ReleaseService.kt" />
-      <jump line="46" column="5" filename="D:/project/discogs-data/src/main/kotlin/com/musicbible/discogsdata/service/ReleaseService.kt" />
-      <jump line="73" column="74" filename="D:/project/discogs-data/build.gradle" />
-      <jump line="20" column="75" filename="D:/project/musicbible/management/build.gradle" />
-      <jump line="48" column="9" filename="D:/project/musicbible/backend-api/build.gradle" />
-      <jump line="7" column="0" filename="D:/project/musicbible/backend-api/build.gradle" />
-      <jump line="10" column="1" filename="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/CommandApplication.kt" />
-      <jump line="31" column="26" filename="D:/project/discogs-data/build.gradle" />
-      <jump line="121" column="0" filename="D:/project/discogs-data/build.gradle" />
-      <jump line="19" column="8" filename="D:/project/discogs-data/web/build.gradle" />
-      <jump line="18" column="0" filename="D:/project/discogs-data/web/build.gradle" />
-      <jump line="23" column="0" filename="D:/project/discogs-data/web/build.gradle" />
-      <jump line="26" column="0" filename="D:/project/discogs-data/web/build.gradle" />
-      <jump line="28" column="0" filename="D:/project/discogs-data/web/build.gradle" />
-      <jump line="38" column="0" filename="D:/project/discogs-data/web/build.gradle" />
-      <jump line="54" column="0" filename="D:/project/discogs-data/web/build.gradle" />
-      <jump line="57" column="0" filename="D:/project/discogs-data/web/build.gradle" />
-      <jump line="88" column="0" filename="D:/project/discogs-data/web/build.gradle" />
-      <jump line="0" column="0" filename="D:/project/discogs-data/web/build.gradle" />
       <jump line="46" column="0" filename="D:/project/discogs-data/web/build.gradle" />
       <jump line="95" column="64" filename="D:/project/discogs-data/build.gradle" />
       <jump line="29" column="8" filename="D:/project/musicbible/build.gradle" />
@@ -1882,6 +1850,19 @@
       <jump line="24" column="29" filename="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleaseXmlParser.kt" />
       <jump line="325" column="0" filename="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleaseXmlParser.kt" />
       <jump line="322" column="0" filename="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleaseXmlParser.kt" />
+      <jump line="40" column="0" filename="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleaseXmlParser.kt" />
+      <jump line="52" column="0" filename="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleaseXmlParser.kt" />
+      <jump line="61" column="0" filename="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleaseXmlParser.kt" />
+      <jump line="73" column="0" filename="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleaseXmlParser.kt" />
+      <jump line="90" column="0" filename="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleaseXmlParser.kt" />
+      <jump line="108" column="0" filename="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleaseXmlParser.kt" />
+      <jump line="114" column="0" filename="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleaseXmlParser.kt" />
+      <jump line="124" column="0" filename="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleaseXmlParser.kt" />
+      <jump line="151" column="0" filename="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleaseXmlParser.kt" />
+      <jump line="145" column="0" filename="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleaseXmlParser.kt" />
+      <jump line="135" column="45" filename="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleaseXmlParser.kt" />
+      <jump line="14" column="43" filename="D:/project/discogs-data/common/src/main/kotlin/com/musicbible/discogsdata/model/Release.kt" />
+      <jump line="309" column="0" filename="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleaseXmlParser.kt" />
       <jump line="0" column="0" filename="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleaseXmlParser.kt" />
       <jump line="1" column="0" filename="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleaseXmlParser.kt" />
       <jump line="9" column="0" filename="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleaseXmlParser.kt" />
@@ -1889,68 +1870,82 @@
       <jump line="17" column="0" filename="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleaseXmlParser.kt" />
       <jump line="19" column="0" filename="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleaseXmlParser.kt" />
       <jump line="23" column="0" filename="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleaseXmlParser.kt" />
-      <jump line="40" column="0" filename="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleaseXmlParser.kt" />
       <jump line="42" column="0" filename="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleaseXmlParser.kt" />
-      <jump line="52" column="0" filename="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleaseXmlParser.kt" />
+      <jump line="44" column="0" filename="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleaseXmlParser.kt" />
       <jump line="54" column="0" filename="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleaseXmlParser.kt" />
-      <jump line="61" column="0" filename="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleaseXmlParser.kt" />
-      <jump line="73" column="0" filename="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleaseXmlParser.kt" />
-      <jump line="90" column="0" filename="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleaseXmlParser.kt" />
-      <jump line="108" column="0" filename="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleaseXmlParser.kt" />
-      <jump line="114" column="0" filename="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleaseXmlParser.kt" />
-      <jump line="117" column="0" filename="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleaseXmlParser.kt" />
-      <jump line="124" column="0" filename="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleaseXmlParser.kt" />
-      <jump line="151" column="0" filename="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleaseXmlParser.kt" />
-      <jump line="145" column="0" filename="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleaseXmlParser.kt" />
+      <jump line="56" column="0" filename="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleaseXmlParser.kt" />
+      <jump line="63" column="0" filename="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleaseXmlParser.kt" />
+      <jump line="75" column="0" filename="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleaseXmlParser.kt" />
+      <jump line="92" column="0" filename="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleaseXmlParser.kt" />
+      <jump line="110" column="0" filename="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleaseXmlParser.kt" />
+      <jump line="126" column="0" filename="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleaseXmlParser.kt" />
+      <jump line="117" column="21" filename="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleaseXmlParser.kt" />
+      <jump line="361" column="0" filename="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleaseXmlParser.kt" />
+      <jump line="342" column="0" filename="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleaseXmlParser.kt" />
+      <jump line="119" column="18" filename="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleaseXmlParser.kt" />
+      <jump line="23" column="51" filename="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleaseBuilder.kt" />
+      <jump line="116" column="50" filename="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleaseXmlParser.kt" />
+      <jump line="5" column="0" filename="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleaseBuilder.kt" />
+      <jump line="101" column="52" filename="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleaseXmlParser.kt" />
+      <jump line="226" column="0" filename="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleaseBuilder.kt" />
+      <jump line="0" column="0" filename="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleaseBuilder.kt" />
+      <jump line="1" column="0" filename="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleaseBuilder.kt" />
+      <jump line="4" column="0" filename="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleaseBuilder.kt" />
+      <jump line="9" column="0" filename="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleaseBuilder.kt" />
+      <jump line="29" column="0" filename="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleaseBuilder.kt" />
+      <jump line="32" column="0" filename="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleaseBuilder.kt" />
+      <jump line="39" column="0" filename="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleaseBuilder.kt" />
+      <jump line="43" column="0" filename="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleaseBuilder.kt" />
+      <jump line="47" column="0" filename="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleaseBuilder.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>l</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>it</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxEaXNSZWxlYXNlQnVpbGRlclw+</text>
+        <text>releaseImage</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y2xhc3MgUmVsZWFzZXNYbWxSZWFkZXIocGF0aDogU3RyaW5nKSA6IFhtbFJlYWRlcihwYXRoKSB7CiAgICBvdmVycmlkZSB2YWwgZWxlbWVudE5hbWU6IFN0cmluZyA9ICJyZWxlYXNlIgp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBDb2x1bW4K</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIHJlbGVhc2VTdGF0dXModmFsdWU6IFN0cmluZykgewogICAgICAgIHJlbGVhc2Uuc3RhdHVzID0gdmFsdWUKICAgIH0KCiAgICBwcml2YXRlIGZ1biByZWxlYXNlSUQodmFsdWU6IFN0cmluZykgewogICAgICAgIHJlbGVhc2UuZGlzSWQgPSB2YWx1ZS50b0xvbmcoKQogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICBjaGlsZD8uYWxzbyB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICovCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIHNldEltYWdlcyhjaGlsZDogRWxlbWVudCkgewogICAgICAgIGNoaWxkPy5hbHNvIHsKICAgICAgICAgICAgdmFsIGltYWdlcyA9IGl0LmNoaWxkcmVuCiAgICAgICAgICAgIGlmIChpbWFnZXMuc2l6ZSA+IDApIHsKICAgICAgICAgICAgICAgIHZhbCB1cmlMaXN0ID0gbXV0YWJsZUxpc3RPZjxTdHJpbmc+KCkKICAgICAgICAgICAgICAgIGZvciAoaW1hZ2UgaW4gaW1hZ2VzKSB7CiAgICAgICAgICAgICAgICAgICAgdmFsIHVyaSA9IChpbWFnZSBhcyBFbGVtZW50KS5nZXRBdHRyaWJ1dGVWYWx1ZSgidXJpIikKICAgICAgICAgICAgICAgICAgICBpZiAodXJpLmlzTm90QmxhbmsoKSkgewogICAgICAgICAgICAgICAgICAgICAgICB1cmlMaXN0LmFkZCh1cmkpCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgcmVsZWFzZS5pbWFnZXMgPSB1cmlMaXN0LnRvVHlwZWRBcnJheSgpCiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZW51bSBjbGFzcyBSZWxlYXNlQXR0cmlidXRlKHZhciBhdHRyTmFtZTogU3RyaW5nKSB7CiAgICBJRCgiaWQiKSwKICAgIFNUQVRVUygic3RhdHVzIikKfQoKZW51bSBjbGFzcyBSZWxlYXNlRWxlbWVudCh2YXIgZWxlbWVudE5hbWU6IFN0cmluZykgewogICAgSU1BR0VTKCJpbWFnZXMiKSwKICAgIEFSVElTVFMoImFydGlzdHMiKSwKICAgIFRJVExFKCJ0aXRsZSIpLAogICAgTEFCRUxTKCJsYWJlbHMiKSwKICAgIEVYVFJBX0FSVElTVFMoImV4dHJhYXJ0aXN0cyIpLAogICAgRk9STUFUUygiZm9ybWF0cyIpLAogICAgR0VOUkVTKCJnZW5yZXMiKSwKICAgIFNUWUxFUygic3R5bGVzIiksCiAgICBDT1VOVFJZKCJjb3VudHJ5IiksCiAgICBSRUxFQVNFRCgicmVsZWFzZWQiKSwKICAgIERBVEFfUVVBTElUWSgiZGF0YV9xdWFsaXR5IiksCiAgICBUUkFDS19MSVNUKCJ0cmFja2xpc3QiKSwKICAgIElERU5USUZJRVJTKCJpZGVudGlmaWVycyIpLAogICAgVklERU9TKCJ2aWRlb3MiKSwKICAgIENPTVBBTklFUygiY29tcGFuaWVzIiksCiAgICBOT1RFUygibm90ZXMiKSwKICAgIE1BU1RFUl9JRCgibWFzdGVyX2lkIiksCn0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5kb200ai5FbGVtZW50Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qZG9tLkVsZW1lbnQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgUmVsZWFzZUJ1aWxkZXIgewogICAgcHJpdmF0ZSB2YWwgcmVsZWFzZSA9IFJlbGVhc2UoKQoKICAgIGZ1biBzZXRBdHRyKGF0dHI6IFJlbGVhc2VBdHRyaWJ1dGUsIHZhbHVlOiBTdHJpbmcpIHsKICAgICAgICB3aGVuIChhdHRyKSB7CiAgICAgICAgICAgIFJlbGVhc2VBdHRyaWJ1dGUuSUQgLT4gc2V0SWQodmFsdWUpCiAgICAgICAgICAgIFJlbGVhc2VBdHRyaWJ1dGUuU1RBVFVTIC0+IHNldFN0YXR1cyh2YWx1ZSkKICAgICAgICB9CiAgICB9CgogICAgcHJpdmF0ZSBmdW4gc2V0SWQodmFsdWU6IFN0cmluZykgewogICAgICAgIHJlbGVhc2Uuc3RhdHVzID0gdmFsdWUKICAgIH0KCiAgICBwcml2YXRlIGZ1biBzZXRTdGF0dXModmFsdWU6IFN0cmluZykgewogICAgICAgIHJlbGVhc2UuaWQgPSB2YWx1ZS50b0xvbmcoKQogICAgfQoKICAgIGZ1biBzZXRFbGVtZW50KGF0dHI6IFJlbGVhc2VFbGVtZW50LCBjaGlsZDogRWxlbWVudCkgewogICAgICAgIHdoZW4gKGF0dHIpIHsKICAgICAgICAgICAgUmVsZWFzZUVsZW1lbnQuVElUTEUgLT4gcmVsZWFzZVRpdGxlKGNoaWxkKQogICAgICAgICAgICBSZWxlYXNlRWxlbWVudC5JTUFHRVMgLT4gc2V0SW1hZ2VzKGNoaWxkKQogICAgICAgICAgICBSZWxlYXNlRWxlbWVudC5BUlRJU1RTIC0+IHJlbGVhc2VBcnRpc3RzKGNoaWxkKQogICAgICAgICAgICBSZWxlYXNlRWxlbWVudC5MQUJFTFMgLT4gcmVsZWFzZUxhYmVscyhjaGlsZCkKICAgICAgICAgICAgUmVsZWFzZUVsZW1lbnQuRVhUUkFfQVJUSVNUUyAtPiByZWxlYXNlRXh0cmFBcnRpc3RzKGNoaWxkKQogICAgICAgICAgICBSZWxlYXNlRWxlbWVudC5GT1JNQVRTIC0+IHJlbGVhc2VGb3JtYXRzKGNoaWxkKQogICAgICAgICAgICBSZWxlYXNlRWxlbWVudC5HRU5SRVMgLT4gcmVsZWFzZUdlbnJlcyhjaGlsZCkKICAgICAgICAgICAgUmVsZWFzZUVsZW1lbnQuU1RZTEVTIC0+IHJlbGVhc2VTdHlsZXMoY2hpbGQpCiAgICAgICAgICAgIFJlbGVhc2VFbGVtZW50LkNPVU5UUlkgLT4gcmVsZWFzZUNvdW50cnkoY2hpbGQpCiAgICAgICAgICAgIFJlbGVhc2VFbGVtZW50LlJFTEVBU0VEIC0+IHJlbGVhc2VSZWxlYXNlZChjaGlsZCkKICAgICAgICAgICAgUmVsZWFzZUVsZW1lbnQuREFUQV9RVUFMSVRZIC0+IHJlbGVhc2VEYXRhUXVhbGl0eShjaGlsZCkKICAgICAgICAgICAgUmVsZWFzZUVsZW1lbnQuVFJBQ0tfTElTVCAtPiByZWxlYXNlVHJhY2tMaXN0KGNoaWxkKQogICAgICAgICAgICBSZWxlYXNlRWxlbWVudC5JREVOVElGSUVSUyAtPiByZWxlYXNlSWRlbnRpZmllcnMoY2hpbGQpCiAgICAgICAgICAgIFJlbGVhc2VFbGVtZW50LlZJREVPUyAtPiByZWxlYXNlVmlkZW9zKGNoaWxkKQogICAgICAgICAgICBSZWxlYXNlRWxlbWVudC5DT01QQU5JRVMgLT4gcmVsZWFzZUNvbXBhbmllcyhjaGlsZCkKICAgICAgICAgICAgUmVsZWFzZUVsZW1lbnQuTUFTVEVSX0lEIC0+IHJlbGVhc2VNYXN0ZXJJZChjaGlsZCkKICAgICAgICAgICAgUmVsZWFzZUVsZW1lbnQuTk9URVMgLT4gc2V0SW50cm8oY2hpbGQpCiAgICAgICAgfQogICAgfQoKICAgIHByaXZhdGUgZnVuIHNldFRpdGxlKGNoaWxkOiBFbGVtZW50KSB7CiAgICAgICAgcmVsZWFzZS50aXRsZSA9IGNoaWxkLnRleHQKICAgIH0KCiAgICBwcml2YXRlIGZ1biByZWxlYXNlTWFzdGVySWQoY2hpbGQ6IEVsZW1lbnQpIHsKICAgICAgICBjaGlsZD8uYWxzbyB7CiAgICAgICAgICAgIHJlbGVhc2UubWFzdGVySWQgPSBpdC50ZXh0LnRvTG9uZygpCiAgICAgICAgfQogICAgfQoKCiAgICBwcml2YXRlIGZ1biByZWxlYXNlQ29tcGFuaWVzKGNoaWxkOiBFbGVtZW50KSB7CiAgICAgICAgLy9EbyBub3RoaW5nCiAgICB9CgogICAgcHJpdmF0ZSBmdW4gcmVsZWFzZVZpZGVvcyhjaGlsZDogRWxlbWVudCkgewogICAgICAgIC8vRG8gbm90aGluZwogICAgfQoKICAgIHByaXZhdGUgZnVuIHJlbGVhc2VJZGVudGlmaWVycyhjaGlsZDogRWxlbWVudCkgewogICAgICAgIC8vRG8gbm90aGluZwogICAgfQoKICAgIHByaXZhdGUgZnVuIHJlbGVhc2VUcmFja0xpc3QoY2hpbGQ6IEVsZW1lbnQpIHsKICAgICAgICAvL0RvIG5vdGhpbmcKICAgIH0KCiAgICBwcml2YXRlIGZ1biByZWxlYXNlRGF0YVF1YWxpdHkoY2hpbGQ6IEVsZW1lbnQpIHsKICAgICAgICBjaGlsZD8uYWxzbyB7CiAgICAgICAgICAgIHJlbGVhc2UuZGF0YVF1YWxpdHkgPSBpdC50ZXh0CiAgICAgICAgfQogICAgfQoKICAgIHByaXZhdGUgZnVuIHJlbGVhc2VSZWxlYXNlZChjaGlsZDogRWxlbWVudD8pIHsKICAgICAgICBjaGlsZD8uYWxzbyB7CiAgICAgICAgICAgIHJlbGVhc2UucmVsZWFzZWQgPSBpdC50ZXh0CiAgICAgICAgfQogICAgfQoKICAgIHByaXZhdGUgZnVuIHJlbGVhc2VDb3VudHJ5KGNoaWxkOiBFbGVtZW50PykgewogICAgICAgIGNoaWxkPy5hbHNvIHsKICAgICAgICAgICAgcmVsZWFzZS5jb3VudHJ5ID0gaXQudGV4dAogICAgICAgIH0KICAgIH0KCiAgICBwcml2YXRlIGZ1biByZWxlYXNlU3R5bGVzKGNoaWxkOiBFbGVtZW50KSB7CiAgICAgICAgY2hpbGQ/LmFsc28gewogICAgICAgICAgICB2YWwgc3R5bGVzID0gaXQuY2hpbGRyZW4KICAgICAgICAgICAgaWYgKHN0eWxlcy5zaXplID4gMCkgewogICAgICAgICAgICAgICAgc3R5bGVzLmZvckVhY2ggeyBzIC0+CiAgICAgICAgICAgICAgICAgICAgdmFsIGVsZW1lbnQgPSBzIGFzIEVsZW1lbnQKICAgICAgICAgICAgICAgICAgICByZWxlYXNlLnN0eWxlcyEhLmFkZChTdHlsZXNJdGVtKGVsZW1lbnQudGV4dCkpCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9CgogICAgcHJpdmF0ZSBmdW4gcmVsZWFzZUdlbnJlcyhjaGlsZDogRWxlbWVudCkgewogICAgICAgIGNoaWxkPy5hbHNvIHsgaXQgLT4KICAgICAgICAgICAgdmFsIGdlbnJlcyA9IGl0LmNoaWxkcmVuCiAgICAgICAgICAgIGlmIChnZW5yZXMuc2l6ZSA+IDApIHsKICAgICAgICAgICAgICAgIGdlbnJlcy5mb3JFYWNoIHsgcyAtPgogICAgICAgICAgICAgICAgICAgIHZhbCBlbGVtZW50ID0gcyBhcyBFbGVtZW50CiAgICAgICAgICAgICAgICAgICAgcmVsZWFzZS5nZW5yZXMhIS5hZGQoR2VucmVzSXRlbShlbGVtZW50LnRleHQpKQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQoKICAgIHByaXZhdGUgZnVuIHJlbGVhc2VGb3JtYXRzKGNoaWxkOiBFbGVtZW50KSB7CiAgICAgICAgY2hpbGQ/LmFsc28gewogICAgICAgICAgICB2YWwgZm9ybWF0cyA9IGl0LmNoaWxkcmVuCiAgICAgICAgICAgIGlmIChmb3JtYXRzLnNpemUgPiAwKSB7CiAgICAgICAgICAgICAgICBmb3IgKGZvcm1hdCBpbiBmb3JtYXRzKSB7CiAgICAgICAgICAgICAgICAgICAgdmFsIGVsZW1lbnQgPSBmb3JtYXQgYXMgRWxlbWVudAogICAgICAgICAgICAgICAgICAgIHZhbCBuYW1lID0gZWxlbWVudC5nZXRBdHRyaWJ1dGVWYWx1ZSgibmFtZSIpCiAgICAgICAgICAgICAgICAgICAgdmFsIHF0eSA9IGVsZW1lbnQuZ2V0QXR0cmlidXRlVmFsdWUoInF0eSIpCiAgICAgICAgICAgICAgICAgICAgdmFsIHRleHQgPSBlbGVtZW50LmdldEF0dHJpYnV0ZVZhbHVlKCJ0ZXh0IikKICAgICAgICAgICAgICAgICAgICB2YWwgZm9ybWF0c0l0ZW0gPSBGb3JtYXRzSXRlbShxdHksIG5hbWUsIHRleHQsIGFycmF5T2YoKSkKICAgICAgICAgICAgICAgICAgICB2YWwgZGVzY3JpcHRpb25zOiBFbGVtZW50PyA9IGVsZW1lbnQuZ2V0Q2hpbGQoImRlc2NyaXB0aW9ucyIpCiAgICAgICAgICAgICAgICAgICAgaWYgKGRlc2NyaXB0aW9ucyAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHZhbCBkZXNMaXN0ID0gZGVzY3JpcHRpb25zLmNoaWxkcmVuCiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChkZXNMaXN0ICE9IG51bGwgJiYgZGVzTGlzdC5zaXplID4gMCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgZm9ybWF0c0l0ZW0uZGVzY3JpcHRpb25zID0gZGVzTGlzdC5tYXAgeyBlIC0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZSBhcyBFbGVtZW50CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZS50ZXh0CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9LnRvVHlwZWRBcnJheSgpCiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgcmVsZWFzZS5mb3JtYXRzISEuYWRkKGZvcm1hdHNJdGVtKQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQoKICAgIHByaXZhdGUgZnVuIHJlbGVhc2VBcnRpc3RzKGNoaWxkOiBFbGVtZW50KSB7CiAgICAgICAgY2hpbGQ/LmFsc28gewogICAgICAgICAgICB2YWwgYXJ0aXN0cyA9IGl0LmNoaWxkcmVuCiAgICAgICAgICAgIGlmIChhcnRpc3RzLnNpemUgPiAwKSB7CiAgICAgICAgICAgICAgICBmb3IgKGFydGlzdCBpbiBhcnRpc3RzKSB7CiAgICAgICAgICAgICAgICAgICAgdmFsIGVsZW1lbnQgPSBhcnRpc3QgYXMgRWxlbWVudAogICAgICAgICAgICAgICAgICAgIHZhbCBpZCA9IGVsZW1lbnQuZ2V0Q2hpbGRUZXh0KCJpZCIpLnRvTG9uZygpCiAgICAgICAgICAgICAgICAgICAgdmFsIG5hbWUgPSBlbGVtZW50LmdldENoaWxkVGV4dCgibmFtZSIpCiAgICAgICAgICAgICAgICAgICAgdmFsIGFudiA9IGVsZW1lbnQuZ2V0Q2hpbGRUZXh0KCJhbnYiKQogICAgICAgICAgICAgICAgICAgIHZhbCBqb2luID0gZWxlbWVudC5nZXRDaGlsZFRleHQoImpvaW4iKQogICAgICAgICAgICAgICAgICAgIHZhbCByb2xlID0gZWxlbWVudC5nZXRDaGlsZFRleHQoInJvbGUiKQogICAgICAgICAgICAgICAgICAgIHZhbCB0cmFja3MgPSBlbGVtZW50LmdldENoaWxkVGV4dCgidHJhY2tzIikKICAgICAgICAgICAgICAgICAgICByZWxlYXNlLmFydGlzdHMhIS5hZGQoUmVsZWFzZUFydGlzdChyZWxlYXNlLCBBcnRpc3RzSXRlbShhbnYsIG5hbWUsIGlkKSkuYWxzbyB7CiAgICAgICAgICAgICAgICAgICAgICAgIGl0LmV4dHJhID0gZmFsc2UKICAgICAgICAgICAgICAgICAgICAgICAgaXQuam9pbiA9IGpvaW4KICAgICAgICAgICAgICAgICAgICAgICAgaXQucm9sZSA9IHJvbGUKICAgICAgICAgICAgICAgICAgICAgICAgaXQudHJhY2tzID0gdHJhY2tzCiAgICAgICAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0KCiAgICBwcml2YXRlIGZ1biByZWxlYXNlRXh0cmFBcnRpc3RzKGNoaWxkOiBFbGVtZW50KSB7CiAgICAgICAgY2hpbGQ/LmFsc28gewogICAgICAgICAgICB2YWwgYXJ0aXN0cyA9IGl0LmNoaWxkcmVuCiAgICAgICAgICAgIGlmIChhcnRpc3RzLnNpemUgPiAwKSB7CiAgICAgICAgICAgICAgICBmb3IgKGFydGlzdCBpbiBhcnRpc3RzKSB7CiAgICAgICAgICAgICAgICAgICAgdmFsIGVsZW1lbnQgPSBhcnRpc3QgYXMgRWxlbWVudAogICAgICAgICAgICAgICAgICAgIHZhbCBpZCA9IGVsZW1lbnQuZ2V0Q2hpbGRUZXh0KCJpZCIpLnRvTG9uZygpCiAgICAgICAgICAgICAgICAgICAgdmFsIG5hbWUgPSBlbGVtZW50LmdldENoaWxkVGV4dCgibmFtZSIpCiAgICAgICAgICAgICAgICAgICAgdmFsIGFudiA9IGVsZW1lbnQuZ2V0Q2hpbGRUZXh0KCJhbnYiKQogICAgICAgICAgICAgICAgICAgIHZhbCBqb2luID0gZWxlbWVudC5nZXRDaGlsZFRleHQoImpvaW4iKQogICAgICAgICAgICAgICAgICAgIHZhbCByb2xlID0gZWxlbWVudC5nZXRDaGlsZFRleHQoInJvbGUiKQogICAgICAgICAgICAgICAgICAgIHZhbCB0cmFja3MgPSBlbGVtZW50LmdldENoaWxkVGV4dCgidHJhY2tzIikKICAgICAgICAgICAgICAgICAgICByZWxlYXNlLmFydGlzdHMhIS5hZGQoUmVsZWFzZUFydGlzdChyZWxlYXNlLCBBcnRpc3RzSXRlbShhbnYsIG5hbWUsIGlkKSkuYWxzbyB7CiAgICAgICAgICAgICAgICAgICAgICAgIGl0LmV4dHJhID0gdHJ1ZQogICAgICAgICAgICAgICAgICAgICAgICBpdC5qb2luID0gam9pbgogICAgICAgICAgICAgICAgICAgICAgICBpdC5yb2xlID0gcm9sZQogICAgICAgICAgICAgICAgICAgICAgICBpdC50cmFja3MgPSB0cmFja3MKICAgICAgICAgICAgICAgICAgICB9KQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQoKICAgIHByaXZhdGUgZnVuIHJlbGVhc2VMYWJlbHMoY2hpbGQ6IEVsZW1lbnQpIHsKICAgICAgICBjaGlsZD8uYWxzbyB7CiAgICAgICAgICAgIHZhbCBsYWJlbHMgPSBpdC5jaGlsZHJlbgogICAgICAgICAgICBpZiAobGFiZWxzLnNpemUgPiAwKSB7CiAgICAgICAgICAgICAgICBmb3IgKGxhYmVsIGluIGxhYmVscykgewogICAgICAgICAgICAgICAgICAgIHZhbCBlbGVtZW50ID0gbGFiZWwgYXMgRWxlbWVudAogICAgICAgICAgICAgICAgICAgIHZhbCBjYXRubyA9IGVsZW1lbnQuZ2V0QXR0cmlidXRlKCJjYXRubyIpLnZhbHVlCiAgICAgICAgICAgICAgICAgICAgdmFsIGlkID0gZWxlbWVudC5nZXRBdHRyaWJ1dGUoImlkIikudmFsdWUudG9Mb25nKCkKICAgICAgICAgICAgICAgICAgICB2YWwgbmFtZSA9IGVsZW1lbnQuZ2V0QXR0cmlidXRlKCJuYW1lIikudmFsdWUKICAgICAgICAgICAgICAgICAgICByZWxlYXNlLmxhYmVscyEhLmFkZChMYWJlbHNJdGVtKGNhdG5vLCBuYW1lLCBpZCkpCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9CgogICAgcHJpdmF0ZSBmdW4gc2V0SW1hZ2VzKGNoaWxkOiBFbGVtZW50KSB7CiAgICAgICAgY2hpbGQ/LmFsc28gewogICAgICAgICAgICB2YWwgaW1hZ2VzID0gaXQuY2hpbGRyZW4KICAgICAgICAgICAgaWYgKGltYWdlcy5zaXplID4gMCkgewogICAgICAgICAgICAgICAgdmFsIHVyaUxpc3QgPSBtdXRhYmxlTGlzdE9mPFN0cmluZz4oKQogICAgICAgICAgICAgICAgZm9yIChpbWFnZSBpbiBpbWFnZXMpIHsKICAgICAgICAgICAgICAgICAgICB2YWwgdXJpID0gKGltYWdlIGFzIEVsZW1lbnQpLmdldEF0dHJpYnV0ZVZhbHVlKCJ1cmkiKQogICAgICAgICAgICAgICAgICAgIGlmICh1cmkuaXNOb3RCbGFuaygpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHVyaUxpc3QuYWRkKHVyaSkKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICByZWxlYXNlLmltYWdlcyA9IHVyaUxpc3QudG9UeXBlZEFycmF5KCkKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0KCiAgICBmdW4gYnVpbGQoKTogUmVsZWFzZT8gewogICAgICAgIHJldHVybiBpZiAocmVsZWFzZS5kaXNjb2dzSWQgIT0gMEwpIHsKICAgICAgICAgICAgcmVsZWFzZQogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIG51bGwKICAgICAgICB9CiAgICB9Cn0KCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIHNldFRpdGxlKGNoaWxkOiBFbGVtZW50KSB7CiAgICAgICAgcmVsZWFzZS50aXRsZSA9IGNoaWxkLnRleHQKICAgIH0KCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGJ1aWxkZXI6IFNBWEJ1aWxkZXIgPSBTQVhCdWlsZGVyKCkK</text>
+        <text encoding="base64">ICAgICAgICBjaGlsZD8uYWxzbyB7CiAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>262</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxEaXNSZWxlYXNlQnVpbGRlclw+</last-search>
+      <last-search>releaseImage</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxEaXNSZWxlYXNlQnVpbGRlclw+</last-pattern>
+      <last-pattern>releaseImage</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxleHBvcnRBbGxcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1958,7 +1953,6 @@
     </search>
     <history>
       <history-search>
-        <entry>updateInstrument</entry>
         <entry>updateIns</entry>
         <entry>updateIn</entry>
         <entry>professions</entry>
@@ -1978,6 +1972,7 @@
         <entry encoding="base64">XDxidWlsZGVyXD4=</entry>
         <entry encoding="base64">XDxSZWxlYXNlQnVpbGRlclw+</entry>
         <entry encoding="base64">XDxEaXNSZWxlYXNlQnVpbGRlclw+</entry>
+        <entry>releaseImage</entry>
       </history-search>
       <history-cmd>
         <entry>334</entry>

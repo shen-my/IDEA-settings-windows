@@ -64,12 +64,12 @@
         <mark key="^" line="19" column="50" />
         <mark key="." line="19" column="52" />
       </file>
-      <file name="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleasesXmlReader.kt" timestamp="1557131017376">
+      <file name="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleasesXmlReader.kt" timestamp="1557131863187">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="127" column="49" />
-        <mark key="]" line="128" column="28" />
-        <mark key="^" line="128" column="28" />
-        <mark key="." line="128" column="28" />
+        <mark key="[" line="38" column="4" />
+        <mark key="]" line="38" column="4" />
+        <mark key="^" line="22" column="1" />
+        <mark key="." line="38" column="4" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.20/60070a2fbed969e9b73f214cb41072eabedf299a/kotlin-stdlib-common-1.3.20-sources.jar!/generated/_Collections.kt" timestamp="1553168884721">
         <mark key="'" line="1254" column="75" />
@@ -814,12 +814,12 @@
         <mark key="." line="69" column="43" />
         <mark key="^" line="69" column="43" />
       </file>
-      <file name="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ImportRelease.kt" timestamp="1557128963523">
+      <file name="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ImportRelease.kt" timestamp="1557132094417">
         <mark key="'" line="56" column="30" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="62" />
-        <mark key="." line="40" column="51" />
-        <mark key="^" line="40" column="51" />
+        <mark key="[" line="36" column="35" />
+        <mark key="]" line="36" column="14" />
+        <mark key="." line="36" column="14" />
+        <mark key="^" line="36" column="14" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/factory/ArtistFactory.kt" timestamp="1553775304367">
         <mark key="'" line="46" column="0" />
@@ -1256,10 +1256,11 @@
         <mark key="^" line="16" column="33" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="D:/project/discogs-data/command/src/test/kotlin/unit/XmlParserTest.kt" timestamp="1557129373211">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="D:/project/discogs-data/command/src/test/kotlin/unit/XmlParserTest.kt" timestamp="1557131886698">
+        <mark key="[" line="16" column="20" />
+        <mark key="]" line="16" column="21" />
+        <mark key="." line="16" column="21" />
+        <mark key="^" line="16" column="21" />
       </file>
       <file name="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleaseXmlParser.kt" timestamp="1557122174852">
         <mark key="'" line="96" column="0" />
@@ -1975,10 +1976,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIjwkbmFtZSAkYXR0cmlidXRlU3RyaW5nPiIK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">b3ZlcnJpZGUg</text>
       </register>
       <register name="/" type="4">
         <text>build</text>
@@ -1987,34 +1988,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcHBlbmQoJyInKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIjwkbmFtZSAkYXR0cmlidXRlU3RyaW5nPiIK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfS5qb2luVG9TdHJpbmcoIiAiKQo=</text>
+        <text encoding="base64">ICAgICAgICB3aGlsZSAocmVhZGVyLmhhc05leHQoKSkgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICIke2l0LmdldE5hbWUoKS5sb2NhbFBhcnR9PVwiJHtpdC52YWx1ZX1cIiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGF0dHJpYnV0ZVN0cmluZyA9IHN0YXJ0RWxlbWVudC5hdHRyaWJ1dGVzLmFzU2VxdWVuY2UoKS5tYXAgewo=</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBoYXNOZXh0KCk6IEJvb2xlYW4gewogICAgICAgIHJldHVybiBldmVudFJlYWRlci5oYXNOZXh0KCkKICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcHBlbmQK</text>
+        <text encoding="base64">ICAgICAgICBldmVudFJlYWRlci5oYXNOZXh0KCkgfHwgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcHBlbmQK</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBYTUxQYXJzZUV4Y2VwdGlvbigiTm90IGlsbGVnYWwgeG1sIikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0Lgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIjwkbmFtZSAkYXR0cmlidXRlU3RyaW5nPiIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXZlbnRSZWFkZXIucAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfS5qb2luVG9TdHJpbmcoIiAiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICIke2l0LmdldE5hbWUoKS5sb2NhbFBhcnR9PVwiJHtpdC52YWx1ZX1cIiIK</text>
       </register>
       <register name=":" type="4">
-        <text>34</text>
+        <text>37</text>
       </register>
     </registers>
     <search>
@@ -2052,7 +2053,6 @@
       <history-cmd>
         <entry>31</entry>
         <entry>406</entry>
-        <entry>37</entry>
         <entry>115</entry>
         <entry>351</entry>
         <entry>242</entry>
@@ -2070,6 +2070,7 @@
         <entry>16</entry>
         <entry>262</entry>
         <entry>34</entry>
+        <entry>37</entry>
       </history-cmd>
       <history-expr />
       <history-input />

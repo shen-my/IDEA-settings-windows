@@ -740,11 +740,11 @@
         <mark key="." line="69" column="43" />
         <mark key="^" line="69" column="43" />
       </file>
-      <file name="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ImportRelease.kt" timestamp="1557190314942">
+      <file name="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ImportRelease.kt" timestamp="1557194187351">
         <mark key="'" line="42" column="19" />
-        <mark key="[" line="32" column="140" />
-        <mark key="]" line="33" column="20" />
-        <mark key="." line="33" column="20" />
+        <mark key="[" line="46" column="116" />
+        <mark key="]" line="46" column="116" />
+        <mark key="." line="46" column="116" />
         <mark key="^" line="33" column="20" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/factory/ArtistFactory.kt" timestamp="1553775304367">
@@ -1799,11 +1799,11 @@
       <jump line="52" column="0" filename="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleasesXmlReader.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFjdG9yeS5jcmVhdGVGaWx0ZXJlZFJlYWRlcih4bWxFdmVudFJlYWRlciwgOjplbGVtZW50RmlsdGVyKQo=</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>node</text>

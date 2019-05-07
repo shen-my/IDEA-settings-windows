@@ -741,12 +741,12 @@
         <mark key="." line="69" column="43" />
         <mark key="^" line="69" column="43" />
       </file>
-      <file name="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ImportRelease.kt" timestamp="1557194187351">
-        <mark key="'" line="42" column="19" />
-        <mark key="[" line="46" column="116" />
-        <mark key="]" line="46" column="116" />
-        <mark key="." line="46" column="116" />
-        <mark key="^" line="33" column="20" />
+      <file name="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ImportRelease.kt" timestamp="1557197294038">
+        <mark key="'" line="50" column="19" />
+        <mark key="[" line="33" column="138" />
+        <mark key="]" line="33" column="159" />
+        <mark key="." line="33" column="159" />
+        <mark key="^" line="33" column="159" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/factory/ArtistFactory.kt" timestamp="1553775304367">
         <mark key="'" line="46" column="0" />
@@ -1613,12 +1613,12 @@
         <mark key="^" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="D:/project/discogs-data/command/application-local.yml" timestamp="1556613200754">
+      <file name="D:/project/discogs-data/command/application-local.yml" timestamp="1557197603864">
         <mark key="'" line="19" column="8" />
-        <mark key="[" line="15" column="24" />
-        <mark key="]" line="20" column="0" />
+        <mark key="[" line="15" column="16" />
+        <mark key="]" line="15" column="16" />
         <mark key="^" line="9" column="52" />
-        <mark key="." line="20" column="0" />
+        <mark key="." line="15" column="16" />
       </file>
       <file name="D:/project/musicbible/migration/console/models/artist.py" timestamp="1551238861066">
         <mark key="'" line="39" column="24" />
@@ -1800,11 +1800,11 @@
       <jump line="52" column="0" filename="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleasesXmlReader.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY2x1c3Rlci1uYW1lOgo=</text>
+      <register name="&quot;" type="4">
+        <text>create</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>create</text>
       </register>
       <register name="/" type="4">
         <text>node</text>
@@ -1813,34 +1813,34 @@
         <text encoding="base64">ICAgIEBDb2x1bW4odW5pcXVlID0gdHJ1ZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY2x1c3Rlci1uYW1lOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFjdG9yeS5jcmVhdGVGaWx0ZXJlZFJlYWRlcih4bWxFdmVudFJlYWRlciwgOjplbGVtZW50RmlsdGVyKQo=</text>
+        <text encoding="base64">ICAgICAgY2x1c3Rlci1uYW1lOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFjdG9yeS5jcmVhdGVGaWx0ZXJlZFJlYWRlcih4bWxFdmVudFJlYWRlciwgOjplbGVtZW50RmlsdGVyKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIGVsZW1lbnRGaWx0ZXIoZXZlbnQ6IFhNTEV2ZW50KTogQm9vbGVhbiB7CiAgICAgICAgaWYgKGV2ZW50LmlzU3RhcnRFbGVtZW50ICYmIGV2ZW50LmFzU3RhcnRFbGVtZW50KCkubmFtZS5sb2NhbFBhcnQgPT0gcm9vdE5hbWUpCiAgICAgICAgICAgIHJldHVybiBmYWxzZQogICAgICAgIGlmIChldmVudC5pc0VuZEVsZW1lbnQgJiYgZXZlbnQuYXNFbmRFbGVtZW50KCkubmFtZS5sb2NhbFBhcnQgPT0gcm9vdE5hbWUpCiAgICAgICAgICAgIHJldHVybiBmYWxzZQogICAgICAgIHJldHVybiB0cnVlCiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIGVsZW1lbnRGaWx0ZXIoZXZlbnQ6IFhNTEV2ZW50KTogQm9vbGVhbiB7CiAgICAgICAgaWYgKGV2ZW50LmlzU3RhcnRFbGVtZW50ICYmIGV2ZW50LmFzU3RhcnRFbGVtZW50KCkubmFtZS5sb2NhbFBhcnQgPT0gcm9vdE5hbWUpCiAgICAgICAgICAgIHJldHVybiBmYWxzZQogICAgICAgIGlmIChldmVudC5pc0VuZEVsZW1lbnQgJiYgZXZlbnQuYXNFbmRFbGVtZW50KCkubmFtZS5sb2NhbFBhcnQgPT0gcm9vdE5hbWUpCiAgICAgICAgICAgIHJldHVybiBmYWxzZQogICAgICAgIHJldHVybiB0cnVlCiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBDb2x1bW4odW5pcXVlID0gdHJ1ZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIEBDb2x1bW4odW5pcXVlID0gdHJ1ZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY2x1c3Rlci1ub2RlczogMTI3LjAuMC4xOjkzMDAK</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4odW5pcXVlID0gdHJ1ZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgY2x1c3Rlci1ub2RlczogMTI3LjAuMC4xOjkzMDAK</text>
       </register>
       <register name=":" type="4">
-        <text>37</text>
+        <text>174</text>
       </register>
     </registers>
     <search>
@@ -1876,7 +1876,6 @@
         <entry>node</entry>
       </history-search>
       <history-cmd>
-        <entry>31</entry>
         <entry>406</entry>
         <entry>115</entry>
         <entry>351</entry>
@@ -1896,6 +1895,7 @@
         <entry>262</entry>
         <entry>34</entry>
         <entry>37</entry>
+        <entry>174</entry>
       </history-cmd>
       <history-expr />
       <history-input />

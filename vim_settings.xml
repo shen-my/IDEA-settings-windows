@@ -766,12 +766,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="16" column="115" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/CommentService.kt" timestamp="1557286696659">
-        <mark key="'" line="91" column="39" />
-        <mark key="[" line="130" column="36" />
-        <mark key="]" line="130" column="12" />
-        <mark key="." line="130" column="12" />
-        <mark key="^" line="130" column="12" />
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/CommentService.kt" timestamp="1557286938343">
+        <mark key="'" line="92" column="39" />
+        <mark key="[" line="131" column="36" />
+        <mark key="]" line="133" column="0" />
+        <mark key="." line="133" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1557281993803">
         <mark key="[" line="0" column="0" />
@@ -1661,7 +1660,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXBwRQo=</text>
       </register>
       <register name="-" type="4">
         <text>频</text>
@@ -1673,31 +1672,31 @@
         <text>, commentable = true</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXBwRQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjcmVhdGUoaW5wdXQsIGdldENsYXp6KCksIGdldE1vZGVsU2VydmljZSgpKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5ib29zdGZpZWxkLnNwcmluZy5wZXJzaXN0ZW5jZS5Tb2Z0RGVsZXRhYmxlCg==</text>
+        <text encoding="base64">ICAgICAgICBjcmVhdGUoaW5wdXQsIGdldENsYXp6KCksIGdldE1vZGVsU2VydmljZSgpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tdXNpY2JpYmxlLnJlcG9zaXRvcnkuYmFzZS5UYXJnZXRDb21tZW50UmVwb3NpdG9yeQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tdXNpY2JpYmxlLnJlcG9zaXRvcnkuYmFzZS5Db21tZW50QXR0aXR1ZGVSZXBvc2l0b3J5Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5ib29zdGZpZWxkLnNwcmluZy5wZXJzaXN0ZW5jZS5Tb2Z0RGVsZXRhYmxlCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5tdXNpY2JpYmxlLnJlcG9zaXRvcnkuYmFzZS5UYXJnZXRDb21tZW50UmVwb3NpdG9yeQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5tdXNpY2JpYmxlLnJlcG9zaXRvcnkuYmFzZS5Db21tZW50QXR0aXR1ZGVSZXBvc2l0b3J5Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tdXNpY2JpYmxlLnJlcG9zaXRvcnkuQ29tbWVudFJlcG9zaXRvcnkK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5ib29zdGZpZWxkLnNwcmluZy5wZXJzaXN0ZW5jZS5Tb2Z0RGVsZXRhYmxlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRpc3BhdGNoKGl0ZW0pCiAgICAuY3JlYXRlKGlucHV0KQogICAgLmxldChSZXN0UmVzcG9uc2U6OmNyZWF0ZWQpCgo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tdXNpY2JpYmxlLnJlcG9zaXRvcnkuQ29tbWVudFJlcG9zaXRvcnkK</text>
       </register>
       <register name=":" type="4">
         <text>298</text>

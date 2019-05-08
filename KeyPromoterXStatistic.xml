@@ -137,6 +137,14 @@
           <Count>7</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Popup String Manipulation ...">
+        <Item>
+          <IdeaActionID>osmedile.intellij.stringmanip.PopupChoiceAction</IdeaActionID>
+          <ShortCut>'Alt+Shift+M' or 'Alt+M'</ShortCut>
+          <Description>Popup String Manipulation ...</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Project">
         <Item>
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>

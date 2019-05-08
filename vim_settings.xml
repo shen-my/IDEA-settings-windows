@@ -677,7 +677,7 @@
         <mark key="^" line="19" column="42" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557286175209">
+      <file name="/Dummy.txt" timestamp="1557295726095">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/project/musicbible/migration/console/models/taxonomy.py" timestamp="1553133451584">
@@ -849,12 +849,12 @@
         <mark key="^" line="9" column="4" />
         <mark key="." line="9" column="4" />
       </file>
-      <file name="D:/project/common-spring/src/main/kotlin/com/boostfield/spring/exception/AppError.kt" timestamp="1557295423688">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="11" column="59" />
+      <file name="D:/project/common-spring/src/main/kotlin/com/boostfield/spring/exception/AppError.kt" timestamp="1557295928656">
+        <mark key="'" line="15" column="10" />
+        <mark key="[" line="14" column="16" />
+        <mark key="]" line="14" column="16" />
+        <mark key="." line="14" column="16" />
+        <mark key="^" line="13" column="36" />
       </file>
       <file name="D:/project/musicbible/frontend-api/src/test/kotlin/com/musicbible/controller/WorkControllerTest.kt" timestamp="1552986658760">
         <mark key="'" line="0" column="0" />
@@ -1598,7 +1598,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="15" filename="D:/project/discogs-data/common/src/main/kotlin/com/musicbible/discogsdata/model/Release.kt" />
       <jump line="109" column="7" filename="D:/project/discogs-data/common/src/main/kotlin/com/musicbible/discogsdata/model/Release.kt" />
       <jump line="111" column="7" filename="D:/project/discogs-data/common/src/main/kotlin/com/musicbible/discogsdata/model/Release.kt" />
       <jump line="113" column="28" filename="D:/project/discogs-data/common/src/main/kotlin/com/musicbible/discogsdata/model/Release.kt" />
@@ -1698,13 +1697,17 @@
       <jump line="30" column="0" filename="D:/project/common-spring/src/main/kotlin/com/boostfield/spring/exception/AppError.kt" />
       <jump line="29" column="0" filename="D:/project/common-spring/src/main/kotlin/com/boostfield/spring/exception/AppError.kt" />
       <jump line="14" column="0" filename="D:/project/common-spring/src/main/kotlin/com/boostfield/spring/exception/AppError.kt" />
+      <jump line="15" column="10" filename="D:/project/common-spring/src/main/kotlin/com/boostfield/spring/exception/AppError.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBCQURfQ0FQVENIQSg0MDAwMDEsICLR6dakwuu07c7zIiksCg==</text>
+      <register name="&quot;" type="4">
+        <text>teFail(&quot;删除失败&quot;) = error(400003, msg)</text>
+      </register>
+      <register name="b" type="4">
+        <text>jjjjjjjjkkkkkkkkkj^</text>
       </register>
       <register name="-" type="4">
-        <text>4000</text>
+        <text>teFail(&quot;删除失败&quot;) = error(400003, msg)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxIdHRwU3RhdHVzXD4=</text>
@@ -1714,6 +1717,28 @@
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBCQURfQ0FQVENIQSg0MDAwMDEsICLR6dakwuu07c7zIiksCg==</text>
+      </register>
+      <register name="q" type="4">
+        <keys>
+          <key char="50" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="83" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="61" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="91" mods="130" />
+        </keys>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBERUZBVUxUKDQwMDAwMCwgIrTtzvPH68fzIiksCg==</text>

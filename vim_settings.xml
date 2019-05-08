@@ -765,12 +765,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="16" column="115" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/CommentService.kt" timestamp="1557298092443">
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/CommentService.kt" timestamp="1557298359547">
         <mark key="'" line="61" column="26" />
-        <mark key="[" line="132" column="68" />
-        <mark key="]" line="133" column="7" />
-        <mark key="." line="133" column="7" />
-        <mark key="^" line="133" column="7" />
+        <mark key="[" line="138" column="50" />
+        <mark key="]" line="138" column="35" />
+        <mark key="." line="138" column="35" />
+        <mark key="^" line="138" column="35" />
       </file>
       <file name="/fragment.java" timestamp="1557281993803">
         <mark key="[" line="0" column="0" />
@@ -1692,14 +1692,14 @@
       <jump line="62" column="26" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/CommentService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgcGFyZW50Q29tbWVudElkOiBVVUlEPywK</text>
+      <register name="&quot;" type="4">
+        <text>targetType</text>
       </register>
       <register name="b" type="4">
         <text>jjjjjjjjkkkkkkkkkj^</text>
       </register>
       <register name="-" type="4">
-        <text>findById</text>
+        <text>targetType</text>
       </register>
       <register name="/" type="4">
         <text>commonSp</text>

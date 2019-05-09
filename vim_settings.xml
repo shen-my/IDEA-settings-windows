@@ -38,11 +38,11 @@
         <mark key="^" line="32" column="16" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/AttitudeService.kt" timestamp="1557386786178">
-        <mark key="[" line="76" column="77" />
-        <mark key="]" line="76" column="53" />
-        <mark key="." line="76" column="53" />
-        <mark key="^" line="76" column="53" />
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/AttitudeService.kt" timestamp="1557386951650">
+        <mark key="[" line="101" column="12" />
+        <mark key="]" line="101" column="12" />
+        <mark key="." line="101" column="12" />
+        <mark key="^" line="101" column="12" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Attitude.kt" timestamp="1557307074278">
         <mark key="'" line="28" column="0" />
@@ -1315,11 +1315,11 @@
         <mark key="." line="204" column="53" />
         <mark key="^" line="204" column="37" />
       </file>
-      <file name="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/controller/VideoController.kt" timestamp="1557386340313">
-        <mark key="[" line="200" column="80" />
-        <mark key="]" line="200" column="78" />
-        <mark key="." line="200" column="78" />
-        <mark key="^" line="200" column="78" />
+      <file name="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/controller/VideoController.kt" timestamp="1557387008061">
+        <mark key="[" line="182" column="53" />
+        <mark key="]" line="183" column="19" />
+        <mark key="." line="183" column="19" />
+        <mark key="^" line="183" column="19" />
       </file>
       <file name="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/controller/ArticleController.kt" timestamp="1552448950274">
         <mark key="'" line="27" column="66" />
@@ -1930,23 +1930,23 @@
       <jump line="63" column="5" filename="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/controller/WorkController.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>finalAttitudeAction</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcHAuaGFzTGlrZSA9IHZpZGVvQXR0aXR1ZGVTZXJ2aWNlLmV4aXN0c0J5VGFyZ2V0QW5kVXNlcihmaW5kVmlkZW8sIHVzZXIpCg==</text>
       </register>
       <register name="b" type="4">
         <text>jjjjjjjjkkkkkkkkkj^</text>
       </register>
       <register name="-" type="4">
-        <text>finalAttitudeAction</text>
+        <text>video</text>
       </register>
       <register name="/" type="4">
         <text>AndFlush</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXQudGFyZ2V0VHlwZSA9IE1vZGVsRW51bS5BcnRpc3QKICAgICAgICAgICAgaXQudGFyZ2V0SWQgPSBhcnRpc3QuaWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0Lmhhc0xpa2UgPSBhdHRpdHVkZVNlcnZpY2UuaXNMaWtlRmluYWxseSh1c2VyLCBNb2RlbEVudW0uVmlkZW8sIHZpZGVvLmlkKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcHAuaGFzTGlrZSA9IHZpZGVvQXR0aXR1ZGVTZXJ2aWNlLmV4aXN0c0J5VGFyZ2V0QW5kVXNlcihmaW5kVmlkZW8sIHVzZXIpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1971,28 +1971,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZ1biAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXR0aXR1ZGVTZXJ2aWNlLmlzTGlrZUZpbmFsbHkodXNlciwgTW9kZWxFbnVtLlZpZGVvLCB2aWRlby5pZCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQgdmFsIHZpZGVvQXR0aXR1ZGVTZXJ2aWNlOiBWaWRlb0F0dGl0dWRlU2VydmljZSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tdXNpY2JpYmxlLm1vZGVsLlZpZGVvQXR0aXR1ZGUK</text>
+        <text encoding="base64">ICAgIGZ1biAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5ib29zdGZpZWxkLnNwcmluZy5leGNlcHRpb24uY29kZS5CYWRSZXF1ZXN0Cg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQgdmFsIHZpZGVvQXR0aXR1ZGVTZXJ2aWNlOiBWaWRlb0F0dGl0dWRlU2VydmljZSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tdXNpY2JpYmxlLnNlcnZpY2UuV29ya0FwcHJlY2lhdGlvblNlcnZpY2UK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tdXNpY2JpYmxlLm1vZGVsLlZpZGVvQXR0aXR1ZGUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tdXNpY2JpYmxlLm1vZGVsLldvcmtBcHByZWNpYXRpb25BdHRpdHVkZWRkCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5ib29zdGZpZWxkLnNwcmluZy5leGNlcHRpb24uY29kZS5CYWRSZXF1ZXN0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQgdmFsIHdvcmtBcHByZWNpYXRpb25TZXJ2aWNlOiBXb3JrQXBwcmVjaWF0aW9uU2VydmljZQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tdXNpY2JpYmxlLnNlcnZpY2UuV29ya0FwcHJlY2lhdGlvblNlcnZpY2UK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXQudGFyZ2V0ID0gYXJ0aXN0Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tdXNpY2JpYmxlLm1vZGVsLldvcmtBcHByZWNpYXRpb25BdHRpdHVkZWRkCg==</text>
       </register>
       <register name=":" type="4">
         <text>460</text>

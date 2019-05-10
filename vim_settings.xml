@@ -43,11 +43,11 @@
         <mark key="^" line="32" column="16" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/AttitudeService.kt" timestamp="1557467663288">
-        <mark key="'" line="110" column="8" />
-        <mark key="[" line="119" column="0" />
-        <mark key="]" line="119" column="0" />
-        <mark key="." line="119" column="0" />
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/AttitudeService.kt" timestamp="1557471120271">
+        <mark key="'" line="17" column="8" />
+        <mark key="[" line="126" column="70" />
+        <mark key="]" line="126" column="70" />
+        <mark key="." line="126" column="70" />
         <mark key="^" line="97" column="55" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Attitude.kt" timestamp="1557393233461">
@@ -235,8 +235,8 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="13" column="24" />
       </file>
-      <file name="D:/project/musicbible/frontend-api/src/test/kotlin/com/musicbible/controller/CommentControllerTest.kt" timestamp="1557467603320">
-        <mark key="'" line="0" column="0" />
+      <file name="D:/project/musicbible/frontend-api/src/test/kotlin/com/musicbible/controller/CommentControllerTest.kt" timestamp="1557471090303">
+        <mark key="'" line="140" column="8" />
         <mark key="[" line="118" column="37" />
         <mark key="]" line="119" column="7" />
         <mark key="." line="119" column="7" />
@@ -715,12 +715,6 @@
         <mark key="^" line="30" column="48" />
         <mark key="." line="30" column="48" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/VideoService.kt" timestamp="1557381466098">
-        <mark key="'" line="200" column="35" />
-        <mark key="[" line="61" column="46" />
-        <mark key="]" line="61" column="46" />
-        <mark key="." line="61" column="46" />
-      </file>
       <file name="D:/project/discogs-data/common/src/test/kotlin/service/ReleaseServiceTest.kt" timestamp="1557210920176">
         <mark key="[" line="17" column="17" />
         <mark key="]" line="18" column="33" />
@@ -910,11 +904,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="16" column="115" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/CommentService.kt" timestamp="1557454387816">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/CommentService.kt" timestamp="1557471253137">
+        <mark key="'" line="25" column="8" />
+        <mark key="[" line="89" column="60" />
+        <mark key="]" line="89" column="60" />
+        <mark key="." line="89" column="60" />
+        <mark key="^" line="89" column="76" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/BillboardService.kt" timestamp="1557370376987">
         <mark key="'" line="0" column="0" />
@@ -1863,13 +1858,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/AttitudeService.kt" />
-      <jump line="34" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/AttitudeService.kt" />
-      <jump line="25" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/AttitudeService.kt" />
-      <jump line="21" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/AttitudeService.kt" />
-      <jump line="39" column="4" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/AttitudeService.kt" />
-      <jump line="69" column="4" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/AttitudeService.kt" />
-      <jump line="21" column="50" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/repository/CommentRepositories.kt" />
       <jump line="65" column="31" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/AttitudeService.kt" />
       <jump line="9" column="1" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/AppreciationAttitude.kt" />
       <jump line="13" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/CommentAttitude.kt" />
@@ -1963,19 +1951,26 @@
       <jump line="192" column="0" filename="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/controller/CommentController.kt" />
       <jump line="204" column="0" filename="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/controller/CommentController.kt" />
       <jump line="43" column="7" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/RepositoryProxy.kt" />
+      <jump line="106" column="29" filename="D:/project/musicbible/frontend-api/src/test/kotlin/com/musicbible/controller/CommentControllerTest.kt" />
+      <jump line="140" column="8" filename="D:/project/musicbible/frontend-api/src/test/kotlin/com/musicbible/controller/CommentControllerTest.kt" />
+      <jump line="115" column="48" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/AttitudeService.kt" />
+      <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/AttitudeService.kt" />
+      <jump line="17" column="8" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/AttitudeService.kt" />
+      <jump line="13" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/CommentService.kt" />
+      <jump line="25" column="8" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/CommentService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGwK</text>
+      <register name="&quot;" type="4">
+        <text>targetType</text>
       </register>
       <register name="b" type="4">
         <text>jjjjjjjjkkkkkkkkkj^</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>targetType</text>
       </register>
       <register name="/" type="4">
-        <text>anyway</text>
+        <text encoding="base64">XDxsaXN0V2l0aEF0dGl0dWRlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgQXBwRXJyb3IuQmFkUmVxdWVzdC5kdXBPcGVyYXRlKCKyu7/J1ti4tLLZ1/ciKQo=</text>
@@ -2034,9 +2029,9 @@
       </register>
     </registers>
     <search>
-      <last-search>anyway</last-search>
+      <last-search encoding="base64">XDxsaXN0V2l0aEF0dGl0dWRlXD4=</last-search>
       <last-offset />
-      <last-pattern>anyway</last-pattern>
+      <last-pattern encoding="base64">XDxsaXN0V2l0aEF0dGl0dWRlXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxsaXN0V2l0aEF0dGl0dWRlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -2044,12 +2039,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsaXN0V2l0aEF0dGl0dWRlXD4=</entry>
-        <entry>abbr</entry>
-        <entry encoding="base64">XDxhYmJyXD4=</entry>
-        <entry>bad</entry>
-        <entry>cateId</entry>
-        <entry>persist</entry>
         <entry>AndFlush</entry>
         <entry>pageAble</entry>
         <entry encoding="base64">XDxsaXN0XD4=</entry>
@@ -2064,6 +2053,12 @@
         <entry encoding="base64">XDxjYW5Db21tZW50XD4=</entry>
         <entry encoding="base64">XDxjb3VudEJ5VGFyZ2V0SWRcPg==</entry>
         <entry>anyway</entry>
+        <entry>list_whitch</entry>
+        <entry>list_which</entry>
+        <entry>last</entry>
+        <entry encoding="base64">XDxsYXN0QXR0aXR1ZGVcPg==</entry>
+        <entry>listWith</entry>
+        <entry encoding="base64">XDxsaXN0V2l0aEF0dGl0dWRlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>123</entry>

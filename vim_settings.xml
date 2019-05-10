@@ -396,12 +396,12 @@
         <mark key="^" line="16" column="31" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="D:/project/musicbible/bin/update-web-static.sh" timestamp="1555987269385">
-        <mark key="'" line="18" column="34" />
-        <mark key="[" line="13" column="23" />
-        <mark key="]" line="13" column="20" />
-        <mark key="." line="13" column="20" />
-        <mark key="^" line="13" column="20" />
+      <file name="D:/project/musicbible/bin/update-web-static.sh" timestamp="1557485603375">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="21" column="29" />
+        <mark key="]" line="21" column="30" />
+        <mark key="." line="21" column="30" />
+        <mark key="^" line="21" column="30" />
       </file>
       <file name="D:/project/musicbible/event-process/src/main/resources/application.yml" timestamp="1554100195182">
         <mark key="'" line="43" column="0" />
@@ -1337,12 +1337,12 @@
         <mark key="." line="40" column="45" />
         <mark key="^" line="40" column="45" />
       </file>
-      <file name="D:/project/musicbible/bin/upgrade-web-server.sh" timestamp="1556587754868">
+      <file name="D:/project/musicbible/bin/upgrade-web-server.sh" timestamp="1557485266042">
         <mark key="'" line="17" column="0" />
         <mark key="[" line="2" column="47" />
-        <mark key="]" line="2" column="46" />
-        <mark key="^" line="2" column="46" />
-        <mark key="." line="2" column="46" />
+        <mark key="]" line="2" column="39" />
+        <mark key="^" line="2" column="39" />
+        <mark key="." line="2" column="39" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/repository/ArtistRepository.kt" timestamp="1557397627702">
         <mark key="'" line="154" column="0" />
@@ -1913,7 +1913,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="80" filename="D:/project/musicbible/common-mvc/src/main/kotlin/com/musicbible/common/ExceptionHandler.kt" />
       <jump line="87" column="51" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/DataAnalysisController.kt" />
       <jump line="4" column="14" filename="D:/project/common-spring/src/main/kotlin/com/boostfield/spring/exception/AppError.kt" />
       <jump line="11" column="12" filename="D:/project/common-spring/src/main/kotlin/com/boostfield/spring/exception/AppError.kt" />
@@ -2013,22 +2012,23 @@
       <jump line="75" column="0" filename="D:/project/musicbible/backend-api/src/main/resources/application.yml" />
       <jump line="11" column="0" filename="D:/project/musicbible/backend-api/src/main/resources/application.yml" />
       <jump line="49" column="0" filename="D:/project/musicbible/backend-api/src/main/resources/application.yml" />
+      <jump line="0" column="0" filename="D:/project/musicbible/bin/update-web-static.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>*</text>
+        <text>app</text>
       </register>
       <register name="b" type="4">
         <text>jjjjjjjjkkkkkkkkkj^</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>app</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkb2NrZXJJbWFnZVByZWZpeFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmFudE1hdGNoZXJzKCIvYXBpL3YwL2F1dGgvKioiKS5wZXJtaXRBbGwoKQo=</text>
+        <text encoding="base64">d2dldCAke1NUQVRJQ19TRVJWRVJ9L2FwcC5odG1sIC1PICR7U1RBVElDX0hPTUV9L2FwcC5odG1sCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5ib29zdGZpZWxkLnNwcmluZy5leGNlcHRpb24uY29kZS5CYWRSZXF1ZXN0Cg==</text>
@@ -2080,7 +2080,7 @@
         <text encoding="base64">ICAgICAgICAgICAgLmFuZEV4cGVjdChqc29uUGF0aCgiJCIpLnZhbHVlKDEpKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>84</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -2116,8 +2116,6 @@
         <entry encoding="base64">XDxkb2NrZXJJbWFnZVByZWZpeFw+</entry>
       </history-search>
       <history-cmd>
-        <entry>123</entry>
-        <entry>85</entry>
         <entry>72</entry>
         <entry>16</entry>
         <entry>262</entry>
@@ -2136,6 +2134,8 @@
         <entry>130</entry>
         <entry>17</entry>
         <entry>84</entry>
+        <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />

@@ -130,11 +130,10 @@
         <mark key="^" line="86" column="29" />
         <mark key="." line="86" column="29" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/RepositoryProxy.kt" timestamp="1557398913207">
-        <mark key="[" line="42" column="40" />
-        <mark key="]" line="42" column="37" />
-        <mark key="." line="42" column="37" />
-        <mark key="^" line="42" column="37" />
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/RepositoryProxy.kt" timestamp="1557449278060">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/SettingService.kt" timestamp="1556002117914">
         <mark key="'" line="19" column="41" />
@@ -171,6 +170,11 @@
         <mark key="]" line="9" column="1" />
         <mark key="." line="9" column="1" />
         <mark key="^" line="9" column="1" />
+      </file>
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/security/JwtAuthenticationFilter.kt" timestamp="1557370300424">
+        <mark key="[" line="4" column="45" />
+        <mark key="]" line="4" column="45" />
+        <mark key="." line="4" column="45" />
       </file>
       <file name="D:/project/musicbible/backend-api/application-local-test.yml" timestamp="1557393564547">
         <mark key="[" line="8" column="0" />
@@ -876,8 +880,8 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="16" column="115" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/CommentService.kt" timestamp="1557397673662">
-        <mark key="'" line="117" column="29" />
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/CommentService.kt" timestamp="1557449361826">
+        <mark key="'" line="60" column="19" />
         <mark key="[" line="170" column="0" />
         <mark key="]" line="170" column="0" />
         <mark key="." line="170" column="0" />
@@ -1778,11 +1782,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/AppreciationService.kt" />
-      <jump line="1" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/AppreciationService.kt" />
-      <jump line="16" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/AppreciationService.kt" />
-      <jump line="19" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/AppreciationService.kt" />
-      <jump line="24" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/AppreciationService.kt" />
       <jump line="32" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/AppreciationService.kt" />
       <jump line="41" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/AppreciationService.kt" />
       <jump line="48" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/AppreciationService.kt" />
@@ -1878,25 +1877,30 @@
       <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/repository/ArtistRepository.kt" />
       <jump line="154" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/repository/ArtistRepository.kt" />
       <jump line="117" column="29" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/CommentService.kt" />
+      <jump line="129" column="8" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/CommentService.kt" />
+      <jump line="42" column="12" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/CommentService.kt" />
+      <jump line="54" column="8" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/CommentService.kt" />
+      <jump line="58" column="8" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/CommentService.kt" />
+      <jump line="60" column="19" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/CommentService.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQgdmFsIGFwcHJlY2lhdGlvblNlcnZpY2U6IFdvcmtBcHByZWNpYXRpb25TZXJ2aWNlLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <text>jjjjjjjjkkkkkkkkkj^</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>+</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxleGlzdHNCeURlbGV0ZWRGYWxzZUFuZElkXD4=</text>
+        <text encoding="base64">XDxyZWZyZXNoQ29tbWVudENvdW50XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgY2x1c3Rlci1ub2RlczogMTI3LjAuMC4xOjkzMDAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQgdmFsIGFwcHJlY2lhdGlvblNlcnZpY2U6IFdvcmtBcHByZWNpYXRpb25TZXJ2aWNlLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1921,37 +1925,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tdXNpY2JpYmxlLnNlcnZpY2UuV29ya0FwcHJlY2lhdGlvblNlcnZpY2UK</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKG1ldGhvZC5wYXJhbWV0ZXJzLnNpemUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5ib29zdGZpZWxkLnNwcmluZy5leGNlcHRpb24uY29kZS5Gb3JiaWRkZW4K</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKCI9PT09PT09PT09PT09PT09PT09PT0iKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCkK</text>
+        <text encoding="base64">ICAgICAgICAvKgogICAgICAgICAgICAgICAgcmV0dXJuIE1ldGhvZFV0aWxzLmludm9rZUV4YWN0TWV0aG9kKAogICAgICAgICAgICBjYWxsZWUsCiAgICAgICAgICAgIG1ldGhvZE5hbWUsCiAgICAgICAgICAgIGFyZ3MKICAgICAgICApIGFzIFQKICAgICAgICAgKi8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbWV0aG9kID0gY2FsbGVlOjpjbGFzcy5kZWNsYXJlZE1lbWJlckZ1bmN0aW9ucy5maW5kIHsKICAgICAgICAgICAgaXQubmFtZSA9PSBtZXRob2ROYW1lCiAgICAgICAgfSEhCgoKICAgICAgICBwcmludGxuKCI9PT09PT09PT09PT09PT09PT09PT0iKQogICAgICAgIHByaW50bG4obWV0aG9kLnBhcmFtZXRlcnMuc2l6ZSkKCiAgICAgICAgcmV0dXJuIG1ldGhvZC5jYWxsKGNhbGxlZSwgKmFyZ3MpIGFzIFQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQgdmFsIGFwcHJlY2lhdGlvblNlcnZpY2U6IFdvcmtBcHByZWNpYXRpb25TZXJ2aWNlLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tdXNpY2JpYmxlLnNlcnZpY2UuV29ya0FwcHJlY2lhdGlvblNlcnZpY2UK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5ib29zdGZpZWxkLnNwcmluZy5leGNlcHRpb24uY29kZS5Gb3JiaWRkZW4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZSAtPiB0aHJvdyBBcHBFcnJvci5Ob3RGb3VuZC5kZWZhdWx0KG1zZyA9ICKyu7Tm1Nq1xMfrx/MvJHR5cGUiKQo=</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCkK</text>
       </register>
       <register name=":" type="4">
         <text>130</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxleGlzdHNCeURlbGV0ZWRGYWxzZUFuZElkXD4=</last-search>
+      <last-search encoding="base64">XDxyZWZyZXNoQ29tbWVudENvdW50XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxleGlzdHNCeURlbGV0ZWRGYWxzZUFuZElkXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxyZWZyZXNoQ29tbWVudENvdW50XD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxsaXN0V2l0aEF0dGl0dWRlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1959,7 +1963,6 @@
     </search>
     <history>
       <history-search>
-        <entry>commonSp</entry>
         <entry>list</entry>
         <entry>listWith</entry>
         <entry>listWithAt</entry>
@@ -1979,6 +1982,7 @@
         <entry>cluster-nodes</entry>
         <entry>exists</entry>
         <entry encoding="base64">XDxleGlzdHNCeURlbGV0ZWRGYWxzZUFuZElkXD4=</entry>
+        <entry encoding="base64">XDxyZWZyZXNoQ29tbWVudENvdW50XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>14</entry>

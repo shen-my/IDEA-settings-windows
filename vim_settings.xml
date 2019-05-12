@@ -751,11 +751,12 @@
         <mark key="." line="15" column="20" />
         <mark key="^" line="15" column="20" />
       </file>
-      <file name="D:/vm-shared/project/musicbible/frontend-api/application-local-test.yml" timestamp="1557405162979">
+      <file name="D:/vm-shared/project/musicbible/frontend-api/application-local-test.yml" timestamp="1557628180623">
+        <mark key="'" line="71" column="24" />
         <mark key="[" line="19" column="27" />
-        <mark key="]" line="19" column="27" />
-        <mark key="." line="19" column="27" />
-        <mark key="^" line="17" column="28" />
+        <mark key="]" line="19" column="35" />
+        <mark key="." line="19" column="35" />
+        <mark key="^" line="19" column="35" />
       </file>
       <file name="D:/project/musicbible/common-spring/src/main/kotlin/com/boostfield/spring/ExceptionHandler.kt" timestamp="1552619596148">
         <mark key="'" line="74" column="0" />
@@ -1637,7 +1638,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="142" column="0" filename="D:/project/common-spring/build.gradle" />
       <jump line="13" column="42" filename="D:/project/musicbible/backend-api/build.gradle" />
       <jump line="0" column="0" filename="D:/project/musicbible/build.gradle" />
       <jump line="62" column="26" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/CommentService.kt" />
@@ -1737,16 +1737,17 @@
       <jump line="51" column="0" filename="D:/vm-shared/project/musicbible/common/src/main/kotlin/com/musicbible/service/RepositoryProxy.kt" />
       <jump line="0" column="0" filename="D:/vm-shared/project/musicbible/frontend-api/src/main/resources/application.yml" />
       <jump line="0" column="0" filename="D:/vm-shared/project/musicbible/frontend-api/application-local.yml" />
+      <jump line="71" column="24" filename="D:/vm-shared/project/musicbible/frontend-api/application-local-test.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>postgres</text>
+        <text>localhost</text>
       </register>
       <register name="b" type="4">
         <text>jjjjjjjjkkkkkkkkkj^</text>
       </register>
       <register name="-" type="4">
-        <text>postgres</text>
+        <text>localhost</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYXBDb21tZW50V2l0aFRhcmdldFw+</text>

@@ -1234,6 +1234,12 @@
         <mark key="." line="149" column="0" />
         <mark key="^" line="140" column="22" />
       </file>
+      <file name="D:/vm-shared/project/musicbible/backend-api/src/main/kotlin/com/musicbible/SecurityConfig.kt" timestamp="1557751474878">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="118" column="0" />
+        <mark key="]" line="118" column="0" />
+        <mark key="." line="118" column="0" />
+      </file>
       <file name="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/controller/ArticleController.kt" timestamp="1552448950274">
         <mark key="'" line="27" column="66" />
         <mark key="[" line="29" column="13" />
@@ -1653,7 +1659,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="141" column="1" filename="D:/vm-shared/project/musicbible/common/src/main/kotlin/com/musicbible/model/Comment.kt" />
       <jump line="158" column="0" filename="D:/vm-shared/project/musicbible/common/src/main/kotlin/com/musicbible/service/CommentService.kt" />
       <jump line="157" column="0" filename="D:/vm-shared/project/musicbible/common/src/main/kotlin/com/musicbible/service/CommentService.kt" />
       <jump line="153" column="0" filename="D:/vm-shared/project/musicbible/common/src/main/kotlin/com/musicbible/service/CommentService.kt" />
@@ -1753,10 +1758,11 @@
       <jump line="425" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-http/4.1.31.Final/74ddd1bad2ff0b85e169b13b9029659f029e4ac1/netty-codec-http-4.1.31.Final-sources.jar!/io/netty/handler/codec/http/cors/CorsConfig.java" />
       <jump line="0" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-http/4.1.31.Final/74ddd1bad2ff0b85e169b13b9029659f029e4ac1/netty-codec-http-4.1.31.Final-sources.jar!/io/netty/handler/codec/http/cors/CorsConfig.java" />
       <jump line="192" column="5" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-http/4.1.31.Final/74ddd1bad2ff0b85e169b13b9029659f029e4ac1/netty-codec-http-4.1.31.Final-sources.jar!/io/netty/handler/codec/http/cors/CorsConfig.java" />
+      <jump line="0" column="0" filename="D:/vm-shared/project/musicbible/backend-api/src/main/kotlin/com/musicbible/SecurityConfig.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBjb25maWd1cmF0aW9uLmFjCg==</text>
       </register>
       <register name="b" type="4">
         <text>jjjjjjjjkkkkkkkkkj^</text>
@@ -1771,7 +1777,7 @@
         <text encoding="base64">ICAgICAgICB2YWwgYXJ0aXN0ID0gYXJ0aXN0RmFjdG9yeS5jcmVhdGVQdWJsaXNoZWQoY3VycmVudFVzZXIhISwgIkJhY2giKQogICAgICAgIHZhbCBwYXJlbnQgPSBwZXJzaXN0QW5kRmx1c2goQ29tbWVudCgpLmFsc28gewogICAgICAgICAgICBpdC5jb250ZW50ID0gImknbSBhIGFydGlzdCBjb21tZW50IgogICAgICAgICAgICBpdC50YXJnZXRUeXBlID0gTW9kZWxFbnVtLkFydGlzdAogICAgICAgICAgICBpdC50YXJnZXRJZCA9IGFydGlzdC5pZAogICAgICAgICAgICBpdC5jcmVhdGVkQnkgPSB1c2VyU2VydmljZS5maW5kQnlVc2VyTmFtZSgicm9vdCIpISEKICAgICAgICB9KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBjb25maWd1cmF0aW9uLmFjCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1799,25 +1805,25 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFNFTEVDVCBkaXN0aW5jdCBvbiAoY3JlYXRvcikgaWQsIHRhcmdldCwgY3JlYXRvciwgZmlyc3RfdmFsdWUKICAgIGZyb20gKHNlbGVjdCBpZCwgdGFyZ2V0LCBjcmVhdG9yLCBmaXJzdF92YWx1ZSgiYWN0aW9uIikgb3ZlciAocGFydGl0aW9uIGJ5IGNyZWF0b3IpIGZyb20gdGVzdCB3aGVyZSB0YXJnZXQgPSAnQScpIGFhOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgT0ZGU0VUICQK</text>
+        <text encoding="base64">ICAgIFNFTEVDVCBkaXN0aW5jdCBvbiAoY3JlYXRvcikgaWQsIHRhcmdldCwgY3JlYXRvciwgZmlyc3RfdmFsdWUKICAgIGZyb20gKHNlbGVjdCBpZCwgdGFyZ2V0LCBjcmVhdG9yLCBmaXJzdF92YWx1ZSgiYWN0aW9uIikgb3ZlciAocGFydGl0aW9uIGJ5IGNyZWF0b3IpIGZyb20gdGVzdCB3aGVyZSB0YXJnZXQgPSAnQScpIGFhOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbWV0aG9kLmNhbGwoY2FsbGVlLCAqYXJncykgYXMgVAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgT0ZGU0VUICQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbWV0aG9kLmNhbGwoY2FsbGVlLCAqYXJncykgYXMgVAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKG1ldGhvZC5wYXJhbWV0ZXJzLnNpemUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKCI9PT09PT09PT09PT09PT09PT09PT0iKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKG1ldGhvZC5wYXJhbWV0ZXJzLnNpemUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKCI9PT09PT09PT09PT09PT09PT09PT0iKQo=</text>
       </register>
       <register name=":" type="4">
         <text>3</text>

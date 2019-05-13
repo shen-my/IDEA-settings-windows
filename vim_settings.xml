@@ -915,8 +915,8 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="4" column="25" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/ModelEnum.kt" timestamp="1557451954031">
-        <mark key="'" line="22" column="37" />
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/ModelEnum.kt" timestamp="1557735638514">
+        <mark key="'" line="24" column="15" />
         <mark key="[" line="6" column="3" />
         <mark key="]" line="6" column="18" />
         <mark key="." line="6" column="18" />
@@ -999,6 +999,12 @@
         <mark key="]" line="9" column="4" />
         <mark key="^" line="9" column="4" />
         <mark key="." line="9" column="4" />
+      </file>
+      <file name="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/controller/v1/AttitudeV1Controller.kt" timestamp="1557735856779">
+        <mark key="[" line="30" column="50" />
+        <mark key="]" line="30" column="53" />
+        <mark key="." line="30" column="53" />
+        <mark key="^" line="30" column="53" />
       </file>
       <file name="D:/project/common-spring/src/main/kotlin/com/boostfield/spring/exception/AppError.kt" timestamp="1557383147077">
         <mark key="'" line="11" column="12" />
@@ -1104,9 +1110,10 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="0" />
       </file>
-      <file name="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/controller/AttitudeController.kt" timestamp="1557391159259">
-        <mark key="[" line="15" column="39" />
-        <mark key="]" line="16" column="18" />
+      <file name="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/controller/AttitudeController.kt" timestamp="1557735785587">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="29" column="0" />
         <mark key="." line="16" column="18" />
         <mark key="^" line="16" column="18" />
       </file>
@@ -1436,8 +1443,8 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Appreciation.kt" timestamp="1557452096329">
-        <mark key="'" line="0" column="0" />
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Appreciation.kt" timestamp="1557735577370">
+        <mark key="'" line="47" column="6" />
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
@@ -1645,9 +1652,6 @@
         <mark key="]" line="22" column="31" />
         <mark key="." line="22" column="31" />
         <mark key="^" line="22" column="31" />
-      </file>
-      <file name="vim_settings.xml" timestamp="1557018635171">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/project/discogs-data/src/main/kotlin/com/musicbible/discogsdata/command/ReleasesXmlReader.kt" timestamp="1556607095667">
         <mark key="'" line="109" column="0" />
@@ -1908,9 +1912,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="51" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/DataAnalysisController.kt" />
-      <jump line="4" column="14" filename="D:/project/common-spring/src/main/kotlin/com/boostfield/spring/exception/AppError.kt" />
-      <jump line="11" column="12" filename="D:/project/common-spring/src/main/kotlin/com/boostfield/spring/exception/AppError.kt" />
       <jump line="0" column="0" filename="D:/project/musicbible/frontend-api/application-local-test.yml" />
       <jump line="114" column="4" filename="D:/project/musicbible/frontend-api/src/main/resources/application.yml" />
       <jump line="0" column="0" filename="D:/project/musicbible/frontend-api/src/main/resources/application.yml" />
@@ -2008,25 +2009,28 @@
       <jump line="11" column="0" filename="D:/project/musicbible/backend-api/src/main/resources/application.yml" />
       <jump line="49" column="0" filename="D:/project/musicbible/backend-api/src/main/resources/application.yml" />
       <jump line="0" column="0" filename="D:/project/musicbible/bin/update-web-static.sh" />
+      <jump line="47" column="6" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Appreciation.kt" />
+      <jump line="24" column="15" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/ModelEnum.kt" />
+      <jump line="21" column="0" filename="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/controller/AttitudeController.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>app</text>
+        <text>item</text>
       </register>
       <register name="b" type="4">
         <text>jjjjjjjjkkkkkkkkkj^</text>
       </register>
       <register name="-" type="4">
-        <text>app</text>
+        <text>item</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkb2NrZXJJbWFnZVByZWZpeFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">d2dldCAke1NUQVRJQ19TRVJWRVJ9L2FwcC5odG1sIC1PICR7U1RBVElDX0hPTUV9L2FwcC5odG1sCg==</text>
+        <text encoding="base64">ICAgIEBQb3N0TWFwcGluZygiL3tpdGVtfS97aWR9IikKICAgIEBBcGlPcGVyYXRpb24oCiAgICAgICAgdmFsdWUgPSAitePU3iIsCiAgICAgICAgbm90ZXMgPSAiaXRlbSA9IHZpZGVvIgogICAgKQogICAgZnVuIGFueXdheUxpa2UoQFVzZXJPclRocm93IHVzZXI6IFVzZXIsIEBQYXRoVmFyaWFibGUgaXRlbTogU3RyaW5nLCBAUGF0aFZhcmlhYmxlIGlkOiBVVUlEKSB7CiAgICAgICAgYXR0aXR1ZGVTZXJ2aWNlLmxpa2UodXNlciwgTW9kZWxFbnVtLmJ5SWQoaXRlbSksIGlkKQogICAgfQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5ib29zdGZpZWxkLnNwcmluZy5leGNlcHRpb24uY29kZS5CYWRSZXF1ZXN0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2051,7 +2055,7 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dmVyc2lvbiA9ICcyMScK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5ib29zdGZpZWxkLnNwcmluZy5leGNlcHRpb24uY29kZS5CYWRSZXF1ZXN0Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">dmVyc2lvbiA9ICcyMScK</text>
@@ -2060,7 +2064,7 @@
         <text encoding="base64">dmVyc2lvbiA9ICcyMScK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGwK</text>
+        <text encoding="base64">dmVyc2lvbiA9ICcyMScK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGwK</text>
@@ -2069,10 +2073,10 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmFuZEV4cGVjdChqc29uUGF0aCgiJCIpLnZhbHVlKDApKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmFuZEV4cGVjdChqc29uUGF0aCgiJCIpLnZhbHVlKDEpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmFuZEV4cGVjdChqc29uUGF0aCgiJCIpLnZhbHVlKDApKQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>

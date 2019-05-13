@@ -489,6 +489,9 @@
         <mark key="^" line="4" column="36" />
         <mark key="." line="4" column="36" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-http/4.1.31.Final/74ddd1bad2ff0b85e169b13b9029659f029e4ac1/netty-codec-http-4.1.31.Final-sources.jar!/io/netty/handler/codec/http/cors/CorsConfig.java" timestamp="1557751395877">
+        <mark key="'" line="192" column="5" />
+      </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/DocumentCheckingService.kt" timestamp="1551951054820">
         <mark key="'" line="66" column="0" />
         <mark key="[" line="63" column="20" />
@@ -742,6 +745,12 @@
         <mark key="]" line="21" column="20" />
         <mark key="." line="21" column="20" />
         <mark key="^" line="21" column="20" />
+      </file>
+      <file name="D:/vm-shared/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/controller/AttitudeController.kt" timestamp="1557751352508">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="40" column="28" />
+        <mark key="^" line="40" column="28" />
+        <mark key="." line="40" column="28" />
       </file>
       <file name="D:/project/musicbible/migration/console/entities/artist.py" timestamp="1547534690122">
         <mark key="'" line="37" column="16" />
@@ -1644,9 +1653,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="D:/project/musicbible/build.gradle" />
-      <jump line="62" column="26" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/CommentService.kt" />
-      <jump line="0" column="0" filename="D:/vm-shared/project/musicbible/common/src/main/kotlin/com/musicbible/model/Comment.kt" />
       <jump line="141" column="1" filename="D:/vm-shared/project/musicbible/common/src/main/kotlin/com/musicbible/model/Comment.kt" />
       <jump line="158" column="0" filename="D:/vm-shared/project/musicbible/common/src/main/kotlin/com/musicbible/service/CommentService.kt" />
       <jump line="157" column="0" filename="D:/vm-shared/project/musicbible/common/src/main/kotlin/com/musicbible/service/CommentService.kt" />
@@ -1744,6 +1750,9 @@
       <jump line="0" column="0" filename="D:/vm-shared/project/musicbible/frontend-api/application-local.yml" />
       <jump line="71" column="24" filename="D:/vm-shared/project/musicbible/frontend-api/application-local-test.yml" />
       <jump line="32" column="18" filename="D:/vm-shared/project/musicbible/frontend-api/src/test/kotlin/com/musicbible/controller/CommentControllerTest.kt" />
+      <jump line="425" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-http/4.1.31.Final/74ddd1bad2ff0b85e169b13b9029659f029e4ac1/netty-codec-http-4.1.31.Final-sources.jar!/io/netty/handler/codec/http/cors/CorsConfig.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-http/4.1.31.Final/74ddd1bad2ff0b85e169b13b9029659f029e4ac1/netty-codec-http-4.1.31.Final-sources.jar!/io/netty/handler/codec/http/cors/CorsConfig.java" />
+      <jump line="192" column="5" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-http/4.1.31.Final/74ddd1bad2ff0b85e169b13b9029659f029e4ac1/netty-codec-http-4.1.31.Final-sources.jar!/io/netty/handler/codec/http/cors/CorsConfig.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">

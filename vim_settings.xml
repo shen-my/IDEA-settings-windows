@@ -793,12 +793,12 @@
         <mark key="." line="37" column="20" />
         <mark key="^" line="37" column="20" />
       </file>
-      <file name="D:/project/musicbible/frontend-api/src/test/kotlin/com/musicbible/controller/v1/AttitudeV1ControllerTest.kt" timestamp="1557817230996">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="79" column="44" />
-        <mark key="]" line="79" column="44" />
-        <mark key="." line="79" column="44" />
-        <mark key="^" line="79" column="44" />
+      <file name="D:/project/musicbible/frontend-api/src/test/kotlin/com/musicbible/controller/v1/AttitudeV1ControllerTest.kt" timestamp="1557818558260">
+        <mark key="'" line="54" column="0" />
+        <mark key="[" line="110" column="57" />
+        <mark key="]" line="110" column="57" />
+        <mark key="." line="110" column="57" />
+        <mark key="^" line="110" column="57" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/MediaService.kt" timestamp="1550914563110">
         <mark key="'" line="30" column="94" />
@@ -1786,9 +1786,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/RepositoryProxy.kt" />
-      <jump line="38" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/RepositoryProxy.kt" />
-      <jump line="37" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/RepositoryProxy.kt" />
       <jump line="27" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/RepositoryProxy.kt" />
       <jump line="65" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/RepositoryProxy.kt" />
       <jump line="159" column="15" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/CommentService.kt" />
@@ -1869,7 +1866,6 @@
       <jump line="93" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/AttitudeService.kt" />
       <jump line="62" column="7" filename="D:/project/musicbible/frontend-api/src/test/kotlin/com/musicbible/controller/v1/AttitudeV1ControllerTest.kt" />
       <jump line="58" column="0" filename="D:/project/musicbible/frontend-api/src/test/kotlin/com/musicbible/controller/v1/AttitudeV1ControllerTest.kt" />
-      <jump line="54" column="0" filename="D:/project/musicbible/frontend-api/src/test/kotlin/com/musicbible/controller/v1/AttitudeV1ControllerTest.kt" />
       <jump line="45" column="0" filename="D:/project/musicbible/frontend-api/src/test/kotlin/com/musicbible/controller/v1/AttitudeV1ControllerTest.kt" />
       <jump line="22" column="8" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/AttitudeService.kt" />
       <jump line="74" column="25" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/AttitudeService.kt" />
@@ -1877,34 +1873,38 @@
       <jump line="97" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/PushService.kt" />
       <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/VideoService.kt" />
       <jump line="71" column="21" filename="D:/project/musicbible/frontend-api/src/test/kotlin/com/musicbible/controller/v1/AttitudeV1ControllerTest.kt" />
-      <jump line="69" column="0" filename="D:/project/musicbible/frontend-api/src/test/kotlin/com/musicbible/controller/v1/AttitudeV1ControllerTest.kt" />
-      <jump line="64" column="0" filename="D:/project/musicbible/frontend-api/src/test/kotlin/com/musicbible/controller/v1/AttitudeV1ControllerTest.kt" />
-      <jump line="60" column="0" filename="D:/project/musicbible/frontend-api/src/test/kotlin/com/musicbible/controller/v1/AttitudeV1ControllerTest.kt" />
       <jump line="56" column="0" filename="D:/project/musicbible/frontend-api/src/test/kotlin/com/musicbible/controller/v1/AttitudeV1ControllerTest.kt" />
       <jump line="50" column="0" filename="D:/project/musicbible/frontend-api/src/test/kotlin/com/musicbible/controller/v1/AttitudeV1ControllerTest.kt" />
       <jump line="47" column="0" filename="D:/project/musicbible/frontend-api/src/test/kotlin/com/musicbible/controller/v1/AttitudeV1ControllerTest.kt" />
       <jump line="43" column="0" filename="D:/project/musicbible/frontend-api/src/test/kotlin/com/musicbible/controller/v1/AttitudeV1ControllerTest.kt" />
       <jump line="39" column="0" filename="D:/project/musicbible/frontend-api/src/test/kotlin/com/musicbible/controller/v1/AttitudeV1ControllerTest.kt" />
       <jump line="33" column="0" filename="D:/project/musicbible/frontend-api/src/test/kotlin/com/musicbible/controller/v1/AttitudeV1ControllerTest.kt" />
+      <jump line="82" column="7" filename="D:/project/musicbible/frontend-api/src/test/kotlin/com/musicbible/controller/v1/AttitudeV1ControllerTest.kt" />
+      <jump line="80" column="0" filename="D:/project/musicbible/frontend-api/src/test/kotlin/com/musicbible/controller/v1/AttitudeV1ControllerTest.kt" />
+      <jump line="74" column="0" filename="D:/project/musicbible/frontend-api/src/test/kotlin/com/musicbible/controller/v1/AttitudeV1ControllerTest.kt" />
+      <jump line="69" column="0" filename="D:/project/musicbible/frontend-api/src/test/kotlin/com/musicbible/controller/v1/AttitudeV1ControllerTest.kt" />
+      <jump line="64" column="0" filename="D:/project/musicbible/frontend-api/src/test/kotlin/com/musicbible/controller/v1/AttitudeV1ControllerTest.kt" />
+      <jump line="60" column="0" filename="D:/project/musicbible/frontend-api/src/test/kotlin/com/musicbible/controller/v1/AttitudeV1ControllerTest.kt" />
+      <jump line="54" column="0" filename="D:/project/musicbible/frontend-api/src/test/kotlin/com/musicbible/controller/v1/AttitudeV1ControllerTest.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>4</text>
       </register>
       <register name="b" type="4">
         <text>jjjjjjjjkkkkkkkkkj^</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text>list</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdXNlcjEgPSB1c2VyU2VydmljZS5jcmVhdGUoInVzZXIxIiwgInBhc3N3b3JkIikK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGF0dGl0dWRlc1swXS50YXJnZXRJZCkuaXNFcXVhbFRvKGNvbW1lbnQxLmlkKQogICAgICAgIGFzc2VydFRoYXQoYXR0aXR1ZGVzWzBdLmNyZWF0ZWRCeSkuaXNFcXVhbFRvKHVzZXI0KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdXNlcjIgPSB1c2VyU2VydmljZS5jcmVhdGUoInVzZXIxIiwgInBhc3N3b3JkIikK</text>
+        <text encoding="base64">ICAgICAgICBhCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1929,28 +1929,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgdXNlcjIgPSB1c2VyU2VydmljZS5jcmVhdGUoInVzZXIxIiwgInBhc3N3b3JkIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIEZJWE1FOiDKtc/Wt73KvdPQzsrM4qOsv8nE3LXj1N6689PWtePBy8ihz/ujrNOmuMO/vLLs1+7W1b3hufsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUGFnZVJlcXVlc3Qub2YoMCwgY291bnQsIFNvcnQuRGlyZWN0aW9uLkRFU0MsICJ1cGRhdGVkQXQiKQo=</text>
+        <text encoding="base64">ICAgIC8vIEZJWE1FOiDKtc/Wt73KvdPQzsrM4qOsv8nE3LXj1N6689PWtePBy8ihz/ujrNOmuMO/vLLs1+7W1b3hufsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmluZEJ5VGFyZ2V0SWRBbmRBY3Rpb25PcmRlckJ5VXBkYXRlZEF0RGVzYygK</text>
+        <text encoding="base64">ICAgICAgICAgICAgUGFnZVJlcXVlc3Qub2YoMCwgY291bnQsIFNvcnQuRGlyZWN0aW9uLkRFU0MsICJ1cGRhdGVkQXQiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZmluZEJ5VGFyZ2V0SWRBbmRBY3Rpb25PcmRlckJ5VXBkYXRlZEF0RGVzYygK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dpbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDL+8jLtePU3gogICAgICAgIHZhbCBndWVzdCA9IHVzZXJTZXJ2aWNlLmNyZWF0ZSgiZ3Vlc3QiLCAicGFzc3dvcmQiKQogICAgICAgIGxvZ2luKGd1ZXN0KQogICAgICAgIHBvc3QoIi9hcGkvdjEvYXR0aXR1ZGUvbGlrZS9jb21tZW50LyR7Y29tbWVudC5pZH0iKQogICAgICAgICAgICAuYW5kRXhwZWN0KHN0YXR1cygpLmlzTm90TW9kaWZpZWQpCgogICAgICAgIGVtLnJlZnJlc2goY29tbWVudCkKICAgICAgICBhc3NlcnRUaGF0KGNvbW1lbnQubGlrZUNvdW50KS5pc0VxdWFsVG8oMSkK</text>
+        <text encoding="base64">ICAgICAgICBsb2dpbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyDL+8jLtePU3gogICAgICAgIHZhbCBndWVzdCA9IHVzZXJTZXJ2aWNlLmNyZWF0ZSgiZ3Vlc3QiLCAicGFzc3dvcmQiKQogICAgICAgIGxvZ2luKGd1ZXN0KQogICAgICAgIHBvc3QoIi9hcGkvdjEvYXR0aXR1ZGUvbGlrZS9jb21tZW50LyR7Y29tbWVudC5pZH0iKQogICAgICAgICAgICAuYW5kRXhwZWN0KHN0YXR1cygpLmlzTm90TW9kaWZpZWQpCgogICAgICAgIGVtLnJlZnJlc2goY29tbWVudCkKICAgICAgICBhc3NlcnRUaGF0KGNvbW1lbnQubGlrZUNvdW50KS5pc0VxdWFsVG8oMSkK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>

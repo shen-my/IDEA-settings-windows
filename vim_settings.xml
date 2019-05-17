@@ -38,12 +38,12 @@
         <mark key="^" line="32" column="16" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Attitude.kt" timestamp="1558002909146">
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Attitude.kt" timestamp="1558056940355">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="30" column="4" />
-        <mark key="]" line="30" column="12" />
-        <mark key="^" line="30" column="12" />
-        <mark key="." line="30" column="12" />
+        <mark key="[" line="18" column="34" />
+        <mark key="]" line="18" column="34" />
+        <mark key="^" line="18" column="34" />
+        <mark key="." line="18" column="34" />
       </file>
       <file name="D:/project/musicbible/migration/console/models/user.py" timestamp="1553517405409">
         <mark key="'" line="0" column="0" />
@@ -1057,6 +1057,13 @@
         <mark key="^" line="25" column="1" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="D:/project/musicbible/common/src/main/resources/db/migration/V23__refactor attitude.sql" timestamp="1558057570580">
+        <mark key="'" line="12" column="85" />
+        <mark key="[" line="12" column="13" />
+        <mark key="]" line="12" column="25" />
+        <mark key="^" line="12" column="25" />
+        <mark key="." line="12" column="25" />
+      </file>
       <file name="D:/project/musicbible/event-process/src/main/kotlin/com/musicbible/command/ReCalcCompleteness.kt" timestamp="1552728068667">
         <mark key="'" line="60" column="0" />
         <mark key="[" line="27" column="6" />
@@ -1661,7 +1668,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Appreciation.kt" />
       <jump line="34" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Appreciation.kt" />
       <jump line="14" column="33" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Comment.kt" />
       <jump line="52" column="56" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/AppreciationService.kt" />
@@ -1761,16 +1767,17 @@
       <jump line="38" column="14" filename="D:/project/musicbible/frontend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" />
       <jump line="37" column="12" filename="D:/project/musicbible/frontend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" />
       <jump line="49" column="50" filename="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/controller/AppreciationController.kt" />
+      <jump line="15" column="85" filename="D:/project/musicbible/common/src/main/resources/db/migration/V23__refactor attitude.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>!</text>
+        <text>idxjk3k2rxbilthdmrhhejkxeeb8</text>
       </register>
       <register name="b" type="4">
         <text>jjjjjjjjkkkkkkkkkj^</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>idxjk3k2rxbilthdmrhhejkxeeb8</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyb290XD4=</text>
@@ -1779,7 +1786,7 @@
         <text encoding="base64">CmlmIFsgJCMgLWx0IDEgXTsgdGhlbgogICAgZWNobyAidXNhZ2U6IG1hbmFnZS5zaCB7Y29tbWFuZE5hbWV9IGFyZ3MuLi4iCiAgICBleGl0IDEKZmkKCkNESVI9JChkaXJuYW1lICQoZWNobyAkMCkpClBST0pFQ1RfSE9NRT0ke0NESVJ9Ly4uCmV4cG9ydCAkKGdyZXAgLXYgJ14jJyAke1BST0pFQ1RfSE9NRX0vLmVudiB8IHhhcmdzIC1kICdcbicpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFJlc3RSZXNwb25zZS5wYWdlKG91dHB1dCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1804,28 +1811,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0ICQoZ3JlcCAtdiAnXiMnICR7UFJPSkVDVF9IT01FfS8uZW52IHwgeGFyZ3MgLWQgJ1xuJykK</text>
+        <text encoding="base64">LS0gRFJPUCBUQUJMRSBwdWJsaWMuYXR0aXR1ZGU7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBDb2x1bW4obnVsbGFibGUgPSBmYWxzZSkK</text>
+        <text encoding="base64">LS0gRHJvcCB0YWJsZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gY3JlYXRlZEJ5IMv30v0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcm9vdCA9IHVzZXJTZXJ2aWNlLmNyZWF0ZVJvb3QoInJvb3QiLCAicGFzc3dvcmQiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFJlc3RSZXNwb25zZS5wYWdlKG91dHB1dCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QENvbXBvbmVudFNjYW4oImNvbS5tdXNpY2JpYmxlLmZhY3RvcnkiKQo=</text>
+        <text encoding="base64">ZXhwb3J0ICQoZ3JlcCAtdiAnXiMnICR7UFJPSkVDVF9IT01FfS8uZW52IHwgeGFyZ3MgLWQgJ1xuJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5ib29zdGZpZWxkLnNwcmluZy5zZXJ2aWNlLlNvZnREZWxldGFibGVTZXJ2aWNlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYmVhbnMuZmFjdG9yeS5hbm5vdGF0aW9uLlF1YWxpZmllcgo=</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4obnVsbGFibGUgPSBmYWxzZSkK</text>
       </register>
       <register name=":" type="4">
         <text>115</text>

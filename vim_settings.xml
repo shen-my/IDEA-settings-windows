@@ -1055,12 +1055,12 @@
         <mark key="^" line="25" column="1" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/resources/db/migration/V23__refactor attitude.sql" timestamp="1558066366919">
-        <mark key="'" line="39" column="4" />
-        <mark key="[" line="17" column="11" />
-        <mark key="]" line="44" column="24" />
-        <mark key="^" line="44" column="24" />
-        <mark key="." line="44" column="24" />
+      <file name="D:/project/musicbible/common/src/main/resources/db/migration/V23__refactor attitude.sql" timestamp="1558066472150">
+        <mark key="'" line="46" column="4" />
+        <mark key="[" line="55" column="8" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+        <mark key="^" line="55" column="0" />
       </file>
       <file name="D:/project/musicbible/event-process/src/main/kotlin/com/musicbible/command/ReCalcCompleteness.kt" timestamp="1552728068667">
         <mark key="'" line="60" column="0" />
@@ -1627,14 +1627,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/AppreciationService.kt" />
-      <jump line="43" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/AppreciationService.kt" />
-      <jump line="35" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/AppreciationService.kt" />
-      <jump line="70" column="7" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/AppreciationService.kt" />
-      <jump line="105" column="65" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/AppreciationService.kt" />
-      <jump line="113" column="37" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/AppreciationService.kt" />
-      <jump line="142" column="30" filename="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" />
-      <jump line="28" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/mapper/appreciation/AppreciationOutput.kt" />
       <jump line="32" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/mapper/appreciation/AppreciationOutput.kt" />
       <jump line="21" column="34" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/mapper/appreciation/AppreciationOutput.kt" />
       <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/mapper/appreciation/AppreciationOutput.kt" />
@@ -1727,10 +1719,18 @@
       <jump line="29" column="4" filename="D:/project/musicbible/common/src/main/resources/db/migration/V23__refactor attitude.sql" />
       <jump line="33" column="4" filename="D:/project/musicbible/common/src/main/resources/db/migration/V23__refactor attitude.sql" />
       <jump line="37" column="4" filename="D:/project/musicbible/common/src/main/resources/db/migration/V23__refactor attitude.sql" />
+      <jump line="18" column="4" filename="D:/project/musicbible/common/src/main/resources/db/migration/V23__refactor attitude.sql" />
+      <jump line="22" column="3" filename="D:/project/musicbible/common/src/main/resources/db/migration/V23__refactor attitude.sql" />
+      <jump line="26" column="4" filename="D:/project/musicbible/common/src/main/resources/db/migration/V23__refactor attitude.sql" />
+      <jump line="30" column="4" filename="D:/project/musicbible/common/src/main/resources/db/migration/V23__refactor attitude.sql" />
+      <jump line="34" column="4" filename="D:/project/musicbible/common/src/main/resources/db/migration/V23__refactor attitude.sql" />
+      <jump line="38" column="4" filename="D:/project/musicbible/common/src/main/resources/db/migration/V23__refactor attitude.sql" />
+      <jump line="42" column="4" filename="D:/project/musicbible/common/src/main/resources/db/migration/V23__refactor attitude.sql" />
+      <jump line="46" column="4" filename="D:/project/musicbible/common/src/main/resources/db/migration/V23__refactor attitude.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>o</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEZST00gd29ya19hcHByZWNpYXRpb25fY29tbWVudF9hdHRpdHVkZTsK</text>
       </register>
       <register name="b" type="4">
         <text>jjjjjjjjkkkkkkkkkj^</text>
@@ -1742,10 +1742,10 @@
         <text encoding="base64">XDxyb290XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIApJTlNFUlQgSU5UTyBhdHRpdHVkZShjcmVhdGVkX2F0LCB1cGRhdGVkX2F0LCAiYWN0aW9uIiwgdGFyZ2V0X2lkLCB0YXJnZXRfdHlwZSwgY3JlYXRlZF9ieV9pZCkKICAgIFNFTEVDVCBhY3Rpb25fYXQsIGFjdGlvbl9hdCwgMCwgY29tbWVudF9pZCwgMjMsIHVzZXJfaWQpCiAgICBGUk9NIHZpZGVvX2NvbW1lbnRfYXR0aXR1ZGU7Cg==</text>
+        <text encoding="base64">ICAgIEZST00gd29ya19hcHByZWNpYXRpb25fY29tbWVudF9hdHRpdHVkZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1770,28 +1770,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LS0gRFJPUCBUQUJMRSBwdWJsaWMuYXR0aXR1ZGU7Cg==</text>
+        <text encoding="base64">RFJPUCBUQUJMRSAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LS0gRHJvcCB0YWJsZQo=</text>
+        <text encoding="base64">LS0gRFJPUCBUQUJMRSBwdWJsaWMuYXR0aXR1ZGU7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gY3JlYXRlZEJ5IMv30v0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFJlc3RSZXNwb25zZS5wYWdlKG91dHB1dCkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0ICQoZ3JlcCAtdiAnXiMnICR7UFJPSkVDVF9IT01FfS8uZW52IHwgeGFyZ3MgLWQgJ1xuJykK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">LS0gRHJvcCB0YWJsZQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8gY3JlYXRlZEJ5IMv30v0K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFJlc3RSZXNwb25zZS5wYWdlKG91dHB1dCkK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBDb2x1bW4obnVsbGFibGUgPSBmYWxzZSkK</text>
+        <text encoding="base64">ZXhwb3J0ICQoZ3JlcCAtdiAnXiMnICR7UFJPSkVDVF9IT01FfS8uZW52IHwgeGFyZ3MgLWQgJ1xuJykK</text>
       </register>
       <register name=":" type="4">
         <text>115</text>

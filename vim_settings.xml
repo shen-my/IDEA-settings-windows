@@ -452,6 +452,12 @@
         <mark key="." line="13" column="12" />
         <mark key="^" line="13" column="12" />
       </file>
+      <file name="D:/project/musicbible/common/src/main/resources/db/migration/version.lock" timestamp="1558517001735">
+        <mark key="[" line="4" column="2" />
+        <mark key="]" line="4" column="2" />
+        <mark key="." line="4" column="2" />
+        <mark key="^" line="4" column="2" />
+      </file>
       <file name="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/BillboardControllerTest.kt" timestamp="1553135159970">
         <mark key="'" line="94" column="0" />
         <mark key="[" line="79" column="80" />
@@ -1139,6 +1145,12 @@
         <mark key="^" line="27" column="25" />
         <mark key="." line="27" column="25" />
       </file>
+      <file name="D:/project/musicbible/common/src/main/resources/db/migration/V34__drop sale_comment.sql" timestamp="1558517011137">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="15" />
+        <mark key="^" line="0" column="14" />
+        <mark key="." line="0" column="15" />
+      </file>
       <file name="D:/project/musicbible/frontend-api/src/test/kotlin/com/musicbible/controller/ListingControllerTest.kt" timestamp="1550731496306">
         <mark key="'" line="31" column="3" />
         <mark key="[" line="30" column="5" />
@@ -1189,6 +1201,10 @@
         <mark key="]" line="14" column="24" />
         <mark key="^" line="15" column="1" />
         <mark key="." line="15" column="1" />
+      </file>
+      <file name="D:/project/musicbible/common/src/main/resources/db/migration/V27__refactor comment.sql" timestamp="1558517004399">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="26" />
       </file>
       <file name="D:/project/discogs-data/command/src/main/kotlin/com/musicbible/discogsdata/command/ReleaseXmlParser.kt" timestamp="1557135049175">
         <mark key="'" line="35" column="0" />
@@ -1815,20 +1831,20 @@
       <jump line="52" column="8" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwYXRjaENvbGxlY3Rpb24od29yay5nZW5yZXMsIGdlbnJlcywgZ2VucmVTZXJ2aWNlOjpkZWxldGUsIGdlbnJlU2VydmljZTo6c2F2ZSkK</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="b" type="4">
         <text>jjjjjjjjkkkkkkkkkj^</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cGRhdGVHZW5yZXNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YXBwOgogIHJlcG9ydC1leGNlcHRpb246IHRydWUK</text>
+        <text encoding="base64">ZHJvcCB0YWJsZSBhcnRpc3RfY29tbWVudDsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBwYXRjaENvbGxlY3Rpb24od29yay5nZW5yZXMsIGdlbnJlcywgZ2VucmVTZXJ2aWNlOjpkZWxldGUsIGdlbnJlU2VydmljZTo6c2F2ZSkK</text>

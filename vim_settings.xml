@@ -1232,11 +1232,6 @@
         <mark key="^" line="158" column="44" />
         <mark key="." line="108" column="0" />
       </file>
-      <file name="D:/project/musicbible/common-mvc/build.gradle" timestamp="1558508301586">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="71" />
-      </file>
       <file name="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/ImportAll.kt" timestamp="1554263336004">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="353" column="25" />
@@ -1657,6 +1652,9 @@
         <mark key="^" line="2" column="1" />
         <mark key="." line="2" column="1" />
       </file>
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/script/command/CounterCommand.kt" timestamp="1558515505121">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/repository/ReleaseRepository.kt" timestamp="1552621458059">
         <mark key="'" line="19" column="0" />
         <mark key="[" line="10" column="30" />
@@ -1708,7 +1706,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="25" filename="D:/project/musicbible/common/src/main/resources/db/migration/V30__remove video attitude.sql" />
       <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/resources/db/migration/V30__remove video attitude.sql" />
       <jump line="121" column="8" filename="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/controller/CommentController.kt" />
       <jump line="23" column="37" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/ModelEnum.kt" />
@@ -1808,6 +1805,7 @@
       <jump line="106" column="4" filename="D:/project/musicbible/frontend-api/src/main/resources/application.yml" />
       <jump line="0" column="0" filename="D:/project/musicbible/docker-compose.yml" />
       <jump line="15" column="1" filename="D:/project/musicbible/frontend-api/src/main/resources/application-production.yml" />
+      <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/script/command/CounterCommand.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1820,7 +1818,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>mail</text>
+        <text>releaseCount</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">YXBwOgogIHJlcG9ydC1leGNlcHRpb246IHRydWUK</text>
@@ -1856,13 +1854,13 @@
         <text encoding="base64">aW1wb3J0IGphdmEudGltZS5Mb2NhbERhdGVUaW1lCg==</text>
       </register>
       <register name=":" type="4">
-        <text>74</text>
+        <text>27</text>
       </register>
     </registers>
     <search>
-      <last-search>mail</last-search>
+      <last-search>releaseCount</last-search>
       <last-offset />
-      <last-pattern>mail</last-pattern>
+      <last-pattern>releaseCount</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxsaXN0V2l0aEF0dGl0dWRlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1870,7 +1868,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb21tZW50X2NvdW50XD4=</entry>
         <entry encoding="base64">XDxkaXNsaWtlX2NvdW50XD4=</entry>
         <entry encoding="base64">XDxsaWtlX2NvdW50XD4=</entry>
         <entry>content</entry>
@@ -1890,9 +1887,9 @@
         <entry encoding="base64">XDxVcmxXcml0ZXJcPg==</entry>
         <entry encoding="base64">XDxtYWlsU2VydmljZVw+</entry>
         <entry>mail</entry>
+        <entry>releaseCount</entry>
       </history-search>
       <history-cmd>
-        <entry>8</entry>
         <entry>130</entry>
         <entry>17</entry>
         <entry>84</entry>
@@ -1912,6 +1909,7 @@
         <entry>51</entry>
         <entry>48</entry>
         <entry>74</entry>
+        <entry>27</entry>
       </history-cmd>
       <history-expr />
       <history-input />

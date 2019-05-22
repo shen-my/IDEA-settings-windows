@@ -48,8 +48,8 @@
         <mark key="." line="30" column="28" />
         <mark key="^" line="30" column="28" />
       </file>
-      <file name="D:/project/musicbible/common-mvc/src/main/kotlin/com/musicbible/common/ExceptionHandler.kt" timestamp="1557398010359">
-        <mark key="'" line="34" column="80" />
+      <file name="D:/project/musicbible/common-mvc/src/main/kotlin/com/musicbible/common/ExceptionHandler.kt" timestamp="1558484580969">
+        <mark key="'" line="29" column="17" />
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="^" line="34" column="80" />
@@ -1601,7 +1601,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="0" filename="D:/project/musicbible/common/src/main/resources/db/migration/V23__refactor attitude.sql" />
       <jump line="57" column="0" filename="D:/project/musicbible/common/src/main/resources/db/migration/V23__refactor attitude.sql" />
       <jump line="61" column="0" filename="D:/project/musicbible/common/src/main/resources/db/migration/V23__refactor attitude.sql" />
       <jump line="48" column="10" filename="D:/project/musicbible/common/src/main/resources/db/migration/V23__refactor attitude.sql" />
@@ -1701,6 +1700,7 @@
       <jump line="254" column="25" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" />
       <jump line="262" column="11" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" />
       <jump line="30" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Video.kt" />
+      <jump line="29" column="17" filename="D:/project/musicbible/common-mvc/src/main/kotlin/com/musicbible/common/ExceptionHandler.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1713,7 +1713,7 @@
         <text>fuck</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzd2FwTW92ZW1lbnRPcmRlclw+</text>
+        <text encoding="base64">XDxtYWlsU2VydmljZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZhciBwYXJlbnQ6IENvbW1lbnRQYXJlbnRPdXRwdXQ/ID0gbnVsbCwK</text>
@@ -1753,9 +1753,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzd2FwTW92ZW1lbnRPcmRlclw+</last-search>
+      <last-search encoding="base64">XDxtYWlsU2VydmljZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzd2FwTW92ZW1lbnRPcmRlclw+</last-pattern>
+      <last-pattern encoding="base64">XDxtYWlsU2VydmljZVw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxsaXN0V2l0aEF0dGl0dWRlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1763,7 +1763,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmaW5hbEF0dGl0dWRlQWN0aW9uXD4=</entry>
         <entry encoding="base64">XDxsYXN0QXR0aXR1ZGVBY3Rpb25cPg==</entry>
         <entry encoding="base64">XDxsaXN0V2l0aEF0dGl0dWRlXD4=</entry>
         <entry encoding="base64">XDxyb290XD4=</entry>
@@ -1783,6 +1782,7 @@
         <entry>order</entry>
         <entry encoding="base64">XDxiYXRjaFN3YXBUcmFja09yZGVyXD4=</entry>
         <entry encoding="base64">XDxzd2FwTW92ZW1lbnRPcmRlclw+</entry>
+        <entry encoding="base64">XDxtYWlsU2VydmljZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>8</entry>

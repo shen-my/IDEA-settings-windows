@@ -1432,11 +1432,12 @@
         <mark key="." line="98" column="37" />
         <mark key="^" line="98" column="37" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/config/properties/ExceptionReporter.kt" timestamp="1558498490502">
-        <mark key="[" line="24" column="35" />
-        <mark key="]" line="24" column="35" />
-        <mark key="." line="24" column="35" />
-        <mark key="^" line="24" column="35" />
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/config/properties/ExceptionReporter.kt" timestamp="1558504572127">
+        <mark key="'" line="24" column="31" />
+        <mark key="[" line="27" column="31" />
+        <mark key="]" line="27" column="37" />
+        <mark key="^" line="27" column="37" />
+        <mark key="." line="27" column="37" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/mapper/recording/RecordingOutput.kt" timestamp="1553762305677">
         <mark key="'" line="34" column="6" />
@@ -1615,7 +1616,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="7" filename="D:/project/musicbible/common/src/main/resources/db/migration/V24__refactor comment.sql" />
       <jump line="26" column="4" filename="D:/project/musicbible/common/src/main/resources/db/migration/V25__refactor appreciation.sql" />
       <jump line="25" column="0" filename="D:/project/musicbible/common/src/main/resources/db/migration/V25__refactor appreciation.sql" />
       <jump line="6" column="0" filename="D:/project/musicbible/common/src/main/resources/db/migration/V25__refactor appreciation.sql" />
@@ -1715,16 +1715,17 @@
       <jump line="10" column="34" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/ExceptionReportRender.kt" />
       <jump line="84" column="76" filename="D:/project/musicbible/common-mvc/src/main/kotlin/com/musicbible/common/ExceptionHandler.kt" />
       <jump line="29" column="17" filename="D:/project/musicbible/common-mvc/src/main/kotlin/com/musicbible/common/ExceptionHandler.kt" />
+      <jump line="25" column="31" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/config/properties/ExceptionReporter.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQgdmFsIGphdmFNYWlsU2VuZGVyOiBKYXZhTWFpbFNlbmRlciwK</text>
+      <register name="&quot;" type="4">
+        <text>.reader</text>
       </register>
       <register name="b" type="4">
         <text>jjjjjjjjkkkkkkkkkj^</text>
       </register>
       <register name="-" type="4">
-        <text>ZonedDateTime</text>
+        <text>.reader</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYWlsU2VydmljZVw+</text>
@@ -1733,31 +1734,31 @@
         <text encoding="base64">ICAgIEBBdXRvd2lyZWQgdmFsIGphdmFNYWlsU2VuZGVyOiBKYXZhTWFpbFNlbmRlciwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCAK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5ib29zdGZpZWxkLnNwcmluZy51dGlsLlJlcXVlc3RIZWxwZXIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCAK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hbGl5dW4ub3NzLmNvbW1vbi51dGlscy5IdHRwVXRpbAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIHZhbCAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dmFsIFRocm93YWJsZS5zdGFja1RyYWNlU3RyaW5nOiBTdHJpbmcKICAgIGdldCgpIHsKICAgICAgICB2YWwgd3JpdGVyID0gU3RyaW5nV3JpdGVyKCkKICAgICAgICB2YWwgcHJpbnRlciA9IFByaW50V3JpdGVyKHdyaXRlcikKICAgICAgICB0aGlzLnByaW50U3RhY2tUcmFjZShwcmludGVyKQogICAgICAgIHJldHVybiB3cml0ZXIudG9TdHJpbmcoKQogICAgfQoK</text>
+        <text encoding="base64">ICAgIHZhbCAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZ1biByZXBvcnQoKQo=</text>
+        <text encoding="base64">ICAgIHZhbCAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmFsIFRocm93YWJsZS5zdGFja1RyYWNlU3RyaW5nOiBTdHJpbmcKICAgIGdldCgpIHsKICAgICAgICB2YWwgd3JpdGVyID0gU3RyaW5nV3JpdGVyKCkKICAgICAgICB2YWwgcHJpbnRlciA9IFByaW50V3JpdGVyKHdyaXRlcikKICAgICAgICB0aGlzLnByaW50U3RhY2tUcmFjZShwcmludGVyKQogICAgICAgIHJldHVybiB3cml0ZXIudG9TdHJpbmcoKQogICAgfQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZ1biByZXBvcnQoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKGFwcCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>

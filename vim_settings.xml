@@ -383,8 +383,8 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="21" column="30" />
       </file>
-      <file name="D:/project/musicbible/docker-compose.yml" timestamp="1558514008156">
-        <mark key="'" line="0" column="0" />
+      <file name="D:/project/musicbible/docker-compose.yml" timestamp="1558598127279">
+        <mark key="'" line="57" column="42" />
       </file>
       <file name="D:/project/musicbible/common/build.gradle" timestamp="1558508535864">
         <mark key="[" line="17" column="0" />
@@ -664,6 +664,9 @@
         <mark key="]" line="6" column="35" />
         <mark key="^" line="13" column="58" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="D:/project/aliyun-green-spring-boot-starter/src/main/kotlin/com/boostfield/aliyun/green/AliyunGreenProperties.kt" timestamp="1558598423966">
+        <mark key="[" line="2" column="0" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/LabelService.kt" timestamp="1557381141455">
         <mark key="'" line="243" column="17" />
@@ -1271,11 +1274,11 @@
         <mark key="." line="40" column="45" />
         <mark key="^" line="40" column="45" />
       </file>
-      <file name="D:/project/aliyun-green-spring-boot-starter/src/main/kotlin/com/boostfield/aliyun/green/AliyunGreenService.kt" timestamp="1558596677636">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="6" column="7" />
-        <mark key="^" line="6" column="7" />
-        <mark key="." line="6" column="7" />
+      <file name="D:/project/aliyun-green-spring-boot-starter/src/main/kotlin/com/boostfield/aliyun/green/AliyunGreenService.kt" timestamp="1558598034258">
+        <mark key="[" line="46" column="20" />
+        <mark key="]" line="46" column="29" />
+        <mark key="^" line="46" column="29" />
+        <mark key="." line="46" column="29" />
       </file>
       <file name="D:/project/musicbible/bin/upgrade-web-server.sh" timestamp="1557485266042">
         <mark key="'" line="17" column="0" />
@@ -1730,7 +1733,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="37" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/ModelEnum.kt" />
       <jump line="24" column="34" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/ModelEnum.kt" />
       <jump line="26" column="37" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/ModelEnum.kt" />
       <jump line="29" column="17" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/ModelEnum.kt" />
@@ -1830,6 +1832,7 @@
       <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/script/command/CounterCommand.kt" />
       <jump line="52" column="8" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" />
       <jump line="28" column="26" filename="D:/project/aliyun-green-spring-boot-starter/build.gradle" />
+      <jump line="57" column="42" filename="D:/project/musicbible/docker-compose.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1839,10 +1842,10 @@
         <text>jjjjjjjjkkkkkkkkkj^</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>recognitionClient</text>
       </register>
       <register name="/" type="4">
-        <text>starter</text>
+        <text>ali</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">aW1wbGVtZW50YXRpb24g</text>
@@ -1854,37 +1857,37 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlkICdvcmcuamV0YnJhaW5zLmtvdGxpbi5qdm0nIHZlcnNpb24gJzEuMy4yMScK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgQUxJWVVOX0FDQ0VTU19LRVlfSUQgPSAiPHlvdXJBY2Nlc3NLZXlJZD4iCiAgICAgICAgU3RyaW5nIEFMSVlVTl9BQ0NFU1NfS0VZX1NFQ1JFVCA9ICI8eW91ckFjY2Vzc0tleVNlY3JldD4iOwogICAgICAgIFN0cmluZyBSRUdJT05fSUQgPSAiY24tc2hhbmdoYWkiOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIEFwcGx5IHRoZSBLb3RsaW4gSlZNIHBsdWdpbiB0byBhZGQgc3VwcG9ydCBmb3IgS290bGluIG9uIHRoZSBKVk0uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cGx1Z2lucyB7Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">ICAgIGlkICdvcmcuamV0YnJhaW5zLmtvdGxpbi5qdm0nIHZlcnNpb24gJzEuMy4yMScK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">ICAgIC8vIEFwcGx5IHRoZSBLb3RsaW4gSlZNIHBsdWdpbiB0byBhZGQgc3VwcG9ydCBmb3IgS290bGluIG9uIHRoZSBKVk0uCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">cGx1Z2lucyB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">ICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name=":" type="4">
         <text>27</text>
       </register>
     </registers>
     <search>
-      <last-search>starter</last-search>
+      <last-search>ali</last-search>
       <last-offset />
-      <last-pattern>starter</last-pattern>
+      <last-pattern>ali</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxsaXN0V2l0aEF0dGl0dWRlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1892,7 +1895,6 @@
     </search>
     <history>
       <history-search>
-        <entry>content</entry>
         <entry encoding="base64">XDxjb21tZW5kX2xldmVsXD4=</entry>
         <entry>rename</entry>
         <entry>likeCount</entry>
@@ -1912,6 +1914,7 @@
         <entry>releaseCount</entry>
         <entry encoding="base64">XDx1cGRhdGVHZW5yZXNcPg==</entry>
         <entry>starter</entry>
+        <entry>ali</entry>
       </history-search>
       <history-cmd>
         <entry>130</entry>

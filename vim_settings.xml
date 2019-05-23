@@ -606,12 +606,6 @@
         <mark key="]" line="91" column="0" />
         <mark key="." line="91" column="0" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ExceptionReporter.kt" timestamp="1558513288486">
-        <mark key="'" line="87" column="21" />
-        <mark key="[" line="55" column="1" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="D:/project/musicbible/.env" timestamp="1554952172426">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="12" column="16" />
@@ -852,12 +846,6 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="16" column="115" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/CommentService.kt" timestamp="1558343412727">
-        <mark key="'" line="52" column="21" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
-      </file>
       <file name="/fragment.java" timestamp="1558513377392">
         <mark key="[" line="0" column="0" />
       </file>
@@ -963,6 +951,13 @@
         <mark key="]" line="19" column="14" />
         <mark key="^" line="19" column="14" />
         <mark key="." line="19" column="14" />
+      </file>
+      <file name="D:/project/aliyun-green-spring-boot-starter/build.gradle" timestamp="1558596522684">
+        <mark key="'" line="89" column="26" />
+        <mark key="[" line="50" column="13" />
+        <mark key="]" line="46" column="0" />
+        <mark key="^" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="D:/project/discogs-data/src/main/kotlin/com/musicbible/discogsdata/command/ReleaseXmlParser.kt" timestamp="1556607792046">
         <mark key="'" line="328" column="35" />
@@ -1275,6 +1270,12 @@
         <mark key="]" line="40" column="45" />
         <mark key="." line="40" column="45" />
         <mark key="^" line="40" column="45" />
+      </file>
+      <file name="D:/project/aliyun-green-spring-boot-starter/src/main/kotlin/com/boostfield/aliyun/green/AliyunGreenService.kt" timestamp="1558596677636">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="6" column="7" />
+        <mark key="^" line="6" column="7" />
+        <mark key="." line="6" column="7" />
       </file>
       <file name="D:/project/musicbible/bin/upgrade-web-server.sh" timestamp="1557485266042">
         <mark key="'" line="17" column="0" />
@@ -1729,7 +1730,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="121" column="8" filename="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/controller/CommentController.kt" />
       <jump line="23" column="37" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/ModelEnum.kt" />
       <jump line="24" column="34" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/ModelEnum.kt" />
       <jump line="26" column="37" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/ModelEnum.kt" />
@@ -1829,52 +1829,53 @@
       <jump line="15" column="1" filename="D:/project/musicbible/frontend-api/src/main/resources/application-production.yml" />
       <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/script/command/CounterCommand.kt" />
       <jump line="52" column="8" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" />
+      <jump line="28" column="26" filename="D:/project/aliyun-green-spring-boot-starter/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tdXNpY2JpYmxlLnNlcnZpY2UuS0VZX0NBVEVHT1JZX1VQREFURV9USU1FU1RBTVAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <text>jjjjjjjjkkkkkkkkkj^</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>starter</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZHJvcCB0YWJsZSBhcnRpc3RfY29tbWVudDsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">aW1wbGVtZW50YXRpb24g</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tdXNpY2JpYmxlLnNlcnZpY2UuS0VZX0NBVEVHT1JZX1VQREFURV9USU1FU1RBTVAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXRjaENvbGxlY3Rpb24od29yay5nZW5yZXMsIGdlbnJlcywgZ2VucmVTZXJ2aWNlOjpkZWxldGUsIGdlbnJlU2VydmljZTo6c2F2ZSkK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlkICdvcmcuamV0YnJhaW5zLmtvdGxpbi5qdm0nIHZlcnNpb24gJzEuMy4yMScK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">KiBjb21tb24tbXZjIKGqoaogsb7P7sS/xNogbXZjILLjw+a5q9PDtPrC6wo=</text>
+        <text encoding="base64">ICAgIC8vIEFwcGx5IHRoZSBLb3RsaW4gSlZNIHBsdWdpbiB0byBhZGQgc3VwcG9ydCBmb3IgS290bGluIG9uIHRoZSBKVk0uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW5jbHVkZSAnY29tbW9uLW12YycK</text>
+        <text encoding="base64">cGx1Z2lucyB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIHByb2plY3QoJzpjb21tb24tbXZjJykK</text>
+        <text encoding="base64">ICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIHByb2plY3QoJzpjb21tb24tbXZjJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bWFpbDoKICBhY3RpdmU6IHByb2R1Y3Rpb24KICByZWNlaXZlcnM6CiAgICAtIHl1d2VpYmluQGJvb3N0ZmllbGQuY29tCiAgICAtIHNoZW5teUBib29zdGZpZWxkLmNvbQogICAgLSBodWFuZ3dlbmhlQGJvb3N0ZmllbGQuY29tCiAgICAtIHFpbmdwZW5nY2hlbkBib29zdGZpZWxkLmNvbQogICAgLSBjaGVuamlhbmh1aUBib29zdGZpZWxkLmNvbQogIHN1YmplY3Q6IMewzKgt0uyzo7GouOYKCg==</text>
+        <text encoding="base64">ICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bWFpbDoKICBhY3RpdmU6IHByb2R1Y3Rpb24KICByZWNlaXZlcnM6CiAgICAtIHl1d2VpYmluQGJvb3N0ZmllbGQuY29tCiAgICAtIHNoZW5teUBib29zdGZpZWxkLmNvbQogICAgLSBodWFuZ3dlbmhlQGJvb3N0ZmllbGQuY29tCiAgICAtIHFpbmdwZW5nY2hlbkBib29zdGZpZWxkLmNvbQogICAgLSBjaGVuamlhbmh1aUBib29zdGZpZWxkLmNvbQogIHN1YmplY3Q6ILrzzKgt0uyzo7GouOYKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>27</text>

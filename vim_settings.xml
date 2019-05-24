@@ -38,8 +38,8 @@
         <mark key="^" line="32" column="16" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" timestamp="1558658466482">
-        <mark key="'" line="75" column="8" />
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" timestamp="1558679718322">
+        <mark key="'" line="155" column="24" />
         <mark key="[" line="160" column="0" />
         <mark key="]" line="160" column="0" />
         <mark key="." line="160" column="0" />
@@ -542,12 +542,7 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="7" column="14" />
       </file>
-      <file name="D:/project/aliyun-green-spring-boot-starter/src/test/kotlin/com/boostfield/aliyun/green/ServiceTest.kt" timestamp="1558670069915">
-        <mark key="[" line="17" column="74" />
-        <mark key="]" line="17" column="82" />
-        <mark key="." line="17" column="82" />
-        <mark key="^" line="17" column="82" />
-      </file>
+      <file name="D:/project/aliyun-green-spring-boot-starter/src/test/kotlin/com/boostfield/aliyun/green/ServiceTest.kt" timestamp="1558680419529" />
       <file name="D:/project/discogs-data/settings.gradle" timestamp="1556612701414">
         <mark key="'" line="5" column="19" />
         <mark key="[" line="1" column="0" />
@@ -1093,7 +1088,7 @@
         <mark key="^" line="132" column="65" />
         <mark key="." line="124" column="0" />
       </file>
-      <file name="D:/project/discogs-data/common/src/main/kotlin/com/musicbible/discogsdata/model/Release.kt" timestamp="1558668780624">
+      <file name="D:/project/discogs-data/common/src/main/kotlin/com/musicbible/discogsdata/model/Release.kt" timestamp="1558679545447">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="29" column="29" />
         <mark key="." line="18" column="0" />
@@ -1289,12 +1284,12 @@
         <mark key="." line="40" column="45" />
         <mark key="^" line="40" column="45" />
       </file>
-      <file name="D:/project/aliyun-green-spring-boot-starter/src/main/kotlin/com/boostfield/aliyun/green/AliyunGreenService.kt" timestamp="1558670137919">
+      <file name="D:/project/aliyun-green-spring-boot-starter/src/main/kotlin/com/boostfield/aliyun/green/AliyunGreenService.kt" timestamp="1558680449528">
         <mark key="'" line="5" column="0" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
-        <mark key="^" line="47" column="87" />
+        <mark key="[" line="77" column="116" />
+        <mark key="]" line="77" column="124" />
+        <mark key="." line="77" column="124" />
+        <mark key="^" line="77" column="124" />
       </file>
       <file name="D:/project/musicbible/bin/upgrade-web-server.sh" timestamp="1557485266042">
         <mark key="'" line="17" column="0" />
@@ -1750,7 +1745,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="76" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" />
       <jump line="299" column="29" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" />
       <jump line="291" column="36" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" />
       <jump line="75" column="8" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
@@ -1850,16 +1844,17 @@
       <jump line="108" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.10/35dcae32cc1c3bfb62546e64b90fc6359183b3b5/httpcore-4.4.10-sources.jar!/org/apache/http/HttpException.java" />
       <jump line="85" column="15" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.aliyun/aliyun-java-sdk-core/4.1.1/bff706dcfd2d223c7c92b56d2b354a10a3bd181e/aliyun-java-sdk-core-4.1.1-sources.jar!/com/aliyuncs/DefaultAcsClient.java" />
       <jump line="5" column="0" filename="D:/project/aliyun-green-spring-boot-starter/src/main/kotlin/com/boostfield/aliyun/green/AliyunGreenService.kt" />
+      <jump line="155" column="24" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhbCBwb3NpdGlvbjogU3RyaW5nID0gIiIsCiAgICB2YWwgdGl0bGU6IFN0cmluZyA9ICIiLAogICAgdmFsIGR1cmF0aW9uOiBTdHJpbmcgPSAiIgo=</text>
+      <register name="&quot;" type="4">
+        <text>substring(0, 100))</text>
       </register>
       <register name="b" type="4">
         <text>jjjjjjjjkkkkkkkkkj^</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>substring(0, 100))</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDbGllbnRFeGNlcHRpb25cPg==</text>
@@ -1868,34 +1863,34 @@
         <text encoding="base64">ICAgIHZhbCBwb3NpdGlvbjogU3RyaW5nID0gIiIsCiAgICB2YWwgdGl0bGU6IFN0cmluZyA9ICIiLAogICAgdmFsIGR1cmF0aW9uOiBTdHJpbmcgPSAiIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBjYXRhbG9nTnVtYmVyOiBTdHJpbmcgPSAiIgo=</text>
+        <text encoding="base64">ICAgICAgICB0ZXh0LnRyaW0oKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuCg==</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKEpTT04udG9KU09OU3RyaW5nKHNjclJlc3BvbnNlLCB0cnVlKSkK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gU2NhblRleHRSZXN1bHQoCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0YXNrWyJhYmMiXSAK</text>
+        <text encoding="base64">ICAgIHZhbCBjYXRhbG9nTnVtYmVyOiBTdHJpbmcgPSAiIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKHJlc3VsdCkK</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmZhc3Rqc29uLkpTT05BcnJheQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKEpTT04udG9KU09OU3RyaW5nKHNjclJlc3BvbnNlLCB0cnVlKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKCJmdWNrIikK</text>
+        <text encoding="base64">ICAgICAgICB0YXNrWyJhYmMiXSAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKHJlc3VsdCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmZhc3Rqc29uLkpTT05BcnJheQo=</text>
       </register>
       <register name=":" type="4">
         <text>62</text>

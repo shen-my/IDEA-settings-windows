@@ -1281,12 +1281,12 @@
         <mark key="^" line="18" column="65" />
         <mark key="." line="18" column="65" />
       </file>
-      <file name="D:/project/musicbible/frontend-api/src/test/kotlin/com/musicbible/controller/v1/CommentV1ControllerTest.kt" timestamp="1557990350597">
-        <mark key="'" line="145" column="0" />
-        <mark key="[" line="149" column="43" />
-        <mark key="]" line="149" column="43" />
-        <mark key="." line="149" column="43" />
-        <mark key="^" line="160" column="64" />
+      <file name="D:/project/musicbible/frontend-api/src/test/kotlin/com/musicbible/controller/v1/CommentV1ControllerTest.kt" timestamp="1559039510697">
+        <mark key="'" line="85" column="0" />
+        <mark key="[" line="94" column="43" />
+        <mark key="]" line="94" column="35" />
+        <mark key="." line="94" column="35" />
+        <mark key="^" line="94" column="35" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/factory/CatalogFactory.kt" timestamp="1550140568432">
         <mark key="'" line="14" column="11" />
@@ -1796,7 +1796,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="299" column="29" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" />
       <jump line="291" column="36" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" />
       <jump line="75" column="8" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
       <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" />
@@ -1896,10 +1895,11 @@
       <jump line="85" column="15" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.aliyun/aliyun-java-sdk-core/4.1.1/bff706dcfd2d223c7c92b56d2b354a10a3bd181e/aliyun-java-sdk-core-4.1.1-sources.jar!/com/aliyuncs/DefaultAcsClient.java" />
       <jump line="5" column="0" filename="D:/project/aliyun-green-spring-boot-starter/src/main/kotlin/com/boostfield/aliyun/green/AliyunGreenService.kt" />
       <jump line="155" column="24" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
+      <jump line="84" column="0" filename="D:/project/musicbible/frontend-api/src/test/kotlin/com/musicbible/controller/v1/CommentV1ControllerTest.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGlkIGluIGFycmF5T2YoInJlbGVhc2VfYXBwcmVjaWF0aW9uIiwgImFydGlzdF9hcHByZWNpYXRpb24iLCAid29ya19hcHByZWNpYXRpb24iKSkKICAgICAgICAgICAgICAgIHJldHVybiBBcHByZWNpYXRpb24K</text>
+        <text encoding="base64">ICAgICAgICAKCg==</text>
       </register>
       <register name="b" type="4">
         <text>jjjjjjjjkkkkkkkkkj^</text>
@@ -1911,37 +1911,37 @@
         <text encoding="base64">XDxDbGllbnRFeGNlcHRpb25cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tdXNpY2JpYmxlLnJlbGVhc2VyZXBvLnRocmlmdC5SZWxlYXNlUmVwbwo=</text>
+        <text encoding="base64">ICAgICAgICBkZWxldGUoIi9hcGkvdjEvY29tbWVudC8ke2NvbW1lbnQuaWR9IikKICAgICAgICAgICAgLmFuZEV4cGVjdChzdGF0dXMoKS5pc0ZvcmJpZGRlbikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGlkIGluIGFycmF5T2YoInJlbGVhc2VfYXBwcmVjaWF0aW9uIiwgImFydGlzdF9hcHByZWNpYXRpb24iLCAid29ya19hcHByZWNpYXRpb24iKSkKICAgICAgICAgICAgICAgIHJldHVybiBBcHByZWNpYXRpb24K</text>
+        <text encoding="base64">ICAgICAgICAKCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBGaWxlV3JpdGVyKCIvaG9tZS9zbXkvZGF0YS9mdWNrLmh0bWwiKQogICAgICAgICAgICAudXNlIHsKICAgICAgICAgICAgICAgIGl0LndyaXRlKHJlbmRlcmVyLnJlbmRlcigpKQogICAgICAgICAgICB9Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICogVGhpcyBLb3RsaW4gc291cmNlIGZpbGUgd2FzIGdlbmVyYXRlZCBieSB0aGUgR3JhZGxlICdpbml0JyB0YXNrLgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbXV0YWJsZUxpc3RPZigiZnVjayIpCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="7" type="2">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dpbigpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGlkIGluIGFycmF5T2YoInJlbGVhc2VfYXBwcmVjaWF0aW9uIiwgImFydGlzdF9hcHByZWNpYXRpb24iLCAid29ya19hcHByZWNpYXRpb24iKSkKICAgICAgICAgICAgICAgIHJldHVybiBBcHByZWNpYXRpb24K</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBGaWxlV3JpdGVyKCIvaG9tZS9zbXkvZGF0YS9mdWNrLmh0bWwiKQogICAgICAgICAgICAudXNlIHsKICAgICAgICAgICAgICAgIGl0LndyaXRlKHJlbmRlcmVyLnJlbmRlcigpKQogICAgICAgICAgICB9Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICogVGhpcyBLb3RsaW4gc291cmNlIGZpbGUgd2FzIGdlbmVyYXRlZCBieSB0aGUgR3JhZGxlICdpbml0JyB0YXNrLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbXV0YWJsZUxpc3RPZigiZnVjayIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUudGhyaWZ0LnNlcnZlci5UU2ltcGxlU2VydmVyCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>62</text>

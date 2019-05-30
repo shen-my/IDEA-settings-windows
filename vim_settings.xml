@@ -901,12 +901,12 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="46" column="5" />
       </file>
-      <file name="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/CreateSitemap.kt" timestamp="1558494120913">
-        <mark key="'" line="19" column="6" />
-        <mark key="[" line="93" column="34" />
-        <mark key="]" line="93" column="35" />
-        <mark key="." line="93" column="35" />
-        <mark key="^" line="93" column="35" />
+      <file name="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/CreateSitemap.kt" timestamp="1559199816665">
+        <mark key="'" line="62" column="0" />
+        <mark key="[" line="126" column="0" />
+        <mark key="]" line="126" column="0" />
+        <mark key="." line="126" column="0" />
+        <mark key="^" line="129" column="47" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/BillboardReleaseService.kt" timestamp="1550216538759">
         <mark key="'" line="15" column="8" />
@@ -1733,16 +1733,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="D:/project/scratch/src/main/kotlin/smy/scratch/App.kt" />
-      <jump line="8" column="10" filename="D:/project/scratch/src/main/kotlin/smy/scratch/App.kt" />
-      <jump line="10" column="7" filename="D:/project/scratch/src/main/kotlin/smy/scratch/ExceptionReportRender.kt" />
-      <jump line="22" column="8" filename="D:/project/scratch/src/main/kotlin/smy/scratch/ExceptionReportRender.kt" />
-      <jump line="28" column="18" filename="D:/project/scratch/src/main/kotlin/smy/scratch/ExceptionReportRender.kt" />
-      <jump line="32" column="30" filename="D:/project/scratch/src/main/kotlin/smy/scratch/ExceptionReportRender.kt" />
-      <jump line="149" column="33" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/CreateSitemap.kt" />
-      <jump line="22" column="4" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/CreateSitemap.kt" />
-      <jump line="19" column="6" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/CreateSitemap.kt" />
-      <jump line="33" column="14" filename="D:/project/scratch/src/main/kotlin/smy/scratch/ExceptionReportRender.kt" />
       <jump line="27" column="0" filename="D:/project/scratch/src/main/kotlin/smy/scratch/ExceptionReportRender.kt" />
       <jump line="23" column="0" filename="D:/project/scratch/src/main/kotlin/smy/scratch/ExceptionReportRender.kt" />
       <jump line="16" column="0" filename="D:/project/scratch/src/main/kotlin/smy/scratch/ExceptionReportRender.kt" />
@@ -1833,52 +1823,62 @@
       <jump line="21" column="8" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/CommentService.kt" />
       <jump line="86" column="15" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/CommentService.kt" />
       <jump line="34" column="8" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/CommentService.kt" />
+      <jump line="126" column="37" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/CreateSitemap.kt" />
+      <jump line="0" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/CreateSitemap.kt" />
+      <jump line="1" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/CreateSitemap.kt" />
+      <jump line="14" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/CreateSitemap.kt" />
+      <jump line="18" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/CreateSitemap.kt" />
+      <jump line="29" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/CreateSitemap.kt" />
+      <jump line="38" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/CreateSitemap.kt" />
+      <jump line="43" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/CreateSitemap.kt" />
+      <jump line="50" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/CreateSitemap.kt" />
+      <jump line="61" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/CreateSitemap.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>orElse(null)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <text>jjjjjjjjkkkkkkkkkj^</text>
       </register>
       <register name="-" type="4">
-        <text>orElse(null)</text>
+        <text>label</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaW5kVGFyZ2V0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkZWxldGUoIi9hcGkvdjEvY29tbWVudC8ke2NvbW1lbnQuaWR9IikKICAgICAgICAgICAgLmFuZEV4cGVjdChzdGF0dXMoKS5pc0ZvcmJpZGRlbikK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gd3JpdGVyLmZpbGVzLm1hcCB7IGl0LnRvUmVsYXRpdmVTdHJpbmcoZGlyKSB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZ1biBmaW5kQnlJZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBmaW5kQnlJZChpZDogVVVJRCk6IFQ/Cg==</text>
+        <text encoding="base64">ICAgIGZ1biBmaW5kQnlJZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhcnRpc3RTZXJ2aWNlLmZpbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyU2VydmljZS5mCg==</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBmaW5kQnlJZChpZDogVVVJRCk6IFQ/Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhcnRpc3RTZXJ2aWNlLmZpbmQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB1c2VyU2VydmljZS5mCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBVVUlELnJhbmRvbVVVSUQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKGNvbW1lbnQuY3JlYXRlZEJ5KQogICAgICAgIHByaW50bG4odXNlcikKICAgICAgICBwcmludGxuKGNvbW1lbnQuY3JlYXRlZEJ5ID09IHVzZXIpCiAgICAgICAgcHJpbnRsbihjb21tZW50LmNyZWF0ZWRCeS5pZCkKICAgICAgICBwcmludGxuKHVzZXIuaWQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>62</text>

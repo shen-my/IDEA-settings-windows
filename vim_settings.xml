@@ -17,12 +17,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/App.kt" timestamp="1559209748685">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-        <mark key="^" line="29" column="13" />
+      <file name="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/App.kt" timestamp="1559261591050">
+        <mark key="'" line="42" column="20" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="35" />
       </file>
       <file name="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/FormControllerTest.kt" timestamp="1558519423039">
         <mark key="[" line="8" column="0" />
@@ -142,6 +142,7 @@
         <mark key="." line="21" column="0" />
       </file>
       <file name="D:/project/release-repo-thrift/demo/server/build.gradle" timestamp="1559208873900" />
+      <file name="D:/project/release-repo-thrift/demo/client/client.py" timestamp="1559261499898" />
       <file name="D:/project/common-spring/src/main/kotlin/com/boostfield/spring/persistence/SoftDeletableRepository.kt" timestamp="1559182704378">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -165,7 +166,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="D:/project/musicbible/backend-api/src/main/resources/application.yml" />
       <jump line="65" column="23" filename="D:/project/musicbible/common-mvc/src/main/kotlin/com/musicbible/common/mail/MailService.kt" />
       <jump line="0" column="0" filename="D:/project/musicbible/common-mvc/src/main/kotlin/com/musicbible/common/mail/MailService.kt" />
       <jump line="1" column="0" filename="D:/project/musicbible/common-mvc/src/main/kotlin/com/musicbible/common/mail/MailService.kt" />
@@ -265,10 +265,11 @@
       <jump line="32" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/App.kt" />
       <jump line="29" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/App.kt" />
       <jump line="16" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/App.kt" />
+      <jump line="42" column="20" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/App.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0uCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUudGhyaWZ0LnRyYW5zcG9ydC5UCg==</text>
       </register>
       <register name="b" type="4">
         <text>jjjjjjjjkkkkkkkkkj^</text>
@@ -277,57 +278,56 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>slf4j</text>
+        <text encoding="base64">XDxUVHJhbnNwb3J0XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUudGhyaWZ0LnRyYW5zcG9ydC5UVHJhbnNwb3J0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0uCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUudGhyaWZ0LnRyYW5zcG9ydC5UCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0uZXhpdCgxKQo=</text>
+        <text encoding="base64">ICAgIFQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBmb3JtYXR0ZXIgPSBIZWxwRm9ybWF0dGVyKCkKICAgIGZvcm1hdHRlci5wcmludEhlbHAoImFudCIsIG9wdGlvbnMpCg==</text>
+        <text encoding="base64">ICAgICMgQ3JlYXRlIGEgY2xpZW50IHRvIHVzZSB0aGUgcHJvdG9jb2wgZW5jb2Rlcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICMgV3JhcCBpbiBhIHByb3RvY29sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICMgQnVmZmVyaW5nIGlzIGNyaXRpY2FsLiBSYXcgc29ja2V0cyBhcmUgdmVyeSBzbG93Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBmb3JtYXR0ZXIgPSBIZWxwRm9ybWF0dGVyKCkKICAgIGZvcm1hdHRlci5wcmludEhlbHAoImFudCIsIG9wdGlvbnMpCg==</text>
+        <text encoding="base64">ICAgIHRyYW5zcG9ydCA9IFRTb2NrZXQuVFNvY2tldCgnbG9jYWxob3N0JywgOTA5MCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4ob3B0aW9ucy50b1N0cmluZygpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG9wdGlvbnMudGFrZVVubGVzcyB7ICB9LnRvCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tdXNpY2JpYmxlLnJlbGVhc2VyZXBvLnRocmlmdC5SZWxlYXNlUmVwbwo=</text>
       </register>
       <register name=":" type="4">
         <text>62</text>
       </register>
     </registers>
     <search>
-      <last-search>slf4j</last-search>
+      <last-search encoding="base64">XDxUVHJhbnNwb3J0XD4=</last-search>
       <last-offset />
-      <last-pattern>slf4j</last-pattern>
+      <last-pattern encoding="base64">XDxUVHJhbnNwb3J0XD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxsaXN0V2l0aEF0dGl0dWRlXD4=</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>comment</entry>
         <entry encoding="base64">XDx0YXJnZXRSZXBvc2l0b3J5UHJvdmlkZXJcPg==</entry>
         <entry>order</entry>
         <entry encoding="base64">XDxiYXRjaFN3YXBUcmFja09yZGVyXD4=</entry>
@@ -347,6 +347,7 @@
         <entry encoding="base64">XDxmaW5kQnlUYXJnZXRcPg==</entry>
         <entry encoding="base64">XDxmaW5kVGFyZ2V0XD4=</entry>
         <entry>slf4j</entry>
+        <entry encoding="base64">XDxUVHJhbnNwb3J0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>17</entry>

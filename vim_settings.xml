@@ -17,12 +17,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/App.kt" timestamp="1559262475973">
+      <file name="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/App.kt" timestamp="1559269072550">
         <mark key="'" line="42" column="20" />
-        <mark key="[" line="45" column="18" />
-        <mark key="]" line="46" column="3" />
-        <mark key="." line="46" column="3" />
-        <mark key="^" line="46" column="3" />
+        <mark key="[" line="64" column="42" />
+        <mark key="]" line="65" column="26" />
+        <mark key="." line="65" column="26" />
+        <mark key="^" line="65" column="26" />
       </file>
       <file name="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/FormControllerTest.kt" timestamp="1558519423039">
         <mark key="[" line="8" column="0" />
@@ -56,6 +56,12 @@
         <mark key="]" line="91" column="0" />
         <mark key="." line="91" column="0" />
       </file>
+      <file name="D:/project/release-repo-thrift/compile.sh" timestamp="1559270318073">
+        <mark key="[" line="6" column="12" />
+        <mark key="]" line="7" column="30" />
+        <mark key="^" line="7" column="30" />
+        <mark key="." line="7" column="30" />
+      </file>
       <file name="D:/project/discogs-data/command/build.gradle" timestamp="1559206398149" />
       <file name="D:/project/common-spring/src/main/kotlin/com/boostfield/spring/persistence/Base.kt" timestamp="1559094059823">
         <mark key="[" line="45" column="15" />
@@ -68,10 +74,10 @@
         <mark key="]" line="121" column="0" />
         <mark key="." line="121" column="0" />
       </file>
-      <file name="D:/project/discogs-importer/build.gradle" timestamp="1559208884521">
-        <mark key="[" line="39" column="4" />
-        <mark key="]" line="39" column="4" />
-        <mark key="." line="39" column="4" />
+      <file name="D:/project/discogs-importer/build.gradle" timestamp="1559270474403">
+        <mark key="[" line="38" column="57" />
+        <mark key="]" line="38" column="57" />
+        <mark key="." line="38" column="57" />
         <mark key="^" line="39" column="69" />
       </file>
       <file name="D:/project/release-repo-thrift/java-server/settings.gradle" timestamp="1559208465709" />
@@ -93,11 +99,12 @@
         <mark key="^" line="78" column="3" />
         <mark key="." line="106" column="0" />
       </file>
-      <file name="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" timestamp="1559206799602">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="^" line="28" column="33" />
-        <mark key="." line="60" column="0" />
+      <file name="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" timestamp="1559270744411">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="13" column="20" />
+        <mark key="]" line="13" column="34" />
+        <mark key="^" line="13" column="34" />
+        <mark key="." line="13" column="34" />
       </file>
       <file name="D:/project/release-repo-thrift/demo/server/src/main/kotlin/demo/App.kt" timestamp="1558943060248">
         <mark key="[" line="1" column="0" />
@@ -130,7 +137,9 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="D:/project/release-repo-thrift/java-server/build.gradle" timestamp="1559208432933" />
+      <file name="D:/project/release-repo-thrift/java-server/build.gradle" timestamp="1559270164418">
+        <mark key="[" line="13" column="14" />
+      </file>
       <file name="D:/project/discogs-data/common/src/main/kotlin/com/musicbible/discogsdata/model/Release.kt" timestamp="1558679545447">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="29" column="29" />
@@ -159,6 +168,11 @@
         <mark key="]" line="24" column="44" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="D:/project/release-repo-thrift/release.thrift" timestamp="1559270696641">
+        <mark key="[" line="27" column="17" />
+        <mark key="]" line="27" column="17" />
+        <mark key="." line="27" column="17" />
+      </file>
       <file name="D:/project/common-spring/src/main/kotlin/com/boostfield/spring/persistence/BaseRepository.kt" timestamp="1559182728336">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -166,25 +180,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="23" filename="D:/project/musicbible/common-mvc/src/main/kotlin/com/musicbible/common/mail/MailService.kt" />
-      <jump line="0" column="0" filename="D:/project/musicbible/common-mvc/src/main/kotlin/com/musicbible/common/mail/MailService.kt" />
-      <jump line="1" column="0" filename="D:/project/musicbible/common-mvc/src/main/kotlin/com/musicbible/common/mail/MailService.kt" />
-      <jump line="29" column="22" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/config/properties/ExceptionReporter.kt" />
-      <jump line="89" column="0" filename="D:/project/musicbible/common-mvc/src/main/kotlin/com/musicbible/common/ExceptionHandler.kt" />
-      <jump line="0" column="0" filename="D:/project/musicbible/common-mvc/src/main/kotlin/com/musicbible/common/ExceptionHandler.kt" />
-      <jump line="1" column="0" filename="D:/project/musicbible/common-mvc/src/main/kotlin/com/musicbible/common/ExceptionHandler.kt" />
-      <jump line="0" column="0" filename="D:/project/musicbible/common-mvc/build.gradle" />
-      <jump line="45" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/ExceptionReportRender.kt" />
-      <jump line="227" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/ExceptionReportRender.kt" />
-      <jump line="228" column="11" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context-support/5.1.3.RELEASE/9bcab096ee89d31ed2e24e497c87244fc0e415dd/spring-context-support-5.1.3.RELEASE-sources.jar!/org/springframework/mail/javamail/MimeMessageHelper.java" />
-      <jump line="84" column="111" filename="D:/project/musicbible/common-mvc/src/main/kotlin/com/musicbible/common/ExceptionHandler.kt" />
-      <jump line="38" column="14" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/ExceptionReportRender.kt" />
-      <jump line="7" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/ExceptionReportRender.kt" />
-      <jump line="2" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/ExceptionReportRender.kt" />
-      <jump line="6" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/ExceptionReportRender.kt" />
-      <jump line="12" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/ExceptionReportRender.kt" />
-      <jump line="15" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/ExceptionReportRender.kt" />
-      <jump line="22" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/ExceptionReportRender.kt" />
       <jump line="27" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/ExceptionReportRender.kt" />
       <jump line="33" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/ExceptionReportRender.kt" />
       <jump line="39" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/ExceptionReportRender.kt" />
@@ -266,10 +261,29 @@
       <jump line="29" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/App.kt" />
       <jump line="16" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/App.kt" />
       <jump line="42" column="20" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/App.kt" />
+      <jump line="82" column="19" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
+      <jump line="84" column="7" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
+      <jump line="3" column="60" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
+      <jump line="105" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
+      <jump line="87" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
+      <jump line="74" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
+      <jump line="96" column="7" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
+      <jump line="4" column="65" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
+      <jump line="118" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
+      <jump line="100" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
+      <jump line="83" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
+      <jump line="97" column="14" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
+      <jump line="18" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
+      <jump line="98" column="48" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
+      <jump line="99" column="26" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
+      <jump line="0" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
+      <jump line="1" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
+      <jump line="5" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
+      <jump line="12" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRyYW5zcG9ydC5vcGVuKCkK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tdXNpY2JpYmxlLnJlbGVhc2VyZXBvLnRocmlmdC5yZWxlYXNlLkZvcm1hdCBhcyBURm9ybWF0Cg==</text>
       </register>
       <register name="b" type="4">
         <text>jjjjjjjjkkkkkkkkkj^</text>
@@ -281,37 +295,37 @@
         <text encoding="base64">XDxUVHJhbnNwb3J0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUudGhyaWZ0LnRyYW5zcG9ydC5UVHJhbnNwb3J0Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tdXNpY2JpYmxlLnJlbGVhc2VyZXBvLnRocmlmdC5yZWxlYXNlLkZvcm1hdCBhcyBURm9ybWF0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRyYW5zcG9ydC5vcGVuKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZ1biBmb3JtYXRUb1RocmlmdChmb3JtYXQ6IEZvcm1hdCk6IFRGb3JtYXQgewogICAgICAgIHJldHVybiBURm9ybWF0KAogICAgICAgICAgICBmb3JtYXQubmFtZSwKICAgICAgICAgICAgZm9ybWF0LnF0eQogICAgICAgICkKICAgIH0KCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgQ29ubmVjdCEK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCB0cmFuc3BvcnQgPSBUQnUoc29ja2V0KQo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgYTogU2hvcnQgPSAyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUudGhyaWZ0LnRyYW5zcG9ydC5UCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFQK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgQ3JlYXRlIGEgY2xpZW50IHRvIHVzZSB0aGUgcHJvdG9jb2wgZW5jb2Rlcgo=</text>
+        <text encoding="base64">ICAgICAgICB0Rm9ybWF0LnF0eSA9IGZvcm1hdC5xdHkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgV3JhcCBpbiBhIHByb3RvY29sCg==</text>
+        <text encoding="base64">ICAgICAgICB0Rm9ybWF0Lm5hbWUgPSBmb3JtYXQubmFtZQo=</text>
       </register>
       <register name=":" type="4">
         <text>62</text>

@@ -402,6 +402,12 @@
         <mark key="." line="8" column="21" />
         <mark key="^" line="8" column="21" />
       </file>
+      <file name="D:/project/release-repo-thrift/main.thrift" timestamp="1559638770066">
+        <mark key="[" line="19" column="9" />
+        <mark key="]" line="19" column="12" />
+        <mark key="^" line="19" column="12" />
+        <mark key="." line="19" column="12" />
+      </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/es/ElasticSearchApplicationListener.kt" timestamp="1553847382541">
         <mark key="'" line="13" column="0" />
         <mark key="[" line="16" column="19" />
@@ -1072,6 +1078,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="D:/project/release-repo-thrift/java-server/build.gradle" timestamp="1559638791050">
+        <mark key="[" line="13" column="13" />
+        <mark key="]" line="13" column="13" />
+        <mark key="." line="13" column="13" />
+        <mark key="^" line="13" column="13" />
+      </file>
       <file name="D:/project/musicbible/event-process/build.gradle" timestamp="1553915936551">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="18" column="0" />
@@ -1479,7 +1491,8 @@
         <mark key="^" line="35" column="32" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="D:/project/release-repo-thrift/release.thrift" timestamp="1559270696641">
+      <file name="D:/project/release-repo-thrift/release.thrift" timestamp="1559638744175">
+        <mark key="'" line="27" column="24" />
         <mark key="[" line="27" column="17" />
         <mark key="]" line="27" column="17" />
         <mark key="." line="27" column="17" />
@@ -1757,6 +1770,9 @@
         <mark key="." line="18" column="30" />
         <mark key="^" line="18" column="30" />
       </file>
+      <file name="D:/project/release-repo-thrift/work.thrift" timestamp="1559638728919">
+        <mark key="'" line="10" column="0" />
+      </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArticleService.kt" timestamp="1549965842159">
         <mark key="'" line="30" column="0" />
         <mark key="[" line="42" column="0" />
@@ -1838,11 +1854,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="0" filename="D:/project/musicbible/frontend-api/src/test/kotlin/com/musicbible/controller/v1/CommentV1ControllerTest.kt" />
-      <jump line="62" column="0" filename="D:/project/musicbible/frontend-api/src/test/kotlin/com/musicbible/controller/v1/CommentV1ControllerTest.kt" />
-      <jump line="135" column="3" filename="D:/project/common-spring/build.gradle" />
-      <jump line="123" column="0" filename="D:/project/common-spring/build.gradle" />
-      <jump line="105" column="0" filename="D:/project/common-spring/build.gradle" />
       <jump line="9" column="23" filename="D:/project/common-spring/src/test/kotlin/PersistenceTest.kt" />
       <jump line="137" column="21" filename="D:/project/common-spring/build.gradle" />
       <jump line="74" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/User.kt" />
@@ -1938,22 +1949,27 @@
       <jump line="16" column="8" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/config/ApplicationConfig.kt" />
       <jump line="15" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/config/ApplicationConfig.kt" />
       <jump line="4" column="0" filename="D:/project/musicbible/management/src/main/resources/application.yml" />
+      <jump line="0" column="0" filename="D:/project/release-repo-thrift/work.thrift" />
+      <jump line="19" column="0" filename="D:/project/release-repo-thrift/work.thrift" />
+      <jump line="15" column="0" filename="D:/project/release-repo-thrift/work.thrift" />
+      <jump line="10" column="0" filename="D:/project/release-repo-thrift/work.thrift" />
+      <jump line="27" column="24" filename="D:/project/release-repo-thrift/release.thrift" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBzZWN1cml0eToKICAgIGZpbHRlcjoKICAgICAgb3JkZXI6IDAK</text>
+      <register name="&quot;" type="4">
+        <text>2</text>
       </register>
       <register name="b" type="4">
         <text>jjjjjjjjkkkkkkkkkj^</text>
       </register>
       <register name="-" type="4">
-        <text>nextLong</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUZWVTZXJ2bGV0T3V0cHV0U3RyZWFtXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBzZWN1cml0eToKICAgIGZpbHRlcjoKICAgICAgb3JkZXI6IDAK</text>
+        <text encoding="base64">ICAgIGJvb2wgcmVsZWFzZUV4aXN0cygxOiBzdHJpbmcgaWQpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGU6ICclZ3JheSglZGF0ZSkgJWhpZ2hsaWdodCglNWxldmVsKSAlZ3JlZW4oWyV0aHJlYWRdKSAlY3lhbiglLTMwbG9nZ2VyezMwfSk6ICVtYWdlbnRhKCVtZGMpICVtJW4leEV4e2Z1bGx9Jwo=</text>

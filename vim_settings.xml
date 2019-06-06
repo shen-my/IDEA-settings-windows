@@ -792,12 +792,12 @@
         <mark key="." line="47" column="0" />
         <mark key="^" line="46" column="10" />
       </file>
-      <file name="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" timestamp="1559802610772">
+      <file name="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" timestamp="1559804048322">
         <mark key="'" line="136" column="0" />
-        <mark key="[" line="141" column="0" />
-        <mark key="]" line="141" column="0" />
-        <mark key="^" line="141" column="35" />
-        <mark key="." line="141" column="0" />
+        <mark key="[" line="141" column="10" />
+        <mark key="]" line="141" column="10" />
+        <mark key="^" line="141" column="10" />
+        <mark key="." line="141" column="10" />
       </file>
       <file name="D:/project/musicbible/migration/console/models/taxonomy.py" timestamp="1553133451584">
         <mark key="'" line="38" column="0" />
@@ -1919,14 +1919,14 @@
       <jump line="136" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgeDogKFN0cmluZywgSW50LCBTdHJpbmcpCg==</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="b" type="4">
         <text>jjjjjjjjkkkkkkkkkj^</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>reverse</text>
@@ -1935,34 +1935,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmVUcmFja1R5cGUgPSBUcmFja1R5cGUuTU9WRU1FTlQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgeDogKFN0cmluZywgSW50LCBTdHJpbmcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2VjdGlvbnMK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFjayA9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFjay5kdXJhdGlvbiA9ICIiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWN0aW9ucy5sZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbi50ZXN0LmFzc2VydFRydWUK</text>
+        <text encoding="base64">ICAgICAgICB2YXIgeDogZGF0YQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0VHJhY2suZHVyYXRpb24gPSAK</text>
+        <text encoding="base64">ICAgICAgICB2YXIgeDogKFN0cmluZywgSW50LCBTdHJpbmcpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhY2MgKyB0b2tlbi50b0ludCgpICogCg==</text>
+        <text encoding="base64">ICAgICAgICB0cmFjayA9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hc1JldmVyc2VkKCkK</text>
+        <text encoding="base64">ICAgICAgICB0cmFjay5kdXJhdGlvbiA9ICIiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5yZWR1Cg==</text>
+        <text encoding="base64">aW1wb3J0IGtvdGxpbi50ZXN0LmFzc2VydFRydWUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5yZXZlcnNlZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0VHJhY2suZHVyYXRpb24gPSAK</text>
       </register>
       <register name=":" type="4">
         <text>126</text>

@@ -782,11 +782,12 @@
         <mark key="." line="47" column="0" />
         <mark key="^" line="46" column="10" />
       </file>
-      <file name="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" timestamp="1559786764630">
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="0" />
-        <mark key="^" line="94" column="34" />
-        <mark key="." line="99" column="0" />
+      <file name="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" timestamp="1559790068139">
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="54" column="16" />
+        <mark key="]" line="53" column="19" />
+        <mark key="^" line="53" column="19" />
+        <mark key="." line="53" column="19" />
       </file>
       <file name="D:/project/musicbible/migration/console/models/taxonomy.py" timestamp="1553133451584">
         <mark key="'" line="38" column="0" />
@@ -1806,7 +1807,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/App.kt" />
       <jump line="34" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/App.kt" />
       <jump line="229" column="4" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
       <jump line="58" column="8" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
@@ -1836,9 +1836,6 @@
       <jump line="104" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
       <jump line="124" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
       <jump line="105" column="22" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
-      <jump line="0" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
-      <jump line="1" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
-      <jump line="9" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
       <jump line="44" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
       <jump line="52" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
       <jump line="91" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
@@ -1873,9 +1870,6 @@
       <jump line="0" column="0" filename="D:/project/discogs-importer/src/test/kotlin/com/musicbible/discogsimporter/AppTest.kt" />
       <jump line="50" column="27" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
       <jump line="10" column="11" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
-      <jump line="20" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
-      <jump line="29" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
-      <jump line="36" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
       <jump line="45" column="7" filename="D:/project/discogs-importer/src/test/kotlin/com/musicbible/discogsimporter/ReleaseXmlParseTest.kt" />
       <jump line="1" column="0" filename="D:/project/discogs-importer/src/test/kotlin/com/musicbible/discogsimporter/ReleaseXmlParseTest.kt" />
       <jump line="7" column="0" filename="D:/project/discogs-importer/src/test/kotlin/com/musicbible/discogsimporter/ReleaseXmlParseTest.kt" />
@@ -1906,16 +1900,23 @@
       <jump line="104" column="58" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Release.kt" />
       <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Release.kt" />
       <jump line="37" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
+      <jump line="98" column="22" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
+      <jump line="0" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
+      <jump line="1" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
+      <jump line="9" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
+      <jump line="20" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
+      <jump line="29" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
+      <jump line="36" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
       <register name="b" type="4">
         <text>jjjjjjjjkkkkkkkkkj^</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>type</text>
@@ -1924,34 +1925,34 @@
         <text>Larghetto</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly9zdHJ1Y3QgVHJhY2sgewovLyAgICAxOiByZXF1aXJlZCBpMzIgb3JkZXIKLy8gICAgMjogcmVxdWlyZWQgc3RyaW5nIHBvc2l0aW9uCi8vICAgIDM6IHJlcXVpcmVkIHN0cmluZyB3b3JrSWQKLy8gICAgNDogb3B0aW9uYWwgc3RyaW5nIG1vdmVtZW50SWQKLy8gICAgNTogb3B0aW9uYWwgaTMyIGR1cmF0aW9uCi8vfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJhY2sK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHRyYWNrRWxlbWVudCA9IGl0IGFzIEVsZW1lbnQK</text>
+        <text encoding="base64">Ly9zdHJ1Y3QgVHJhY2sgewovLyAgICAxOiByZXF1aXJlZCBpMzIgb3JkZXIKLy8gICAgMjogcmVxdWlyZWQgc3RyaW5nIHBvc2l0aW9uCi8vICAgIDM6IHJlcXVpcmVkIHN0cmluZyB3b3JrSWQKLy8gICAgNDogb3B0aW9uYWwgc3RyaW5nIG1vdmVtZW50SWQKLy8gICAgNTogb3B0aW9uYWwgaTMyIGR1cmF0aW9uCi8vfQoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlbGVtZW50LmNoaWxkcmVuLm1hcCB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJhY2sK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHRyYWNrRWxlbWVudCA9IGl0IGFzIEVsZW1lbnQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBlbGVtZW50LmNoaWxkcmVuLm1hcCB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>126</text>

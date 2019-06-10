@@ -1015,6 +1015,9 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="328" column="35" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/5.1.3.RELEASE/e3bee7f6495e53debfec0bf17ab7d10594b59fd7/spring-tx-5.1.3.RELEASE-sources.jar!/org/springframework/transaction/support/AbstractPlatformTransactionManager.java" timestamp="1560140112722">
+        <mark key="'" line="947" column="12" />
+      </file>
       <file name="D:/project/discogs-data/command/src/test/resources/release-demo.xml" timestamp="1557130013704">
         <mark key="'" line="134" column="0" />
         <mark key="[" line="3" column="84" />
@@ -1166,12 +1169,12 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context-support/5.1.3.RELEASE/9bcab096ee89d31ed2e24e497c87244fc0e415dd/spring-context-support-5.1.3.RELEASE-sources.jar!/org/springframework/mail/javamail/MimeMessageHelper.java" timestamp="1558511949923">
         <mark key="'" line="228" column="11" />
       </file>
-      <file name="D:/project/musicbible/frontend-api/application-local-test.yml" timestamp="1559090494531">
+      <file name="D:/project/musicbible/frontend-api/application-local-test.yml" timestamp="1560139711219">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="9" column="52" />
-        <mark key="]" line="9" column="51" />
-        <mark key="." line="9" column="51" />
-        <mark key="^" line="9" column="51" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="10" column="51" />
+        <mark key="." line="10" column="51" />
+        <mark key="^" line="10" column="51" />
       </file>
       <file name="D:/project/common-spring/src/main/kotlin/com/boostfield/spring/payload/PageQuery.kt" timestamp="1557297377630">
         <mark key="'" line="0" column="0" />
@@ -1813,11 +1816,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
-      <jump line="103" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
-      <jump line="101" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
-      <jump line="99" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
-      <jump line="97" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
       <jump line="95" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
       <jump line="93" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
       <jump line="91" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
@@ -1913,6 +1911,11 @@
       <jump line="112" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
       <jump line="147" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
       <jump line="149" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
+      <jump line="0" column="0" filename="D:/project/musicbible/frontend-api/application-local-test.yml" />
+      <jump line="991" column="8" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/5.1.3.RELEASE/e3bee7f6495e53debfec0bf17ab7d10594b59fd7/spring-tx-5.1.3.RELEASE-sources.jar!/org/springframework/transaction/support/AbstractPlatformTransactionManager.java" />
+      <jump line="921" column="12" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/5.1.3.RELEASE/e3bee7f6495e53debfec0bf17ab7d10594b59fd7/spring-tx-5.1.3.RELEASE-sources.jar!/org/springframework/transaction/support/AbstractPlatformTransactionManager.java" />
+      <jump line="934" column="12" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/5.1.3.RELEASE/e3bee7f6495e53debfec0bf17ab7d10594b59fd7/spring-tx-5.1.3.RELEASE-sources.jar!/org/springframework/transaction/support/AbstractPlatformTransactionManager.java" />
+      <jump line="947" column="12" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/5.1.3.RELEASE/e3bee7f6495e53debfec0bf17ab7d10594b59fd7/spring-tx-5.1.3.RELEASE-sources.jar!/org/springframework/transaction/support/AbstractPlatformTransactionManager.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1925,7 +1928,7 @@
         <text>work</text>
       </register>
       <register name="/" type="4">
-        <text>own</text>
+        <text encoding="base64">XDxUcmFuc2FjdGlvblN5bmNocm9uaXphdGlvblV0aWxzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGZ1biBjb2xsZWN0V29yayhkaXI6IEZpbGUpOiBMaXN0PFN0cmluZz4gewogICAgICAgIHByaW50bG4oIkNyZWF0ZSBzaXRlbWFwIGZvciBhbGwgd29yayIpCiAgICAgICAgdmFsIHdyaXRlciA9IFVybFdyaXRlcihkaXIsICJ3b3JrIikKICAgICAgICB3cml0ZXIudXNlIHsKICAgICAgICAgICAgQ2h1bmtJdGVyYXRvcih3b3JrU2VydmljZTo6ZmluZFB1Ymxpc2hlZCwgMTAwKQogICAgICAgICAgICAgICAgLmZvckVhY2ggeyB3b3JrIC0+CiAgICAgICAgICAgICAgICAgICAgaXQud3JpdGUodXJsKCIvaHViL3dvcmsvJHt3b3JrLmlkfSIpKQogICAgICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICByZXR1cm4gd3JpdGVyLmZpbGVzLm1hcCB7IGl0LnRvUmVsYXRpdmVTdHJpbmcoZGlyKSB9CiAgICB9Cgo=</text>
@@ -1965,9 +1968,9 @@
       </register>
     </registers>
     <search>
-      <last-search>own</last-search>
+      <last-search encoding="base64">XDxUcmFuc2FjdGlvblN5bmNocm9uaXphdGlvblV0aWxzXD4=</last-search>
       <last-offset />
-      <last-pattern>own</last-pattern>
+      <last-pattern encoding="base64">XDxUcmFuc2FjdGlvblN5bmNocm9uaXphdGlvblV0aWxzXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxsaXN0V2l0aEF0dGl0dWRlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1975,7 +1978,6 @@
     </search>
     <history>
       <history-search>
-        <entry>work</entry>
         <entry encoding="base64">XDxzZXRDb21wYW5pZXNcPg==</entry>
         <entry encoding="base64">XDxzZXRWaWRlb3NcPg==</entry>
         <entry encoding="base64">XDxzZXRJZGVudGlmaWVyc1w+</entry>
@@ -1995,6 +1997,7 @@
         <entry encoding="base64">XDx1cGRhdGVDYXRhbG9nTnVtYmVyc1w+</entry>
         <entry>wish</entry>
         <entry>own</entry>
+        <entry encoding="base64">XDxUcmFuc2FjdGlvblN5bmNocm9uaXphdGlvblV0aWxzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>69</entry>

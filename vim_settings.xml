@@ -38,8 +38,8 @@
         <mark key="^" line="32" column="16" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" timestamp="1560132342845">
-        <mark key="'" line="1077" column="29" />
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" timestamp="1560134082773">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="261" column="9" />
         <mark key="]" line="261" column="16" />
         <mark key="^" line="261" column="16" />
@@ -1614,8 +1614,8 @@
         <mark key="." line="98" column="37" />
         <mark key="^" line="98" column="37" />
       </file>
-      <file name="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" timestamp="1560132317092">
-        <mark key="'" line="0" column="0" />
+      <file name="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" timestamp="1560134082030">
+        <mark key="'" line="176" column="23" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/config/properties/ExceptionReporter.kt" timestamp="1558510010364">
         <mark key="'" line="31" column="22" />
@@ -1813,9 +1813,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="121" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
-      <jump line="118" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
-      <jump line="129" column="7" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
       <jump line="154" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
       <jump line="148" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
       <jump line="137" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
@@ -1905,7 +1902,6 @@
       <jump line="14" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/App.kt" />
       <jump line="18" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/App.kt" />
       <jump line="375" column="55" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
-      <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
       <jump line="192" column="23" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" />
       <jump line="53" column="59" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
       <jump line="54" column="8" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
@@ -1913,6 +1909,10 @@
       <jump line="0" column="0" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" />
       <jump line="74" column="8" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
       <jump line="1077" column="29" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
+      <jump line="206" column="29" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" />
+      <jump line="1052" column="45" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
+      <jump line="176" column="23" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" />
+      <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1925,7 +1925,7 @@
         <text>work</text>
       </register>
       <register name="/" type="4">
-        <text>addArtist</text>
+        <text encoding="base64">XDx1cGRhdGVDYXRhbG9nTnVtYmVyc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGZ1biBjb2xsZWN0V29yayhkaXI6IEZpbGUpOiBMaXN0PFN0cmluZz4gewogICAgICAgIHByaW50bG4oIkNyZWF0ZSBzaXRlbWFwIGZvciBhbGwgd29yayIpCiAgICAgICAgdmFsIHdyaXRlciA9IFVybFdyaXRlcihkaXIsICJ3b3JrIikKICAgICAgICB3cml0ZXIudXNlIHsKICAgICAgICAgICAgQ2h1bmtJdGVyYXRvcih3b3JrU2VydmljZTo6ZmluZFB1Ymxpc2hlZCwgMTAwKQogICAgICAgICAgICAgICAgLmZvckVhY2ggeyB3b3JrIC0+CiAgICAgICAgICAgICAgICAgICAgaXQud3JpdGUodXJsKCIvaHViL3dvcmsvJHt3b3JrLmlkfSIpKQogICAgICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICByZXR1cm4gd3JpdGVyLmZpbGVzLm1hcCB7IGl0LnRvUmVsYXRpdmVTdHJpbmcoZGlyKSB9CiAgICB9Cgo=</text>
@@ -1961,13 +1961,13 @@
         <text encoding="base64">ICAgIDExOiByZXF1aXJlZCBsaXN0PHN0cmluZz4gZ2VucmVzCg==</text>
       </register>
       <register name=":" type="4">
-        <text>98</text>
+        <text>226</text>
       </register>
     </registers>
     <search>
-      <last-search>addArtist</last-search>
+      <last-search encoding="base64">XDx1cGRhdGVDYXRhbG9nTnVtYmVyc1w+</last-search>
       <last-offset />
-      <last-pattern>addArtist</last-pattern>
+      <last-pattern encoding="base64">XDx1cGRhdGVDYXRhbG9nTnVtYmVyc1w+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxsaXN0V2l0aEF0dGl0dWRlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1975,8 +1975,6 @@
     </search>
     <history>
       <history-search>
-        <entry>type</entry>
-        <entry>reverse</entry>
         <entry>artist</entry>
         <entry>getWork</entry>
         <entry>work</entry>
@@ -1995,9 +1993,10 @@
         <entry>update</entry>
         <entry>batch</entry>
         <entry>addArtist</entry>
+        <entry>updateCata</entry>
+        <entry encoding="base64">XDx1cGRhdGVDYXRhbG9nTnVtYmVyc1w+</entry>
       </history-search>
       <history-cmd>
-        <entry>33</entry>
         <entry>69</entry>
         <entry>87</entry>
         <entry>123</entry>
@@ -2017,6 +2016,7 @@
         <entry>175</entry>
         <entry>170</entry>
         <entry>98</entry>
+        <entry>226</entry>
       </history-cmd>
       <history-expr />
       <history-input />

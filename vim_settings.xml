@@ -384,6 +384,13 @@
         <mark key="." line="235" column="0" />
         <mark key="^" line="235" column="57" />
       </file>
+      <file name="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/FormControllerTest.kt" timestamp="1560146354607">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="41" column="8" />
+        <mark key="]" line="41" column="31" />
+        <mark key="." line="41" column="31" />
+        <mark key="^" line="41" column="31" />
+      </file>
       <file name="D:/project/discogs-data/common/src/main/kotlin/com/musicbible/discogsdata/repository/ReleaseRepository.kt" timestamp="1557106083492">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="6" column="11" />
@@ -1816,9 +1823,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
-      <jump line="93" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
-      <jump line="91" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
       <jump line="89" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
       <jump line="87" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
       <jump line="84" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
@@ -1916,16 +1920,19 @@
       <jump line="921" column="12" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/5.1.3.RELEASE/e3bee7f6495e53debfec0bf17ab7d10594b59fd7/spring-tx-5.1.3.RELEASE-sources.jar!/org/springframework/transaction/support/AbstractPlatformTransactionManager.java" />
       <jump line="934" column="12" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/5.1.3.RELEASE/e3bee7f6495e53debfec0bf17ab7d10594b59fd7/spring-tx-5.1.3.RELEASE-sources.jar!/org/springframework/transaction/support/AbstractPlatformTransactionManager.java" />
       <jump line="947" column="12" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/5.1.3.RELEASE/e3bee7f6495e53debfec0bf17ab7d10594b59fd7/spring-tx-5.1.3.RELEASE-sources.jar!/org/springframework/transaction/support/AbstractPlatformTransactionManager.java" />
+      <jump line="29" column="73" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/FormControllerTest.kt" />
+      <jump line="32" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/FormControllerTest.kt" />
+      <jump line="38" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/FormControllerTest.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCkK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgdHhNYW5hZ2VyIAo=</text>
       </register>
       <register name="b" type="4">
         <text>jjjjjjjjkkkkkkkkkj^</text>
       </register>
       <register name="-" type="4">
-        <text>work</text>
+        <text>platformTransactionManager</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUcmFuc2FjdGlvblN5bmNocm9uaXphdGlvblV0aWxzXD4=</text>
@@ -1934,34 +1941,34 @@
         <text encoding="base64">ICAgIGZ1biBjb2xsZWN0V29yayhkaXI6IEZpbGUpOiBMaXN0PFN0cmluZz4gewogICAgICAgIHByaW50bG4oIkNyZWF0ZSBzaXRlbWFwIGZvciBhbGwgd29yayIpCiAgICAgICAgdmFsIHdyaXRlciA9IFVybFdyaXRlcihkaXIsICJ3b3JrIikKICAgICAgICB3cml0ZXIudXNlIHsKICAgICAgICAgICAgQ2h1bmtJdGVyYXRvcih3b3JrU2VydmljZTo6ZmluZFB1Ymxpc2hlZCwgMTAwKQogICAgICAgICAgICAgICAgLmZvckVhY2ggeyB3b3JrIC0+CiAgICAgICAgICAgICAgICAgICAgaXQud3JpdGUodXJsKCIvaHViL3dvcmsvJHt3b3JrLmlkfSIpKQogICAgICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICByZXR1cm4gd3JpdGVyLmZpbGVzLm1hcCB7IGl0LnRvUmVsYXRpdmVTdHJpbmcoZGlyKSB9CiAgICB9Cgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCkK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgdHhNYW5hZ2VyIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDE4OiByZXF1aXJlZCBsaXN0PFJlbGVhc2VMYWJlbD4gbGFiZWxzCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDE3OiByZXF1aXJlZCBsaXN0PFJlbGVhc2VBcnRpc3Q+IGNyZWRpdHMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDE2OiByZXF1aXJlZCBsaXN0PFJlbGVhc2VBcnRpc3Q+IGFydGlzdHMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDE1OiByZXF1aXJlZCBsaXN0PHN0cmluZz4gYXVkaW9zCg==</text>
+        <text encoding="base64">ICAgIDE4OiByZXF1aXJlZCBsaXN0PFJlbGVhc2VMYWJlbD4gbGFiZWxzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDE0OiByZXF1aXJlZCBsaXN0PHN0cmluZz4gYm9va2xldHMK</text>
+        <text encoding="base64">ICAgIDE3OiByZXF1aXJlZCBsaXN0PFJlbGVhc2VBcnRpc3Q+IGNyZWRpdHMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDEzOiByZXF1aXJlZCBsaXN0PHN0cmluZz4gaW1hZ2VzCg==</text>
+        <text encoding="base64">ICAgIDE2OiByZXF1aXJlZCBsaXN0PFJlbGVhc2VBcnRpc3Q+IGFydGlzdHMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDEyOiByZXF1aXJlZCBsaXN0PHN0cmluZz4gc3R5bGVzCg==</text>
+        <text encoding="base64">ICAgIDE1OiByZXF1aXJlZCBsaXN0PHN0cmluZz4gYXVkaW9zCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDExOiByZXF1aXJlZCBsaXN0PHN0cmluZz4gZ2VucmVzCg==</text>
+        <text encoding="base64">ICAgIDE0OiByZXF1aXJlZCBsaXN0PHN0cmluZz4gYm9va2xldHMK</text>
       </register>
       <register name=":" type="4">
         <text>226</text>

@@ -149,6 +149,9 @@
         <mark key="^" line="19" column="41" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/5.1.3.RELEASE/e3bee7f6495e53debfec0bf17ab7d10594b59fd7/spring-tx-5.1.3.RELEASE-sources.jar!/org/springframework/transaction/support/DefaultTransactionDefinition.java" timestamp="1560147630650">
+        <mark key="'" line="289" column="0" />
+      </file>
       <file name="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/CountAssociations.kt" timestamp="1555408174886">
         <mark key="'" line="23" column="0" />
         <mark key="[" line="14" column="0" />
@@ -384,12 +387,11 @@
         <mark key="." line="235" column="0" />
         <mark key="^" line="235" column="57" />
       </file>
-      <file name="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/FormControllerTest.kt" timestamp="1560146354607">
-        <mark key="'" line="38" column="0" />
-        <mark key="[" line="41" column="8" />
-        <mark key="]" line="41" column="31" />
-        <mark key="." line="41" column="31" />
-        <mark key="^" line="41" column="31" />
+      <file name="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/FormControllerTest.kt" timestamp="1560148319969">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="D:/project/discogs-data/common/src/main/kotlin/com/musicbible/discogsdata/repository/ReleaseRepository.kt" timestamp="1557106083492">
         <mark key="'" line="2" column="0" />
@@ -650,6 +652,9 @@
         <mark key="." line="104" column="0" />
         <mark key="^" line="102" column="49" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/5.1.3.RELEASE/e3bee7f6495e53debfec0bf17ab7d10594b59fd7/spring-tx-5.1.3.RELEASE-sources.jar!/org/springframework/transaction/support/TransactionSynchronizationManager.java" timestamp="1560148153122">
+        <mark key="'" line="68" column="9" />
+      </file>
       <file name="D:/project/musicbible/.env" timestamp="1554952172426">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="12" column="16" />
@@ -698,6 +703,9 @@
         <mark key="]" line="31" column="9" />
         <mark key="^" line="30" column="48" />
         <mark key="." line="30" column="48" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/5.1.3.RELEASE/e3bee7f6495e53debfec0bf17ab7d10594b59fd7/spring-tx-5.1.3.RELEASE-sources.jar!/org/springframework/transaction/TransactionDefinition.java" timestamp="1560147568771">
+        <mark key="'" line="45" column="17" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/listeners/DocumentListener.kt" timestamp="1553659987435">
         <mark key="'" line="11" column="0" />
@@ -1823,31 +1831,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
-      <jump line="87" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
-      <jump line="84" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
-      <jump line="82" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
-      <jump line="80" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
-      <jump line="78" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
-      <jump line="75" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
-      <jump line="108" column="4" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
-      <jump line="20" column="56" filename="D:/project/discogs-importer/src/test/kotlin/com/musicbible/discogsimporter/ReleaseTest.kt" />
-      <jump line="54" column="0" filename="D:/project/discogs-importer/src/test/kotlin/com/musicbible/discogsimporter/ReleaseTest.kt" />
-      <jump line="7" column="8" filename="D:/project/discogs-importer/src/test/kotlin/com/musicbible/discogsimporter/ReleaseTest.kt" />
-      <jump line="14" column="0" filename="D:/project/discogs-importer/src/test/kotlin/com/musicbible/discogsimporter/ReleaseTest.kt" />
-      <jump line="69" column="0" filename="D:/project/discogs-importer/src/test/kotlin/com/musicbible/discogsimporter/ReleaseXmlParseTest.kt" />
-      <jump line="0" column="0" filename="D:/project/discogs-importer/src/test/kotlin/com/musicbible/discogsimporter/ReleaseXmlParseTest.kt" />
-      <jump line="8" column="30" filename="D:/project/discogs-importer/src/test/kotlin/com/musicbible/discogsimporter/ReleaseXmlParseTest.kt" />
-      <jump line="16" column="30" filename="D:/project/discogs-importer/src/test/kotlin/com/musicbible/discogsimporter/ReleaseXmlParseTest.kt" />
-      <jump line="17" column="29" filename="D:/project/discogs-importer/src/test/kotlin/com/musicbible/discogsimporter/ReleaseXmlParseTest.kt" />
-      <jump line="22" column="30" filename="D:/project/discogs-importer/src/test/kotlin/com/musicbible/discogsimporter/ReleaseXmlParseTest.kt" />
-      <jump line="23" column="29" filename="D:/project/discogs-importer/src/test/kotlin/com/musicbible/discogsimporter/ReleaseXmlParseTest.kt" />
-      <jump line="145" column="40" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
-      <jump line="204" column="24" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
-      <jump line="221" column="32" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
-      <jump line="0" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
-      <jump line="10" column="41" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
-      <jump line="11" column="41" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
       <jump line="12" column="41" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
       <jump line="169" column="20" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
       <jump line="155" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
@@ -1923,61 +1906,86 @@
       <jump line="29" column="73" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/FormControllerTest.kt" />
       <jump line="32" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/FormControllerTest.kt" />
       <jump line="38" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/FormControllerTest.kt" />
+      <jump line="45" column="17" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/5.1.3.RELEASE/e3bee7f6495e53debfec0bf17ab7d10594b59fd7/spring-tx-5.1.3.RELEASE-sources.jar!/org/springframework/transaction/TransactionDefinition.java" />
+      <jump line="75" column="11" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/5.1.3.RELEASE/e3bee7f6495e53debfec0bf17ab7d10594b59fd7/spring-tx-5.1.3.RELEASE-sources.jar!/org/springframework/transaction/support/DefaultTransactionDefinition.java" />
+      <jump line="77" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/5.1.3.RELEASE/e3bee7f6495e53debfec0bf17ab7d10594b59fd7/spring-tx-5.1.3.RELEASE-sources.jar!/org/springframework/transaction/support/DefaultTransactionDefinition.java" />
+      <jump line="93" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/5.1.3.RELEASE/e3bee7f6495e53debfec0bf17ab7d10594b59fd7/spring-tx-5.1.3.RELEASE-sources.jar!/org/springframework/transaction/support/DefaultTransactionDefinition.java" />
+      <jump line="106" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/5.1.3.RELEASE/e3bee7f6495e53debfec0bf17ab7d10594b59fd7/spring-tx-5.1.3.RELEASE-sources.jar!/org/springframework/transaction/support/DefaultTransactionDefinition.java" />
+      <jump line="123" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/5.1.3.RELEASE/e3bee7f6495e53debfec0bf17ab7d10594b59fd7/spring-tx-5.1.3.RELEASE-sources.jar!/org/springframework/transaction/support/DefaultTransactionDefinition.java" />
+      <jump line="145" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/5.1.3.RELEASE/e3bee7f6495e53debfec0bf17ab7d10594b59fd7/spring-tx-5.1.3.RELEASE-sources.jar!/org/springframework/transaction/support/DefaultTransactionDefinition.java" />
+      <jump line="150" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/5.1.3.RELEASE/e3bee7f6495e53debfec0bf17ab7d10594b59fd7/spring-tx-5.1.3.RELEASE-sources.jar!/org/springframework/transaction/support/DefaultTransactionDefinition.java" />
+      <jump line="166" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/5.1.3.RELEASE/e3bee7f6495e53debfec0bf17ab7d10594b59fd7/spring-tx-5.1.3.RELEASE-sources.jar!/org/springframework/transaction/support/DefaultTransactionDefinition.java" />
+      <jump line="188" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/5.1.3.RELEASE/e3bee7f6495e53debfec0bf17ab7d10594b59fd7/spring-tx-5.1.3.RELEASE-sources.jar!/org/springframework/transaction/support/DefaultTransactionDefinition.java" />
+      <jump line="193" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/5.1.3.RELEASE/e3bee7f6495e53debfec0bf17ab7d10594b59fd7/spring-tx-5.1.3.RELEASE-sources.jar!/org/springframework/transaction/support/DefaultTransactionDefinition.java" />
+      <jump line="210" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/5.1.3.RELEASE/e3bee7f6495e53debfec0bf17ab7d10594b59fd7/spring-tx-5.1.3.RELEASE-sources.jar!/org/springframework/transaction/support/DefaultTransactionDefinition.java" />
+      <jump line="215" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/5.1.3.RELEASE/e3bee7f6495e53debfec0bf17ab7d10594b59fd7/spring-tx-5.1.3.RELEASE-sources.jar!/org/springframework/transaction/support/DefaultTransactionDefinition.java" />
+      <jump line="233" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/5.1.3.RELEASE/e3bee7f6495e53debfec0bf17ab7d10594b59fd7/spring-tx-5.1.3.RELEASE-sources.jar!/org/springframework/transaction/support/DefaultTransactionDefinition.java" />
+      <jump line="238" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/5.1.3.RELEASE/e3bee7f6495e53debfec0bf17ab7d10594b59fd7/spring-tx-5.1.3.RELEASE-sources.jar!/org/springframework/transaction/support/DefaultTransactionDefinition.java" />
+      <jump line="247" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/5.1.3.RELEASE/e3bee7f6495e53debfec0bf17ab7d10594b59fd7/spring-tx-5.1.3.RELEASE-sources.jar!/org/springframework/transaction/support/DefaultTransactionDefinition.java" />
+      <jump line="253" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/5.1.3.RELEASE/e3bee7f6495e53debfec0bf17ab7d10594b59fd7/spring-tx-5.1.3.RELEASE-sources.jar!/org/springframework/transaction/support/DefaultTransactionDefinition.java" />
+      <jump line="263" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/5.1.3.RELEASE/e3bee7f6495e53debfec0bf17ab7d10594b59fd7/spring-tx-5.1.3.RELEASE-sources.jar!/org/springframework/transaction/support/DefaultTransactionDefinition.java" />
+      <jump line="272" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/5.1.3.RELEASE/e3bee7f6495e53debfec0bf17ab7d10594b59fd7/spring-tx-5.1.3.RELEASE-sources.jar!/org/springframework/transaction/support/DefaultTransactionDefinition.java" />
+      <jump line="289" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/5.1.3.RELEASE/e3bee7f6495e53debfec0bf17ab7d10594b59fd7/spring-tx-5.1.3.RELEASE-sources.jar!/org/springframework/transaction/support/DefaultTransactionDefinition.java" />
+      <jump line="294" column="13" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/5.1.3.RELEASE/e3bee7f6495e53debfec0bf17ab7d10594b59fd7/spring-tx-5.1.3.RELEASE-sources.jar!/org/springframework/transaction/support/TransactionSynchronizationManager.java" />
+      <jump line="332" column="13" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/5.1.3.RELEASE/e3bee7f6495e53debfec0bf17ab7d10594b59fd7/spring-tx-5.1.3.RELEASE-sources.jar!/org/springframework/transaction/support/TransactionSynchronizationManager.java" />
+      <jump line="453" column="13" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/5.1.3.RELEASE/e3bee7f6495e53debfec0bf17ab7d10594b59fd7/spring-tx-5.1.3.RELEASE-sources.jar!/org/springframework/transaction/support/TransactionSynchronizationManager.java" />
+      <jump line="57" column="55" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/5.1.3.RELEASE/e3bee7f6495e53debfec0bf17ab7d10594b59fd7/spring-tx-5.1.3.RELEASE-sources.jar!/org/springframework/transaction/support/TransactionSynchronizationManager.java" />
+      <jump line="68" column="9" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/5.1.3.RELEASE/e3bee7f6495e53debfec0bf17ab7d10594b59fd7/spring-tx-5.1.3.RELEASE-sources.jar!/org/springframework/transaction/support/TransactionSynchronizationManager.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdHhNYW5hZ2VyIAo=</text>
+        <text encoding="base64">Ly8gICAgICAgIGxvZ2luKHJvb3QpCg==</text>
       </register>
       <register name="b" type="4">
         <text>jjjjjjjjkkkkkkkkkj^</text>
       </register>
       <register name="-" type="4">
-        <text>platformTransactionManager</text>
+        <text>DefaultTr</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxUcmFuc2FjdGlvblN5bmNocm9uaXphdGlvblV0aWxzXD4=</text>
+        <text encoding="base64">XDxpc1N5bmNocm9uaXphdGlvbkFjdGl2ZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZ1biBjb2xsZWN0V29yayhkaXI6IEZpbGUpOiBMaXN0PFN0cmluZz4gewogICAgICAgIHByaW50bG4oIkNyZWF0ZSBzaXRlbWFwIGZvciBhbGwgd29yayIpCiAgICAgICAgdmFsIHdyaXRlciA9IFVybFdyaXRlcihkaXIsICJ3b3JrIikKICAgICAgICB3cml0ZXIudXNlIHsKICAgICAgICAgICAgQ2h1bmtJdGVyYXRvcih3b3JrU2VydmljZTo6ZmluZFB1Ymxpc2hlZCwgMTAwKQogICAgICAgICAgICAgICAgLmZvckVhY2ggeyB3b3JrIC0+CiAgICAgICAgICAgICAgICAgICAgaXQud3JpdGUodXJsKCIvaHViL3dvcmsvJHt3b3JrLmlkfSIpKQogICAgICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICByZXR1cm4gd3JpdGVyLmZpbGVzLm1hcCB7IGl0LnRvUmVsYXRpdmVTdHJpbmcoZGlyKSB9CiAgICB9Cgo=</text>
+        <text encoding="base64">Ly8gICAgICAgIHZhbCByb290ID0gdXNlclNlcnZpY2UuY3JlYXRlUm9vdCgicm9vdCR7UmFuZG9tLm5leHRJbnQoKX0iLCAicGFzc3dvcmQiKQovLyAgICAgICAgbG9naW4ocm9vdCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdHhNYW5hZ2VyIAo=</text>
+        <text encoding="base64">Ly8gICAgICAgIGxvZ2luKHJvb3QpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBUcmFuc2FjdGlvblN5bmNocm9uaXphdGlvbk1hbmFnZXIuaW5pdFN5bmNocm9uaXphdGlvbigpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN1cGVyLmFmdGVyQ29tbWl0KCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCkK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDE4OiByZXF1aXJlZCBsaXN0PFJlbGVhc2VMYWJlbD4gbGFiZWxzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3Zlcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDE3OiByZXF1aXJlZCBsaXN0PFJlbGVhc2VBcnRpc3Q+IGNyZWRpdHMK</text>
+        <text encoding="base64">ICAgICAgICBUcmFuc2FjdGlvblN5bmNocm9uaXphdGlvbk1hbmFnZXIucmVnaXN0ZXJTeW5jaHJvbml6YXRpb24oKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDE2OiByZXF1aXJlZCBsaXN0PFJlbGVhc2VBcnRpc3Q+IGFydGlzdHMK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDE1OiByZXF1aXJlZCBsaXN0PHN0cmluZz4gYXVkaW9zCg==</text>
+        <text encoding="base64">ICAgICAgICB0eERlZmluaXRpb24uCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDE0OiByZXF1aXJlZCBsaXN0PHN0cmluZz4gYm9va2xldHMK</text>
+        <text encoding="base64">ICAgICAgICB0eE1hbmFnZXIuCg==</text>
       </register>
       <register name=":" type="4">
         <text>226</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxUcmFuc2FjdGlvblN5bmNocm9uaXphdGlvblV0aWxzXD4=</last-search>
+      <last-search encoding="base64">XDxpc1N5bmNocm9uaXphdGlvbkFjdGl2ZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxUcmFuc2FjdGlvblN5bmNocm9uaXphdGlvblV0aWxzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxpc1N5bmNocm9uaXphdGlvbkFjdGl2ZVw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxsaXN0V2l0aEF0dGl0dWRlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1985,7 +1993,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZXRDb21wYW5pZXNcPg==</entry>
         <entry encoding="base64">XDxzZXRWaWRlb3NcPg==</entry>
         <entry encoding="base64">XDxzZXRJZGVudGlmaWVyc1w+</entry>
         <entry encoding="base64">XDx0cmFja3NcPg==</entry>
@@ -2005,6 +2012,7 @@
         <entry>wish</entry>
         <entry>own</entry>
         <entry encoding="base64">XDxUcmFuc2FjdGlvblN5bmNocm9uaXphdGlvblV0aWxzXD4=</entry>
+        <entry encoding="base64">XDxpc1N5bmNocm9uaXphdGlvbkFjdGl2ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>69</entry>

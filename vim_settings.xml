@@ -38,8 +38,8 @@
         <mark key="^" line="32" column="16" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" timestamp="1559785725281">
-        <mark key="'" line="74" column="8" />
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" timestamp="1560130530208">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="261" column="9" />
         <mark key="]" line="261" column="16" />
         <mark key="^" line="261" column="16" />
@@ -1614,8 +1614,8 @@
         <mark key="." line="98" column="37" />
         <mark key="^" line="98" column="37" />
       </file>
-      <file name="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" timestamp="1559785748386">
-        <mark key="'" line="0" column="0" />
+      <file name="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" timestamp="1560130539879">
+        <mark key="'" line="192" column="23" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/config/properties/ExceptionReporter.kt" timestamp="1558510010364">
         <mark key="'" line="31" column="22" />
@@ -1813,9 +1813,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="143" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
-      <jump line="178" column="37" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
-      <jump line="25" column="8" filename="D:/project/discogs-importer/src/test/kotlin/com/musicbible/discogsimporter/ReleaseTest.kt" />
       <jump line="10" column="0" filename="D:/project/discogs-importer/src/test/kotlin/com/musicbible/discogsimporter/ReleaseTest.kt" />
       <jump line="45" column="0" filename="D:/project/discogs-importer/src/test/kotlin/com/musicbible/discogsimporter/ReleaseXmlParseTest.kt" />
       <jump line="18" column="8" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" />
@@ -1913,6 +1910,9 @@
       <jump line="1" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/App.kt" />
       <jump line="14" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/App.kt" />
       <jump line="18" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/App.kt" />
+      <jump line="375" column="55" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
+      <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
+      <jump line="192" column="23" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1925,7 +1925,7 @@
         <text>work</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjcmVkaXRzXD4=</text>
+        <text>deleteMedia</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGZ1biBjb2xsZWN0V29yayhkaXI6IEZpbGUpOiBMaXN0PFN0cmluZz4gewogICAgICAgIHByaW50bG4oIkNyZWF0ZSBzaXRlbWFwIGZvciBhbGwgd29yayIpCiAgICAgICAgdmFsIHdyaXRlciA9IFVybFdyaXRlcihkaXIsICJ3b3JrIikKICAgICAgICB3cml0ZXIudXNlIHsKICAgICAgICAgICAgQ2h1bmtJdGVyYXRvcih3b3JrU2VydmljZTo6ZmluZFB1Ymxpc2hlZCwgMTAwKQogICAgICAgICAgICAgICAgLmZvckVhY2ggeyB3b3JrIC0+CiAgICAgICAgICAgICAgICAgICAgaXQud3JpdGUodXJsKCIvaHViL3dvcmsvJHt3b3JrLmlkfSIpKQogICAgICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICByZXR1cm4gd3JpdGVyLmZpbGVzLm1hcCB7IGl0LnRvUmVsYXRpdmVTdHJpbmcoZGlyKSB9CiAgICB9Cgo=</text>
@@ -1965,9 +1965,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjcmVkaXRzXD4=</last-search>
+      <last-search>deleteMedia</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjcmVkaXRzXD4=</last-pattern>
+      <last-pattern>deleteMedia</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxsaXN0V2l0aEF0dGl0dWRlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1975,8 +1975,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxiYXRjaFN3YXBUcmFja09yZGVyXD4=</entry>
-        <entry>batch</entry>
         <entry encoding="base64">XDxSZWNvcmRpbmdTZXJ2aWNlXD4=</entry>
         <entry>noti</entry>
         <entry>type</entry>
@@ -1995,6 +1993,8 @@
         <entry encoding="base64">XDxib29rbGV0c1w+</entry>
         <entry encoding="base64">XDxhcnRpc3RzXD4=</entry>
         <entry encoding="base64">XDxjcmVkaXRzXD4=</entry>
+        <entry>update</entry>
+        <entry>deleteMedia</entry>
       </history-search>
       <history-cmd>
         <entry>33</entry>

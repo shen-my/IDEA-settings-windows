@@ -89,6 +89,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Force Step Into">
+        <Item>
+          <IdeaActionID>ForceStepInto</IdeaActionID>
+          <ShortCut>'Alt+Shift+F7'</ShortCut>
+          <Description>Force Step Into</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Implementation(s)">
         <Item>
           <IdeaActionID>GotoImplementation</IdeaActionID>
@@ -230,7 +238,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run to Cursor">
@@ -270,7 +278,7 @@
           <IdeaActionID>StepInto</IdeaActionID>
           <ShortCut>'F7'</ShortCut>
           <Description>Step Into</Description>
-          <Count>13</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Out">
@@ -278,7 +286,7 @@
           <IdeaActionID>StepOut</IdeaActionID>
           <ShortCut>'Shift+F8'</ShortCut>
           <Description>Step Out</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Over">
@@ -286,7 +294,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>166</Count>
+          <Count>266</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop ':backend-api:test'">
@@ -311,6 +319,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop ':frontend-api:test'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'FormControllerTest.fuck'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'FormControllerTest.fuck'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ReleaseTest.test_parse_many_work'">

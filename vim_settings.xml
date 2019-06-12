@@ -15,6 +15,9 @@
         <mark key="^" line="7" column="36" />
         <mark key="." line="7" column="36" />
       </file>
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/es/model/EsArtist.kt" timestamp="1560336119018">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/config/properties/AppProperties.kt" timestamp="1560162982235">
         <mark key="[" line="26" column="29" />
         <mark key="]" line="27" column="3" />
@@ -204,8 +207,11 @@
         <mark key="^" line="20" column="50" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" timestamp="1560334677893">
-        <mark key="'" line="123" column="0" />
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" timestamp="1560336215810">
+        <mark key="'" line="167" column="0" />
+        <mark key="[" line="194" column="0" />
+        <mark key="]" line="194" column="64" />
+        <mark key="." line="194" column="0" />
       </file>
       <file name="D:/project/release-repo-thrift/main.thrift" timestamp="1559638770066">
         <mark key="[" line="19" column="9" />
@@ -232,12 +238,12 @@
         <mark key="^" line="33" column="16" />
         <mark key="." line="33" column="16" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/listener/ArtistEventListener.kt" timestamp="1560335204979">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="35" column="20" />
-        <mark key="]" line="35" column="19" />
-        <mark key="^" line="35" column="19" />
-        <mark key="." line="35" column="19" />
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/listener/ArtistEventListener.kt" timestamp="1560335981131">
+        <mark key="'" line="19" column="11" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="19" column="11" />
       </file>
       <file name="D:/project/demo/src/main/kotlin/com/example/demo/service/UserService.kt" timestamp="1560328211593">
         <mark key="'" line="34" column="0" />
@@ -253,12 +259,12 @@
         <mark key="." line="20" column="38" />
         <mark key="^" line="20" column="38" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/event/EntityEvent.kt" timestamp="1560334419695">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="^" line="47" column="3" />
-        <mark key="." line="49" column="0" />
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/event/EntityEvent.kt" timestamp="1560335865473">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="33" column="19" />
+        <mark key="]" line="33" column="41" />
+        <mark key="^" line="33" column="41" />
+        <mark key="." line="33" column="41" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/config/AOPConfig.kt" timestamp="1560160712144">
         <mark key="[" line="4" column="0" />
@@ -274,20 +280,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/conversion/XmlReader.kt" />
-      <jump line="24" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/conversion/XmlReader.kt" />
-      <jump line="25" column="35" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/conversion/XmlReader.kt" />
-      <jump line="45" column="21" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/conversion/XmlReader.kt" />
-      <jump line="15" column="52" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/conversion/XmlReader.kt" />
-      <jump line="83" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/conversion/XmlReader.kt" />
-      <jump line="56" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/conversion/XmlReader.kt" />
-      <jump line="49" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/conversion/XmlReader.kt" />
-      <jump line="46" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/conversion/XmlReader.kt" />
-      <jump line="0" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/conversion/XmlReader.kt" />
-      <jump line="1" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/conversion/XmlReader.kt" />
-      <jump line="11" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/conversion/XmlReader.kt" />
-      <jump line="14" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/conversion/XmlReader.kt" />
-      <jump line="42" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/conversion/XmlReader.kt" />
       <jump line="29" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/conversion/XmlReader.kt" />
       <jump line="26" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/conversion/XmlReader.kt" />
       <jump line="22" column="0" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/conversion/XmlReader.kt" />
@@ -355,15 +347,9 @@
       <jump line="25" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/listener/ArtistEventListener.kt" />
       <jump line="12" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/listener/ArtistEventListener.kt" />
       <jump line="131" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" />
-      <jump line="68" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" />
       <jump line="111" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" />
-      <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" />
-      <jump line="1" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" />
-      <jump line="39" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" />
-      <jump line="44" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" />
       <jump line="17" column="56" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/listener/ArtistEventListener.kt" />
       <jump line="79" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" />
-      <jump line="88" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" />
       <jump line="92" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" />
       <jump line="99" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" />
       <jump line="106" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" />
@@ -371,64 +357,84 @@
       <jump line="139" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" />
       <jump line="129" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" />
       <jump line="123" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" />
-      <jump line="20" column="56" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/listener/ArtistEventListener.kt" />
       <jump line="21" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/listener/ArtistEventListener.kt" />
       <jump line="29" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/listener/ArtistEventListener.kt" />
+      <jump line="110" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" />
+      <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" />
+      <jump line="1" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" />
+      <jump line="39" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" />
+      <jump line="44" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" />
+      <jump line="68" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" />
+      <jump line="88" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" />
+      <jump line="86" column="59" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" />
+      <jump line="90" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" />
+      <jump line="94" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" />
+      <jump line="101" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" />
+      <jump line="108" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" />
+      <jump line="14" column="15" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/event/EntityEvent.kt" />
+      <jump line="18" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/event/EntityEvent.kt" />
+      <jump line="20" column="11" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/listener/ArtistEventListener.kt" />
+      <jump line="114" column="48" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" />
+      <jump line="109" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" />
+      <jump line="102" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" />
+      <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/es/model/EsArtist.kt" />
+      <jump line="165" column="8" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" />
+      <jump line="167" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBldmVudFB1Ymxpc2hlci5wdWJsaXNoRXZlbnQoRW50aXR5RXZlbnQudXBkYXRlZChhcnRpc3QpKQo=</text>
       </register>
       <register name="b" type="4">
         <text>jjjjjjjjkkkkkkkkkj^</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>artist</text>
       </register>
       <register name="/" type="4">
-        <text>show</text>
+        <text>images</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJIYW5kbGUgRW50aXR5Q3JlYXRlZEV2ZW50IGZvciAke2V2ZW50LmNsYXp6fSIpCg==</text>
+        <text encoding="base64">ICAgICAgICBldmVudFB1Ymxpc2hlci5wdWJsaXNoRXZlbnQoRW50aXR5RXZlbnQudXBkYXRlZChhcnRpc3QpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbS5mbHVzaCgpCiAgICAgICAgZW0ucmVmcmVzaChhcnRpc3QpCiAgICAgICAgaW5kZXhUb0VzKGFydGlzdCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvbkRlbGV0ZWQoZXZlbnQ6IEVudGl0eURlbGV0ZWRFdmVudDxBcnRpc3Q+KSB7CiAgICAgICAgVE9ETygibm90IGltcGxlbWVudGVkIikgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbS5mbHVzaCgpCiAgICAgICAgZW0ucmVmcmVzaChhcnRpc3QpCiAgICAgICAgaW5kZXhUb0VzKGFydGlzdCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbS5mbHVzaCgpCiAgICAgICAgZW0ucmVmcmVzaChhcnRpc3QpCiAgICAgICAgaW5kZXhUb0VzKGFydGlzdCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbmRleFRvRXMoYXJ0aXN0KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbS5yZWZyZXNoKGFydGlzdCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbS5mbHVzaCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzYXZlKGFydGlzdCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">ICAgICAgICBzYXZlKGFydGlzdCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>345</text>
       </register>
     </registers>
     <search>
-      <last-search>show</last-search>
+      <last-search>images</last-search>
       <last-offset />
-      <last-pattern>show</last-pattern>
+      <last-pattern>images</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxsaXN0V2l0aEF0dGl0dWRlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -436,7 +442,6 @@
     </search>
     <history>
       <history-search>
-        <entry>wish</entry>
         <entry>own</entry>
         <entry encoding="base64">XDxUcmFuc2FjdGlvblN5bmNocm9uaXphdGlvblV0aWxzXD4=</entry>
         <entry encoding="base64">XDxpc1N5bmNocm9uaXphdGlvbkFjdGl2ZVw+</entry>
@@ -456,6 +461,7 @@
         <entry>same</entry>
         <entry encoding="base64">XDxmaW5kV29ya09uT3RoZXJSZWxlYXNlXD4=</entry>
         <entry>show</entry>
+        <entry>images</entry>
       </history-search>
       <history-cmd>
         <entry>144</entry>

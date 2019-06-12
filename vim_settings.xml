@@ -21,11 +21,11 @@
         <mark key="^" line="27" column="3" />
         <mark key="." line="27" column="3" />
       </file>
-      <file name="D:/project/discogs-importer/src/test/kotlin/com/musicbible/discogsimporter/ReleaseXmlReaderTest.kt" timestamp="1560312031036">
-        <mark key="[" line="17" column="55" />
-        <mark key="]" line="17" column="54" />
-        <mark key="^" line="17" column="54" />
-        <mark key="." line="17" column="54" />
+      <file name="D:/project/discogs-importer/src/test/kotlin/com/musicbible/discogsimporter/ReleaseXmlReaderTest.kt" timestamp="1560313028074">
+        <mark key="[" line="16" column="11" />
+        <mark key="]" line="18" column="17" />
+        <mark key="." line="18" column="17" />
+        <mark key="^" line="18" column="17" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" timestamp="1560309605972">
         <mark key="'" line="935" column="34" />
@@ -44,10 +44,11 @@
         <mark key="." line="0" column="23" />
         <mark key="^" line="0" column="23" />
       </file>
-      <file name="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/conversion/XmlReader.kt" timestamp="1560311951248">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/conversion/XmlReader.kt" timestamp="1560313128411">
+        <mark key="[" line="45" column="26" />
+        <mark key="]" line="45" column="21" />
+        <mark key="." line="45" column="21" />
+        <mark key="^" line="45" column="21" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/filter/LoggerFilter.kt" timestamp="1559631916911">
         <mark key="[" line="12" column="0" />
@@ -296,8 +297,8 @@
       <jump line="25" column="35" filename="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/conversion/XmlReader.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>StringBufferInputStream)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmdJbgo=</text>
       </register>
       <register name="b" type="4">
         <text>jjjjjjjjkkkkkkkkkj^</text>
@@ -312,34 +313,34 @@
         <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKHBhdGg6IFN0cmluZyk6IHRoaXMoRmlsZUlucHV0U3RyZWFtKHBhdGgpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmdJbgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKHBhdGg6IFN0cmluZyk6IHRoaXMoRmlsZUlucHV0U3RyZWFtKHBhdGgpKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKHBhdGg6IFN0cmluZyk6IHN1cGVyKHBhdGgpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKHBhdGg6IFN0cmluZyk6IHRoaXMoRmlsZUlucHV0U3RyZWFtKHBhdGgpKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKHBhdGg6IFN0cmluZyk6IHN1cGVyKHBhdGgpCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKGlucHV0U3RyZWFtOiBJbnB1dFN0cmVhbSkgewoK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzKCJmdWNrIikK</text>
+        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKGlucHV0U3RyZWFtOiBJbnB1dFN0cmVhbSkgewoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzKCJmdWNrIikK</text>
       </register>
       <register name=":" type="4">
         <text>345</text>

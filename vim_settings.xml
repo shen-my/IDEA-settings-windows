@@ -53,6 +53,13 @@
         <mark key="." line="15" column="83" />
         <mark key="^" line="15" column="83" />
       </file>
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/NotificationService.kt" timestamp="1560498553131">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="122" column="54" />
+        <mark key="]" line="122" column="54" />
+        <mark key="^" line="122" column="50" />
+        <mark key="." line="122" column="54" />
+      </file>
       <file name="D:/project/musicbible/common/src/main/resources/db/migration/V41__fix missing migration.sql" timestamp="1559295019162">
         <mark key="[" line="7" column="11" />
         <mark key="]" line="7" column="20" />
@@ -171,12 +178,6 @@
         <mark key="]" line="29" column="37" />
         <mark key="^" line="29" column="37" />
         <mark key="." line="29" column="37" />
-      </file>
-      <file name="D:/project/musicbible/bin/manage-shell.sh" timestamp="1560394285738">
-        <mark key="[" line="21" column="66" />
-        <mark key="]" line="21" column="63" />
-        <mark key="^" line="21" column="63" />
-        <mark key="." line="21" column="63" />
       </file>
       <file name="D:/project/demo/application.yml" timestamp="1560394950290">
         <mark key="'" line="7" column="41" />
@@ -323,7 +324,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="56" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/listener/ArtistEventListener.kt" />
       <jump line="79" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" />
       <jump line="92" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" />
       <jump line="99" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" />
@@ -423,19 +423,20 @@
       <jump line="292" column="23" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
       <jump line="278" column="23" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
       <jump line="1080" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
+      <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/NotificationService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBlbS5mbHVzaCgpCiAgICAgICAgZW0ucmVmcmVzaChyZWxlYXNlKQogICAgICAgIGluZGV4VG9FcyhyZWxlYXNlKQo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="b" type="4">
         <text>jjjjjjjjkkkkkkkkkj^</text>
       </register>
       <register name="-" type="4">
-        <text>artist</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>updateRegion</text>
+        <text>saveAll</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBldmVudFB1Ymxpc2hlci5wdWJsaXNoRXZlbnQoRW50aXR5RXZlbnQudXBkYXRlZChyZWxlYXNlKSkK</text>
@@ -475,17 +476,16 @@
       </register>
     </registers>
     <search>
-      <last-search>updateRegion</last-search>
+      <last-search>saveAll</last-search>
       <last-offset />
-      <last-pattern>updateRegion</last-pattern>
+      <last-pattern>saveAll</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxsaXN0V2l0aEF0dGl0dWRlXD4=</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>aop</entry>
         <entry encoding="base64">XDxSZWxlYXNlU2VydmljZVw+</entry>
         <entry>LOGER</entry>
         <entry encoding="base64">XDxMT0dfTEVWRUxcPg==</entry>
@@ -505,6 +505,7 @@
         <entry>publishEvent</entry>
         <entry>publishRegion</entry>
         <entry>updateRegion</entry>
+        <entry>saveAll</entry>
       </history-search>
       <history-cmd>
         <entry>115</entry>

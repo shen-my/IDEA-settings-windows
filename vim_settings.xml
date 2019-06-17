@@ -37,12 +37,12 @@
         <mark key="^" line="21" column="66" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" timestamp="1560757322460">
-        <mark key="'" line="386" column="0" />
-        <mark key="[" line="401" column="46" />
-        <mark key="]" line="402" column="7" />
-        <mark key="." line="402" column="7" />
-        <mark key="^" line="402" column="7" />
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" timestamp="1560758491513">
+        <mark key="'" line="69" column="8" />
+        <mark key="[" line="69" column="21" />
+        <mark key="]" line="69" column="38" />
+        <mark key="." line="69" column="38" />
+        <mark key="^" line="69" column="38" />
       </file>
       <file name="D:/project/demo/src/main/kotlin/com/example/demo/config/AsyncConfig.kt" timestamp="1560324355917">
         <mark key="[" line="4" column="0" />
@@ -242,8 +242,12 @@
         <mark key="^" line="21" column="63" />
         <mark key="." line="21" column="63" />
       </file>
-      <file name="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" timestamp="1560753232009">
-        <mark key="'" line="297" column="36" />
+      <file name="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" timestamp="1560758299320">
+        <mark key="'" line="298" column="36" />
+        <mark key="[" line="293" column="36" />
+        <mark key="]" line="293" column="44" />
+        <mark key="^" line="293" column="44" />
+        <mark key="." line="293" column="44" />
       </file>
       <file name="D:/project/demo/application.yml" timestamp="1560394950290">
         <mark key="'" line="7" column="41" />
@@ -290,6 +294,9 @@
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1560758325796">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/FormControllerTest.kt" timestamp="1560741593551">
         <mark key="[" line="39" column="0" />
@@ -388,8 +395,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="13" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/9.0.13/6a0e5cfa0bfcb46c8849118a19015c5000b1e4f9/tomcat-embed-core-9.0.13-sources.jar!/javax/servlet/ServletRequestWrapper.java" />
-      <jump line="36" column="22" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/9.0.13/6a0e5cfa0bfcb46c8849118a19015c5000b1e4f9/tomcat-embed-core-9.0.13-sources.jar!/javax/servlet/ServletInputStream.java" />
       <jump line="37" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/9.0.13/6a0e5cfa0bfcb46c8849118a19015c5000b1e4f9/tomcat-embed-core-9.0.13-sources.jar!/javax/servlet/ServletInputStream.java" />
       <jump line="44" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/9.0.13/6a0e5cfa0bfcb46c8849118a19015c5000b1e4f9/tomcat-embed-core-9.0.13-sources.jar!/javax/servlet/ServletInputStream.java" />
       <jump line="66" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/9.0.13/6a0e5cfa0bfcb46c8849118a19015c5000b1e4f9/tomcat-embed-core-9.0.13-sources.jar!/javax/servlet/ServletInputStream.java" />
@@ -488,10 +493,12 @@
       <jump line="368" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
       <jump line="381" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
       <jump line="386" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
+      <jump line="396" column="17" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
+      <jump line="69" column="8" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZWxlYXNlLnVwZGF0ZWRBdCA9IFpvbmVkRGF0ZVRpbWUubm93KCkKICAgICAgICBzYXZlKHJlbGVhc2UpCiAgICAgICAgZXZlbnRQdWJsaXNoZXIucHVibGlzaEV2ZW50KEVudGl0eUV2ZW50LnVwZGF0ZWQocmVsZWFzZSkpCg==</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBkZWxldGVUcmFja3MocmVsZWFzZTogUmVsZWFzZSwgdHJhY2tJZHM6IExpc3Q8VVVJRD4pIHsK</text>
       </register>
       <register name="b" type="4">
         <text>jjjjjjjjkkkkkkkkkj^</text>
@@ -500,10 +507,10 @@
         <text>return</text>
       </register>
       <register name="/" type="4">
-        <text>order</text>
+        <text encoding="base64">XDxkZWxldGVUcmFja3NcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZWxlYXNlLnVwZGF0ZWRBdCA9IFpvbmVkRGF0ZVRpbWUubm93KCkKICAgICAgICBzYXZlKHJlbGVhc2UpCiAgICAgICAgZXZlbnRQdWJsaXNoZXIucHVibGlzaEV2ZW50KEVudGl0eUV2ZW50LnVwZGF0ZWQocmVsZWFzZSkpCg==</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBkZWxldGVUcmFja3MocmVsZWFzZTogUmVsZWFzZSwgdHJhY2tJZHM6IExpc3Q8VVVJRD4pIHsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -540,9 +547,9 @@
       </register>
     </registers>
     <search>
-      <last-search>order</last-search>
+      <last-search encoding="base64">XDxkZWxldGVUcmFja3NcPg==</last-search>
       <last-offset />
-      <last-pattern>order</last-pattern>
+      <last-pattern encoding="base64">XDxkZWxldGVUcmFja3NcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxsaXN0V2l0aEF0dGl0dWRlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -550,7 +557,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1cGRhdGVDYXRhbG9nTnVtYmVyc1w+</entry>
         <entry encoding="base64">XDxBcHBQcm9wZXJ0aWVzXD4=</entry>
         <entry encoding="base64">XDxhcHBQcm9wZXJ0aWVzXD4=</entry>
         <entry encoding="base64">XDxsb2dnZXJcPg==</entry>
@@ -570,6 +576,7 @@
         <entry encoding="base64">XDxpc0Zvcm1Qb3N0XD4=</entry>
         <entry>getInputStream</entry>
         <entry>order</entry>
+        <entry encoding="base64">XDxkZWxldGVUcmFja3NcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>115</entry>

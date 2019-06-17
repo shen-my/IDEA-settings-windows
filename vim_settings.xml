@@ -95,6 +95,9 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/9.0.13/6a0e5cfa0bfcb46c8849118a19015c5000b1e4f9/tomcat-embed-core-9.0.13-sources.jar!/javax/servlet/ServletInputStream.java" timestamp="1560738506963">
         <mark key="'" line="103" column="0" />
       </file>
+      <file name="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" timestamp="1560753745878">
+        <mark key="'" line="494" column="30" />
+      </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/filter/RequestWrapperFilter.kt" timestamp="1560743441234">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="20" column="25" />
@@ -361,18 +364,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/FormControllerTest.kt" />
-      <jump line="1" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/FormControllerTest.kt" />
-      <jump line="20" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/FormControllerTest.kt" />
-      <jump line="47" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/FormControllerTest.kt" />
-      <jump line="12" column="6" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/filter/LogRequestFilter.kt" />
-      <jump line="15" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/filter/LogRequestFilter.kt" />
-      <jump line="18" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/filter/LogRequestFilter.kt" />
-      <jump line="25" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/filter/LogRequestFilter.kt" />
-      <jump line="30" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/filter/LogRequestFilter.kt" />
-      <jump line="15" column="31" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/config/FilterConfig.kt" />
-      <jump line="21" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/config/FilterConfig.kt" />
-      <jump line="31" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/config/FilterConfig.kt" />
       <jump line="33" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/config/FilterConfig.kt" />
       <jump line="33" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/filter/LogRequestFilter.kt" />
       <jump line="38" column="9" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/FormControllerTest.kt" />
@@ -461,6 +452,18 @@
       <jump line="20" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/filter/CategoryCacheFilter.kt" />
       <jump line="35" column="19" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" />
       <jump line="297" column="36" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" />
+      <jump line="342" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" />
+      <jump line="403" column="89" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" />
+      <jump line="405" column="89" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" />
+      <jump line="416" column="17" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" />
+      <jump line="469" column="52" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" />
+      <jump line="470" column="52" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" />
+      <jump line="471" column="52" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" />
+      <jump line="472" column="52" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" />
+      <jump line="480" column="57" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" />
+      <jump line="484" column="45" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" />
+      <jump line="488" column="57" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" />
+      <jump line="494" column="30" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">

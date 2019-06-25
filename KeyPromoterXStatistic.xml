@@ -94,7 +94,7 @@
           <IdeaActionID>ChooseDebugConfiguration</IdeaActionID>
           <ShortCut>'Alt+Shift+F9'</ShortCut>
           <Description>Debug...</Description>
-          <Count>11</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -278,7 +278,7 @@
           <IdeaActionID>Vcs.Log.Refresh</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Refresh</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove Module">
@@ -366,7 +366,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>66</Count>
+          <Count>69</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Blame Details">

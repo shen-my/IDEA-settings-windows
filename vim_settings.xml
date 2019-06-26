@@ -29,12 +29,12 @@
         <mark key="^" line="21" column="66" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" timestamp="1561519170434">
-        <mark key="'" line="71" column="8" />
-        <mark key="[" line="372" column="24" />
-        <mark key="]" line="373" column="11" />
-        <mark key="." line="373" column="11" />
-        <mark key="^" line="373" column="11" />
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" timestamp="1561520394207">
+        <mark key="'" line="145" column="19" />
+        <mark key="[" line="368" column="85" />
+        <mark key="]" line="369" column="89" />
+        <mark key="." line="369" column="89" />
+        <mark key="^" line="369" column="89" />
       </file>
       <file name="D:/project/demo/src/main/kotlin/com/example/demo/config/AsyncConfig.kt" timestamp="1560324355917">
         <mark key="[" line="4" column="0" />
@@ -238,12 +238,12 @@
         <mark key="^" line="256" column="39" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" timestamp="1561425772568">
-        <mark key="'" line="151" column="0" />
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="115" column="68" />
-        <mark key="^" line="114" column="36" />
-        <mark key="." line="114" column="36" />
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" timestamp="1561519822456">
+        <mark key="'" line="10" column="29" />
+        <mark key="[" line="409" column="0" />
+        <mark key="]" line="411" column="7" />
+        <mark key="." line="411" column="7" />
+        <mark key="^" line="411" column="7" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/listener/VideoEventListener.kt" timestamp="1561510682238">
         <mark key="'" line="48" column="1" />
@@ -577,14 +577,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/VideoService.kt" />
-      <jump line="139" column="60" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/VideoService.kt" />
-      <jump line="156" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/VideoService.kt" />
-      <jump line="237" column="24" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/VideoService.kt" />
-      <jump line="245" column="71" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/VideoService.kt" />
-      <jump line="261" column="24" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/VideoService.kt" />
-      <jump line="439" column="8" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/VideoService.kt" />
-      <jump line="140" column="19" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/VideoService.kt" />
       <jump line="310" column="8" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/VideoService.kt" />
       <jump line="321" column="8" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/VideoService.kt" />
       <jump line="440" column="64" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/VideoService.kt" />
@@ -677,61 +669,69 @@
       <jump line="22" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/CatalogService.kt" />
       <jump line="32" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/CatalogService.kt" />
       <jump line="20" column="35" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/listener/ReleaseEventListener.kt" />
+      <jump line="979" column="28" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
+      <jump line="411" column="7" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" />
+      <jump line="967" column="64" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
+      <jump line="122" column="55" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
+      <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" />
+      <jump line="10" column="29" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" />
+      <jump line="368" column="16" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
+      <jump line="145" column="19" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGxvZ2dlciA9IExvZ2dlckZhY3RvcnkuZ2V0TG9nZ2VyKENhdGFsb2dTZXJ2aWNlOjpjbGFzcy5qYXZhKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaW5kUHVibGlzaGVkT3JUaHJvdyhpdC5hcnRpc3RJZCksCg==</text>
       </register>
       <register name="b" type="4">
         <text>jjjjjjjjkkkkkkkkkj^</text>
       </register>
       <register name="-" type="4">
-        <text>CatalogService::class.java)</text>
+        <text>artistService: ArtistService,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1cGRhdGVBcnRpc3RzXD4=</text>
+        <text>artistService</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGxvZ2dlciA9IExvZ2dlckZhY3RvcnkuZ2V0TG9nZ2VyKHRoaXMuamF2YUNsYXNzKQo=</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQgdmFsIGFydGlzdFNlcnZpY2U6IEFydGlzdFNlcnZpY2UsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGxvZ2dlciA9IExvZ2dlckZhY3RvcnkuZ2V0TG9nZ2VyKENhdGFsb2dTZXJ2aWNlOjpjbGFzcy5qYXZhKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaW5kUHVibGlzaGVkT3JUaHJvdyhpdC5hcnRpc3RJZCksCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQgdmFsIGFydGlzdFNlcnZpY2U6IEFydGlzdFNlcnZpY2UsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tdXNpY2JpYmxlLm1vZGVsLkxhYmVsCmltcG9ydCBjb20ubXVzaWNiaWJsZS5tb2RlbC5RQ2F0YWxvZwo=</text>
+        <text encoding="base64">ICAgIG92ZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZ1biBjb3VudEJ5TGFiZWwobGFiZWw6IExhYmVsKTogTG9uZyB7CiAgICAgICAgdmFsIGNhdGFsb2cgPSBRQ2F0YWxvZy5jYXRhbG9nCiAgICAgICAgcmV0dXJuIGNvdW50KGNhdGFsb2cubGFiZWwuaWQuZXEobGFiZWwuaWQpCiAgICAgICAgICAgIC5hbmQoCiAgICAgICAgICAgICAgICBjYXRhbG9nLnJlbGVhc2UuZGVsZXRlZC5pc0ZhbHNlCiAgICAgICAgICAgICkpCiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGxvZ2dlciA9IExvZ2dlckZhY3RvcnkuZ2V0TG9nZ2VyKENhdGFsb2dTZXJ2aWNlOjpjbGFzcy5qYXZhKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biA8UyA6IFJlbGVhc2VBcnRpc3Q/PiBzYXZlKGVudGl0eTogUyk6IFMgewogICAgICAgIHJldHVybiByZWxlYXNlQXJ0aXN0UmVwb3NpdG9yeS5zYXZlKGVudGl0eSkuYWxzbyB7CiAgICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG90aGVyLm1haW4gPT0gbWFpbgo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tdXNpY2JpYmxlLm1vZGVsLkxhYmVsCmltcG9ydCBjb20ubXVzaWNiaWJsZS5tb2RlbC5RQ2F0YWxvZwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG90aGVyLm9yZGVyID09IG9yZGVyICYmCg==</text>
+        <text encoding="base64">ICAgIGZ1biBjb3VudEJ5TGFiZWwobGFiZWw6IExhYmVsKTogTG9uZyB7CiAgICAgICAgdmFsIGNhdGFsb2cgPSBRQ2F0YWxvZy5jYXRhbG9nCiAgICAgICAgcmV0dXJuIGNvdW50KGNhdGFsb2cubGFiZWwuaWQuZXEobGFiZWwuaWQpCiAgICAgICAgICAgIC5hbmQoCiAgICAgICAgICAgICAgICBjYXRhbG9nLnJlbGVhc2UuZGVsZXRlZC5pc0ZhbHNlCiAgICAgICAgICAgICkpCiAgICB9Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tdXNpY2JpYmxlLmV2ZW50LkVudGl0eVVwZGF0ZWRFdmVudAo=</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biA8UyA6IFJlbGVhc2VBcnRpc3Q/PiBzYXZlKGVudGl0eTogUyk6IFMgewogICAgICAgIHJldHVybiByZWxlYXNlQXJ0aXN0UmVwb3NpdG9yeS5zYXZlKGVudGl0eSkuYWxzbyB7CiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tdXNpY2JpYmxlLmV2ZW50LkVudGl0eVNvZnREZWxldGVkRXZlbnQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG90aGVyLm1haW4gPT0gbWFpbgo=</text>
       </register>
       <register name=":" type="4">
         <text>210</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1cGRhdGVBcnRpc3RzXD4=</last-search>
+      <last-search>artistService</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1cGRhdGVBcnRpc3RzXD4=</last-pattern>
+      <last-pattern>artistService</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxsaXN0V2l0aEF0dGl0dWRlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -739,17 +739,9 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx3b3JrQXJ0aXN0UmVwb3NpdG9yeVw+</entry>
-        <entry encoding="base64">XDx3b3JrQXJ0aXN0U2VydmljZVw+</entry>
-        <entry encoding="base64">XDxwdWJsaXNoRXZlbnRcPg==</entry>
-        <entry>publish</entry>
-        <entry encoding="base64">XDxldmVudFB1Ymxpc2hlclw+</entry>
-        <entry>updateAttribute</entry>
-        <entry encoding="base64">XDx1cGRhdGVBdHRyaWJ1dGVcPg==</entry>
         <entry>updateCatalog</entry>
         <entry>indexTo</entry>
         <entry>credits</entry>
-        <entry encoding="base64">XDxhbGxDcmVkaXRzXD4=</entry>
         <entry encoding="base64">XDxDcmVkaXREb2NcPg==</entry>
         <entry encoding="base64">XDxpbmRleFRvRXNcPg==</entry>
         <entry encoding="base64">XDxhc3luY0luZGV4VG9Fc1w+</entry>
@@ -759,6 +751,14 @@
         <entry>indexToEs</entry>
         <entry>updateArtist</entry>
         <entry encoding="base64">XDx1cGRhdGVBcnRpc3RzXD4=</entry>
+        <entry encoding="base64">XDxhbGxDcmVkaXRzXD4=</entry>
+        <entry>releaseService</entry>
+        <entry>artistRelease</entry>
+        <entry>artist</entry>
+        <entry>release</entry>
+        <entry encoding="base64">XDxhcnRpc3RTZXJ2aWNlXD4=</entry>
+        <entry encoding="base64">XDxhcnRpc3RSZXBvc2l0b3J5XD4=</entry>
+        <entry>artistService</entry>
       </history-search>
       <history-cmd>
         <entry>173</entry>

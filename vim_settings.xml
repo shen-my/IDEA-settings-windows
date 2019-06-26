@@ -357,6 +357,11 @@
         <mark key="." line="22" column="49" />
         <mark key="^" line="22" column="49" />
       </file>
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/spring/TransactionContext.kt" timestamp="1561424563861">
+        <mark key="[" line="8" column="8" />
+        <mark key="]" line="8" column="76" />
+        <mark key="." line="8" column="76" />
+      </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" timestamp="1561540660570">
         <mark key="'" line="283" column="0" />
         <mark key="[" line="299" column="33" />
@@ -408,6 +413,11 @@
         <mark key="]" line="49" column="54" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="29" column="37" />
+      </file>
+      <file name="D:/project/musicbible/build.gradle" timestamp="1561544237088">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/VideoController.kt" timestamp="1561510001183">
         <mark key="'" line="213" column="0" />
@@ -493,6 +503,11 @@
         <mark key="]" line="29" column="37" />
         <mark key="^" line="29" column="37" />
         <mark key="." line="29" column="37" />
+      </file>
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/mapper/release/ReleaseMapper.kt" timestamp="1561517688049">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/VideoService.kt" timestamp="1561510619202">
         <mark key="'" line="329" column="0" />
@@ -714,8 +729,8 @@
       <jump line="87" column="8" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>(</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGgoImdyYWRsZS5wbHVnaW4uY29tLmdpdGh1Yi52aXN3YXJhbWFtb29ydGh5OmdyYWRsZS11dGlsLXBsdWdpbnM6MC4xLjAtUkVMRUFTRSIpCg==</text>
       </register>
       <register name="b" type="4">
         <text>jjjjjjjjkkkkkkkkkj^</text>
@@ -730,31 +745,31 @@
         <text encoding="base64">ICAgIEBBdXRvd2lyZWQgdmFsIHJlbGVhc2VBcnRpc3RSZXBvc2l0b3J5OiBSZWxlYXNlQXJ0aXN0UmVwb3NpdG9yeSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQgdmFsIGNhdGFsb2dTZXJ2aWNlOiBDYXRhbG9nU2VydmljZSwK</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGgoImdyYWRsZS5wbHVnaW4uY29tLmdpdGh1Yi52aXN3YXJhbWFtb29ydGh5OmdyYWRsZS11dGlsLXBsdWdpbnM6MC4xLjAtUkVMRUFTRSIpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhcnRpc3RTZXJ2aWNlLmZyZXNoV29ya0NvdW50KGFydGlzdCkK</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQgdmFsIGNhdGFsb2dTZXJ2aWNlOiBDYXRhbG9nU2VydmljZSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tdXNpY2JpYmxlLnB1Ymxpc2hlci5FdmVudFB1Ymxpc2hlcgo=</text>
+        <text encoding="base64">ICAgICAgICBhcnRpc3RTZXJ2aWNlLmZyZXNoV29ya0NvdW50KGFydGlzdCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgYXJ0aXN0U2VydmljZS5mcmVzaFJlY29yZGluZ0NvdW50KHJlY29yZGluZ0FydGlzdC5hcnRpc3QpCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tdXNpY2JpYmxlLnB1Ymxpc2hlci5FdmVudFB1Ymxpc2hlcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgYXJ0aXN0U2VydmljZS5mcmVzaFJlY29yZGluZ0NvdW50KHJlY29yZGluZ0FydGlzdC5hcnRpc3QpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhcnRpc3RTZXJ2aWNlLmZyZXNoUmVsZWFzZUNvdW50KHJlbGVhc2VBcnRpc3QuYXJ0aXN0KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBldmVudFB1Ymxpc2hlci5wdWJsaXNoRXZlbnQoRW50aXR5RXZlbnQuZGVsZXRlZCgpKQo=</text>
+        <text encoding="base64">ICAgICAgICBhcnRpc3RTZXJ2aWNlLmZyZXNoUmVsZWFzZUNvdW50KHJlbGVhc2VBcnRpc3QuYXJ0aXN0KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBQcmVBdXRob3JpemUoImhhc1Blcm1pc3Npb24oI3JlY29yZGluZywgJ1VQREFURScpIikK</text>
+        <text encoding="base64">ICAgICAgICBldmVudFB1Ymxpc2hlci5wdWJsaXNoRXZlbnQoRW50aXR5RXZlbnQuZGVsZXRlZCgpKQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIEBQcmVBdXRob3JpemUoImhhc1Blcm1pc3Npb24oI3JlY29yZGluZywgJ1VQREFURScpIikK</text>

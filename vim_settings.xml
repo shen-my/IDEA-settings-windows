@@ -336,11 +336,11 @@
         <mark key="." line="145" column="21" />
         <mark key="^" line="145" column="21" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/listener/LabelEventListener.kt" timestamp="1561627344646">
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/listener/LabelEventListener.kt" timestamp="1561628873265">
         <mark key="'" line="26" column="26" />
-        <mark key="[" line="37" column="31" />
-        <mark key="]" line="37" column="31" />
-        <mark key="." line="37" column="31" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
         <mark key="^" line="37" column="30" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/repository/CatalogRepository.kt" timestamp="1561456536792">
@@ -424,11 +424,11 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/9.0.13/6a0e5cfa0bfcb46c8849118a19015c5000b1e4f9/tomcat-embed-core-9.0.13-sources.jar!/javax/servlet/http/HttpServletRequestWrapper.java" timestamp="1560509821954">
         <mark key="'" line="274" column="12" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/listener/CatalogEventListener.kt" timestamp="1561628154224">
-        <mark key="[" line="18" column="14" />
-        <mark key="]" line="18" column="54" />
-        <mark key="^" line="18" column="52" />
-        <mark key="." line="18" column="52" />
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/listener/CatalogEventListener.kt" timestamp="1561628860159">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="17" column="27" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/NotificationService.kt" timestamp="1560498553131">
         <mark key="'" line="0" column="0" />
@@ -800,13 +800,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">QFRyYW5zYWN0aW9uYWwK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsudHJhbnNhY3Rpb24uYW5ub3RhdGlvbi5Qcm9wYWdhdGlvbgo=</text>
       </register>
       <register name="b" type="4">
         <text>jjjjjjjjkkkkkkkkkj^</text>
       </register>
       <register name="-" type="4">
-        <text>new</text>
+        <text>//(propagation = Propagation.REQUIRES_NEW)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcmVzaFJlbGVhc2VDb3VudFw+</text>
@@ -815,34 +815,34 @@
         <text encoding="base64">QFRyYW5zYWN0aW9uYWwocHJvcGFnYXRpb24gPSBQcm9wYWdhdGlvbi5SRVFVSVJFU19ORVcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QFRyYW5zYWN0aW9uYWwK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsudHJhbnNhY3Rpb24uYW5ub3RhdGlvbi5Qcm9wYWdhdGlvbgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QFRyYW5zYWN0aW9uYWwK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29udGV4dC5ldmVudC5FdmVudExpc3RlbmVyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QFRyYW5zYWN0aW9uYWwK</text>
+        <text encoding="base64">Ly9AVHJhbnNhY3Rpb25hbChwcm9wYWdhdGlvbiA9IFByb3BhZ2F0aW9uLlJFUVVJUkVTX05FVykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QFRyYW5zYWN0aW9uYWwK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsudHJhbnNhY3Rpb24uYW5ub3RhdGlvbi5Qcm9wYWdhdGlvbgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoIk5ldyByZWxlYXNlIENvdW50OiB7fSIsIGxhYmVsLnJlbGVhc2VDb3VudCkK</text>
+        <text encoding="base64">QFRyYW5zYWN0aW9uYWwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoIlJlZnJlc2ggUmVsZWFzZSBDb3VudDoge30iLCBsYWJlbC5yZWxlYXNlQ291bnQpCg==</text>
+        <text encoding="base64">QFRyYW5zYWN0aW9uYWwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoIkFmdGVyIHNhdmUiKQo=</text>
+        <text encoding="base64">QFRyYW5zYWN0aW9uYWwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG9yZzoKICAgICAgc3ByaW5nZnJhbWV3b3JrOgogICAgICAgIHRyYW5zYWN0aW9uOiB0cmFjZQo=</text>
+        <text encoding="base64">QFRyYW5zYWN0aW9uYWwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiTGFiZWxbe31dIGRlbGV0ZWQgZnJvbSBFUyIsIGV2ZW50LmlkKQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoIk5ldyByZWxlYXNlIENvdW50OiB7fSIsIGxhYmVsLnJlbGVhc2VDb3VudCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

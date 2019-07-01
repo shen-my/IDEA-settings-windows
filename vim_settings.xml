@@ -535,8 +535,8 @@
         <mark key="^" line="28" column="21" />
         <mark key="." line="28" column="21" />
       </file>
-      <file name="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" timestamp="1561725500455">
-        <mark key="'" line="272" column="24" />
+      <file name="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" timestamp="1561966189727">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/factory/ReleaseFactory.kt" timestamp="1561606671450">
         <mark key="[" line="9" column="0" />
@@ -1049,8 +1049,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="854" column="8" filename="/ReleaseService.kt" />
-      <jump line="882" column="8" filename="/ReleaseService.kt" />
       <jump line="895" column="8" filename="/ReleaseService.kt" />
       <jump line="910" column="8" filename="/ReleaseService.kt" />
       <jump line="1031" column="8" filename="/ReleaseService.kt" />
@@ -1149,6 +1147,8 @@
       <jump line="33" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/filter/RequestWrapperFilter.kt" />
       <jump line="30" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/filter/RequestWrapperFilter.kt" />
       <jump line="23" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/filter/RequestWrapperFilter.kt" />
+      <jump line="357" column="0" filename="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" />
+      <jump line="0" column="0" filename="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1161,7 +1161,7 @@
         <text>Release</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1cGRhdGVUeXBlXD4=</text>
+        <text>list</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmVsZWFzZVNlcnZpY2Uuc2F2ZShpdCkK</text>
@@ -1201,9 +1201,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1cGRhdGVUeXBlXD4=</last-search>
+      <last-search>list</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1cGRhdGVUeXBlXD4=</last-pattern>
+      <last-pattern>list</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxsaXN0V2l0aEF0dGl0dWRlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1211,7 +1211,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1cGRhdGVXb3Jrc1w+</entry>
         <entry>removeArtist</entry>
         <entry encoding="base64">XDxyZW1vdmVBcnRpc3RcPg==</entry>
         <entry encoding="base64">XDxiYW5uZXJcPg==</entry>
@@ -1231,6 +1230,7 @@
         <entry encoding="base64">XDx1cGRhdGVQZXJpb2RcPg==</entry>
         <entry>updateType</entry>
         <entry encoding="base64">XDx1cGRhdGVUeXBlXD4=</entry>
+        <entry>list</entry>
       </history-search>
       <history-cmd>
         <entry>113</entry>

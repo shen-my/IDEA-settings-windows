@@ -169,6 +169,9 @@
         <mark key="." line="8" column="18" />
         <mark key="^" line="8" column="18" />
       </file>
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/UserService.kt" timestamp="1562052040403">
+        <mark key="'" line="109" column="24" />
+      </file>
       <file name="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/CountryControllerTest.kt" timestamp="1561715381678">
         <mark key="'" line="2" column="1" />
         <mark key="[" line="90" column="1" />
@@ -435,12 +438,12 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/9.0.13/6a0e5cfa0bfcb46c8849118a19015c5000b1e4f9/tomcat-embed-core-9.0.13-sources.jar!/javax/servlet/ServletRequestWrapper.java" timestamp="1560509838220">
         <mark key="'" line="33" column="13" />
       </file>
-      <file name="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/SecurityConfig.kt" timestamp="1562051154303">
-        <mark key="'" line="46" column="17" />
-        <mark key="[" line="33" column="1" />
-        <mark key="]" line="36" column="3" />
-        <mark key="." line="36" column="3" />
-        <mark key="^" line="36" column="3" />
+      <file name="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/SecurityConfig.kt" timestamp="1562052149590">
+        <mark key="'" line="47" column="17" />
+        <mark key="[" line="58" column="8" />
+        <mark key="]" line="58" column="7" />
+        <mark key="." line="58" column="7" />
+        <mark key="^" line="58" column="7" />
       </file>
       <file name="D:/project/musicbible/backend-api/src/main/resources/application.yml" timestamp="1561688359053">
         <mark key="'" line="0" column="0" />
@@ -1060,12 +1063,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="0" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/SecurityConfig.kt" />
-      <jump line="18" column="0" filename="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/controller/CaptchaController.kt" />
-      <jump line="27" column="0" filename="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/controller/CaptchaController.kt" />
-      <jump line="0" column="0" filename="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/controller/CaptchaController.kt" />
-      <jump line="1" column="0" filename="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/controller/CaptchaController.kt" />
-      <jump line="11" column="0" filename="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/controller/CaptchaController.kt" />
       <jump line="0" column="0" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/ProbeController.kt" />
       <jump line="1" column="0" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/ProbeController.kt" />
       <jump line="12" column="0" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/ProbeController.kt" />
@@ -1160,6 +1157,12 @@
       <jump line="0" column="0" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/SecurityConfig.kt" />
       <jump line="1" column="0" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/SecurityConfig.kt" />
       <jump line="46" column="17" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/SecurityConfig.kt" />
+      <jump line="37" column="8" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/UserService.kt" />
+      <jump line="177" column="24" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/UserService.kt" />
+      <jump line="165" column="24" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/UserService.kt" />
+      <jump line="136" column="28" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/UserService.kt" />
+      <jump line="124" column="24" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/UserService.kt" />
+      <jump line="109" column="24" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/UserService.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1172,7 +1175,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjdXN0b21Vc2VyRGV0YWlsc1NlcnZpY2VcPg==</text>
+        <text encoding="base64">XDxwYXNzd29yZEVuY29kZXJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHR4TWFuYWdlci5yb2xsYmFjayh0eCkK</text>
@@ -1212,9 +1215,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjdXN0b21Vc2VyRGV0YWlsc1NlcnZpY2VcPg==</last-search>
+      <last-search encoding="base64">XDxwYXNzd29yZEVuY29kZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjdXN0b21Vc2VyRGV0YWlsc1NlcnZpY2VcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxwYXNzd29yZEVuY29kZXJcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxsaXN0V2l0aEF0dGl0dWRlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1222,8 +1225,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1cGRhdGVJbmZvXD4=</entry>
-        <entry encoding="base64">XDxzdHlsZUZhY3RvcnlcPg==</entry>
         <entry>updateGenre</entry>
         <entry>updatePeriod</entry>
         <entry encoding="base64">XDx1cGRhdGVQZXJpb2RcPg==</entry>
@@ -1242,6 +1243,8 @@
         <entry>withW</entry>
         <entry>withLock</entry>
         <entry encoding="base64">XDxjdXN0b21Vc2VyRGV0YWlsc1NlcnZpY2VcPg==</entry>
+        <entry encoding="base64">XDxjcmVhdGVcPg==</entry>
+        <entry encoding="base64">XDxwYXNzd29yZEVuY29kZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>113</entry>

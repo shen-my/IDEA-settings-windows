@@ -951,8 +951,8 @@
         <mark key="." line="298" column="0" />
         <mark key="^" line="298" column="40" />
       </file>
-      <file name="D:/project/musicbible/frontend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" timestamp="1561719745285">
-        <mark key="'" line="27" column="0" />
+      <file name="D:/project/musicbible/frontend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" timestamp="1562113436786">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="23" column="0" />
         <mark key="]" line="24" column="50" />
         <mark key="." line="11" column="0" />
@@ -1076,7 +1076,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="42" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/ModelEnum.kt" />
       <jump line="17" column="8" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/ModelEnum.kt" />
       <jump line="31" column="54" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/ModelEnum.kt" />
       <jump line="45" column="18" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/ModelEnum.kt" />
@@ -1176,6 +1175,7 @@
       <jump line="109" column="17" filename="C:/gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-web/5.1.2.RELEASE/4824e35e6520c854a16d2eccc36f9515eec59553/spring-security-web-5.1.2.RELEASE-sources.jar!/org/springframework/security/web/access/ExceptionTranslationFilter.java" />
       <jump line="159" column="15" filename="C:/gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-web/5.1.2.RELEASE/4824e35e6520c854a16d2eccc36f9515eec59553/spring-security-web-5.1.2.RELEASE-sources.jar!/org/springframework/security/web/access/ExceptionTranslationFilter.java" />
       <jump line="204" column="19" filename="C:/gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-web/5.1.2.RELEASE/4824e35e6520c854a16d2eccc36f9515eec59553/spring-security-web-5.1.2.RELEASE-sources.jar!/org/springframework/security/web/access/ExceptionTranslationFilter.java" />
+      <jump line="0" column="0" filename="D:/project/musicbible/frontend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1188,7 +1188,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZW5kU3RhcnRBdXRoZW50aWNhdGlvblw+</text>
+        <text>draft_200</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHR4TWFuYWdlci5yb2xsYmFjayh0eCkK</text>
@@ -1228,9 +1228,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZW5kU3RhcnRBdXRoZW50aWNhdGlvblw+</last-search>
+      <last-search>draft_200</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZW5kU3RhcnRBdXRoZW50aWNhdGlvblw+</last-pattern>
+      <last-pattern>draft_200</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxsaXN0V2l0aEF0dGl0dWRlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1238,7 +1238,6 @@
     </search>
     <history>
       <history-search>
-        <entry>list</entry>
         <entry encoding="base64">XDxzeW5jaHJvbml6ZWRcPg==</entry>
         <entry>synchro</entry>
         <entry encoding="base64">XDxsb2dnZXJcPg==</entry>
@@ -1258,6 +1257,7 @@
         <entry encoding="base64">XDxqd3RBdXRoZW50aWNhdGlvbkZpbHRlclw+</entry>
         <entry encoding="base64">XDxhdXRoZW50aWNhdGlvbkVudHJ5UG9pbnRcPg==</entry>
         <entry encoding="base64">XDxzZW5kU3RhcnRBdXRoZW50aWNhdGlvblw+</entry>
+        <entry>draft_200</entry>
       </history-search>
       <history-cmd>
         <entry>113</entry>

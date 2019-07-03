@@ -415,8 +415,8 @@
         <mark key="^" line="11" column="35" />
         <mark key="." line="11" column="35" />
       </file>
-      <file name="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" timestamp="1562119427380">
-        <mark key="'" line="510" column="0" />
+      <file name="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" timestamp="1562121647380">
+        <mark key="'" line="27" column="0" />
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="^" line="485" column="7" />
@@ -1117,7 +1117,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="0" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/SecurityConfig.kt" />
       <jump line="0" column="0" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/SecurityConfig.kt" />
       <jump line="1" column="0" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/SecurityConfig.kt" />
       <jump line="46" column="17" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/SecurityConfig.kt" />
@@ -1217,6 +1216,7 @@
       <jump line="22" column="33" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/factory/ArtistFactory.kt" />
       <jump line="212" column="12" filename="D:/project/musicbible/frontend-api/src/test/kotlin/com/musicbible/controller/UserControllerTest.kt" />
       <jump line="510" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" />
+      <jump line="27" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1229,7 +1229,7 @@
         <text>{</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxiaWxsYm9hcmRSZWxlYXNlU2VydmljZVw+</text>
+        <text>update_catalog_number</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">LCBhbmREbzogV29yay4oKSAtPiBVbml0ID0ge30=</text>
@@ -1269,9 +1269,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxiaWxsYm9hcmRSZWxlYXNlU2VydmljZVw+</last-search>
+      <last-search>update_catalog_number</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxiaWxsYm9hcmRSZWxlYXNlU2VydmljZVw+</last-pattern>
+      <last-pattern>update_catalog_number</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxsaXN0V2l0aEF0dGl0dWRlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1279,7 +1279,6 @@
     </search>
     <history>
       <history-search>
-        <entry>synchro</entry>
         <entry encoding="base64">XDxsb2dnZXJcPg==</entry>
         <entry encoding="base64">XDxjb21tZW50U2VydmljZVw+</entry>
         <entry encoding="base64">XDxhdHRpdHVkZVNlcnZpY2VcPg==</entry>
@@ -1299,6 +1298,7 @@
         <entry encoding="base64">XDxzZW5kU3RhcnRBdXRoZW50aWNhdGlvblw+</entry>
         <entry>draft_200</entry>
         <entry encoding="base64">XDxiaWxsYm9hcmRSZWxlYXNlU2VydmljZVw+</entry>
+        <entry>update_catalog_number</entry>
       </history-search>
       <history-cmd>
         <entry>143</entry>

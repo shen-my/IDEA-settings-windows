@@ -526,11 +526,11 @@
         <mark key="^" line="23" column="7" />
         <mark key="." line="23" column="7" />
       </file>
-      <file name="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/ErrorController.kt" timestamp="1562644339003">
-        <mark key="[" line="26" column="23" />
-        <mark key="]" line="26" column="27" />
-        <mark key="^" line="26" column="27" />
-        <mark key="." line="26" column="27" />
+      <file name="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/ErrorController.kt" timestamp="1562653193937">
+        <mark key="[" line="32" column="33" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="32" column="32" />
       </file>
       <file name="C:/jdk-11.0.1/lib/src.zip!/java.base/java/lang/Thread.java" timestamp="1561618025057">
         <mark key="'" line="540" column="11" />
@@ -723,8 +723,8 @@
       <file name="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" timestamp="1562212629931">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="C:/gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/2.1.1.RELEASE/84849f2b14ea0adfeb326031ede938c468b053c8/spring-boot-autoconfigure-2.1.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/web/servlet/error/AbstractErrorController.java" timestamp="1562644321925">
-        <mark key="'" line="46" column="0" />
+      <file name="C:/gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/2.1.1.RELEASE/84849f2b14ea0adfeb326031ede938c468b053c8/spring-boot-autoconfigure-2.1.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/web/servlet/error/AbstractErrorController.java" timestamp="1562652998295">
+        <mark key="'" line="70" column="34" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/listener/NotificationEventListener.kt" timestamp="1562033622457">
         <mark key="'" line="584" column="0" />
@@ -845,8 +845,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="25" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/aspect/LockAspect.kt" />
-      <jump line="93" column="8" filename="D:/project/musicbible/common/src/test/kotlin/com/musicbible/MixTests.kt" />
       <jump line="163" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/AttitudeService.kt" />
       <jump line="162" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/AttitudeService.kt" />
       <jump line="142" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/AttitudeService.kt" />
@@ -945,61 +943,63 @@
       <jump line="0" column="0" filename="D:/project/musicbible/backend-api/src/main/resources/application.yml" />
       <jump line="10" column="0" filename="D:/project/musicbible/backend-api/src/main/resources/application.yml" />
       <jump line="13" column="0" filename="D:/project/musicbible/backend-api/src/main/resources/application.yml" />
+      <jump line="73" column="36" filename="C:/gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/2.1.1.RELEASE/84849f2b14ea0adfeb326031ede938c468b053c8/spring-boot-autoconfigure-2.1.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/web/servlet/error/AbstractErrorController.java" />
+      <jump line="70" column="34" filename="C:/gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/2.1.1.RELEASE/84849f2b14ea0adfeb326031ede938c468b053c8/spring-boot-autoconfigure-2.1.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/web/servlet/error/AbstractErrorController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="b" type="4">
         <text>jjjjjjjjkkkkkkkkkj^</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;缺失参数: ${exception.parameterName}&quot;</text>
+        <text encoding="base64">dmFsIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxSZWNvcmRSZXF1ZXN0RmlsdGVyXD4=</text>
+        <text encoding="base64">XDxnZXRFcnJvckF0dHJpYnV0ZXNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gQXBwRXJyb3IuQmFkUmVxdWVzdC5wYXJhbUVycm9yKCKyzsr9wODQzbK7t/s6ICR7ZXhjZXB0aW9uLm5hbWV9IikudG9SZXNwb25zZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBqYXZheC5zZXJ2bGV0LmVycm9yLm1lc3NhZ2UK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LS0tCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICBlcnJvckF0dHJpYnV0ZXMuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSHR0cFN0YXR1cy5GT1JCSURERU4sIDAsICLO3rfDzsrIqM/eIgo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmVycm9yCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gUmVzdFJlc3BvbnNlLmVycm9yKAo=</text>
+        <text encoding="base64">ICAgICAgICBnZXRFcnJvckF0dHJpYnV0ZXMoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBFeGNlcHRpb25IYW5kbGVyCiAgICBmdW4gaGFuZGxlKGV4Y2VwdGlvbjogRXhjZXB0aW9uKTogUmVzdEVycm9yUmVzcG9uc2UgewogICAgICAgIGxvZ2dlci53YXJuKCJDYXRjaCAke2V4Y2VwdGlvbjo6Y2xhc3Muc2ltcGxlTmFtZX06ICR7ZXhjZXB0aW9uLm1lc3NhZ2V9OiAke2V4Y2VwdGlvbi5zdGFja1RyYWNlU3RyaW5nfSIpCiAgICAgICAgZXhjZXB0aW9uUmVwb3J0ZXIucmVwb3J0KGV4Y2VwdGlvbiwgUmVxdWVzdEhlbHBlci5yZXF1ZXN0KCkhISkKICAgICAgICByZXR1cm4gQXBwRXJyb3IuSW50ZXJuYWwuZGVmYXVsdChtc2cgPSBleGNlcHRpb24ubWVzc2FnZS5vckVtcHR5KCkpLnRvUmVzcG9uc2UoKQogICAgfQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBBcHBFcnJvci5CYWRSZXF1ZXN0Lgo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0LmF0dHJpYnV0ZU5hbWVzLmFzSXRlcmF0b3IoKS5mb3JFYWNoUmVtYWluaW5nIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSHR0cFN0YXR1cy5CQURfUkVRVUVTVCwgMCwgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLndhcm4ocmVxdWVzdC5nZXRBdHRyaWJ1dGUoaXQpLnRvU3RyaW5nKCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>106</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxSZWNvcmRSZXF1ZXN0RmlsdGVyXD4=</last-search>
+      <last-search encoding="base64">XDxnZXRFcnJvckF0dHJpYnV0ZXNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxSZWNvcmRSZXF1ZXN0RmlsdGVyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRFcnJvckF0dHJpYnV0ZXNcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxsaXN0V2l0aEF0dGl0dWRlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1007,7 +1007,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmaW5kQW5ub3RhdGlvblw+</entry>
         <entry>test</entry>
         <entry encoding="base64">XDx2ZXJpZnlDb2RlU2VydmljZVw+</entry>
         <entry encoding="base64">XDxlc1NlcnZpY2VcPg==</entry>
@@ -1027,6 +1026,7 @@
         <entry encoding="base64">XDxmcmVzaFJlbGVhc2VDb3VudFw+</entry>
         <entry>mail</entry>
         <entry encoding="base64">XDxSZWNvcmRSZXF1ZXN0RmlsdGVyXD4=</entry>
+        <entry encoding="base64">XDxnZXRFcnJvckF0dHJpYnV0ZXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>170</entry>

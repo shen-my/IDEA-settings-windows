@@ -56,11 +56,12 @@
         <mark key="^" line="205" column="25" />
         <mark key="." line="223" column="0" />
       </file>
-      <file name="D:/project/common-spring/src/main/kotlin/com/boostfield/spring/exception/AppError.kt" timestamp="1562641943887">
-        <mark key="[" line="26" column="30" />
-        <mark key="]" line="26" column="37" />
-        <mark key="." line="26" column="37" />
-        <mark key="^" line="26" column="37" />
+      <file name="D:/project/common-spring/src/main/kotlin/com/boostfield/spring/exception/AppError.kt" timestamp="1562643976717">
+        <mark key="'" line="13" column="3" />
+        <mark key="[" line="12" column="45" />
+        <mark key="]" line="13" column="3" />
+        <mark key="." line="13" column="3" />
+        <mark key="^" line="13" column="3" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/listener/ReleaseEventListener.kt" timestamp="1562550722454">
         <mark key="'" line="33" column="0" />
@@ -266,10 +267,12 @@
         <mark key="^" line="199" column="27" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/ExceptionHandler.kt" timestamp="1562641833300">
-        <mark key="[" line="117" column="0" />
-        <mark key="]" line="117" column="0" />
-        <mark key="." line="117" column="0" />
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/ExceptionHandler.kt" timestamp="1562644981962">
+        <mark key="'" line="49" column="0" />
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="^" line="83" column="14" />
+        <mark key="." line="84" column="0" />
       </file>
       <file name="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/SaleController.kt" timestamp="1562295038015">
         <mark key="'" line="51" column="0" />
@@ -328,8 +331,8 @@
         <mark key="^" line="12" column="1" />
         <mark key="." line="12" column="1" />
       </file>
-      <file name="D:/project/common-spring/build.gradle" timestamp="1561693244457">
-        <mark key="'" line="36" column="0" />
+      <file name="D:/project/common-spring/build.gradle" timestamp="1562644055022">
+        <mark key="'" line="28" column="0" />
         <mark key="[" line="33" column="16" />
         <mark key="]" line="33" column="16" />
         <mark key="^" line="33" column="16" />
@@ -494,6 +497,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="29" column="37" />
       </file>
+      <file name="D:/project/musicbible/build.gradle" timestamp="1562644789845">
+        <mark key="[" line="4" column="36" />
+        <mark key="]" line="4" column="36" />
+        <mark key="." line="4" column="36" />
+        <mark key="^" line="4" column="36" />
+      </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/aspect/LockAspect.kt" timestamp="1562405768117">
         <mark key="'" line="58" column="0" />
         <mark key="[" line="16" column="0" />
@@ -516,6 +525,12 @@
         <mark key="]" line="23" column="7" />
         <mark key="^" line="23" column="7" />
         <mark key="." line="23" column="7" />
+      </file>
+      <file name="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/ErrorController.kt" timestamp="1562644339003">
+        <mark key="[" line="26" column="23" />
+        <mark key="]" line="26" column="27" />
+        <mark key="^" line="26" column="27" />
+        <mark key="." line="26" column="27" />
       </file>
       <file name="C:/jdk-11.0.1/lib/src.zip!/java.base/java/lang/Thread.java" timestamp="1561618025057">
         <mark key="'" line="540" column="11" />
@@ -709,6 +724,9 @@
       <file name="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" timestamp="1562212629931">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="C:/gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/2.1.1.RELEASE/84849f2b14ea0adfeb326031ede938c468b053c8/spring-boot-autoconfigure-2.1.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/web/servlet/error/AbstractErrorController.java" timestamp="1562644321925">
+        <mark key="'" line="46" column="0" />
+      </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/listener/NotificationEventListener.kt" timestamp="1562033622457">
         <mark key="'" line="584" column="0" />
         <mark key="[" line="22" column="0" />
@@ -828,28 +846,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/FormService.kt" />
-      <jump line="0" column="0" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/FormController.kt" />
-      <jump line="1" column="0" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/FormController.kt" />
-      <jump line="17" column="0" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/FormController.kt" />
-      <jump line="19" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/aspect/LockAspect.kt" />
-      <jump line="32" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/aspect/LockAspect.kt" />
-      <jump line="20" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/aspect/LockAspect.kt" />
-      <jump line="15" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/aspect/LockAspect.kt" />
-      <jump line="16" column="52" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/aspect/LockAspect.kt" />
-      <jump line="17" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/aspect/LockAspect.kt" />
-      <jump line="22" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/aspect/LockAspect.kt" />
-      <jump line="35" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/aspect/LockAspect.kt" />
-      <jump line="16" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/AttitudeService.kt" />
-      <jump line="24" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/AttitudeService.kt" />
-      <jump line="34" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/AttitudeService.kt" />
-      <jump line="38" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/AttitudeService.kt" />
-      <jump line="46" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/AttitudeService.kt" />
-      <jump line="56" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/AttitudeService.kt" />
-      <jump line="59" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/AttitudeService.kt" />
-      <jump line="58" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/AttitudeService.kt" />
-      <jump line="20" column="25" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/AttitudeService.kt" />
-      <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/User.kt" />
       <jump line="48" column="25" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/aspect/LockAspect.kt" />
       <jump line="93" column="8" filename="D:/project/musicbible/common/src/test/kotlin/com/musicbible/MixTests.kt" />
       <jump line="163" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/AttitudeService.kt" />
@@ -917,63 +913,85 @@
       <jump line="42" column="0" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/VerifyCodeController.kt" />
       <jump line="25" column="0" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/VerifyCodeController.kt" />
       <jump line="123" column="54" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/ExceptionHandler.kt" />
-      <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/ExceptionHandler.kt" />
-      <jump line="1" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/ExceptionHandler.kt" />
       <jump line="21" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/ExceptionHandler.kt" />
       <jump line="27" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/ExceptionHandler.kt" />
       <jump line="30" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/ExceptionHandler.kt" />
       <jump line="36" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/ExceptionHandler.kt" />
-      <jump line="42" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/ExceptionHandler.kt" />
-      <jump line="51" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/ExceptionHandler.kt" />
-      <jump line="57" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/ExceptionHandler.kt" />
       <jump line="74" column="20" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/ExceptionHandler.kt" />
       <jump line="46" column="48" filename="C:/gradle/caches/modules-2/files-2.1/com.marcosbarbero.cloud/spring-cloud-zuul-ratelimit-core/2.2.0.RELEASE/487921002c7a5727f7646754aab710b8a39979e1/spring-cloud-zuul-ratelimit-core-2.2.0.RELEASE-sources.jar!/com/marcosbarbero/cloud/autoconfigure/zuul/ratelimit/filters/RateLimitPreFilter.java" />
+      <jump line="13" column="3" filename="D:/project/common-spring/src/main/kotlin/com/boostfield/spring/exception/AppError.kt" />
+      <jump line="28" column="0" filename="D:/project/common-spring/build.gradle" />
+      <jump line="49" column="11" filename="C:/gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/2.1.1.RELEASE/84849f2b14ea0adfeb326031ede938c468b053c8/spring-boot-autoconfigure-2.1.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/web/servlet/error/AbstractErrorController.java" />
+      <jump line="120" column="0" filename="C:/gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/2.1.1.RELEASE/84849f2b14ea0adfeb326031ede938c468b053c8/spring-boot-autoconfigure-2.1.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/web/servlet/error/AbstractErrorController.java" />
+      <jump line="119" column="0" filename="C:/gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/2.1.1.RELEASE/84849f2b14ea0adfeb326031ede938c468b053c8/spring-boot-autoconfigure-2.1.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/web/servlet/error/AbstractErrorController.java" />
+      <jump line="97" column="0" filename="C:/gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/2.1.1.RELEASE/84849f2b14ea0adfeb326031ede938c468b053c8/spring-boot-autoconfigure-2.1.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/web/servlet/error/AbstractErrorController.java" />
+      <jump line="83" column="0" filename="C:/gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/2.1.1.RELEASE/84849f2b14ea0adfeb326031ede938c468b053c8/spring-boot-autoconfigure-2.1.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/web/servlet/error/AbstractErrorController.java" />
+      <jump line="75" column="0" filename="C:/gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/2.1.1.RELEASE/84849f2b14ea0adfeb326031ede938c468b053c8/spring-boot-autoconfigure-2.1.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/web/servlet/error/AbstractErrorController.java" />
+      <jump line="69" column="0" filename="C:/gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/2.1.1.RELEASE/84849f2b14ea0adfeb326031ede938c468b053c8/spring-boot-autoconfigure-2.1.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/web/servlet/error/AbstractErrorController.java" />
+      <jump line="59" column="0" filename="C:/gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/2.1.1.RELEASE/84849f2b14ea0adfeb326031ede938c468b053c8/spring-boot-autoconfigure-2.1.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/web/servlet/error/AbstractErrorController.java" />
+      <jump line="52" column="0" filename="C:/gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/2.1.1.RELEASE/84849f2b14ea0adfeb326031ede938c468b053c8/spring-boot-autoconfigure-2.1.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/web/servlet/error/AbstractErrorController.java" />
+      <jump line="48" column="0" filename="C:/gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/2.1.1.RELEASE/84849f2b14ea0adfeb326031ede938c468b053c8/spring-boot-autoconfigure-2.1.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/web/servlet/error/AbstractErrorController.java" />
+      <jump line="46" column="0" filename="C:/gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/2.1.1.RELEASE/84849f2b14ea0adfeb326031ede938c468b053c8/spring-boot-autoconfigure-2.1.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/web/servlet/error/AbstractErrorController.java" />
+      <jump line="86" column="33" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/ExceptionHandler.kt" />
+      <jump line="82" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/ExceptionHandler.kt" />
+      <jump line="1" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/ExceptionHandler.kt" />
+      <jump line="22" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/ExceptionHandler.kt" />
+      <jump line="55" column="49" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/ExceptionHandler.kt" />
+      <jump line="79" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/ExceptionHandler.kt" />
+      <jump line="95" column="27" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/ExceptionHandler.kt" />
+      <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/ExceptionHandler.kt" />
+      <jump line="73" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/ExceptionHandler.kt" />
+      <jump line="72" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/ExceptionHandler.kt" />
+      <jump line="63" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/ExceptionHandler.kt" />
+      <jump line="57" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/ExceptionHandler.kt" />
+      <jump line="51" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/ExceptionHandler.kt" />
+      <jump line="42" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/ExceptionHandler.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="b" type="4">
         <text>jjjjjjjjkkkkkkkkkj^</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>&quot;缺失参数: ${exception.parameterName}&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSZWNvcmRSZXF1ZXN0RmlsdGVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uKCdvcmcuc3ByaW5nZnJhbWV3b3JrLmNsb3VkOnNwcmluZy1jbG91ZC1zdGFydGVyLW5ldGZsaXgtenV1bDoyLjEuMi5SRUxFQVNFJykKICAgIGltcGxlbWVudGF0aW9uKCdjb20ubWFyY29zYmFyYmVyby5jbG91ZDpzcHJpbmctY2xvdWQtenV1bC1yYXRlbGltaXQ6Mi4yLjAuUkVMRUFTRScpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gQXBwRXJyb3IuQmFkUmVxdWVzdC5wYXJhbUVycm9yKCKyzsr9wODQzbK7t/s6ICR7ZXhjZXB0aW9uLm5hbWV9IikudG9SZXNwb25zZSgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB2YWwgQ09ERV9CQURfUkVRVUVTVCA9IDQwMDAwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSHR0cFN0YXR1cy5GT1JCSURERU4sIDAsICLO3rfDzsrIqM/eIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gUmVzdFJlc3BvbnNlLmVycm9yKAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKGV4Y2VwdGlvbi5uU3RhdHVzQ29kZSkK</text>
+        <text encoding="base64">ICAgIEBFeGNlcHRpb25IYW5kbGVyCiAgICBmdW4gaGFuZGxlKGV4Y2VwdGlvbjogRXhjZXB0aW9uKTogUmVzdEVycm9yUmVzcG9uc2UgewogICAgICAgIGxvZ2dlci53YXJuKCJDYXRjaCAke2V4Y2VwdGlvbjo6Y2xhc3Muc2ltcGxlTmFtZX06ICR7ZXhjZXB0aW9uLm1lc3NhZ2V9OiAke2V4Y2VwdGlvbi5zdGFja1RyYWNlU3RyaW5nfSIpCiAgICAgICAgZXhjZXB0aW9uUmVwb3J0ZXIucmVwb3J0KGV4Y2VwdGlvbiwgUmVxdWVzdEhlbHBlci5yZXF1ZXN0KCkhISkKICAgICAgICByZXR1cm4gQXBwRXJyb3IuSW50ZXJuYWwuZGVmYXVsdChtc2cgPSBleGNlcHRpb24ubWVzc2FnZS5vckVtcHR5KCkpLnRvUmVzcG9uc2UoKQogICAgfQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHZhbCAK</text>
+        <text encoding="base64">ICAgICAgICBBcHBFcnJvci5CYWRSZXF1ZXN0Lgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB2YWwgCg==</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBFeGNlcHRpb25IYW5kbGVyCiAgICBmdW4gaGFuZGxlKGV4Y2VwdGlvbjogb3JnLmhpYmVybmF0ZS5leGNlcHRpb24uQ29uc3RyYWludFZpb2xhdGlvbkV4Y2VwdGlvbik6IFJlc3RFcnJvclJlc3BvbnNlIHsKICAgICAgICBsb2dnZXIud2FybigiQ2F0Y2ggJHtleGNlcHRpb246OmNsYXNzLnNpbXBsZU5hbWV9OiAke2V4Y2VwdGlvbi5tZXNzYWdlfTogJHtleGNlcHRpb24uc3RhY2tUcmFjZVN0cmluZ30iKQogICAgICAgIHJldHVybiBSZXN0UmVzcG9uc2UuZXJyb3IoCiAgICAgICAgICAgIEh0dHBTdGF0dXMuQkFEX1JFUVVFU1QsIDEsICKy2df3zKu/7CzH68nUuvPW2MrUIgogICAgICAgICkKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSHR0cFN0YXR1cy5CQURfUkVRVUVTVCwgMCwgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY2xvdWQubmV0ZmxpeC56dXVsLkVuYWJsZVp1dWxQcm94eQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gUmVzdFJlc3BvbnNlLmVycm9yKAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tYXJjb3NiYXJiZXJvLmNsb3VkLmF1dG9jb25maWd1cmUuenV1bC5yYXRlbGltaXQuY29uZmlnLnJlcG9zaXRvcnkuUmF0ZUxpbWl0ZXJFcnJvckhhbmRsZXIK</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name=":" type="4">
         <text>106</text>

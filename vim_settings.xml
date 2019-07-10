@@ -414,15 +414,15 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="D:/project/musicbible/backend-api/build.gradle" timestamp="1562742809472">
-        <mark key="'" line="18" column="24" />
+      <file name="D:/project/musicbible/backend-api/build.gradle" timestamp="1562744196916">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="35" column="63" />
-        <mark key="]" line="35" column="64" />
-        <mark key="^" line="35" column="64" />
-        <mark key="." line="35" column="64" />
+        <mark key="]" line="24" column="60" />
+        <mark key="^" line="24" column="60" />
+        <mark key="." line="24" column="60" />
       </file>
-      <file name="D:/project/musicbible/backend-api/src/main/resources/application.yml" timestamp="1562660068202">
-        <mark key="'" line="92" column="0" />
+      <file name="D:/project/musicbible/backend-api/src/main/resources/application.yml" timestamp="1562744312323">
+        <mark key="'" line="106" column="21" />
         <mark key="[" line="146" column="18" />
         <mark key="]" line="146" column="18" />
         <mark key="." line="146" column="18" />
@@ -494,6 +494,12 @@
         <mark key="]" line="7" column="32" />
         <mark key="^" line="7" column="32" />
         <mark key="." line="7" column="32" />
+      </file>
+      <file name="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/DefaultApplicationListener.kt" timestamp="1562744853739">
+        <mark key="[" line="28" column="24" />
+        <mark key="]" line="28" column="24" />
+        <mark key="^" line="28" column="24" />
+        <mark key="." line="28" column="24" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/LabelService.kt" timestamp="1562549551726">
         <mark key="'" line="50" column="8" />
@@ -635,15 +641,12 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="231" column="16" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
-      <jump line="218" column="50" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
       <jump line="315" column="16" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
       <jump line="50" column="8" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/LabelService.kt" />
       <jump line="0" column="0" filename="D:/project/musicbible/docker-compose.yml" />
       <jump line="114" column="0" filename="D:/project/musicbible/docker-compose.yml" />
       <jump line="71" column="2" filename="D:/project/musicbible/backend-api/src/main/resources/application.yml" />
       <jump line="55" column="0" filename="D:/project/musicbible/backend-api/src/main/resources/application.yml" />
-      <jump line="0" column="0" filename="D:/project/musicbible/backend-api/build.gradle" />
       <jump line="1" column="0" filename="D:/project/musicbible/backend-api/build.gradle" />
       <jump line="6" column="0" filename="D:/project/musicbible/backend-api/build.gradle" />
       <jump line="8" column="0" filename="D:/project/musicbible/backend-api/build.gradle" />
@@ -735,6 +738,9 @@
       <jump line="143" column="18" filename="D:/project/musicbible/frontend-api/src/main/resources/application.yml" />
       <jump line="93" column="37" filename="D:/project/musicbible/build.gradle" />
       <jump line="18" column="24" filename="D:/project/musicbible/backend-api/build.gradle" />
+      <jump line="24" column="60" filename="D:/project/musicbible/backend-api/build.gradle" />
+      <jump line="0" column="0" filename="D:/project/musicbible/backend-api/build.gradle" />
+      <jump line="106" column="21" filename="D:/project/musicbible/backend-api/src/main/resources/application.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -747,7 +753,7 @@
         <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text>bootRun</text>
+        <text>mail</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjdXJyZW50V29yay5pZCA9ICJkaXNjb2dzLSRpZC0ke3dvcmtJbmRleCsrfSIK</text>
@@ -787,9 +793,9 @@
       </register>
     </registers>
     <search>
-      <last-search>bootRun</last-search>
+      <last-search>mail</last-search>
       <last-offset />
-      <last-pattern>bootRun</last-pattern>
+      <last-pattern>mail</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxsaXN0V2l0aEF0dGl0dWRlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -810,13 +816,13 @@
         <entry>created</entry>
         <entry>updateCata</entry>
         <entry encoding="base64">XDxmcmVzaFJlbGVhc2VDb3VudFw+</entry>
-        <entry>mail</entry>
         <entry encoding="base64">XDxSZWNvcmRSZXF1ZXN0RmlsdGVyXD4=</entry>
         <entry encoding="base64">XDxnZXRFcnJvckF0dHJpYnV0ZXNcPg==</entry>
         <entry>notFound</entry>
         <entry encoding="base64">XDx2ZXJpZnljb2RlXD4=</entry>
         <entry encoding="base64">XDxhcHBQcm9wZXJ0aWVzXD4=</entry>
         <entry>bootRun</entry>
+        <entry>mail</entry>
       </history-search>
       <history-cmd>
         <entry>170</entry>

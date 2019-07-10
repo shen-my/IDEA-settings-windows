@@ -133,10 +133,10 @@
         <mark key="." line="29" column="23" />
         <mark key="^" line="29" column="23" />
       </file>
-      <file name="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/App.kt" timestamp="1562719401153">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/App.kt" timestamp="1562721202194">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/ArtistController.kt" timestamp="1562316920147">
         <mark key="'" line="155" column="0" />
@@ -648,7 +648,12 @@
       <file name="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" timestamp="1562212629931">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" timestamp="1562719545462" />
+      <file name="D:/project/discogs-importer/src/main/kotlin/com/musicbible/discogsimporter/model/Release.kt" timestamp="1562721456712">
+        <mark key="[" line="169" column="53" />
+        <mark key="]" line="169" column="55" />
+        <mark key="^" line="169" column="55" />
+        <mark key="." line="169" column="55" />
+      </file>
       <file name="C:/gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/2.1.1.RELEASE/84849f2b14ea0adfeb326031ede938c468b053c8/spring-boot-autoconfigure-2.1.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/web/servlet/error/AbstractErrorController.java" timestamp="1562652998295">
         <mark key="'" line="70" column="34" />
       </file>
@@ -853,14 +858,14 @@
       <jump line="18" column="24" filename="D:/project/musicbible/backend-api/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8uRmlsZVdyaXRlcgo=</text>
+      <register name="&quot;" type="4">
+        <text>UUID.randomUUID().toString()</text>
       </register>
       <register name="b" type="4">
         <text>jjjjjjjjkkkkkkkkkj^</text>
       </register>
       <register name="-" type="4">
-        <text>.forEach(::println)</text>
+        <text>UUID.randomUUID().toString()</text>
       </register>
       <register name="/" type="4">
         <text>bootRun</text>
@@ -869,34 +874,34 @@
         <text encoding="base64">ICAgICAgICB2YWwgcGFyc2VyID0gUmVsZWFzZVhtbFBhcnNlcigpCiAgICAgICAgdmFsIHJlbGVhc2UgPSBwYXJzZXIucGFyc2UoeG1sKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8uRmlsZVdyaXRlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbigiRmluZCBhIGdvb2QgcmVsZWFzZVske3JlbGVhc2UuaWR9XSIpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUudGhyaWZ0LnRyYW5zcG9ydC5UU29ja2V0Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuaW8uRmlsZVdyaXRlcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tdXNpY2JpYmxlLnJlbGVhc2VyZXBvLnRocmlmdC5yZWxlYXNlLlJlbGVhc2UK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUudGhyaWZ0LnRyYW5zcG9ydC5UU29ja2V0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKHVybCkK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tdXNpY2JpYmxlLnJlbGVhc2VyZXBvLnRocmlmdC5yZWxlYXNlLlJlbGVhc2UK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKHVybCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN5c3RlbVByb3BlcnR5ICdzcHJpbmcucHJvZmlsZXMuYWN0aXZlJywgJ3Rlc3QnCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dGVzdCB7Cg==</text>
+        <text encoding="base64">ICAgIHN5c3RlbVByb3BlcnR5ICdzcHJpbmcucHJvZmlsZXMuYWN0aXZlJywgJ3Rlc3QnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dGVzdCB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>106</text>

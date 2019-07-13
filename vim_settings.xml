@@ -64,11 +64,11 @@
         <mark key="." line="78" column="0" />
         <mark key="^" line="78" column="0" />
       </file>
-      <file name="D:/project/aliyun-green-spring-boot-starter/build.gradle" timestamp="1562981679758">
-        <mark key="[" line="58" column="32" />
-        <mark key="]" line="58" column="31" />
-        <mark key="." line="58" column="31" />
-        <mark key="^" line="58" column="31" />
+      <file name="D:/project/aliyun-green-spring-boot-starter/build.gradle" timestamp="1563001808140">
+        <mark key="'" line="58" column="30" />
+        <mark key="[" line="31" column="13" />
+        <mark key="]" line="31" column="13" />
+        <mark key="." line="31" column="13" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/es/model/EsRelease.kt" timestamp="1561517760825">
         <mark key="'" line="133" column="8" />
@@ -306,15 +306,17 @@
         <mark key="^" line="43" column="49" />
         <mark key="." line="43" column="49" />
       </file>
-      <file name="D:/project/musicbible/frontend-api/build.gradle" timestamp="1562981326631">
+      <file name="D:/project/musicbible/frontend-api/build.gradle" timestamp="1563001843296">
         <mark key="[" line="39" column="70" />
         <mark key="]" line="39" column="70" />
         <mark key="." line="39" column="70" />
+        <mark key="^" line="39" column="70" />
       </file>
-      <file name="D:/project/musicbible/common/build.gradle" timestamp="1562981320759">
-        <mark key="[" line="29" column="70" />
-        <mark key="]" line="29" column="70" />
-        <mark key="." line="29" column="70" />
+      <file name="D:/project/musicbible/common/build.gradle" timestamp="1563001837373">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="28" column="70" />
       </file>
       <file name="D:/project/demo/src/main/kotlin/com/example/demo/listener/EventListener.kt" timestamp="1560328246750">
         <mark key="'" line="13" column="0" />
@@ -720,8 +722,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="155" column="6" filename="D:/project/musicbible/backend-api/src/main/resources/application.yml" />
-      <jump line="111" column="2" filename="D:/project/musicbible/backend-api/src/main/resources/application.yml" />
       <jump line="134" column="4" filename="D:/project/musicbible/backend-api/src/main/resources/application.yml" />
       <jump line="135" column="20" filename="D:/project/musicbible/backend-api/src/main/resources/application.yml" />
       <jump line="136" column="27" filename="D:/project/musicbible/backend-api/src/main/resources/application.yml" />
@@ -820,16 +820,18 @@
       <jump line="64" column="0" filename="D:/project/aliyun-green-spring-boot-starter/build.gradle" />
       <jump line="9" column="0" filename="D:/project/baidu-picture-search-spring-boot-starter/build.gradle" />
       <jump line="343" column="48" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/AppreciationService.kt" />
+      <jump line="67" column="30" filename="D:/project/aliyun-green-spring-boot-starter/build.gradle" />
+      <jump line="58" column="30" filename="D:/project/aliyun-green-spring-boot-starter/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>3</text>
       </register>
       <register name="b" type="4">
         <text>jjjjjjjjkkkkkkkkkj^</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text>jdk8</text>
@@ -838,34 +840,34 @@
         <text encoding="base64">ICAgIHNvdXJjZUNvbXBhdGliaWxpdHkgPSBKYXZhVmVyc2lvbi5WRVJTSU9OXzFfOAogICAgdGFyZ2V0Q29tcGF0aWJpbGl0eSA9IEphdmFWZXJzaW9uLlZFUlNJT05fMV84Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dGFzayBzb3VyY2VzSmFyKHR5cGU6IEphciwgZGVwZW5kc09uOiBjbGFzc2VzKSB7CiAgICBmcm9tIHNvdXJjZVNldHMubWFpbi5hbGxTb3VyY2UKfQoKYXJ0aWZhY3RzIHsKICAgIGFyY2hpdmVzIHNvdXJjZXNKYXIKfQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFyY2hpdmVzIGphdmFkb2NKYXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YXIK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGNsYXNzaWZpZXIgPSAnc291cmNlcycK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">dGFzayBqYXZhZG9jSmFyKHR5cGU6IEphciwgZGVwZW5kc09uOiBqYXZhZG9jKSB7CiAgICBjbGFzc2lmaWVyID0gJ2phdmFkb2MnCiAgICBmcm9tIGphdmFkb2MuZGVzdGluYXRpb25EaXIKfQoK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">fQo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIG1haW4ua290bGluLnNyY0RpcnMgKz0gJ3NyYy9tYWluL2tvdGxpbicK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">c291cmNlU2V0cyB7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">cGx1Z2lucyB7CiAgICBpZCAib3JnLmpldGJyYWlucy5rb3RsaW4uanZtIiB2ZXJzaW9uIGtvdGxpblZlcnNpb24KfQoK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIG1haW4uamF2YS5pbmNsdWRlKCcqKi8qLmt0JykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBqYXZhIHt9Cg==</text>
+        <text encoding="base64">ICAgIGZyb20gc291cmNlU2V0cy5tYWluLmFsbEphdmEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1haW4gewo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>106</text>

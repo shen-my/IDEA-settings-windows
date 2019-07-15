@@ -477,11 +477,12 @@
         <mark key="." line="5" column="40" />
         <mark key="^" line="5" column="40" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" timestamp="1563184142021">
-        <mark key="'" line="234" column="15" />
-        <mark key="[" line="249" column="0" />
-        <mark key="]" line="249" column="0" />
-        <mark key="." line="249" column="0" />
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" timestamp="1563185285565">
+        <mark key="'" line="236" column="17" />
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
+        <mark key="^" line="242" column="39" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/RecordingService.kt" timestamp="1561711747899">
         <mark key="'" line="20" column="0" />
@@ -496,6 +497,12 @@
         <mark key="]" line="39" column="15" />
         <mark key="." line="39" column="15" />
         <mark key="^" line="30" column="18" />
+      </file>
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Track.kt" timestamp="1563184971172">
+        <mark key="[" line="3" column="40" />
+        <mark key="]" line="3" column="39" />
+        <mark key="^" line="3" column="39" />
+        <mark key="." line="3" column="39" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/NotificationService.kt" timestamp="1560498553131">
         <mark key="'" line="0" column="0" />
@@ -552,12 +559,12 @@
         <mark key="^" line="302" column="30" />
         <mark key="." line="299" column="0" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/MovementService.kt" timestamp="1563183973038">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="19" column="15" />
-        <mark key="]" line="19" column="15" />
-        <mark key="." line="19" column="15" />
-        <mark key="^" line="19" column="15" />
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/MovementService.kt" timestamp="1563185303171">
+        <mark key="'" line="39" column="0" />
+        <mark key="[" line="26" column="8" />
+        <mark key="]" line="26" column="8" />
+        <mark key="." line="26" column="8" />
+        <mark key="^" line="24" column="12" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/filter/RequestWrapperFilter.kt" timestamp="1562574855743">
         <mark key="'" line="13" column="0" />
@@ -927,7 +934,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="232" column="17" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" />
       <jump line="74" column="8" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" />
       <jump line="0" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/mapper/release/ReleaseMapper.kt" />
       <jump line="283" column="13" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Release.kt" />
@@ -1027,16 +1033,17 @@
       <jump line="34" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/MovementService.kt" />
       <jump line="75" column="8" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" />
       <jump line="234" column="15" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" />
+      <jump line="237" column="17" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>E</text>
+        <text>getMovementRelationTracks</text>
       </register>
       <register name="b" type="4">
         <text>jjjjjjjjkkkkkkkkkj^</text>
       </register>
       <register name="-" type="4">
-        <text>E</text>
+        <text>getMovementRelationTracks</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRNb3ZlbWVudFJlbGF0aW9uVHJhY2tzXD4=</text>
@@ -1045,31 +1052,31 @@
         <text encoding="base64">ICAgIEBEaXNwbGF5TmFtZSgi0N64xNLVyvW80iIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZ1biBnZXRNb3ZlbWVudFJlbGF0aW9uVHJhY2tzKHdvcms6IFdvcmssIG1vdmVtZW50SWQ6IFVVSUQsIHBhZ2VhYmxlOiBQYWdlYWJsZSk6IE1vdmVtZW50UmVsYXRpb24K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBtb3ZlbWVudFJlbGF0ZWRSZWxlYXNlQ291bnQobW92ZW1lbnRJZDogVVVJRCk6IExvbmcgewogICAgICAgIHJldHVybiBtb3ZlbWVudFNlcnZpY2UuZmluZEV4aXN0c09yVGhyb3cobW92ZW1lbnRJZCkucmVjb3JkaW5ncy5zaXplLnRvTG9uZygpCiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgbW92ZW1lbnQucmVjb3JkaW5nc1swXS50cmFja3MuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogu/HIocDW1cLP4LnYs6rGrMr9wb8KICAgICAqLwogICAgZnVuIG1vdmVtZW50UmVsYXRlZFJlbGVhc2VDb3VudChtb3ZlbWVudElkOiBVVUlEKTogTG9uZwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc2VjdXJpdHkuYWNjZXNzLnByZXBvc3QuUHJlQXV0aG9yaXplCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHZhbCByZWxlYXNlID0gcmVsZWFzZUZhY3RvcnkuY3JlYXRlKCkKLy8gICAgICAgIHZhbCB0cmFja0dyb3VwID0gdHJhY2tHcm91cFNlcnZpY2UuZ2V0Rmlyc3RUcmFja0dyb3VwKHJlbGVhc2UpCi8vICAgICAgICB2YWwgdHJhY2sgPSB0cmFja0ZhY3RvcnkuY3JlYXRlKHJlbGVhc2UsIHJlY29yZGluZywgdHJhY2tHcm91cCkK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBtb3ZlbWVudFJlbGF0ZWRSZWxlYXNlQ291bnQobW92ZW1lbnRJZDogVVVJRCk6IExvbmcgewogICAgICAgIHJldHVybiBtb3ZlbWVudFNlcnZpY2UuZmluZEV4aXN0c09yVGhyb3cobW92ZW1lbnRJZCkucmVjb3JkaW5ncy5zaXplLnRvTG9uZygpCiAgICB9Cgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogu/HIocDW1cLP4LnYs6rGrMr9wb8KICAgICAqLwogICAgZnVuIG1vdmVtZW50UmVsYXRlZFJlbGVhc2VDb3VudChtb3ZlbWVudElkOiBVVUlEKTogTG9uZwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc2VjdXJpdHkuYWNjZXNzLnByZXBvc3QuUHJlQXV0aG9yaXplCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICApCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KG1vdmVtZW50UmVwb3NpdG9yeS5maW5kQnlEZWxldGVkRmFsc2VBbmRJZChtb3ZlbWVudDIuaWQpKS5pc05vdE51bGwK</text>
+        <text encoding="base64">Ly8gICAgICAgIHZhbCByZWxlYXNlID0gcmVsZWFzZUZhY3RvcnkuY3JlYXRlKCkKLy8gICAgICAgIHZhbCB0cmFja0dyb3VwID0gdHJhY2tHcm91cFNlcnZpY2UuZ2V0Rmlyc3RUcmFja0dyb3VwKHJlbGVhc2UpCi8vICAgICAgICB2YWwgdHJhY2sgPSB0cmFja0ZhY3RvcnkuY3JlYXRlKHJlbGVhc2UsIHJlY29yZGluZywgdHJhY2tHcm91cCkK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>

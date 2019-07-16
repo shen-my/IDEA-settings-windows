@@ -79,6 +79,12 @@
       <file name="D:/project/musicbible/common/build.gradle" timestamp="1563155158815">
         <mark key="'" line="19" column="39" />
       </file>
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/repository/ArtistRepository.kt" timestamp="1563235391457">
+        <mark key="[" line="95" column="4" />
+        <mark key="]" line="95" column="4" />
+        <mark key="^" line="95" column="42" />
+        <mark key="." line="95" column="4" />
+      </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/repository/NotificationRepository.kt" timestamp="1561451748072">
         <mark key="'" line="20" column="4" />
         <mark key="[" line="4" column="0" />
@@ -100,12 +106,12 @@
         <mark key="^" line="17" column="26" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" timestamp="1563256255785">
-        <mark key="'" line="194" column="0" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-        <mark key="^" line="375" column="69" />
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" timestamp="1563267857452">
+        <mark key="'" line="257" column="44" />
+        <mark key="[" line="253" column="40" />
+        <mark key="]" line="254" column="22" />
+        <mark key="." line="254" column="22" />
+        <mark key="^" line="254" column="22" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/RecordingService.kt" timestamp="1563247624302">
         <mark key="[" line="66" column="0" />
@@ -131,12 +137,12 @@
       <file name="C:/gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-jpa/2.1.3.RELEASE/559abf7fa28e06c6ec55deac38cecbcbef2be376/spring-data-jpa-2.1.3.RELEASE-sources.jar!/org/springframework/data/jpa/repository/support/SimpleJpaRepository.java" timestamp="1563189343619">
         <mark key="'" line="355" column="57" />
       </file>
-      <file name="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/WorkControllerTest.kt" timestamp="1563262418381">
-        <mark key="'" line="91" column="0" />
-        <mark key="[" line="104" column="100" />
-        <mark key="]" line="105" column="8" />
-        <mark key="." line="105" column="8" />
-        <mark key="^" line="105" column="8" />
+      <file name="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/WorkControllerTest.kt" timestamp="1563267919732">
+        <mark key="'" line="464" column="0" />
+        <mark key="[" line="482" column="43" />
+        <mark key="]" line="482" column="43" />
+        <mark key="." line="482" column="43" />
+        <mark key="^" line="473" column="38" />
       </file>
       <file name="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/SecurityConfig.kt" timestamp="1562752912007">
         <mark key="'" line="111" column="29" />
@@ -176,8 +182,14 @@
         <mark key="." line="195" column="62" />
         <mark key="^" line="195" column="62" />
       </file>
-      <file name="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" timestamp="1563264507015">
-        <mark key="'" line="358" column="43" />
+      <file name="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" timestamp="1563267159103">
+        <mark key="'" line="439" column="19" />
+      </file>
+      <file name="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/WorkController.kt" timestamp="1563267764214">
+        <mark key="[" line="243" column="34" />
+        <mark key="]" line="243" column="33" />
+        <mark key="." line="243" column="33" />
+        <mark key="^" line="243" column="33" />
       </file>
       <file name="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReportControllerTest.kt" timestamp="1563177258640">
         <mark key="[" line="67" column="58" />
@@ -250,34 +262,14 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="51" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" />
-      <jump line="0" column="0" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/load/RoleLoader.kt" />
-      <jump line="266" column="12" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/load/RoleLoader.kt" />
-      <jump line="117" column="15" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/load/RoleLoader.kt" />
-      <jump line="448" column="31" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/WorkControllerTest.kt" />
-      <jump line="442" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/WorkControllerTest.kt" />
-      <jump line="439" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/WorkControllerTest.kt" />
-      <jump line="427" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/WorkControllerTest.kt" />
-      <jump line="422" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/WorkControllerTest.kt" />
-      <jump line="194" column="31" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/WorkController.kt" />
-      <jump line="197" column="20" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/WorkController.kt" />
-      <jump line="83" column="8" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" />
-      <jump line="44" column="11" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/repository/TrackRepository.kt" />
-      <jump line="35" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/repository/TrackRepository.kt" />
-      <jump line="459" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/WorkControllerTest.kt" />
-      <jump line="457" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/WorkControllerTest.kt" />
-      <jump line="412" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/WorkControllerTest.kt" />
       <jump line="440" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/WorkControllerTest.kt" />
-      <jump line="433" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/WorkControllerTest.kt" />
       <jump line="418" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/WorkControllerTest.kt" />
       <jump line="423" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/WorkControllerTest.kt" />
       <jump line="428" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/WorkControllerTest.kt" />
       <jump line="414" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/WorkControllerTest.kt" />
       <jump line="432" column="10" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/WorkControllerTest.kt" />
       <jump line="474" column="7" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/WorkControllerTest.kt" />
-      <jump line="454" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/WorkControllerTest.kt" />
       <jump line="450" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/WorkControllerTest.kt" />
-      <jump line="443" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/WorkControllerTest.kt" />
       <jump line="435" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/WorkControllerTest.kt" />
       <jump line="482" column="62" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/WorkControllerTest.kt" />
       <jump line="479" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/WorkControllerTest.kt" />
@@ -350,61 +342,81 @@
       <jump line="418" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" />
       <jump line="452" column="8" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" />
       <jump line="111" column="28" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/listener/NotificationEventListener.kt" />
+      <jump line="439" column="19" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/controller/ReleaseController.kt" />
+      <jump line="44" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" />
+      <jump line="78" column="8" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" />
+      <jump line="368" column="17" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" />
+      <jump line="83" column="8" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" />
+      <jump line="451" column="7" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/WorkControllerTest.kt" />
+      <jump line="422" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/WorkControllerTest.kt" />
+      <jump line="427" column="8" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/WorkControllerTest.kt" />
+      <jump line="458" column="7" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/WorkControllerTest.kt" />
+      <jump line="454" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/WorkControllerTest.kt" />
+      <jump line="448" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/WorkControllerTest.kt" />
+      <jump line="443" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/WorkControllerTest.kt" />
+      <jump line="437" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/WorkControllerTest.kt" />
+      <jump line="433" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/WorkControllerTest.kt" />
+      <jump line="429" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/WorkControllerTest.kt" />
+      <jump line="242" column="17" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" />
+      <jump line="250" column="12" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" />
+      <jump line="257" column="44" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" />
+      <jump line="438" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/WorkControllerTest.kt" />
+      <jump line="464" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/WorkControllerTest.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC50eXBlKE5vdGlmaWNhdGlvblR5cGUuQ09NTUVOVCkKICAgICAgICAgICAgICAgIC5yZWNlaXZlcihjb21tZW50LnBhcmVudCEhLmNyZWF0ZWRCeSkKICAgICAgICAgICAgICAgIC5wdWJsaXNoZXIoY29tbWVudC5jcmVhdGVkQnkpCg==</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="b" type="4">
         <text>jjjjjjjjkkkkkkkkkj^</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>update_recording</text>
+        <text encoding="base64">XDxyZWxlYXNlc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFuc2FjdGlvbmFsIHsK</text>
+        <text encoding="base64">ICAgICAgICBnZXQoKQogICAgICAgICAgICAudXJpKCIvYXBpL3YwL3dvcmsvJHt3b3JrLmlkfS9yZWxlYXNlcyIpCiAgICAgICAgICAgIC5leGNoYW5nZSgpCiAgICAgICAgICAgIC5leHBlY3RTdGF0dXMoKS5pc09rCiAgICAgICAgICAgIC5leHBlY3RCb2R5KCkKICAgICAgICAgICAgLmpzb25QYXRoKCIkLnRvdGFsIikuaXNFcXVhbFRvKDEpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC50eXBlKE5vdGlmaWNhdGlvblR5cGUuQ09NTUVOVCkKICAgICAgICAgICAgICAgIC5yZWNlaXZlcihjb21tZW50LnBhcmVudCEhLmNyZWF0ZWRCeSkKICAgICAgICAgICAgICAgIC5wdWJsaXNoZXIoY29tbWVudC5jcmVhdGVkQnkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC50eXBlKE5vdGlmaWNhdGlvblR5cGUuQ09NTUVOVCkKICAgICAgICAgICAgICAgIC5wdWJsaXNoZXIoY29tbWVudC5jcmVhdGVkQnkpCiAgICAgICAgICAgICAgICAucmVjZWl2ZXIocmVjZWl2ZXIpCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgdHJhY2szID0gdHJhY2tGYWN0b3J5LmNyZWF0ZShyZWxlYXNlMywgcmVjb3JkaW5nMykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCLJ+rPJxsDC28q1zOXNqNaqIikK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgcmVsZWFzZTMgPSByZWxlYXNlRmFjdG9yeS5jcmVhdGUoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCLJ+rPJu9i4tMbAwtvNqNaqIikK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgcmVsZWFzZTIgPSByZWxlYXNlRmFjdG9yeS5jcmVhdGUoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tdXNpY2JpYmxlLm1vZGVsLlVzZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tdXNpY2JpYmxlLm1vZGVsLk5vdGlmaWNhdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC50eXBlKE5vdGlmaWNhdGlvblR5cGUuQ09NTUVOVCkKICAgICAgICAgICAgICAgIC5yZWNlaXZlcihjb21tZW50LnBhcmVudCEhLmNyZWF0ZWRCeSkKICAgICAgICAgICAgICAgIC5wdWJsaXNoZXIoY29tbWVudC5jcmVhdGVkQnkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoIrvxyKG1vXRlbXBsYXRlLnRpdGxlOiIgKyB0ZW1wbGF0ZS50aXRsZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC50eXBlKE5vdGlmaWNhdGlvblR5cGUuQ09NTUVOVCkKICAgICAgICAgICAgICAgIC5wdWJsaXNoZXIoY29tbWVudC5jcmVhdGVkQnkpCiAgICAgICAgICAgICAgICAucmVjZWl2ZXIocmVjZWl2ZXIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hZGRTdWJqZWN0UHJvcGVydHkoImF2YXRhciIsIGNvbW1lbnQuY3JlYXRlZEJ5LmF2YXRhcikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCLJ+rPJxsDC28q1zOXNqNaqIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5wdWJsaXNoZXIoY29tbWVudC5jcmVhdGVkQnkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCLJ+rPJu9i4tMbAwtvNqNaqIikK</text>
       </register>
       <register name=":" type="4">
         <text>829</text>
       </register>
     </registers>
     <search>
-      <last-search>update_recording</last-search>
+      <last-search encoding="base64">XDxyZWxlYXNlc1w+</last-search>
       <last-offset />
-      <last-pattern>update_recording</last-pattern>
+      <last-pattern encoding="base64">XDxyZWxlYXNlc1w+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxsaXN0V2l0aEF0dGl0dWRlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -412,11 +424,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkaXNzb2NpYXRlUmVsZWFzZVw+</entry>
-        <entry>获取乐章</entry>
-        <entry>创建乐章</entry>
-        <entry>release</entry>
-        <entry>count</entry>
         <entry>修改作品</entry>
         <entry>test_create</entry>
         <entry>track</entry>
@@ -432,6 +439,11 @@
         <entry>relation_master</entry>
         <entry>PDF</entry>
         <entry>update_recording</entry>
+        <entry>clearRela</entry>
+        <entry>dissocia</entry>
+        <entry encoding="base64">XDxkaXNzb2NpYXRlUmVsZWFzZVw+</entry>
+        <entry encoding="base64">XDxkaXNzb2NpYXRlTW92ZW1lbnRSZWxlYXNlXD4=</entry>
+        <entry encoding="base64">XDxyZWxlYXNlc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>87</entry>

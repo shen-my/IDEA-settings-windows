@@ -203,12 +203,6 @@
         <mark key="." line="53" column="27" />
         <mark key="^" line="53" column="27" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/listener/NotificationEventListener.kt" timestamp="1563265520719">
-        <mark key="'" line="569" column="0" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
       <file name="D:/project/musicbible/frontend-api/src/main/kotlin/com/musicbible/controller/UserController.kt" timestamp="1563182970465">
         <mark key="'" line="112" column="0" />
       </file>
@@ -231,6 +225,12 @@
         <mark key="." line="40" column="0" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/repository/ReleaseRepository.kt" timestamp="1563240849012" />
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/event/CommentNotificationEvent.kt" timestamp="1563266267842">
+        <mark key="[" line="12" column="34" />
+        <mark key="]" line="12" column="34" />
+        <mark key="." line="12" column="34" />
+        <mark key="^" line="12" column="43" />
+      </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/factory/AppPushFactory.kt" timestamp="1563175773139">
         <mark key="[" line="112" column="18" />
         <mark key="]" line="22" column="43" />
@@ -250,7 +250,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="365" column="16" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" />
       <jump line="98" column="51" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/WorkService.kt" />
       <jump line="0" column="0" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/load/RoleLoader.kt" />
       <jump line="266" column="12" filename="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/load/RoleLoader.kt" />
@@ -350,10 +349,11 @@
       <jump line="414" column="13" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" />
       <jump line="418" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" />
       <jump line="452" column="8" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" />
+      <jump line="111" column="28" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/listener/NotificationEventListener.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnBlcnNpc3RlbmNlLlBlcnNpc3RlbmNlQ29udGV4dAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC50eXBlKE5vdGlmaWNhdGlvblR5cGUuQ09NTUVOVCkKICAgICAgICAgICAgICAgIC5yZWNlaXZlcihjb21tZW50LnBhcmVudCEhLmNyZWF0ZWRCeSkKICAgICAgICAgICAgICAgIC5wdWJsaXNoZXIoY29tbWVudC5jcmVhdGVkQnkpCg==</text>
       </register>
       <register name="b" type="4">
         <text>jjjjjjjjkkkkkkkkkj^</text>
@@ -368,34 +368,34 @@
         <text encoding="base64">ICAgICAgICB0cmFuc2FjdGlvbmFsIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnBlcnNpc3RlbmNlLlBlcnNpc3RlbmNlQ29udGV4dAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC50eXBlKE5vdGlmaWNhdGlvblR5cGUuQ09NTUVOVCkKICAgICAgICAgICAgICAgIC5yZWNlaXZlcihjb21tZW50LnBhcmVudCEhLmNyZWF0ZWRCeSkKICAgICAgICAgICAgICAgIC5wdWJsaXNoZXIoY29tbWVudC5jcmVhdGVkQnkpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnBlcnNpc3RlbmNlLkVudGl0eU1hbmFnZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC50eXBlKE5vdGlmaWNhdGlvblR5cGUuQ09NTUVOVCkKICAgICAgICAgICAgICAgIC5wdWJsaXNoZXIoY29tbWVudC5jcmVhdGVkQnkpCiAgICAgICAgICAgICAgICAucmVjZWl2ZXIocmVjZWl2ZXIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQgQFBlcnNpc3RlbmNlQ29udGV4dCB2YWwgZW50aXR5TWFuYWdlcjogRW50aXR5TWFuYWdlciwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCLJ+rPJxsDC28q1zOXNqNaqIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdHJhY2tHcm91cCA9IHRyYWNrR3JvdXBTZXJ2aWNlLmZpbmRPclRocm93KGlkKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCLJ+rPJu9i4tMbAwtvNqNaqIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBiYXRjaFN3YXBUcmFja09yZGVyKGlkOiBVVUlELCBzb3VyY2U6IExpc3Q8SW50PiwgZGVzdDogTGlzdDxJbnQ+KSB7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tdXNpY2JpYmxlLm1vZGVsLlVzZXIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgcGVyc2lzdFJlY29yZGluZzIgPSByZWNvcmRpbmdTZXJ2aWNlLmZpbmRCeUlkKHJlY29yZGluZzIuaWQpLmdldCgpCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tdXNpY2JpYmxlLm1vZGVsLk5vdGlmaWNhdGlvbgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoIrvxyKG1vXRlbXBsYXRlLnRpdGxlOiIgKyB0ZW1wbGF0ZS50aXRsZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hZGRTdWJqZWN0UHJvcGVydHkoImF2YXRhciIsIGNvbW1lbnQuY3JlYXRlZEJ5LmF2YXRhcikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBmdW4gdGVzdF9jbGVhcl93b3JrX3JlbGF0aW9uKCkgewogICAgICAgIHZhbCByZWxlYXNlMSA9IHJlbGVhc2VGYWN0b3J5LmNyZWF0ZSgpCiAgICAgICAgdmFsIHJlbGVhc2UyID0gcmVsZWFzZUZhY3RvcnkuY3JlYXRlKCkKCiAgICAgICAgLy8gzazSu7j21/fGt86709qyu82stcSzqsaso6zT68bk1tDSu9XFs6rGrMihz/u52MGquvMovLTJvrP9dHJhY2spCiAgICAgICAgLy8gtavB7dK71cWzqsastcR0cmFja9OmuMPSqrTm1NoKICAgICAgICB2YWwgd29yazExID0gd29ya0ZhY3RvcnkuY3JlYXRlKCkKCiAgICAgICAgdmFsIHJlY29yZGluZzExID0gcmVjb3JkaW5nRmFjdG9yeS5jcmVhdGUod29yazExKQogICAgICAgIHZhbCByZWNvcmRpbmcyMSA9IHJlY29yZGluZ0ZhY3RvcnkuY3JlYXRlKHdvcmsxMSkKCiAgICAgICAgdmFsIHRyYWNrMTEgPSB0cmFja0ZhY3RvcnkuY3JlYXRlKHJlbGVhc2UxLCByZWNvcmRpbmcxMSkKICAgICAgICB2YWwgdHJhY2syMSA9IHRyYWNrRmFjdG9yeS5jcmVhdGUocmVsZWFzZTIsIHJlY29yZGluZzIxKQoKICAgICAgICBkZWxldGUoKQogICAgICAgICAgICAudXJpKCIvYXBpL3YwL3JlbGVhc2Uvd29yay9jbGVhci9yZWxhdGlvbiIpCiAgICAgICAgICAgIC5zeW5jQm9keShSZWxlYXNlV29ya0lucHV0KHdvcmsxMS5pZCwgbGlzdE9mKHJlbGVhc2UxLmlkKSkpCiAgICAgICAgICAgIC5leGNoYW5nZSgpCiAgICAgICAgICAgIC5leHBlY3RTdGF0dXMoKS5pc09rCgogICAgICAgIGFzc2VydFRoYXQodHJhY2tTZXJ2aWNlLmZpbmRCeUlkKHRyYWNrMTEuaWQpLmlzUHJlc2VudCkuaXNGYWxzZSgpCgogICAgICAgIHZhbCBwZXJzaXN0VHJhY2syMSA9IHRyYWNrU2VydmljZS5maW5kQnlJZCh0cmFjazIxLmlkKS5nZXQoKQogICAgICAgIGFzc2VydFRoYXQocGVyc2lzdFRyYWNrMjEuaWQpLmlzRXF1YWxUbyh0cmFjazIxLmlkKQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5wdWJsaXNoZXIoY29tbWVudC5jcmVhdGVkQnkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>829</text>

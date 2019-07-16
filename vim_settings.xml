@@ -575,12 +575,12 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/repository/WorkRepository.kt" timestamp="1563239394818">
-        <mark key="'" line="114" column="22" />
-        <mark key="[" line="121" column="83" />
-        <mark key="]" line="121" column="81" />
-        <mark key="." line="121" column="81" />
-        <mark key="^" line="121" column="81" />
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/repository/WorkRepository.kt" timestamp="1563240909958">
+        <mark key="'" line="121" column="67" />
+        <mark key="[" line="124" column="82" />
+        <mark key="]" line="124" column="89" />
+        <mark key="." line="124" column="89" />
+        <mark key="^" line="124" column="89" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Movement.kt" timestamp="1563187562532">
         <mark key="'" line="25" column="53" />
@@ -832,6 +832,7 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/repository/ReleaseRepository.kt" timestamp="1563240849012" />
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/CommentService.kt" timestamp="1562039832709">
         <mark key="'" line="111" column="0" />
         <mark key="[" line="11" column="0" />
@@ -858,7 +859,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1896" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
       <jump line="1877" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
       <jump line="1868" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
       <jump line="1864" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
@@ -958,16 +958,17 @@
       <jump line="25" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/TrackGroupService.kt" />
       <jump line="33" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/TrackGroupService.kt" />
       <jump line="114" column="22" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/repository/WorkRepository.kt" />
+      <jump line="121" column="67" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/repository/WorkRepository.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>R</text>
+        <text>DocumentStatus</text>
       </register>
       <register name="b" type="4">
         <text>jjjjjjjjkkkkkkkkkj^</text>
       </register>
       <register name="-" type="4">
-        <text>R</text>
+        <text>DocumentStatus</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRGaXJzdFRyYWNrR3JvdXBcPg==</text>

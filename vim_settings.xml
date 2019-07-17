@@ -169,12 +169,12 @@
         <mark key="^" line="239" column="10" />
         <mark key="." line="240" column="0" />
       </file>
-      <file name="D:/project/musicbible/frontend-api/src/test/kotlin/com/musicbible/mockmvc/ImageSearchMockMVCTest.kt" timestamp="1563356223378">
+      <file name="D:/project/musicbible/frontend-api/src/test/kotlin/com/musicbible/mockmvc/ImageSearchMockMVCTest.kt" timestamp="1563356547439">
         <mark key="'" line="33" column="24" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="39" column="12" />
-        <mark key="." line="39" column="12" />
-        <mark key="^" line="39" column="12" />
+        <mark key="[" line="44" column="9" />
+        <mark key="]" line="43" column="46" />
+        <mark key="." line="43" column="46" />
+        <mark key="^" line="43" column="46" />
       </file>
       <file name="D:/project/musicbible/backend-api/application-local.yml" timestamp="1562659915545">
         <mark key="'" line="5" column="0" />
@@ -1033,14 +1033,14 @@
       <jump line="9" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/mapper/release/ReleaseMapper.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>@</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmVsZWFzZS4K</text>
       </register>
       <register name="b" type="4">
         <text>jjjjjjjjkkkkkkkkkj^</text>
       </register>
       <register name="-" type="4">
-        <text>@</text>
+        <text>releaes</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWFyY2hCeUltYWdlXD4=</text>
@@ -1049,34 +1049,34 @@
         <text encoding="base64">UmVsZWFzZVNlYXJjaEJ5SW1hZ2VPdXRwdXQg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5tYXBzdHJ1Y3QuUmVwb3J0aW5nUG9saWN5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVsZWFzZS4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBNYXBwaW5nKHRhcmdldCA9ICJzY29yZSIsIGlnbm9yZSA9IHRydWUpCiAgICBATWFwcGluZyh0YXJnZXQgPSAibWF0Y2hlZEltYWdlIiwgaWdub3JlID0gdHJ1ZSkK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5tYXBzdHJ1Y3QuUmVwb3J0aW5nUG9saWN5Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBNYQo=</text>
+        <text encoding="base64">ICAgIEBNYXBwaW5nKHRhcmdldCA9ICJzY29yZSIsIGlnbm9yZSA9IHRydWUpCiAgICBATWFwcGluZyh0YXJnZXQgPSAibWF0Y2hlZEltYWdlIiwgaWdub3JlID0gdHJ1ZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRocmVzaG9sZAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIEBNYQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHRocmVzaG9sZAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhciB0aXRsZTI6IFN0cmluZyA9ICIiLAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>23</text>

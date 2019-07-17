@@ -75,8 +75,8 @@
         <mark key="." line="78" column="0" />
         <mark key="^" line="78" column="0" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/listener/ReleaseEventListener.kt" timestamp="1563335349336">
-        <mark key="'" line="62" column="0" />
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/listener/ReleaseEventListener.kt" timestamp="1563337323802">
+        <mark key="'" line="24" column="50" />
         <mark key="[" line="23" column="15" />
         <mark key="]" line="23" column="3" />
         <mark key="." line="23" column="3" />
@@ -318,12 +318,12 @@
         <mark key="." line="23" column="42" />
         <mark key="^" line="23" column="42" />
       </file>
-      <file name="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/mockmvc/ImageSearchMockMVCTest.kt" timestamp="1563334022283">
+      <file name="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/mockmvc/ImageSearchMockMVCTest.kt" timestamp="1563337332056">
         <mark key="'" line="43" column="0" />
-        <mark key="[" line="21" column="14" />
-        <mark key="]" line="21" column="14" />
-        <mark key="." line="21" column="14" />
-        <mark key="^" line="21" column="14" />
+        <mark key="[" line="21" column="5" />
+        <mark key="]" line="21" column="12" />
+        <mark key="." line="21" column="12" />
+        <mark key="^" line="21" column="12" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ArtistService.kt" timestamp="1561707656528">
         <mark key="'" line="57" column="29" />
@@ -750,12 +750,11 @@
         <mark key="." line="143" column="18" />
         <mark key="^" line="143" column="18" />
       </file>
-      <file name="D:/project/baidu-picture-search-spring-boot-starter/src/main/kotlin/com/boostfield/baidu/imagesearch/BaiduImageSearchService.kt" timestamp="1563334972792">
+      <file name="D:/project/baidu-picture-search-spring-boot-starter/src/main/kotlin/com/boostfield/baidu/imagesearch/BaiduImageSearchService.kt" timestamp="1563337573592">
         <mark key="'" line="9" column="36" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="0" column="40" />
-        <mark key="." line="70" column="3" />
-        <mark key="^" line="70" column="3" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/repository/TrackRepository.kt" timestamp="1563249266164">
         <mark key="'" line="35" column="0" />
@@ -997,20 +996,20 @@
       <jump line="196" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
       <jump line="239" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
       <jump line="237" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ReleaseService.kt" />
-      <jump line="24" column="17" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/listener/ReleaseEventListener.kt" />
       <jump line="62" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/listener/ReleaseEventListener.kt" />
       <jump line="17" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/listener/ReleaseImageUpdatedEventListener.kt" />
       <jump line="0" column="0" filename="D:/project/musicbible/backend-api/src/main/resources/application.yml" />
+      <jump line="24" column="50" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/listener/ReleaseEventListener.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>picture</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cHJpbnRsbigiZnVjayIpCg==</text>
       </register>
       <register name="b" type="4">
         <text>jjjjjjjjkkkkkkkkkj^</text>
       </register>
       <register name="-" type="4">
-        <text>picture</text>
+        <text>Autowired</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSZWxlYXNlSW1hZ2VVcGRhdGVkRXZlbnRcPg==</text>
@@ -1019,34 +1018,34 @@
         <text encoding="base64">ICAgICAgICBwcmludGxuKCIhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">cHJpbnRsbigiZnVjayIpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEltYWdlU2VhcmNoTW9ja01WQ1Rlc3RbXQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4ocHJvamVjdERpcikK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">fQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEltYWdlU2VhcmNoTW9ja01WQ1Rlc3RbXQo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHByaW50bG4ocHJvamVjdERpcikK</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">dGFzayBmdWNrIHsK</text>
+        <text encoding="base64">ICAgIHByaW50bG4ocHJvamVjdERpcikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnVjaz1xa3kK</text>
+        <text encoding="base64">dGFzayBmdWNrIHsK</text>
       </register>
       <register name=":" type="4">
         <text>829</text>

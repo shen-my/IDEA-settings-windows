@@ -393,6 +393,11 @@
         <mark key="^" line="18" column="46" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="D:/project/baidu-picture-search-spring-boot-starter/src/main/kotlin/com/boostfield/baidu/imagesearch/BaiduImageSearchAutoConfiguration.kt" timestamp="1563343324019">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="D:/project/musicbible/management/src/main/kotlin/com/musicbible/thread/ArtistReleaseToEsThread.kt" timestamp="1561617976237">
         <mark key="'" line="21" column="31" />
         <mark key="[" line="7" column="0" />
@@ -410,11 +415,10 @@
       <file name="D:/project/musicbible/common/build.gradle" timestamp="1563324271327">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="D:/project/musicbible/frontend-api/build.gradle" timestamp="1563415237414">
-        <mark key="[" line="51" column="35" />
-        <mark key="]" line="52" column="48" />
-        <mark key="." line="52" column="48" />
-        <mark key="^" line="52" column="48" />
+      <file name="D:/project/musicbible/frontend-api/build.gradle" timestamp="1563419632651">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="140" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="D:/project/demo/src/main/kotlin/com/example/demo/listener/EventListener.kt" timestamp="1560328246750">
         <mark key="'" line="13" column="0" />
@@ -542,12 +546,12 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="D:/project/musicbible/backend-api/build.gradle" timestamp="1563414219798">
-        <mark key="'" line="41" column="34" />
-        <mark key="[" line="40" column="53" />
-        <mark key="]" line="40" column="50" />
-        <mark key="^" line="40" column="50" />
-        <mark key="." line="40" column="50" />
+      <file name="D:/project/musicbible/backend-api/build.gradle" timestamp="1563419631526">
+        <mark key="'" line="40" column="34" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="140" />
+        <mark key="^" line="40" column="76" />
+        <mark key="." line="40" column="76" />
       </file>
       <file name="C:/gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-jpa/2.1.3.RELEASE/559abf7fa28e06c6ec55deac38cecbcbef2be376/spring-data-jpa-2.1.3.RELEASE-sources.jar!/org/springframework/data/jpa/repository/support/SimpleJpaRepository.java" timestamp="1563189343619">
         <mark key="'" line="355" column="57" />
@@ -693,9 +697,9 @@
         <mark key="." line="40" column="18" />
         <mark key="^" line="40" column="18" />
       </file>
-      <file name="D:/project/baidu-picture-search-spring-boot-starter/build.gradle" timestamp="1563414162992">
+      <file name="D:/project/baidu-picture-search-spring-boot-starter/build.gradle" timestamp="1563419478209">
         <mark key="'" line="22" column="0" />
-        <mark key="[" line="92" column="0" />
+        <mark key="[" line="34" column="14" />
         <mark key="]" line="92" column="50" />
         <mark key="." line="22" column="0" />
       </file>
@@ -976,49 +980,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Ly8gICAgaW1wbGVtZW50YXRpb24gZmlsZXMoIiRyb290RGlyLy4uL2JhaWR1LXBpY3R1cmUtc2VhcmNoLXNwcmluZy1ib290LXN0YXJ0ZXIvYnVpbGQvbGlicy9iYWlkdS1pbWFnZS1zZWFyY2gtc3ByaW5nLWJvb3Qtc3RhcnRlci0wLjEuamFyIikK</text>
       </register>
       <register name="b" type="4">
         <text>jjjjjjjjkkkkkkkkkj^</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>publish</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">UmVsZWFzZVNlYXJjaEJ5SW1hZ2VPdXRwdXQg</text>
+      <register name="0" type="2">
+        <text encoding="base64">Ly8gICAgaW1wbGVtZW50YXRpb24gZmlsZXMoIiRyb290RGlyLy4uL2JhaWR1LXBpY3R1cmUtc2VhcmNoLXNwcmluZy1ib290LXN0YXJ0ZXIvYnVpbGQvbGlicy9iYWlkdS1pbWFnZS1zZWFyY2gtc3ByaW5nLWJvb3Qtc3RhcnRlci0wLjEuamFyIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIGZpbGVzKCIkcm9vdERpci8uLi9iYWlkdS1waWN0dXJlLXNlYXJjaC1zcHJpbmctYm9vdC1zdGFydGVyL2J1aWxkL2xpYnMvYmFpZHUtaW1hZ2Utc2VhcmNoLXNwcmluZy1ib290LXN0YXJ0ZXItMC4xLmphciIpCiAgICBpbXBsZW1lbnRhdGlvbignY29tLmJhaWR1LmFpcDpqYXZhLXNkazo0LjExLjMnKSB7CiAgICAgICAgZXhjbHVkZSBtb2R1bGU6ICdzbGY0ai1hcGknCiAgICAgICAgZXhjbHVkZSBncm91cDogJ29yZy5qc29uJywgbW9kdWxlOiAnanNvbicKICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4oaXQucmVzcG9uc2UuY29udGVudEFzU3RyaW5nKQo=</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uKCdjb20uYmFpZHUuYWlwOmphdmEtc2RrOjQuMTEuMycpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmFuZERvIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4oaXQucmVzcG9uc2UuY29udGVudEFzU3RyaW5nKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWFyY2hSZXN1bHRzLmZvckVhY2goOjpwcmludGxuKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmFuZERvIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoImZ1Y2siKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBzZWFyY2hSZXN1bHRzLmZvckVhY2goOjpwcmludGxuKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBleGNsdWRlIG1vZHVsZTogJ3NsZjRqLWFwaScK</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoImZ1Y2siKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoVXNlcihjdXJyZW50VXNlciEhKQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>23</text>

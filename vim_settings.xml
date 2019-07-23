@@ -331,12 +331,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/DataFeedBackControllerTest.kt" timestamp="1563866723408">
-        <mark key="'" line="144" column="0" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="21" column="0" />
+      <file name="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/DataFeedBackControllerTest.kt" timestamp="1563875489659">
+        <mark key="'" line="86" column="74" />
+        <mark key="[" line="86" column="63" />
+        <mark key="]" line="86" column="74" />
+        <mark key="." line="86" column="74" />
+        <mark key="^" line="86" column="74" />
       </file>
       <file name="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/BillboardControllerTest.kt" timestamp="1563861773687">
         <mark key="'" line="295" column="8" />
@@ -377,6 +377,14 @@
         <mark key="]" line="16" column="0" />
         <mark key="^" line="43" column="51" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ReleaseControllerTest.kt" timestamp="1563875254913">
+        <mark key="a" line="338" column="36" />
+        <mark key="'" line="770" column="8" />
+        <mark key="[" line="109" column="50" />
+        <mark key="]" line="109" column="50" />
+        <mark key="." line="109" column="50" />
+        <mark key="^" line="761" column="66" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/filter/RequestWrapperFilter.kt" timestamp="1562574855743">
         <mark key="'" line="13" column="0" />
@@ -601,7 +609,8 @@
         <mark key="." line="12" column="34" />
         <mark key="^" line="12" column="43" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Notification.kt" timestamp="1563866695570">
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Notification.kt" timestamp="1563875487860">
+        <mark key="'" line="68" column="22" />
         <mark key="[" line="68" column="20" />
         <mark key="]" line="68" column="23" />
         <mark key="^" line="68" column="23" />
@@ -939,12 +948,12 @@
         <mark key="." line="150" column="58" />
         <mark key="^" line="150" column="58" />
       </file>
-      <file name="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/LabelControllerTest.kt" timestamp="1563766487805">
-        <mark key="'" line="55" column="8" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="37" column="46" />
-        <mark key="." line="8" column="0" />
+      <file name="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/LabelControllerTest.kt" timestamp="1563875274196">
+        <mark key="'" line="225" column="38" />
+        <mark key="[" line="266" column="34" />
+        <mark key="]" line="225" column="38" />
+        <mark key="^" line="225" column="38" />
+        <mark key="." line="225" column="38" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/repository/WorkRepository.kt" timestamp="1563516283322">
         <mark key="[" line="5" column="0" />
@@ -1142,12 +1151,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="0" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/AppreciationService.kt" />
-      <jump line="113" column="55" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/test/SpringTest.kt" />
-      <jump line="27" column="8" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ArtistControllerTest.kt" />
-      <jump line="197" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ArtistControllerTest.kt" />
-      <jump line="0" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ArtistControllerTest.kt" />
-      <jump line="16" column="58" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ArtistControllerTest.kt" />
       <jump line="52" column="8" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ArtistControllerTest.kt" />
       <jump line="98" column="5" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ArtistControllerTest.kt" />
       <jump line="70" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ArtistControllerTest.kt" />
@@ -1242,19 +1245,25 @@
       <jump line="150" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/DataFeedBackControllerTest.kt" />
       <jump line="27" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/DataFeedBackControllerTest.kt" />
       <jump line="144" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/DataFeedBackControllerTest.kt" />
+      <jump line="225" column="38" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/LabelControllerTest.kt" />
+      <jump line="16" column="39" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/DataFeedBackControllerTest.kt" />
+      <jump line="37" column="8" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/DataFeedBackControllerTest.kt" />
+      <jump line="52" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/DataFeedBackControllerTest.kt" />
+      <jump line="68" column="22" filename="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Notification.kt" />
+      <jump line="86" column="74" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/DataFeedBackControllerTest.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsudGVzdC53ZWIuc2VydmxldC5yZXN1bHQuTW9ja012Y1Jlc3VsdE1hdGNoZXJzLmpzb25QYXRoCmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLnRlc3Qud2ViLnNlcnZsZXQucmVzdWx0Lk1vY2tNdmNSZXN1bHRNYXRjaGVycy5zdGF0dXMK</text>
+      <register name="&quot;" type="4">
+        <text>titleCN</text>
       </register>
       <register name="b" type="4">
         <text>jjjjjjjjkkkkkkkkkj^</text>
       </register>
       <register name="-" type="4">
-        <text>!!.</text>
+        <text>titleCN</text>
       </register>
       <register name="/" type="4">
-        <text>fuck</text>
+        <text>test_list</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QENsZWFuREIoInB1YmxpYyIsIFsiZmx5d2F5X3NjaGVtYV9oaXN0b3J5Il0pCkBDbGVhbkVTCkBXaXRoVXNlcihpc1Jvb3QgPSB0cnVlKQo=</text>
@@ -1290,13 +1299,13 @@
         <text encoding="base64">ICAgICAgICAgICAgZGF0YUZlZWRiYWNrU2VydmljZS5zYXZlKGl0KQo=</text>
       </register>
       <register name=":" type="4">
-        <text>42</text>
+        <text>87</text>
       </register>
     </registers>
     <search>
-      <last-search>fuck</last-search>
+      <last-search>test_list</last-search>
       <last-offset />
-      <last-pattern>fuck</last-pattern>
+      <last-pattern>test_list</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxsaXN0V2l0aEF0dGl0dWRlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1304,7 +1313,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhcHBlbmRNb3ZlbWVudFw+</entry>
         <entry>movement</entry>
         <entry encoding="base64">XDxleGNlcHRpb25TZXJ2aWNlXD4=</entry>
         <entry>test_update_members</entry>
@@ -1324,9 +1332,9 @@
         <entry>app</entry>
         <entry>base-url</entry>
         <entry>fuck</entry>
+        <entry>test_list</entry>
       </history-search>
       <history-cmd>
-        <entry>32</entry>
         <entry>59</entry>
         <entry>23</entry>
         <entry>35</entry>
@@ -1346,6 +1354,7 @@
         <entry>397</entry>
         <entry>93</entry>
         <entry>42</entry>
+        <entry>87</entry>
       </history-cmd>
       <history-expr />
       <history-input />

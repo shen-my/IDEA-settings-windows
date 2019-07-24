@@ -133,7 +133,7 @@
         <mark key="." line="51" column="0" />
         <mark key="^" line="46" column="18" />
       </file>
-      <file name="C:/gradle/caches/modules-2/files-2.1/org.springframework/spring-web/5.1.3.RELEASE/7f3018f1227075cf6e5772659e042f7cdbe59cb6/spring-web-5.1.3.RELEASE-sources.jar!/org/springframework/web/multipart/support/StandardMultipartHttpServletRequest.java" timestamp="1563940582061">
+      <file name="C:/gradle/caches/modules-2/files-2.1/org.springframework/spring-web/5.1.3.RELEASE/7f3018f1227075cf6e5772659e042f7cdbe59cb6/spring-web-5.1.3.RELEASE-sources.jar!/org/springframework/web/multipart/support/StandardMultipartHttpServletRequest.java" timestamp="1563947074659">
         <mark key="'" line="251" column="0" />
       </file>
       <file name="D:/project/discogs-importer/src/test/kotlin/com/musicbible/discogsimporter/ReleaseTest.kt" timestamp="1560311320651">
@@ -201,12 +201,18 @@
         <mark key="." line="308" column="0" />
         <mark key="^" line="282" column="46" />
       </file>
-      <file name="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/mockmvc/ImageSearchMockMVCTest.kt" timestamp="1563863385337">
-        <mark key="'" line="45" column="62" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="50" column="26" />
+      <file name="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/BannerControllerTest.kt" timestamp="1563949119059">
+        <mark key="[" line="54" column="67" />
+        <mark key="]" line="54" column="67" />
+        <mark key="." line="54" column="67" />
+        <mark key="^" line="54" column="67" />
+      </file>
+      <file name="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/mockmvc/ImageSearchMockMVCTest.kt" timestamp="1563947320057">
+        <mark key="'" line="43" column="62" />
+        <mark key="[" line="39" column="52" />
+        <mark key="]" line="41" column="47" />
+        <mark key="." line="41" column="47" />
+        <mark key="^" line="41" column="47" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/listener/VideoEventListener.kt" timestamp="1563009484200">
         <mark key="'" line="49" column="1" />
@@ -338,12 +344,12 @@
         <mark key="^" line="9" column="36" />
         <mark key="." line="9" column="36" />
       </file>
-      <file name="D:/project/musicbible/build.gradle" timestamp="1563940587703">
+      <file name="D:/project/musicbible/build.gradle" timestamp="1563947776453">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="48" column="17" />
-        <mark key="]" line="48" column="17" />
-        <mark key="^" line="48" column="17" />
-        <mark key="." line="48" column="17" />
+        <mark key="[" line="17" column="56" />
+        <mark key="]" line="17" column="56" />
+        <mark key="^" line="17" column="56" />
+        <mark key="." line="17" column="56" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/aspect/LockAspect.kt" timestamp="1563155312836">
         <mark key="'" line="0" column="0" />
@@ -355,11 +361,12 @@
       <file name="D:/project/musicbible/backend-api/src/main/kotlin/com/musicbible/load/RoleLoader.kt" timestamp="1563248056490">
         <mark key="'" line="117" column="15" />
       </file>
-      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/filter/RequestWrapperFilter.kt" timestamp="1563939270803">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/filter/RequestWrapperFilter.kt" timestamp="1563950945726">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="22" column="9" />
+        <mark key="." line="20" column="11" />
+        <mark key="^" line="20" column="11" />
       </file>
       <file name="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/RecommendationControllerTest.kt" timestamp="1563767309637">
         <mark key="'" line="112" column="7" />
@@ -368,8 +375,8 @@
         <mark key="." line="104" column="0" />
         <mark key="^" line="99" column="43" />
       </file>
-      <file name="D:/project/musicbible/backend-api/build.gradle" timestamp="1563592101343">
-        <mark key="'" line="43" column="5" />
+      <file name="D:/project/musicbible/backend-api/build.gradle" timestamp="1563947787968">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="38" />
         <mark key="^" line="42" column="4" />
@@ -384,6 +391,12 @@
         <mark key="]" line="86" column="24" />
         <mark key="." line="155" column="37" />
         <mark key="^" line="155" column="37" />
+      </file>
+      <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/service/ExceptionReporter.kt" timestamp="1563951000065">
+        <mark key="[" line="99" column="24" />
+        <mark key="]" line="99" column="45" />
+        <mark key="." line="99" column="45" />
+        <mark key="^" line="99" column="45" />
       </file>
       <file name="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/ArtistControllerTest.kt" timestamp="1563861811584">
         <mark key="'" line="32" column="49" />
@@ -501,7 +514,7 @@
         <mark key="]" line="414" column="0" />
         <mark key="." line="414" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563940421608">
+      <file name="/Dummy.txt" timestamp="1563949729804">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/event/ReleaseImageUpdatedEvent.kt" timestamp="1563588320442">
@@ -623,11 +636,12 @@
         <mark key="^" line="24" column="75" />
         <mark key="." line="24" column="74" />
       </file>
-      <file name="D:/project/musicbible/frontend-api/src/test/kotlin/com/musicbible/mockmvc/ImageSearchMockMVCTest.kt" timestamp="1563937999695">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="^" line="62" column="26" />
-        <mark key="." line="63" column="0" />
+      <file name="D:/project/musicbible/frontend-api/src/test/kotlin/com/musicbible/mockmvc/ImageSearchMockMVCTest.kt" timestamp="1563947094990">
+        <mark key="'" line="45" column="19" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="61" column="26" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/HelpControllerTest.kt" timestamp="1563759155548">
         <mark key="'" line="118" column="0" />
@@ -1020,11 +1034,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/AuthControllerTest.kt" />
-      <jump line="29" column="30" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/mockmvc/AuthMockMVCTest.kt" />
-      <jump line="68" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/mockmvc/AuthMockMVCTest.kt" />
-      <jump line="58" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/mockmvc/AuthMockMVCTest.kt" />
-      <jump line="51" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/mockmvc/AuthMockMVCTest.kt" />
       <jump line="43" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/mockmvc/AuthMockMVCTest.kt" />
       <jump line="35" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/mockmvc/AuthMockMVCTest.kt" />
       <jump line="26" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/mockmvc/AuthMockMVCTest.kt" />
@@ -1120,61 +1129,66 @@
       <jump line="265" column="0" filename="C:/gradle/caches/modules-2/files-2.1/org.springframework/spring-web/5.1.3.RELEASE/7f3018f1227075cf6e5772659e042f7cdbe59cb6/spring-web-5.1.3.RELEASE-sources.jar!/org/springframework/web/multipart/support/StandardMultipartHttpServletRequest.java" />
       <jump line="251" column="0" filename="C:/gradle/caches/modules-2/files-2.1/org.springframework/spring-web/5.1.3.RELEASE/7f3018f1227075cf6e5772659e042f7cdbe59cb6/spring-web-5.1.3.RELEASE-sources.jar!/org/springframework/web/multipart/support/StandardMultipartHttpServletRequest.java" />
       <jump line="0" column="0" filename="D:/project/musicbible/build.gradle" />
+      <jump line="46" column="19" filename="D:/project/musicbible/frontend-api/src/test/kotlin/com/musicbible/mockmvc/ImageSearchMockMVCTest.kt" />
+      <jump line="0" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/BannerControllerTest.kt" />
+      <jump line="44" column="8" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/BannerControllerTest.kt" />
+      <jump line="61" column="0" filename="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/BannerControllerTest.kt" />
+      <jump line="0" column="0" filename="D:/project/musicbible/backend-api/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0LmNvbgo=</text>
+      <register name="&quot;" type="4">
+        <text>BufferedReader(InputStreamReader(request.inputStream)).readText()</text>
       </register>
       <register name="b" type="4">
         <text>jjjjjjjjkkkkkkkkkj^</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>BufferedReader(InputStreamReader(request.inputStream)).readText()</text>
       </register>
       <register name="/" type="4">
-        <text>parse</text>
+        <text>test_list</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YXBwOgogIGF1dGg6CiAgICBzZWNyZXQ6IHNlY3JldD09PQogICAgZXhwaXJlOiA2NDAwMDAwCiAgcmVwb3J0LWV4Y2VwdGlvbjogdHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICByZW5kZXJlci5ib2R5ID0gQnVmZmVyZWRSZWFkZXIoSW5wdXRTdHJlYW1SZWFkZXIocmVxdWVzdC5pbnB1dFN0cmVhbSkpLnJlYWRUZXh0KCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0LmNvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0LmMK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIEBSZXF1ZXN0Qm9keSBpbWFnZUNvbnRlbnQ6IEJ5dGVBcnJheQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIEBSZXF1ZXN0SGVhZGVyKCJDb250ZW50LVR5cGUiKSBjb250ZW50VHlwZTogU3RyaW5nLAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmNvbnRlbnQoaW1hZ2VDb250ZW50KQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmNvbnRlbnRUeXBlKE1lZGlhVHlwZS5JTUFHRV9KUEVHKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgaW1hZ2VDb250ZW50ID0gamF2YUNsYXNzLmNsYXNzTG9hZGVyCiAgICAgICAgICAgIC5nZXRSZXNvdXJjZSgiQmFieUdudUFscGhhLmpwZyIpISEKICAgICAgICAgICAgLm9wZW5TdHJlYW0oKQogICAgICAgICAgICAucmVhZEFsbEJ5dGVzKCkKCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBlbHNlCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoTWVkaWFUeXBlLnBhcnNlTWVkaWFUeXBlKHJlcXVlc3QuY29udGVudFR5cGUpLmluY2x1ZGVzKE1lZGlhVHlwZS5BUFBMSUNBVElPTl9KU09OLCBNZWRpYVR5cGUuVEVYVF9QTEFJTikpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZmlsdGVyQ2hhaW4uZG9GaWx0ZXIoQm9keUNhY2hlZFJlcXVlc3RXcmFwcGVyKHJlcXVlc3QpLCByZXNwb25zZSkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBNZWRpYVR5cGUuTVVMVElQQVJUX0ZPUk1fREFUQQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0LnBhcnRzLmZvckVhY2ggewogICAgICAgICAgICBpdC4KICAgICAgICB9Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBiYW5uZXJTZXJ2aWNlLnNhdmVBbGwoYmFubmVycy50b011dGFibGVMaXN0KCkpCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZS4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>132</text>
       </register>
     </registers>
     <search>
-      <last-search>parse</last-search>
+      <last-search>test_list</last-search>
       <last-offset />
-      <last-pattern>parse</last-pattern>
+      <last-pattern>test_list</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxsaXN0V2l0aEF0dGl0dWRlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1192,7 +1206,6 @@
         <entry encoding="base64">XDx2ZXJpZnlDb2RlU2VydmljZVw+</entry>
         <entry>base-url</entry>
         <entry>fuck</entry>
-        <entry>test_list</entry>
         <entry>createdBy</entry>
         <entry>created</entry>
         <entry>app:</entry>
@@ -1202,6 +1215,7 @@
         <entry>app</entry>
         <entry>close</entry>
         <entry>parse</entry>
+        <entry>test_list</entry>
       </history-search>
       <history-cmd>
         <entry>173</entry>

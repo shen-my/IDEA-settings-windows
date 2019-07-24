@@ -127,11 +127,11 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="D:/project/musicbible/frontend-api/src/test/kotlin/com/musicbible/controller/GuideControllerTest.kt" timestamp="1563930126861">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="22" column="41" />
+      <file name="D:/project/musicbible/frontend-api/src/test/kotlin/com/musicbible/controller/GuideControllerTest.kt" timestamp="1563931513814">
+        <mark key="[" line="29" column="24" />
+        <mark key="]" line="29" column="26" />
+        <mark key="." line="29" column="26" />
+        <mark key="^" line="29" column="26" />
       </file>
       <file name="D:/project/musicbible/backend-api/application-local-test.yml" timestamp="1563843146832">
         <mark key="'" line="0" column="0" />
@@ -1217,7 +1217,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxqc29uUGF0aFw+</text>
+        <text>test</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QENsZWFuREIoInB1YmxpYyIsIFsiZmx5d2F5X3NjaGVtYV9oaXN0b3J5Il0pCkBDbGVhbkVTCkBXaXRoVXNlcihuYW1lID0gIreisrzV3yIpCg==</text>
@@ -1257,9 +1257,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxqc29uUGF0aFw+</last-search>
+      <last-search>test</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxqc29uUGF0aFw+</last-pattern>
+      <last-pattern>test</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxsaXN0V2l0aEF0dGl0dWRlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1267,7 +1267,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjcmVkaXRBZ2dcPg==</entry>
         <entry encoding="base64">XDxJbGxlZ2FsSWN1QXJndW1lbnRFeGNlcHRpb25cPg==</entry>
         <entry>transaction</entry>
         <entry encoding="base64">XDx0cmFuc2FjdGlvbmFsXD4=</entry>
@@ -1287,6 +1286,7 @@
         <entry>app:</entry>
         <entry encoding="base64">XDxhbGl5dW5HcmVlblNlcnZpY2VcPg==</entry>
         <entry encoding="base64">XDxqc29uUGF0aFw+</entry>
+        <entry>test</entry>
       </history-search>
       <history-cmd>
         <entry>23</entry>

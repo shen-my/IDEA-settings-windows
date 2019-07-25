@@ -773,12 +773,12 @@
         <mark key="^" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/MigrationOSSFile.kt" timestamp="1564053823202">
-        <mark key="'" line="123" column="0" />
-        <mark key="[" line="175" column="9" />
-        <mark key="]" line="176" column="28" />
-        <mark key="^" line="176" column="28" />
-        <mark key="." line="176" column="28" />
+      <file name="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/MigrationOSSFile.kt" timestamp="1564055269551">
+        <mark key="'" line="147" column="26" />
+        <mark key="[" line="29" column="55" />
+        <mark key="]" line="147" column="41" />
+        <mark key="." line="147" column="41" />
+        <mark key="^" line="147" column="41" />
       </file>
       <file name="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/AdminControllerTest.kt" timestamp="1563787624253">
         <mark key="'" line="44" column="36" />
@@ -1087,16 +1087,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/MigrationOSSFile.kt" />
-      <jump line="122" column="0" filename="D:/project/musicbible/build.gradle" />
-      <jump line="113" column="0" filename="D:/project/musicbible/build.gradle" />
-      <jump line="97" column="0" filename="D:/project/musicbible/build.gradle" />
-      <jump line="0" column="0" filename="D:/project/musicbible/backend-api/build.gradle" />
-      <jump line="118" column="0" filename="D:/project/musicbible/backend-api/build.gradle" />
-      <jump line="109" column="0" filename="D:/project/musicbible/backend-api/build.gradle" />
-      <jump line="101" column="0" filename="D:/project/musicbible/backend-api/build.gradle" />
-      <jump line="97" column="0" filename="D:/project/musicbible/backend-api/build.gradle" />
-      <jump line="92" column="0" filename="D:/project/musicbible/backend-api/build.gradle" />
       <jump line="84" column="0" filename="D:/project/musicbible/backend-api/build.gradle" />
       <jump line="75" column="0" filename="D:/project/musicbible/backend-api/build.gradle" />
       <jump line="65" column="0" filename="D:/project/musicbible/backend-api/build.gradle" />
@@ -1187,61 +1177,71 @@
       <jump line="124" column="16" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/MigrationOSSFile.kt" />
       <jump line="128" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/MigrationOSSFile.kt" />
       <jump line="131" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/MigrationOSSFile.kt" />
+      <jump line="117" column="32" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/MigrationOSSFile.kt" />
+      <jump line="138" column="34" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/MigrationOSSFile.kt" />
+      <jump line="162" column="28" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/MigrationOSSFile.kt" />
+      <jump line="168" column="33" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/MigrationOSSFile.kt" />
+      <jump line="115" column="23" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/MigrationOSSFile.kt" />
+      <jump line="125" column="9" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/MigrationOSSFile.kt" />
+      <jump line="134" column="16" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/MigrationOSSFile.kt" />
+      <jump line="143" column="28" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/MigrationOSSFile.kt" />
+      <jump line="136" column="31" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/MigrationOSSFile.kt" />
+      <jump line="146" column="26" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/MigrationOSSFile.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKHNyYykK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIG1pZ3JhdGVMYWJlbCgpIHsKICAgICAgICBDaHVua0l0ZXJhdG9yKGxhYmVsU2VydmljZTo6ZmluZEV4aXN0cywgMTAwKS5mb3JFYWNoIHsgbGFiZWwgLT4KICAgICAgICAgICAgbG9nZ2VyLmluZm8oIk1pZ3JhdGluZyBsYWJlbFt7fV0iLCBsYWJlbC5pZCkKICAgICAgICAgICAgbGFiZWwuaW1hZ2VzID0gbWlncmF0ZUVudGl0eUltYWdlcyhsYWJlbC5pbWFnZXMsIERpcnMuTEFCRUwsIGxhYmVsLmNyZWF0ZWRCeUlkKQogICAgICAgICAgICBsYWJlbC5pbnRybyA9IG1pZ3JhdGVIdG1sSW1hZ2VzKGxhYmVsLmludHJvLCBEaXJzLkxBQkVMX0lOVFJPLCBsYWJlbC5jcmVhdGVkQnlJZCkKICAgICAgICAgICAgbGFiZWxTZXJ2aWNlLnNhdmUobGFiZWwpCiAgICAgICAgfQogICAgfQoK</text>
       </register>
       <register name="b" type="4">
         <text>jjjjjjjjkkkkkkkkkj^</text>
       </register>
       <register name="-" type="4">
-        <text>DataRepo</text>
+        <text>releaseService</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxESUdFU1RfTEVOR1RIXD4=</text>
+        <text encoding="base64">XDxidWNrZXRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZG9jID0gSnNvdXAucGFyc2UoY29udGVudCwgIiIsIFBhcnNlci54bWxQYXJzZXIoKSkK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIG1pZ3JhdGVMYWJlbCgpIHsKICAgICAgICBDaHVua0l0ZXJhdG9yKGxhYmVsU2VydmljZTo6ZmluZEV4aXN0cywgMTAwKS5mb3JFYWNoIHsgbGFiZWwgLT4KICAgICAgICAgICAgbG9nZ2VyLmluZm8oIk1pZ3JhdGluZyBsYWJlbFt7fV0iLCBsYWJlbC5pZCkKICAgICAgICAgICAgbGFiZWwuaW1hZ2VzID0gbWlncmF0ZUVudGl0eUltYWdlcyhsYWJlbC5pbWFnZXMsIERpcnMuTEFCRUwsIGxhYmVsLmNyZWF0ZWRCeUlkKQogICAgICAgICAgICBsYWJlbC5pbnRybyA9IG1pZ3JhdGVIdG1sSW1hZ2VzKGxhYmVsLmludHJvLCBEaXJzLkxBQkVMX0lOVFJPLCBsYWJlbC5jcmVhdGVkQnlJZCkKICAgICAgICAgICAgbGFiZWxTZXJ2aWNlLnNhdmUobGFiZWwpCiAgICAgICAgfQogICAgfQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKHNyYykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgd29yay5pbWFnZXMgPSBtaWdyYXRlRW50aXR5SW1hZ2VzKHdvcmsuaW1hZ2VzLCBEaXJzLldPUkssIHdvcmsuY3JlYXRlZEJ5SWQpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIC8qCg==</text>
+        <text encoding="base64">ICAgICAgICBtaQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1vZGlmaWVkSHRtbCAhPSBhcHByZWNpYXRpb24uY29udGVudCkgewogICAgICAgICAgICAgICAgcHJpbnRsbigiPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09IikKICAgICAgICAgICAgICAgIHByaW50bG4oYXBwcmVjaWF0aW9uLmNvbnRlbnQpCiAgICAgICAgICAgICAgICBwcmludGxuKCItLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0iKQogICAgICAgICAgICAgICAgcHJpbnRsbihtb2RpZmllZEh0bWwpCiAgICAgICAgICAgICAgICBwcmludGxuKCI9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0iKQogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBDaHVua0l0ZXJhdG9yKHJlbGVhc2VTZXJ2aWNlOjpmaW5kRXhpc3RzLCAxMDApLmZvckVhY2ggeyByZWxlYXNlIC0+CiAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJNaWdyYXRpbmcgcmVsZWFzZVt7fV0iLCByZWxlYXNlLmlkKQogICAgICAgICAgICByZWxlYXNlLmltYWdlcyA9IG1pZ3JhdGVFbnRpdHlJbWFnZXMocmVsZWFzZS5pbWFnZXMsIERpcnMuUkVMRUFTRSwgcmVsZWFzZS5jcmVhdGVkQnlJZCkKICAgICAgICAgICAgcmVsZWFzZS5pbnRybyA9IG1pZ3JhdGVIdG1sSW1hZ2VzKHJlbGVhc2UuaW50cm8sIERpcnMuUkVMRUFTRV9JTlRSTywgcmVsZWFzZS5jcmVhdGVkQnlJZCkKICAgICAgICAgICAgcmVsZWFzZVNlcnZpY2Uuc2F2ZShyZWxlYXNlKQogICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKGFwcHJlY2lhdGlvbi5pZC50b1N0cmluZygpKQo=</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwcmVjaWF0aW9uLmNvbnRlbnQgPSBtb2RpZmllZEh0bWwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zbGY0ai5Mb2dnZXJGYWN0b3J5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC50b1R5cGVkQXJyYXkoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxhdGVpbml0IHZhciAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tYXBOb3ROdWxsIHsgaXQuc2Vjb25kIH0K</text>
       </register>
       <register name=":" type="4">
         <text>141</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxESUdFU1RfTEVOR1RIXD4=</last-search>
+      <last-search encoding="base64">XDxidWNrZXRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxESUdFU1RfTEVOR1RIXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxidWNrZXRcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxsaXN0V2l0aEF0dGl0dWRlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1249,7 +1249,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhbGl5dW5HcmVlblNlcnZpY2VcPg==</entry>
         <entry encoding="base64">XDxqc29uUGF0aFw+</entry>
         <entry>test</entry>
         <entry>app</entry>
@@ -1269,6 +1268,7 @@
         <entry>jsoup</entry>
         <entry>createdBy</entry>
         <entry encoding="base64">XDxESUdFU1RfTEVOR1RIXD4=</entry>
+        <entry encoding="base64">XDxidWNrZXRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>389</entry>

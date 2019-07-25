@@ -404,12 +404,12 @@
         <mark key="^" line="42" column="4" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="D:/project/musicbible/management/src/test/kotlin/com/musicbible/unit/Fuck.kt" timestamp="1564048424386">
-        <mark key="'" line="42" column="4" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="62" />
-        <mark key="." line="41" column="29" />
-        <mark key="^" line="41" column="29" />
+      <file name="D:/project/musicbible/management/src/test/kotlin/com/musicbible/unit/Fuck.kt" timestamp="1564097697213">
+        <mark key="'" line="31" column="28" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="40" column="29" />
       </file>
       <file name="D:/project/musicbible/common/src/main/kotlin/com/musicbible/model/Video.kt" timestamp="1564056444201">
         <mark key="'" line="187" column="0" />
@@ -782,12 +782,11 @@
         <mark key="^" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/MigrationOSSFile.kt" timestamp="1564057368879">
+      <file name="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/MigrationOSSFile.kt" timestamp="1564097686558">
         <mark key="'" line="253" column="16" />
-        <mark key="[" line="233" column="0" />
-        <mark key="]" line="233" column="0" />
-        <mark key="^" line="232" column="65" />
-        <mark key="." line="233" column="0" />
+        <mark key="[" line="223" column="0" />
+        <mark key="]" line="223" column="0" />
+        <mark key="." line="223" column="0" />
       </file>
       <file name="D:/project/musicbible/backend-api/src/test/kotlin/com/musicbible/controller/AdminControllerTest.kt" timestamp="1563787624253">
         <mark key="'" line="44" column="36" />
@@ -1101,7 +1100,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/MigrationOSSFile.kt" />
       <jump line="137" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/MigrationOSSFile.kt" />
       <jump line="148" column="20" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/MigrationOSSFile.kt" />
       <jump line="20" column="0" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/MigrationOSSFile.kt" />
@@ -1201,10 +1199,11 @@
       <jump line="77" column="17" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/MigrationOSSFile.kt" />
       <jump line="232" column="31" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/MigrationOSSFile.kt" />
       <jump line="253" column="16" filename="D:/project/musicbible/management/src/main/kotlin/com/musicbible/command/MigrationOSSFile.kt" />
+      <jump line="32" column="28" filename="D:/project/musicbible/management/src/test/kotlin/com/musicbible/unit/Fuck.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGl0ZXJhdHVyZS53ZWJJbWFnZSA9IG1pZ3JhdGVFbnRpdHlJbWFnZShsaXRlcmF0dXJlLmFwcEltYWdlLCBEaXJzLkxJVEVSQVRVUkUpCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEubmV0LlVSTAo=</text>
       </register>
       <register name="b" type="4">
         <text>jjjjjjjjkkkkkkkkkj^</text>
@@ -1219,34 +1218,34 @@
         <text encoding="base64">ICAgICAgICBDaHVua0l0ZXJhdG9yKGJhbm5lclNlcnZpY2U6OmZpbmRBbGwsIFRSVU5LX1NJWkUpLmZvckVhY2ggeyBiYW5uZXIgLT4KICAgICAgICAgICAgbG9nZ2VyLmluZm8oIk1pZ3JhdGluZyBCYW5uZXJbe31dIiwgYmFubmVyLmlkKQogICAgICAgICAgICBiYW5uZXIud2ViSW1hZ2UgPSBtaWdyYXRlRW50aXR5SW1hZ2UoYmFubmVyLndlYkltYWdlLCBEaXJzLkJBTk5FUikKICAgICAgICAgICAgYmFubmVyLndlYkltYWdlID0gbWlncmF0ZUVudGl0eUltYWdlKGJhbm5lci5hcHBJbWFnZSwgRGlycy5CQU5ORVIpCiAgICAgICAgICAgIGJhbm5lclNlcnZpY2Uuc2F2ZShiYW5uZXIpCiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGl0ZXJhdHVyZS53ZWJJbWFnZSA9IG1pZ3JhdGVFbnRpdHlJbWFnZShsaXRlcmF0dXJlLmFwcEltYWdlLCBEaXJzLkxJVEVSQVRVUkUpCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEubmV0LlVSTAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qc291cC5ub2Rlcy5FbGVtZW50Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmFubmVyLncK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJhbm5lci5pbWFnZSA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGl0ZXJhdHVyZS53ZWJJbWFnZSA9IG1pZ3JhdGVFbnRpdHlJbWFnZShsaXRlcmF0dXJlLmFwcEltYWdlLCBEaXJzLkxJVEVSQVRVUkUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmFubmVyLmltYWdlPy5hbHNvIHsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJNaWdyYXRpbmcgQmFubmVyW3t9XSIsIGJhbm5lci5pZCkK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJhbm5lci5pbWFnZSA9IAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmFubmVyLmltYWdlPy5hbHNvIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVwb3J0LmFuc3dlciA9IG1pZ3JhdGVIdG1sSW1hZ2VzKHJlcG9ydC5hbnN3ZXIsIERpcnMuUkVQT1JUX0lOVFJPKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJNaWdyYXRpbmcgQmFubmVyW3t9XSIsIGJhbm5lci5pZCkK</text>
       </register>
       <register name=":" type="4">
         <text>141</text>

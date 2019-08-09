@@ -14,7 +14,15 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+向左箭头'</ShortCut>
           <Description>Back</Description>
-          <Count>2</Count>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Build Project">
+        <Item>
+          <IdeaActionID>CompileDirty</IdeaActionID>
+          <ShortCut>'Ctrl+F9'</ShortCut>
+          <Description>Build Project</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Change Signature...">
@@ -54,7 +62,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>10</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -62,7 +70,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>3</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Unnamed'">
@@ -78,7 +86,23 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'musicbible [:backend-api:bootRun]'</Description>
-          <Count>4</Count>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'musicbible [:frontend-api:bootRun]'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'musicbible [:frontend-api:bootRun]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'musicbible [fuck]'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'musicbible [fuck]'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'musicbible:backend-api [bootRun]'">
@@ -89,12 +113,20 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'musicbible:frontend-api [bootRun]'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'musicbible:frontend-api [bootRun]'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug...">
         <Item>
           <IdeaActionID>ChooseDebugConfiguration</IdeaActionID>
           <ShortCut>'Alt+Shift+F9'</ShortCut>
           <Description>Debug...</Description>
-          <Count>12</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -102,7 +134,15 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>40</Count>
+          <Count>41</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Declaration or Usages">
+        <Item>
+          <IdeaActionID>GotoDeclaration</IdeaActionID>
+          <ShortCut>'Ctrl+B'</ShortCut>
+          <Description>Declaration or Usages</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -110,7 +150,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>35</Count>
+          <Count>41</Count>
         </Item>
       </Statistic>
       <Statistic Action="Directory Path">
@@ -150,7 +190,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'Alt+F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>34</Count>
+          <Count>44</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
@@ -174,7 +214,7 @@
           <IdeaActionID>ForceStepInto</IdeaActionID>
           <ShortCut>'Alt+Shift+F7'</ShortCut>
           <Description>Force Step Into</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Implementation(s)">
@@ -182,7 +222,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'Ctrl+Alt+B'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Last Edit Location">
@@ -230,7 +270,7 @@
           <IdeaActionID>$Paste</IdeaActionID>
           <ShortCut>'Ctrl+V' or 'Shift+Insert'</ShortCut>
           <Description>Paste</Description>
-          <Count>8</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Popup String Manipulation ...">
@@ -246,7 +286,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>3</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Quick Switch Scheme...">
@@ -310,7 +350,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>108</Count>
+          <Count>126</Count>
         </Item>
       </Statistic>
       <Statistic Action="Replace in Path...">
@@ -327,6 +367,14 @@
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun ':backend-api:test'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun ':frontend-api:test'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun ':frontend-api:test'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ReleaseControllerTest.test_update_recordings_artist'">
@@ -358,7 +406,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>27</Count>
+          <Count>43</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -398,7 +446,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>79</Count>
+          <Count>86</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Blame Details">
@@ -422,7 +470,7 @@
           <IdeaActionID>StepInto</IdeaActionID>
           <ShortCut>'F7'</ShortCut>
           <Description>Step Into</Description>
-          <Count>66</Count>
+          <Count>104</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Out">
@@ -430,7 +478,7 @@
           <IdeaActionID>StepOut</IdeaActionID>
           <ShortCut>'Shift+F8'</ShortCut>
           <Description>Step Out</Description>
-          <Count>15</Count>
+          <Count>33</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Over">
@@ -438,7 +486,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>341</Count>
+          <Count>450</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop ':backend-api:test'">
@@ -462,7 +510,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop ':frontend-api:test'</Description>
-          <Count>3</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'FormControllerTest.fuck'">
@@ -470,6 +518,22 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'FormControllerTest.fuck'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'RecordingControllerTest.test1'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'RecordingControllerTest.test1'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'RecordingControllerTest.test2'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'RecordingControllerTest.test2'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -566,7 +630,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>100</Count>
+          <Count>131</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project...">
@@ -582,7 +646,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>10</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">

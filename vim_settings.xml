@@ -27,10 +27,10 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed K</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed E</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
@@ -126,10 +126,11 @@
         <mark key="^" line="102" column="21" />
         <mark key="." line="102" column="20" />
       </file>
-      <file name="D:/project/ksci/src/main/kotlin/ksci/DataFrame.kt" timestamp="1593595285693">
-        <mark key="[" line="11" column="33" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="D:/project/ksci/src/main/kotlin/ksci/DataFrame.kt" timestamp="1593596612974">
+        <mark key="[" line="14" column="12" />
+        <mark key="]" line="12" column="39" />
+        <mark key="." line="12" column="38" />
+        <mark key="^" line="12" column="39" />
       </file>
       <file name="D:/project/ksci/src/test/kotlin/ksci/DataFrameTest.kt" timestamp="1593595114466">
         <mark key="[" line="7" column="16" />
@@ -158,11 +159,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGlmIChmaXJzdExpbmUgPT0gbnVsbCk=</text>
       </register>
       <register name="-" type="4">
-        <text>firstList</text>
+        <text encoding="base64">IGlmIChmaXJzdExpbmUgPT0gbnVsbCk=</text>
       </register>
       <register name="/" type="4">
         <text>flyway</text>
@@ -171,31 +172,31 @@
         <text encoding="base64">ICBmbHl3YXk6CiAgICBiYXNlbGluZS1vbi1taWdyYXRlOiB0cnVlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBmdW4gYSgKICAgICAgICAgICAgICAgIGE6IEludAogICAgICAgICkgewogICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICh0aXRsZXMuaXNFbXB0eSgpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICh0aXRsZXMuaXNFbXB0eSgpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGVuCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKHBhdGgpCg==</text>
+        <text encoding="base64">ICAgIGVuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzOjpqYXZhQ2xhc3MuamF2YUNsYXNzLmNsYXNzTG9hZGVyCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKHBhdGgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzOjpqYXZhQ2xhc3MuamF2YUNsYXNzLmNsYXNzTG9hZGVyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihmaXJzdExpc3QpCgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihmaXJzdExpc3QpCgo=</text>
       </register>
     </registers>
   </component>

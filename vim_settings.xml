@@ -8,8 +8,13 @@
         <entry>country</entry>
         <entry>flyway</entry>
         <entry>dtypes</entry>
+        <entry>matchEnti</entry>
+        <entry>assert</entry>
       </history-search>
-      <history-cmd />
+      <history-cmd>
+        <entry>s/assert/println</entry>
+        <entry>s/assert/println/g</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
@@ -102,6 +107,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="D:/project/kotlin-trial/build.gradle.kts" timestamp="1593680604576">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+      </file>
       <file name="D:/project/ksci/src/main/kotlin/ksci/DataColumn.kt" timestamp="1593587588911">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="4" column="1" />
@@ -133,12 +143,12 @@
         <mark key="^" line="13" column="14" />
         <mark key="." line="13" column="13" />
       </file>
-      <file name="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" timestamp="1593677832360">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="69" column="32" />
-        <mark key="]" line="69" column="32" />
-        <mark key="^" line="69" column="42" />
-        <mark key="." line="69" column="32" />
+      <file name="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" timestamp="1593681116891">
+        <mark key="'" line="14" column="4" />
+        <mark key="[" line="20" column="24" />
+        <mark key="]" line="20" column="26" />
+        <mark key="." line="20" column="25" />
+        <mark key="^" line="20" column="26" />
       </file>
       <file name="/" timestamp="1593597792302">
         <mark key="[" line="0" column="0" />
@@ -169,6 +179,9 @@
         <mark key="]" line="3" column="28" />
         <mark key="^" line="3" column="28" />
         <mark key="." line="3" column="27" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.72/28f81264fad20dd20cc692003f4a27d355632073/kotlin-stdlib-1.3.72-sources.jar!/kotlin/text/regex/Regex.kt" timestamp="1593679906628">
+        <mark key="'" line="106" column="28" />
       </file>
     </filemarks>
     <jumps>
@@ -236,58 +249,74 @@
       <jump line="89" column="0" filename="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" />
       <jump line="60" column="0" filename="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" />
       <jump line="57" column="52" filename="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" />
+      <jump line="66" column="0" filename="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" />
+      <jump line="56" column="0" filename="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" />
+      <jump line="53" column="0" filename="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" />
+      <jump line="50" column="0" filename="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" />
+      <jump line="45" column="0" filename="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" />
+      <jump line="5" column="0" filename="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" />
       <jump line="0" column="0" filename="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" />
+      <jump line="106" column="28" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.72/28f81264fad20dd20cc692003f4a27d355632073/kotlin-stdlib-1.3.72-sources.jar!/kotlin/text/regex/Regex.kt" />
+      <jump line="21" column="0" filename="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" />
+      <jump line="14" column="4" filename="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" />
+      <jump line="12" column="4" filename="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" />
+      <jump line="13" column="4" filename="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50bG4oaXNOdW1iZXIoIjIuIikpCg==</text>
       </register>
       <register name="-" type="4">
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>dtypes</text>
+        <text>assert</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oc3RhY2sucG9wKCkpCg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4oaXNOdW1iZXIoIjIuIikpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4ocykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGFzc2VydChmYWxzZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IGtvdGxpbi50ZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4obG9uZ2VzdFZhbGlkUGFyZW50aGVzZXMocykpCg==</text>
+        <text encoding="base64">ICAgIGp2bQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnVuIGxvbmdlc3RWYWxpZFBhcmVudGhlc2VzKHM6IFN0cmluZyk6IEludCB7CiAgICBpZiAocy5pc0VtcHR5KCkpIHJldHVybiAwCgogICAgdmFsIEwgPSAtMgogICAgdmFsIFIgPSAtMQogICAgdmFsIHN0YWNrID0gQXJyYXlEZXF1ZTxJbnQ+KCkKCiAgICBmb3IgKGkgaW4gcy5pbmRpY2VzKSB7CiAgICAgICAgd2hlbiAoc1tpXSkgewogICAgICAgICAgICAnKCcgLT4gc3RhY2sucHVzaChMKQogICAgICAgICAgICAnKScgLT4gd2hlbiAoc3RhY2sucGVlaygpKSB7CiAgICAgICAgICAgICAgICBudWxsLCBSIC0+IFVuaXQKICAgICAgICAgICAgICAgIEwgLT4gewogICAgICAgICAgICAgICAgICAgIHN0YWNrLnBvcCgpCiAgICAgICAgICAgICAgICAgICAgaWYgKHN0YWNrLmlzTm90RW1wdHkoKSAmJiBzdGFjay5wZWVrKCkgPiAwKQogICAgICAgICAgICAgICAgICAgICAgICBzdGFjay5wdXNoKHN0YWNrLnBvcCgpICsgMikKICAgICAgICAgICAgICAgICAgICBlbHNlCiAgICAgICAgICAgICAgICAgICAgICAgIHN0YWNrLnB1c2goMikKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGVsc2UgLT4gewogICAgICAgICAgICAgICAgICAgIHZhbCB0bXAgPSBzdGFjay5wb3AoKQogICAgICAgICAgICAgICAgICAgIGlmIChzdGFjay5pc05vdEVtcHR5KCkgJiYgc3RhY2sucGVlaygpID09IEwpIHsKICAgICAgICAgICAgICAgICAgICAgICAgc3RhY2sucG9wKCkKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHN0YWNrLmlzTm90RW1wdHkoKSAmJiBzdGFjay5wZWVrKCkgPiAwKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgc3RhY2sucHVzaChzdGFjay5wb3AoKSArIHRtcCArIDIpCiAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0YWNrLnB1c2godG1wICsgMikKICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICBzdGFjay5wdXNoKHRtcCkKICAgICAgICAgICAgICAgICAgICAgICAgc3RhY2sucHVzaChSKQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0KCiAgICByZXR1cm4ga290bGluLm1hdGgubWF4KHN0YWNrLm1heCgpID86IDAsIDApCn0K</text>
+        <text encoding="base64">ICAgIHByaW50bG4oImZ1Y2suLi4uLi4uLi4uLi4uLi4uLi4uLiIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIChzdGFjay5pc0VtcHR5KCkpCiAgICAgICAgcmV0dXJuIDAK</text>
+        <text encoding="base64">ICAgIGp2bQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3RhY2sucHVzaCh0bXAgKyAyKQo=</text>
+        <text>}</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cnVuIHsK</text>
+      </register>
+      <register name=":" type="4">
+        <text>s/assert/println/g</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>dtypes</last-search>
+      <last-search>assert</last-search>
       <last-offset />
-      <last-pattern>dtypes</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>assert</last-pattern>
+      <last-replace>println</last-replace>
+      <last-substitute>assert</last-substitute>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>

@@ -133,11 +133,12 @@
         <mark key="^" line="13" column="14" />
         <mark key="." line="13" column="13" />
       </file>
-      <file name="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" timestamp="1593672849562">
-        <mark key="[" line="79" column="18" />
-        <mark key="]" line="79" column="18" />
-        <mark key="." line="79" column="17" />
-        <mark key="^" line="79" column="18" />
+      <file name="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" timestamp="1593676048437">
+        <mark key="'" line="60" column="0" />
+        <mark key="[" line="80" column="24" />
+        <mark key="]" line="79" column="28" />
+        <mark key="^" line="79" column="28" />
+        <mark key="." line="79" column="27" />
       </file>
       <file name="/" timestamp="1593597792302">
         <mark key="[" line="0" column="0" />
@@ -230,15 +231,18 @@
       <jump line="35" column="0" filename="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" />
       <jump line="38" column="0" filename="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" />
       <jump line="81" column="0" filename="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" />
+      <jump line="90" column="21" filename="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" />
+      <jump line="87" column="0" filename="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" />
+      <jump line="60" column="0" filename="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAiIgo=</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>stack.isNotEmpty()) {</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>dtypes</text>
@@ -247,31 +251,31 @@
         <text encoding="base64">ICAgIHByaW50bG4oc3RhY2sucG9wKCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAiIgo=</text>
+        <text encoding="base64">ICAgIGlmIChzdGFjay5pc0VtcHR5KCkpCiAgICAgICAgcmV0dXJuIDAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAiIiArCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3RhY2sucHVzaCh0bXAgKyAyKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBzdGFjayA9IEFycmF5RGVxdWU8Q2hhcj4oKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoc3RhY2suKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBzdGFjayA9IEFycmF5RGVxdWU8SW50PigpCiAgICBzdGFjay5wdXNoKDEpCiAgICBzdGFjay5wdXNoKDIpCiAgICBzdGFjay5wdXNoKDMpCgogICAgcHJpbnRsbihzdGFjay5wb3AoKSkKICAgIHByaW50bG4oc3RhY2sucG9wKCkpCiAgICBwcmludGxuKHN0YWNrLnBvcCgpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIGlmIChsZW5ndGggPiBtYXgpIG1heCA9IGxlbmd0aAogICAgICAgICAgICAgICAgbGVuZ3RoID0gMAogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oZmlyc3RNaXNzaW5nUG9zaXRpdmUobnVtcykpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YWNrLS0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBudW1zID0gaW50QXJyYXlPZigxLCAyLCAzLCA0LCA1KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxlbmd0aCArPSAyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
     </registers>
   </component>

@@ -143,12 +143,12 @@
         <mark key="^" line="13" column="14" />
         <mark key="." line="13" column="13" />
       </file>
-      <file name="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" timestamp="1593681116891">
-        <mark key="'" line="14" column="4" />
-        <mark key="[" line="20" column="24" />
-        <mark key="]" line="20" column="26" />
-        <mark key="." line="20" column="25" />
-        <mark key="^" line="20" column="26" />
+      <file name="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" timestamp="1593683552223">
+        <mark key="'" line="64" column="0" />
+        <mark key="[" line="33" column="9" />
+        <mark key="]" line="44" column="10" />
+        <mark key="." line="44" column="9" />
+        <mark key="^" line="44" column="10" />
       </file>
       <file name="/" timestamp="1593597792302">
         <mark key="[" line="0" column="0" />
@@ -235,7 +235,6 @@
       <jump line="752" column="0" filename="C:/jdk-14.0.1/lib/src.zip!/java.base/java/util/ArrayDeque.java" />
       <jump line="757" column="0" filename="C:/jdk-14.0.1/lib/src.zip!/java.base/java/util/ArrayDeque.java" />
       <jump line="781" column="0" filename="C:/jdk-14.0.1/lib/src.zip!/java.base/java/util/ArrayDeque.java" />
-      <jump line="6" column="43" filename="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" />
       <jump line="8" column="0" filename="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" />
       <jump line="11" column="0" filename="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" />
       <jump line="15" column="0" filename="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" />
@@ -252,7 +251,6 @@
       <jump line="66" column="0" filename="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" />
       <jump line="56" column="0" filename="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" />
       <jump line="53" column="0" filename="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" />
-      <jump line="50" column="0" filename="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" />
       <jump line="45" column="0" filename="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" />
       <jump line="5" column="0" filename="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" />
       <jump line="0" column="0" filename="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" />
@@ -261,48 +259,52 @@
       <jump line="14" column="4" filename="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" />
       <jump line="12" column="4" filename="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" />
       <jump line="13" column="4" filename="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" />
+      <jump line="33" column="16" filename="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" />
+      <jump line="6" column="0" filename="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" />
+      <jump line="36" column="0" filename="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" />
+      <jump line="50" column="0" filename="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oaXNOdW1iZXIoIjIuIikpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>assert</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oaXNOdW1iZXIoIjIuIikpCg==</text>
+        <text encoding="base64">ICAgICAgICAiTiIsCiAgICAgICAgIi5OIiwKICAgICAgICAiTi4iLAogICAgICAgICJOLk4iLAogICAgICAgICJOZU4iLAogICAgICAgICIuTmVOIiwKICAgICAgICAiTi5lTiIsCiAgICAgICAgIk4uTmVOIiwKICAgICAgICAiTmUrTiIsCiAgICAgICAgIi5OZStOIiwKICAgICAgICAiTi5lK04iLAogICAgICAgICJOLk5lK04iLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4ocykK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFzc2VydChmYWxzZSkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAiK04iLAogICAgICAgICJOLk4iLAogICAgICAgICJOZU4iLAogICAgICAgICIrTi5OIiwKICAgICAgICAiLk4iLAogICAgICAgICIrLk4iLAogICAgICAgICJOLiIsCiAgICAgICAgIitOLiIsCiAgICAgICAgIk4uZU4iLAogICAgICAgICJOLmUrTiIsCiAgICAgICAgIitOLmVOIiwKICAgICAgICAiK04uZStOIiwKICAgICAgICAiTmUrTiIsCiAgICAgICAgIitOZU4iLAogICAgICAgICIrTmUrTiIsCiAgICAgICAgIk4uTmVOIiwKICAgICAgICAiTi5OZStOIiwKICAgICAgICAiK04uTmVOIiwKICAgICAgICAiK04uTmUrTiIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbi50ZQo=</text>
+        <text encoding="base64">ICAgICAgICAiTmVOIiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGp2bQo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4ocGF0dGVybikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oImZ1Y2suLi4uLi4uLi4uLi4uLi4uLi4uLiIpCg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4oc3MpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGp2bQo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4oc3MpCg==</text>
       </register>
       <register name="8" type="2">
-        <text>}</text>
+        <text encoding="base64">Ly8gICAgdmFsIHJlZyA9IFJlZ2V4KCIiIl5bKy1dPyhcZCspKig/KDEpKFwuXGQrKT98XC5cZCspKGVbKy1dP1xkKyk/JHsnJCd9IiIiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cnVuIHsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>s/assert/println/g</text>

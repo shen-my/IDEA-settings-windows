@@ -143,12 +143,12 @@
         <mark key="^" line="13" column="14" />
         <mark key="." line="13" column="13" />
       </file>
-      <file name="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" timestamp="1593760153159">
-        <mark key="'" line="62" column="0" />
-        <mark key="[" line="30" column="6" />
-        <mark key="]" line="30" column="7" />
-        <mark key="^" line="30" column="7" />
-        <mark key="." line="30" column="6" />
+      <file name="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" timestamp="1593760339284">
+        <mark key="'" line="2" column="37" />
+        <mark key="[" line="65" column="5" />
+        <mark key="]" line="66" column="16" />
+        <mark key="." line="66" column="15" />
+        <mark key="^" line="66" column="16" />
       </file>
       <file name="/" timestamp="1593754055119">
         <mark key="[" line="0" column="0" />
@@ -278,16 +278,17 @@
       <jump line="13" column="36" filename="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" />
       <jump line="28" column="0" filename="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" />
       <jump line="46" column="20" filename="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" />
-      <jump line="59" column="0" filename="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" />
+      <jump line="59" column="16" filename="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" />
+      <jump line="2" column="37" filename="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>r</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>40000</text>
       </register>
       <register name="/" type="4">
         <text>assert</text>
@@ -296,31 +297,31 @@
         <text encoding="base64">ICAgICAgICAiTiIsCiAgICAgICAgIi5OIiwKICAgICAgICAiTi4iLAogICAgICAgICJOLk4iLAogICAgICAgICJOZU4iLAogICAgICAgICIuTmVOIiwKICAgICAgICAiTi5lTiIsCiAgICAgICAgIk4uTmVOIiwKICAgICAgICAiTmUrTiIsCiAgICAgICAgIi5OZStOIiwKICAgICAgICAiTi5lK04iLAogICAgICAgICJOLk5lK04iLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhciBuID0gTnVtYmVyKCkK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBuLnJlbWluZGVyCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHByaW50bG4obnRoTWFnaWNhbE51bWJlcihuLCBhLCBiKSkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHZhciBuID0gTnVtYmVyKCkK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG4gPSBhCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBuLnJlbWluZGVyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG4gPSBhCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG4gPSBiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG4gPSBhCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlYWRMaW5lKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG4gPSBhCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">b3JnLmdyYWRsZS5qdm0uanYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG4gPSBiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCBhMSA9IE51bWJlcigyLCAzKQogICAgdmFyIGIxID0gTnVtYmVyKCkKICAgIGIxID0gYTEKICAgIGIxLm11bHRpcGxlID0gMTAKICAgIHByaW50bG4oYTEubXVsdGlwbGUpCg==</text>
+        <text encoding="base64">ICAgIHJlYWRMaW5lKCkK</text>
       </register>
       <register name=":" type="4">
         <text>s/assert/println/g</text>

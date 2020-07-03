@@ -143,11 +143,12 @@
         <mark key="^" line="13" column="14" />
         <mark key="." line="13" column="13" />
       </file>
-      <file name="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" timestamp="1593758926796">
-        <mark key="'" line="60" column="0" />
-        <mark key="[" line="57" column="17" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
+      <file name="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" timestamp="1593760153159">
+        <mark key="'" line="62" column="0" />
+        <mark key="[" line="30" column="6" />
+        <mark key="]" line="30" column="7" />
+        <mark key="^" line="30" column="7" />
+        <mark key="." line="30" column="6" />
       </file>
       <file name="/" timestamp="1593754055119">
         <mark key="[" line="0" column="0" />
@@ -282,11 +283,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">b3JnLmdyYWRsZS5qdm0uanYK</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZGF0YSA=</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>assert</text>
@@ -295,31 +296,31 @@
         <text encoding="base64">ICAgICAgICAiTiIsCiAgICAgICAgIi5OIiwKICAgICAgICAiTi4iLAogICAgICAgICJOLk4iLAogICAgICAgICJOZU4iLAogICAgICAgICIuTmVOIiwKICAgICAgICAiTi5lTiIsCiAgICAgICAgIk4uTmVOIiwKICAgICAgICAiTmUrTiIsCiAgICAgICAgIi5OZStOIiwKICAgICAgICAiTi5lK04iLAogICAgICAgICJOLk5lK04iLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">b3JnLmdyYWRsZS5qdm0uanYK</text>
+        <text encoding="base64">ICAgIHZhciBuID0gTnVtYmVyKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBhMSA9IE51bWJlcigyLCAzKQogICAgdmFyIGIxID0gTnVtYmVyKCkKICAgIGIxID0gYTEKICAgIGIxLm11bHRpcGxlID0gMTAKICAgIHByaW50bG4oYTEubXVsdGlwbGUpCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBuLnJlbWluZGVyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGZvciAoaSBpbiAwLi5uKSB7CiAgICAgICAgYSArPSBpCiAgICB9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">MTAwMDAwMDAwMAo0MDAwMAo0MDAwMAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgb3BlcmF0b3IgZnVuIHBsdXNBc3NpZ24objogSW50KSB7Ci8vICAgICAgICBpZiAocmVtaW5kZXIgKyBuID49IG1vZCkgewovLyAgICAgICAgICAgIG11bHRpcGxlKysKLy8gICAgICAgICAgICByZW1pbmRlciA9IChyZW1pbmRlciArIG4pICUgbW9kCi8vICAgICAgICB9IGVsc2UgewovLyAgICAgICAgICAgIHJlbWluZGVyICs9IG4KLy8gICAgICAgIH0KLy8gICAgfQoK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG4gPSBhCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG4gPSBhCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG4gPSBiCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHJlYWRMaW5lKCkK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">b3JnLmdyYWRsZS5qdm0uanYK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHZhbCBhMSA9IE51bWJlcigyLCAzKQogICAgdmFyIGIxID0gTnVtYmVyKCkKICAgIGIxID0gYTEKICAgIGIxLm11bHRpcGxlID0gMTAKICAgIHByaW50bG4oYTEubXVsdGlwbGUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/assert/println/g</text>

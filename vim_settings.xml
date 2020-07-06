@@ -19,6 +19,7 @@
         <entry>s/],/)\n/</entry>
         <entry>s/],/),\n/g</entry>
         <entry>2</entry>
+        <entry>15</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -117,12 +118,12 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="D:/project/ksci/src/main/kotlin/ksci/DataColumn.kt" timestamp="1594028530272">
-        <mark key="'" line="2" column="20" />
-        <mark key="[" line="33" column="15" />
-        <mark key="]" line="33" column="18" />
-        <mark key="." line="33" column="17" />
-        <mark key="^" line="33" column="18" />
+      <file name="D:/project/ksci/src/main/kotlin/ksci/DataColumn.kt" timestamp="1594030166694">
+        <mark key="'" line="2" column="4" />
+        <mark key="[" line="25" column="17" />
+        <mark key="]" line="14" column="40" />
+        <mark key="." line="14" column="39" />
+        <mark key="^" line="14" column="40" />
       </file>
       <file name="$USER_HOME$/project/musicbible/common/src/main/resources/db/migration/V1__init.sql" timestamp="1565355760584">
         <mark key="'" line="0" column="0" />
@@ -143,7 +144,8 @@
         <mark key="." line="57" column="16" />
         <mark key="^" line="57" column="17" />
       </file>
-      <file name="D:/project/ksci/src/main/kotlin/ksci/ml/DecisionTree.kt" timestamp="1594025533065">
+      <file name="D:/project/ksci/src/main/kotlin/ksci/ml/DecisionTree.kt" timestamp="1594030086318">
+        <mark key="'" line="70" column="0" />
         <mark key="[" line="11" column="73" />
         <mark key="]" line="11" column="117" />
         <mark key="." line="11" column="116" />
@@ -177,18 +179,18 @@
         <mark key="^" line="102" column="21" />
         <mark key="." line="102" column="20" />
       </file>
-      <file name="D:/project/ksci/src/main/kotlin/ksci/DataFrame.kt" timestamp="1594028441872">
-        <mark key="'" line="50" column="0" />
-        <mark key="[" line="44" column="5" />
-        <mark key="]" line="47" column="18" />
-        <mark key="." line="47" column="17" />
-        <mark key="^" line="47" column="18" />
+      <file name="D:/project/ksci/src/main/kotlin/ksci/DataFrame.kt" timestamp="1594030000598">
+        <mark key="'" line="56" column="0" />
+        <mark key="[" line="73" column="25" />
+        <mark key="]" line="73" column="46" />
+        <mark key="^" line="73" column="46" />
+        <mark key="." line="73" column="45" />
       </file>
-      <file name="D:/project/ksci/src/main/kotlin/ksci/DataType.kt" timestamp="1593587525729">
-        <mark key="[" line="2" column="21" />
-        <mark key="]" line="3" column="28" />
-        <mark key="^" line="3" column="28" />
-        <mark key="." line="3" column="27" />
+      <file name="D:/project/ksci/src/main/kotlin/ksci/DataType.kt" timestamp="1594029991569">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="6" column="28" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="D:/project/kotlin-trial/settings.gradle.kts" timestamp="1593758427425">
         <mark key="[" line="10" column="0" />
@@ -203,23 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="20" filename="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" />
-      <jump line="59" column="16" filename="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" />
-      <jump line="2" column="37" filename="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" />
-      <jump line="89" column="107" filename="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" />
-      <jump line="109" column="20" filename="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" />
-      <jump line="95" column="0" filename="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" />
-      <jump line="84" column="0" filename="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" />
-      <jump line="69" column="16" filename="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" />
-      <jump line="110" column="3" filename="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" />
-      <jump line="115" column="22" filename="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" />
-      <jump line="66" column="7" filename="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" />
-      <jump line="1" column="0" filename="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" />
-      <jump line="6" column="0" filename="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" />
-      <jump line="13" column="0" filename="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" />
-      <jump line="21" column="0" filename="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" />
-      <jump line="28" column="0" filename="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" />
-      <jump line="32" column="0" filename="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" />
       <jump line="57" column="0" filename="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" />
       <jump line="63" column="0" filename="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" />
       <jump line="79" column="0" filename="D:/project/kotlin-trial/src/main/kotlin/trial/App.kt" />
@@ -270,11 +255,8 @@
       <jump line="64" column="0" filename="D:/project/ksci/src/main/kotlin/ksci/ml/DecisionTree.kt" />
       <jump line="60" column="0" filename="D:/project/ksci/src/main/kotlin/ksci/ml/DecisionTree.kt" />
       <jump line="23" column="26" filename="D:/project/ksci/src/main/kotlin/ksci/DataFrame.kt" />
-      <jump line="5" column="15" filename="D:/project/ksci/src/main/kotlin/ksci/DataFrame.kt" />
       <jump line="61" column="0" filename="D:/project/ksci/src/main/kotlin/ksci/DataFrame.kt" />
       <jump line="50" column="0" filename="D:/project/ksci/src/main/kotlin/ksci/DataFrame.kt" />
-      <jump line="44" column="0" filename="D:/project/ksci/src/main/kotlin/ksci/DataFrame.kt" />
-      <jump line="40" column="0" filename="D:/project/ksci/src/main/kotlin/ksci/DataFrame.kt" />
       <jump line="37" column="0" filename="D:/project/ksci/src/main/kotlin/ksci/DataFrame.kt" />
       <jump line="31" column="0" filename="D:/project/ksci/src/main/kotlin/ksci/DataFrame.kt" />
       <jump line="24" column="0" filename="D:/project/ksci/src/main/kotlin/ksci/DataColumn.kt" />
@@ -292,9 +274,7 @@
       <jump line="27" column="43" filename="D:/project/ksci/src/main/kotlin/ksci/DataFrame.kt" />
       <jump line="61" column="7" filename="D:/project/ksci/src/main/kotlin/ksci/ml/DecisionTree.kt" />
       <jump line="55" column="39" filename="D:/project/ksci/src/main/kotlin/ksci/DataFrame.kt" />
-      <jump line="0" column="0" filename="D:/project/ksci/src/main/kotlin/ksci/DataFrame.kt" />
       <jump line="1" column="0" filename="D:/project/ksci/src/main/kotlin/ksci/DataFrame.kt" />
-      <jump line="56" column="0" filename="D:/project/ksci/src/main/kotlin/ksci/DataFrame.kt" />
       <jump line="53" column="0" filename="D:/project/ksci/src/main/kotlin/ksci/DataFrame.kt" />
       <jump line="42" column="38" filename="D:/project/ksci/src/main/kotlin/ksci/DataFrame.kt" />
       <jump line="45" column="0" filename="D:/project/ksci/src/main/kotlin/ksci/DataFrame.kt" />
@@ -302,52 +282,74 @@
       <jump line="60" column="0" filename="D:/project/ksci/src/main/kotlin/ksci/DataFrame.kt" />
       <jump line="57" column="0" filename="D:/project/ksci/src/main/kotlin/ksci/DataFrame.kt" />
       <jump line="46" column="0" filename="D:/project/ksci/src/main/kotlin/ksci/DataFrame.kt" />
-      <jump line="2" column="20" filename="D:/project/ksci/src/main/kotlin/ksci/DataColumn.kt" />
+      <jump line="33" column="15" filename="D:/project/ksci/src/main/kotlin/ksci/DataColumn.kt" />
+      <jump line="21" column="0" filename="D:/project/ksci/src/main/kotlin/ksci/DataFrame.kt" />
+      <jump line="25" column="0" filename="D:/project/ksci/src/main/kotlin/ksci/DataFrame.kt" />
+      <jump line="34" column="21" filename="D:/project/ksci/src/main/kotlin/ksci/DataFrame.kt" />
+      <jump line="0" column="0" filename="D:/project/ksci/src/main/kotlin/ksci/DataFrame.kt" />
+      <jump line="4" column="0" filename="D:/project/ksci/src/main/kotlin/ksci/DataFrame.kt" />
+      <jump line="5" column="0" filename="D:/project/ksci/src/main/kotlin/ksci/DataFrame.kt" />
+      <jump line="8" column="0" filename="D:/project/ksci/src/main/kotlin/ksci/DataFrame.kt" />
+      <jump line="10" column="0" filename="D:/project/ksci/src/main/kotlin/ksci/DataFrame.kt" />
+      <jump line="12" column="0" filename="D:/project/ksci/src/main/kotlin/ksci/DataFrame.kt" />
+      <jump line="16" column="0" filename="D:/project/ksci/src/main/kotlin/ksci/DataFrame.kt" />
+      <jump line="20" column="0" filename="D:/project/ksci/src/main/kotlin/ksci/DataFrame.kt" />
+      <jump line="24" column="0" filename="D:/project/ksci/src/main/kotlin/ksci/DataFrame.kt" />
+      <jump line="28" column="0" filename="D:/project/ksci/src/main/kotlin/ksci/DataFrame.kt" />
+      <jump line="32" column="0" filename="D:/project/ksci/src/main/kotlin/ksci/DataFrame.kt" />
+      <jump line="36" column="0" filename="D:/project/ksci/src/main/kotlin/ksci/DataFrame.kt" />
+      <jump line="40" column="0" filename="D:/project/ksci/src/main/kotlin/ksci/DataFrame.kt" />
+      <jump line="44" column="0" filename="D:/project/ksci/src/main/kotlin/ksci/DataFrame.kt" />
+      <jump line="47" column="54" filename="D:/project/ksci/src/main/kotlin/ksci/DataFrame.kt" />
+      <jump line="56" column="0" filename="D:/project/ksci/src/main/kotlin/ksci/DataFrame.kt" />
+      <jump line="2" column="4" filename="D:/project/ksci/src/main/kotlin/ksci/DataColumn.kt" />
+      <jump line="18" column="37" filename="D:/project/ksci/src/main/kotlin/ksci/ml/DecisionTree.kt" />
+      <jump line="70" column="0" filename="D:/project/ksci/src/main/kotlin/ksci/ml/DecisionTree.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>T</text>
+        <text>?</text>
       </register>
       <register name="-" type="4">
-        <text>T</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
         <text>],</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJyZW50R3JpZFtoaXRzW2tdWzBdXVtoaXRzW2tdWzFdXSA9IDAK</text>
+      <register name="0" type="4">
+        <text>EnumDataColumn</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBUb0RvKCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHR5cGUuCg==</text>
+        <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3Qgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZ1biBmcm9tU3RyaW5nKFMpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAga2xhc3MgPT0gVW5pdDo6Y2xhc3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAga2xhc3MuY29uc3RydWN0b3JzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAga2xhc3MubmV3SW5zdGFuY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAga2xhc3MuY29uc3RydWN0b3JzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhLmdldCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGtsYXNzID0gU3RyaW5nOjpjbGFzcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcm91dGVyW2RhdGFbcHJvcGVydHldXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocHJvcGVydHkgIWluIGRhdGEpIHRocm93IAo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>2</text>
+        <text>15</text>
       </register>
     </registers>
   </component>

@@ -134,8 +134,8 @@
         <mark key="[" line="44" column="0" />
         <mark key="]" line="45" column="29" />
       </file>
-      <file name="D:/project/ksci/src/test/kotlin/ksci/DataFrameTest.kt" timestamp="1593654514093">
-        <mark key="[" line="6" column="0" />
+      <file name="D:/project/ksci/src/test/kotlin/ksci/DataFrameTest.kt" timestamp="1594090993966">
+        <mark key="[" line="7" column="63" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
@@ -181,12 +181,12 @@
         <mark key="^" line="102" column="21" />
         <mark key="." line="102" column="20" />
       </file>
-      <file name="D:/project/ksci/src/main/kotlin/ksci/DataFrame.kt" timestamp="1594089650917">
-        <mark key="'" line="58" column="0" />
-        <mark key="[" line="14" column="4" />
-        <mark key="]" line="14" column="12" />
-        <mark key="^" line="14" column="12" />
-        <mark key="." line="14" column="11" />
+      <file name="D:/project/ksci/src/main/kotlin/ksci/DataFrame.kt" timestamp="1594090561224">
+        <mark key="'" line="59" column="0" />
+        <mark key="[" line="66" column="45" />
+        <mark key="]" line="66" column="45" />
+        <mark key="^" line="15" column="12" />
+        <mark key="." line="66" column="45" />
       </file>
       <file name="D:/project/ksci/src/main/kotlin/ksci/DataType.kt" timestamp="1594089752781">
         <mark key="[" line="5" column="8" />
@@ -311,11 +311,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcy50b0ludCgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>RuntimeException</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>RuntimeException</text>
       </register>
       <register name="/" type="4">
         <text>columns</text>

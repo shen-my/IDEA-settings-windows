@@ -165,6 +165,12 @@
       <file name="/" timestamp="1593754055119">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/project/ksci/build.gradle.kts" timestamp="1594104273779">
+        <mark key="[" line="28" column="16" />
+        <mark key="]" line="28" column="20" />
+        <mark key="^" line="28" column="20" />
+        <mark key="." line="28" column="19" />
+      </file>
       <file name="D:/project/kotlin-trial/gradle.properties" timestamp="1593758559946">
         <mark key="[" line="0" column="0" />
       </file>
@@ -190,12 +196,12 @@
         <mark key="^" line="102" column="21" />
         <mark key="." line="102" column="20" />
       </file>
-      <file name="D:/project/ksci/src/main/kotlin/ksci/DataFrame.kt" timestamp="1594103282085">
+      <file name="D:/project/ksci/src/main/kotlin/ksci/DataFrame.kt" timestamp="1594104457627">
         <mark key="'" line="93" column="0" />
-        <mark key="[" line="83" column="42" />
-        <mark key="]" line="83" column="43" />
-        <mark key="." line="83" column="42" />
-        <mark key="^" line="83" column="43" />
+        <mark key="[" line="5" column="25" />
+        <mark key="]" line="87" column="31" />
+        <mark key="." line="87" column="30" />
+        <mark key="^" line="87" column="31" />
       </file>
       <file name="D:/project/ksci/src/main/kotlin/ksci/DataType.kt" timestamp="1594089752781">
         <mark key="[" line="5" column="8" />
@@ -321,10 +327,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>.split(',')</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>.split(',')</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>columns</text>
@@ -333,31 +339,31 @@
         <text>EnumDataColumn</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4oZmllbGRzKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgb2Zmc2V0KysK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IERhdGFUeXBlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4obGluZSkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKGZyYW1lLmNvbHVtbk5hbWVzKQo=</text>
+        <text encoding="base64">aW1wb3J0IERhdGFUeXBlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKCJmdWNLIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4obGluZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKGZyYW1lLmNvdW50KQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKGZyYW1lLmNvbHVtbk5hbWVzKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKCJmdWNLIikK</text>
       </register>
       <register name=":" type="4">
         <text>14</text>

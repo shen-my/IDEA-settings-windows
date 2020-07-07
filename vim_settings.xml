@@ -168,6 +168,13 @@
       <file name="D:/project/kotlin-trial/gradle.properties" timestamp="1593758559946">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/project/ksci/src/main/kotlin/ksci/extension/String.kt" timestamp="1594102576258">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="16" column="4" />
+        <mark key="]" line="16" column="4" />
+        <mark key="^" line="15" column="24" />
+        <mark key="." line="16" column="4" />
+      </file>
       <file name="$USER_HOME$/project/musicbible/backend-api/src/main/resources/application-local.yml" timestamp="1565355906226">
         <mark key="[" line="11" column="29" />
         <mark key="]" line="12" column="0" />
@@ -183,12 +190,12 @@
         <mark key="^" line="102" column="21" />
         <mark key="." line="102" column="20" />
       </file>
-      <file name="D:/project/ksci/src/main/kotlin/ksci/DataFrame.kt" timestamp="1594102014484">
-        <mark key="'" line="62" column="0" />
-        <mark key="[" line="91" column="9" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
-        <mark key="^" line="62" column="8" />
+      <file name="D:/project/ksci/src/main/kotlin/ksci/DataFrame.kt" timestamp="1594103282085">
+        <mark key="'" line="93" column="0" />
+        <mark key="[" line="83" column="42" />
+        <mark key="]" line="83" column="43" />
+        <mark key="." line="83" column="42" />
+        <mark key="^" line="83" column="43" />
       </file>
       <file name="D:/project/ksci/src/main/kotlin/ksci/DataType.kt" timestamp="1594089752781">
         <mark key="[" line="5" column="8" />
@@ -209,9 +216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="0" filename="D:/project/ksci/src/main/kotlin/ksci/ml/DecisionTree.kt" />
-      <jump line="16" column="0" filename="D:/project/ksci/src/main/kotlin/ksci/ml/DecisionTree.kt" />
-      <jump line="27" column="43" filename="D:/project/ksci/src/main/kotlin/ksci/DataFrame.kt" />
       <jump line="61" column="7" filename="D:/project/ksci/src/main/kotlin/ksci/ml/DecisionTree.kt" />
       <jump line="53" column="0" filename="D:/project/ksci/src/main/kotlin/ksci/DataFrame.kt" />
       <jump line="42" column="38" filename="D:/project/ksci/src/main/kotlin/ksci/DataFrame.kt" />
@@ -301,23 +305,26 @@
       <jump line="75" column="40" filename="D:/project/ksci/src/main/kotlin/ksci/DataFrame.kt" />
       <jump line="0" column="0" filename="D:/project/ksci/src/main/kotlin/ksci/DataFrame.kt" />
       <jump line="1" column="0" filename="D:/project/ksci/src/main/kotlin/ksci/DataFrame.kt" />
-      <jump line="5" column="0" filename="D:/project/ksci/src/main/kotlin/ksci/DataFrame.kt" />
       <jump line="7" column="0" filename="D:/project/ksci/src/main/kotlin/ksci/DataFrame.kt" />
-      <jump line="93" column="0" filename="D:/project/ksci/src/main/kotlin/ksci/DataFrame.kt" />
       <jump line="88" column="0" filename="D:/project/ksci/src/main/kotlin/ksci/DataFrame.kt" />
       <jump line="79" column="0" filename="D:/project/ksci/src/main/kotlin/ksci/DataFrame.kt" />
       <jump line="74" column="0" filename="D:/project/ksci/src/main/kotlin/ksci/DataFrame.kt" />
       <jump line="71" column="0" filename="D:/project/ksci/src/main/kotlin/ksci/DataFrame.kt" />
       <jump line="62" column="0" filename="D:/project/ksci/src/main/kotlin/ksci/DataFrame.kt" />
+      <jump line="99" column="39" filename="D:/project/ksci/src/main/kotlin/ksci/DataFrame.kt" />
+      <jump line="0" column="0" filename="D:/project/ksci/src/main/kotlin/ksci/extension/String.kt" />
+      <jump line="5" column="24" filename="D:/project/ksci/src/main/kotlin/ksci/DataFrame.kt" />
+      <jump line="110" column="63" filename="D:/project/ksci/src/main/kotlin/ksci/DataFrame.kt" />
+      <jump line="93" column="0" filename="D:/project/ksci/src/main/kotlin/ksci/DataFrame.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>.split(',')</text>
       </register>
       <register name="-" type="4">
-        <text>DataType</text>
+        <text>.split(',')</text>
       </register>
       <register name="/" type="4">
         <text>columns</text>
@@ -326,31 +333,31 @@
         <text>EnumDataColumn</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IERhdGFUeXBlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4obGluZSkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKGZyYW1lLmNvbHVtbk5hbWVzKQo=</text>
+        <text encoding="base64">aW1wb3J0IERhdGFUeXBlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKCJmdWNLIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4obGluZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKGZyYW1lLmNvdW50KQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKGZyYW1lLmNvbHVtbk5hbWVzKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKCJmdWNLIikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKGZyYW1lLmNvdW50KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>14</text>

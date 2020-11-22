@@ -3,7 +3,7 @@
     <property name="created">2018-11-02T23:08:09</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2018.2.5.0.0</property>
-    <property name="modified">2020-11-22T11:38:59</property>
+    <property name="modified">2020-11-22T14:01:02</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <colors>
@@ -566,15 +566,15 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="CUSTOM_KEYWORD1_ATTRIBUTES" baseAttributes="" />
+    <option name="CUSTOM_KEYWORD1_ATTRIBUTES" baseAttributes="DEFAULT_KEYWORD" />
     <option name="CUSTOM_KEYWORD4_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="f77669" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="" />
-    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="" />
+    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
+    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="Class">
       <value>
         <option name="FOREGROUND" value="ffcb6b" />
@@ -1365,13 +1365,13 @@
     <option name="KOTLIN_IMPLICIT_EXHAUSTIVE_WHEN">
       <value />
     </option>
-    <option name="KOTLIN_LABEL" baseAttributes="" />
+    <option name="KOTLIN_LABEL" baseAttributes="DEFAULT_LABEL" />
     <option name="KOTLIN_NAMED_ARGUMENT">
       <value>
         <option name="FOREGROUND" value="f78c6c" />
       </value>
     </option>
-    <option name="KOTLIN_PACKAGE_FUNCTION_CALL" baseAttributes="" />
+    <option name="KOTLIN_PACKAGE_FUNCTION_CALL" baseAttributes="DEFAULT_STATIC_METHOD" />
     <option name="KOTLIN_PROPERTY_WITH_BACKING_FIELD">
       <value />
     </option>
@@ -1384,7 +1384,7 @@
     <option name="KOTLIN_SMART_CONSTANT">
       <value />
     </option>
-    <option name="KOTLIN_TYPE_PARAMETER" baseAttributes="" />
+    <option name="KOTLIN_TYPE_PARAMETER" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
     <option name="LABEL">
       <value>
         <option name="FONT_TYPE" value="2" />
@@ -3756,7 +3756,7 @@
         <option name="FOREGROUND" value="ffc251" />
       </value>
     </option>
-    <option name="XML_PROLOGUE" baseAttributes="" />
+    <option name="XML_PROLOGUE" baseAttributes="TEXT" />
     <option name="XML_TAG">
       <value>
         <option name="FOREGROUND" value="89ddff" />
@@ -3774,9 +3774,9 @@
         <option name="FOREGROUND" value="f07178" />
       </value>
     </option>
-    <option name="XPATH.KEYWORD" baseAttributes="" />
-    <option name="XPATH.XPATH_NAME" baseAttributes="" />
-    <option name="XPATH.XPATH_VARIABLE" baseAttributes="" />
+    <option name="XPATH.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="XPATH.XPATH_NAME" baseAttributes="TEXT" />
+    <option name="XPATH.XPATH_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="YAML_SCALAR_KEY">
       <value>
         <option name="FOREGROUND" value="f07178" />

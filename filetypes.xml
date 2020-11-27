@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="IntegrationTest.kt" type="PLAIN_TEXT" />
       <mapping pattern="QuestionBankService.kt" type="PLAIN_TEXT" />
     </extensionMap>
   </component>

@@ -1,7 +1,8 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="factories" type="PLAIN_TEXT" />
       <removed_mapping pattern="IntegrationTest.kt" approved="true" type="Kotlin" />
       <removed_mapping pattern="QuestionBankService.kt" approved="true" type="PLAIN_TEXT" />
     </extensionMap>

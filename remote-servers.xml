@@ -1,0 +1,10 @@
+<application>
+  <component name="RemoteServers">
+    <remote-server name="dev.boostfield.com" type="docker">
+      <configuration>
+        <option name="apiUrl" value="https://139.9.0.85:2375" />
+        <option name="certificatesPath" value="C:\Users\SMY\Certificates\dev.boostfield.com.cert" />
+      </configuration>
+    </remote-server>
+  </component>
+</application>

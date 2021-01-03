@@ -1,10 +1,10 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="Dockerfile" type="AUTO_DETECTED" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="factories" type="PLAIN_TEXT" />
-      <mapping ext="pom" type="XML" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping pattern="IntegrationTest.kt" approved="true" type="Kotlin" />
       <removed_mapping pattern="QuestionBankService.kt" approved="true" type="PLAIN_TEXT" />

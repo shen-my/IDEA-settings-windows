@@ -56,6 +56,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.bnd">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.liferay.ide.intellij.plugin" />
+              <option name="myPluginName" value="Liferay" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.boringignore">
           <value>
             <plugin>
@@ -1381,6 +1389,11 @@
                   <entry key="KotlinStandaloneScriptRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Kotlin script" pluginName="Kotlin" pluginId="org.jetbrains.kotlin" />
+                    </value>
+                  </entry>
+                  <entry key="LiferayServerConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="Liferay Server" pluginName="Liferay" pluginId="com.liferay.ide.intellij.plugin" />
                     </value>
                   </entry>
                   <entry key="MavenRunConfiguration">

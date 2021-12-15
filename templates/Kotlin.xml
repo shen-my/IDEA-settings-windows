@@ -1,5 +1,5 @@
 <templateSet group="Kotlin">
-  <template name="**" value="/**&#10; * @author smy&#10; */" toReformat="false" toShortenFQNames="true">
+  <template name="**" value="/**&#10; * @author smy&#10; */" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_COMMENT" value="true" />
       <option name="KOTLIN" value="true" />

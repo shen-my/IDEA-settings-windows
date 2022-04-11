@@ -1,8 +1,17 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
   <action id="EditorChooseLookupItemDot" />
+  <action id="EditorLookupSelectionDown">
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
+  <action id="EditorLookupSelectionUp">
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl right" />
     <keyboard-shortcut first-keystroke="ctrl period" />
+  </action>
+  <action id="PopupMenu-selectPrevious">
+    <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="ctrl left" />

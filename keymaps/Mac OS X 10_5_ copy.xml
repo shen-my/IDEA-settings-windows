@@ -6,9 +6,13 @@
   <action id="EditorLookupSelectionUp">
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
+  <action id="GotoSymbol" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl right" />
     <keyboard-shortcut first-keystroke="ctrl period" />
+  </action>
+  <action id="OptimizeImports">
+    <keyboard-shortcut first-keystroke="meta alt o" />
   </action>
   <action id="PopupMenu-selectPrevious">
     <keyboard-shortcut first-keystroke="ctrl p" />

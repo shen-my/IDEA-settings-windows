@@ -15,7 +15,15 @@
     <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
   </component>
   <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+    <option name="lastViewedProviderKeyId" value="JavaLens" />
+    <settingsMapElement>
+      <JAVA.JavaLens>
+        <JavaCodeVisionSettings>
+          <option name="showImplementations" value="true" />
+          <option name="showUsages" value="true" />
+        </JavaCodeVisionSettings>
+      </JAVA.JavaLens>
+    </settingsMapElement>
   </component>
   <component name="JetEditorOptions">
     <option name="donTShowConversionDialog" value="true" />

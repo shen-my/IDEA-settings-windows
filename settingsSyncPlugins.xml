@@ -112,7 +112,6 @@
                   <option value="com.intellij.modules.xml" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -125,7 +124,6 @@
                   <option value="com.intellij.modules.xml" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -153,6 +151,7 @@
                   <option value="com.intellij.modules.lang" />
                 </set>
               </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -177,7 +176,6 @@
                   <option value="com.intellij.modules.xml" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -208,6 +206,18 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.intellij.marketplace">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.intellij.plugins.eclipsekeymap">
           <value>
             <PluginData>
@@ -216,6 +226,7 @@
                   <option value="com.intellij.modules.lang" />
                 </set>
               </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -227,6 +238,7 @@
                   <option value="com.intellij.modules.lang" />
                 </set>
               </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -246,11 +258,21 @@
             </PluginData>
           </value>
         </entry>
-        <entry key="com.intellij.searcheverywhere.ml">
+        <entry key="com.intellij.plugins.visualstudiokeymap">
           <value>
             <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
               <option name="enabled" value="false" />
             </PluginData>
+          </value>
+        </entry>
+        <entry key="com.intellij.searcheverywhere.ml">
+          <value>
+            <PluginData />
           </value>
         </entry>
         <entry key="com.intellij.uiDesigner">
@@ -333,6 +355,7 @@
                   <option value="com.intellij.modules.platform" />
                 </set>
               </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -386,6 +409,18 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="intellij.webp">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
         <entry key="mobi.hsz.idea.gitignore">
           <value>
             <PluginData>
@@ -406,7 +441,6 @@
                   <option value="com.intellij.modules.lang" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -445,6 +479,18 @@
                   <option value="org.jetbrains.idea.gradle.dsl" />
                   <option value="org.jetbrains.kotlin" />
                   <option value="org.jetbrains.plugins.gradle" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="org.jetbrains.debugger.streams">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.java" />
                 </set>
               </option>
               <option name="enabled" value="false" />
@@ -577,11 +623,16 @@
             </PluginData>
           </value>
         </entry>
-        <entry key="tanvd.grazi">
+        <entry key="org.toml.lang">
           <value>
             <PluginData>
               <option name="enabled" value="false" />
             </PluginData>
+          </value>
+        </entry>
+        <entry key="tanvd.grazi">
+          <value>
+            <PluginData />
           </value>
         </entry>
         <entry key="training">
